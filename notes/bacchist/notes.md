@@ -18,4 +18,4 @@ I find there is deep resonance between many of the thinkers represented. Whitehe
 
 Particularly as it relates to the discussion of AI consciousness, Ilia Delio should be given more prominence. As a scholar of Teilhard, she is cited in the section addressing him. However, [her own thought](delio.md) is quite intriguing.
 
-Panpsychism has a lot of overlap with various monisms. Comparing Bertrand Russell to Alfred North Whitehead brings out some of the nuances between different systems.
+Panpsychism has a lot of overlap with various monisms. [Comparing Bertrand Russell to Alfred North Whitehead](russell_whitehead.md) brings out some of the nuances of different systems.
