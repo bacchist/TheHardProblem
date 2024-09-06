@@ -4,7 +4,7 @@ We can develop a more precise topology of consciousness theories. A lot of stuff
 
 This is a somewhat extreme position, and it's probably not fair to all the of thinkers presented to assume that they cling too tightly to this.
 
-For example, Christopher Koch (developed the idea of Neural Correlates of Consciousness found in section 9.2.2) is actively grappling with the issue. A [recent discussion](https://youtu.be/qzwC7sXyhWQ?si=9htoR8L_osvaqPmz) he had with Bernardo Kastrup (an analytic idealist philosopher presented in section 16.4) highlights some of the critical issues that he is concerned with.
+For example, Christopher Koch (developed the idea of Neural Correlates of Consciousness found in section 9.2.2) is actively grappling with the issue. A [recent discussion](https://youtu.be/qzwC7sXyhWQ?si=9htoR8L_osvaqPmz) he had with Bernardo Kastrup (an analytic idealist philosopher presented in section 16.4) highlights some of the critical issues that he is concerned with. Koch is prominent throughout the paper, and compares integrated information theory to panpsychism. 
 
 Process theory as represented by Griffin in section 9.7.7 seems out of place. It belongs in closer proximity to Whitehead under panpsychism (in section 13.12). The author makes a puzzling distinction in order to leave it under the umbrella of materialism. I think it obscures things more than anything.
 
@@ -17,3 +17,5 @@ William James' thought on the matter of consciousness and experience are deeper 
 I find there is deep resonance between many of the thinkers represented. Whitehead (13.12) and Teilhard (14.6) can probably be reconciled with each other in meaningful ways.
 
 Particularly as it relates to the discussion of AI consciousness, Ilia Delio should be given more prominence. As a scholar of Teilhard, she is cited in the section addressing him. However, [her own thought](delio.md) is quite intriguing.
+
+Panpsychism has a lot of overlap with various monisms. Comparing Bertrand Russell to Alfred North Whitehead brings out some of the nuances between different systems.
