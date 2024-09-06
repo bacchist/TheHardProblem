@@ -1,4 +1,4 @@
-We can develop a more precise topology of consciousness theories. A lot of stuff got dumped into "materialism" that don't quite fit with the definition given in the paper:
+We can develop a more precise taxonoomy of consciousness theories. A lot of stuff got dumped into "materialism" that don't quite fit with the definition given in the paper:
 
 >Materialism is the claim that consciousness is entirely physical, solely the product of biological brains, and all mental states can be fully “reduced” to, or wholly explained by, physical states—which, at their deepest levels, are the fields and particles of fundamental physics. In short, materialism, in its many forms and flavors, gives a completely physicalist account of phenomenal consciousness."
 
