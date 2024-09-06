@@ -16,4 +16,4 @@ William James' thought on the matter of consciousness and experience are deeper 
 
 I find there is deep resonance between many of the thinkers represented. Whitehead (13.12) and Teilhard (14.6) can probably be reconciled with each other in meaningful ways.
 
-Particularly as it relates to the discussion of AI consciousness, Ilia Delio should be given more prominence. As a scholar of Teilhard, she is cited in the section addressing him. However, her own thought is quite intriguing.
+Particularly as it relates to the discussion of AI consciousness, Ilia Delio should be given more prominence. As a scholar of Teilhard, she is cited in the section addressing him. However, [her own thought](delio.md) is quite intriguing.
