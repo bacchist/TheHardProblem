@@ -21,3 +21,7 @@ Particularly as it relates to the discussion of AI consciousness, Ilia Delio sho
 Panpsychism has a lot of overlap with various monisms. [Comparing Bertrand Russell to Alfred North Whitehead](russell_whitehead.md) brings out some of the nuances of different systems.
 
 Obviously there are outliers and extreme positions, but as I spend more time with the paper, I am struck by just how much common ground there is between various thinkers. Sean Carroll is never going to evolve into an idealist, of course. However, there is a much fuller spectrum of thought than it seemed initially. Most of the ideas are just variations or restatements of adjacent concepts. The ideas don't cluster tightly around distinct and mutually exclusive descriptions. They rub up against and bleed into each other.
+
+Materialism and idealism are both essentially monisms. 
+
+Federico Faggin's "quantum information based panpsychism" is an interesting system. Quantum mechanics describes internality, while classical mechanics describe externality. Consciousness is fundamental, but not a property of matter. I am inclined to classify it as an idealism.
