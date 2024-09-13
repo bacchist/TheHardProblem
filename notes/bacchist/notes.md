@@ -24,4 +24,11 @@ Obviously there are outliers and extreme positions, but as I spend more time wit
 
 Materialism and idealism are both essentially monisms. 
 
-Federico Faggin's "quantum information based panpsychism" is an interesting system. Quantum mechanics describes internality, while classical mechanics describe externality. Consciousness is fundamental, but not a property of matter. I am inclined to classify it as an idealism.
+
+Faggin's "quantum information based panpsycism"
+
+Per wikipedia, Federico Faggin "is best known for designing the first commercial microprocessor, the Intel 4004. He led the 4004 (MCS-4) project and the design group during the first five years of Intel's microprocessor effort. Faggin also created, while working at Fairchild Semiconductor in 1968, the self-aligned MOS (metal-oxide-semiconductor) silicon-gate technology (SGT), which made possible MOS semiconductor memory chips, CCD image sensors, and the microprocessor." And he was also co-founder and CEO of Synaptics, which pioneered trackpad technology.
+
+Federico Faggin's "quantum information based panpsychism" is an interesting system. Quantum mechanics describes internality, while classical mechanics describe externality. Consciousness is fundamental, but not a property of matter. In [his conversation with Kastrup](https://youtu.be/YRIrf7XzEnA?si=nrw__GW6ivT4kXpb) he says that "the phenomonology of experience is the same as the phenomenology of quantum information, so quantum information then, instead of describing the the outer world, the world of physics describes the inner world of experience. This is an unbelievable connection because it changes completely our concept of the world. The world has two aspects. The world is made of information in the sense the quantum world expresses expresses information which is non reproduciblel, therefore knowable only from the inside and the classical information is the information that is sharable like the bits of the computers can be copied, and therefore that information is what the conscious entities need to communicate with each other."
+
+I am inclined to classify Faggin as an idealist, and Bernardo Kastrup seems to concur. He says some of their vocabulary differs, but the essences of their ideas are in alignment.
