@@ -6,4 +6,8 @@
 
 ## Articles
 
-[Hart, David Bentley. "The absurdity of mind as machine." IAI News, 15 May 2023. /articles/the-absurdity-of-mind-as-machine-david-bentley-hart-auid-2479](https://iai.tv/articles/the-absurdity-of-mind-as-machine-david-bentley-hart-auid-2479)
+- [Hart, David Bentley. "The absurdity of mind as machine." IAI News, 15 May 2023. /articles/the-absurdity-of-mind-as-machine-david-bentley-hart-auid-2479](https://iai.tv/articles/the-absurdity-of-mind-as-machine-david-bentley-hart-auid-2479)
+
+## Blog posts
+
+- [Spiritual transformations may help sustain the long-term benefits of psychedelic experiences, study suggests](https://www.psypost.org/spiritual-transformations-may-help-sustain-the-long-term-benefits-of-psychedelic-experiences-study-suggests/) (Specifically, adopting metaphysical idealism)
