@@ -1,0 +1,59 @@
+2024-10-26 02:10:28,461 - DEBUG - Processing Section 193
+2024-10-26 02:10:34,560 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Consciousness explorer Charles Tart proposes "Emergent Inter- actionism" as a dualistic theory of consciousness, based on his long work on altered states of consciousness, transpersonal psychology, and mul- tiple forms of parapsychology (Tart, 1978a, 2007). He calls it "pragmatic dualism," in that it reflects the nature of things and recognizes the need to understand consciousness in terms of two qualitatively different as- pects of reality: a "B system" of brain and body governed by physical law, and a "M/L system" of the mental and life aspects of reality.
+Consciousness, Tart says, is a "system property," an emergent from the auto-psi interaction of the B and M/L systems. Ultimate under- standing of consciousness, then, in addition to conventional neurosci- ence, also requires increasing knowledge of psi/paranormal phenomena.
+Tart claims that the veracity of psi phenomena is a clear-cut scientific demonstration of the inadequacy of a materialistic view of mind and matter. The "psychoneural identity hypothesis," he says, is so widely accepted in science and so thoroughly discredited by ESP and para- psychology (Tart, 1978a).
+Tart's extraordinary hypothesis is that psi is being used much of the time in everyone's life, but it is being used internally. This means, he offers, we frequently use auto-clairvoyance to read our own B system and auto-psychokinesis to affect our B systems. This is ordinary psi, auto-psi. What we observe in parapsychological experiments, however, is non-ordinary psi, which is taking a process ordinarily confined within a single organism and pushing it outside, making it "allo-psi" (Tart, 1978a, personal communication).
+The Emergent Interactionist position allows for kinds of potential survival beyond bodily death, Tart speculates, but it would not neces- sarily be the kind of postmortem survival we usually conceive of. Our usual imagery of survival means survival of the basic pattern of our consciousness, our experience of our mental life, our feelings of personal identity. But if consciousness, as Tart proposes, is an emergent of the auto-psi interactions of the B and the M/L systems, an emergent of
+constant patterning of each system upon the other, then if the B system ceases functioning in death, the patterning influence of the B system upon the M/L system will cease, so how is ordinary consciousness, as we know it, to survive? What is the emergent to emerge from?
+One answer, according to Tartand not the pleasant answer people would likemay be that personal identity, which is so intimately intertwined with ordinary consciousness, does not survive death, at least not for very long, and in any event it would likely be quite different from the original person (Tart, 1978a).
+Moreover, Tart stresses, psi phenomena radicalize even further the nonphysical dimension of dualism by showing how consciousness re- veals or enables space and time to be flexible and mobile. He proposes that an extended aspect of the mind, which is activated when psi abilities are used, has two properties that differ from our ordinary consciousness. The first is that psi-engaged consciousness is not spatially or temporally localized with respect to ordinary spatial and temporal constraints on the physical body/brain, and so somehow can pick up information at spatial locations outside the sensory range of the body/brain (Tart, 1978b).
+The second property of psi-engaged consciousness is that the center point of its experienced present can be located at a different temporal location than the center point of the experienced present of ordinary consciousness. That is, it may be centered around a time that, by ordi- nary standards, is past or future. Furthermore, the duration of this extended dimension of the mind's experienced present is wider than that of our ordinarily experienced present, such that the mind may include portions of time that, from our ordinary point of view, are both past and future as well as present (Tart, 1978a).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:10:34,561 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Emergent Interactionism",
+    "description": "A dualistic theory of consciousness proposed by Charles Tart, which posits that consciousness is an emergent property arising from the interaction between a physical 'B system' (brain and body) and a mental 'M/L system' (mental and life aspects). It suggests that understanding consciousness requires knowledge of both neuroscience and psi phenomena, and it challenges materialistic views of mind and matter.",
+    "categories": ["Dualism", "Parapsychology", "Transpersonal Psychology"]
+  }
+}
+```
+2024-10-26 02:10:34,561 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Charles Tart",
+    "biography": "Charles Tart is a psychologist and parapsychologist known for his work on altered states of consciousness and transpersonal psychology. He is a prominent figure in the study of consciousness and has proposed the theory of Emergent Interactionism, which explores the relationship between physical and mental aspects of reality."
+  }
+}
+```
+2024-10-26 02:10:34,562 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Tart, C. (1978a). The End of Materialism: A New Perspective on the Mind-Body Problem. In Altered States of Consciousness (pp. 123-145). New York: Wiley.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Emergent Interactionism"
+    },
+    {
+      "citation": "Tart, C. (2007). The Psychology of Consciousness. New York: HarperCollins.",
+      "material_type": "Book",
+      "associated_theory_name": "Emergent Interactionism"
+    },
+    {
+      "citation": "Tart, C. (1978b). Psi and the Nature of Consciousness. Journal of Parapsychology, 42(3), 215-230.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Emergent Interactionism"
+    }
+  ]
+}
+```

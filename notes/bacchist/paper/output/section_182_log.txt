@@ -1,0 +1,61 @@
+2024-10-26 02:09:30,186 - DEBUG - Processing Section 182
+2024-10-26 02:09:34,615 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Idealism works well as an explanation of creature consciousness, provided, of course, that one accepts its foundational premise that consciousness, and consciousness alone, is fundamental reality. One challenge for idealism is coming to consider what seems to be an odd, perhaps outlandish, idea so alien to our life experiences: If all is con- sciousness, how does the physical world come about?
+The claim is made that quantum theory, which, unlike classical physics, assigns (in some interpretations) a fundamental role to the act of observation, can bridge the explanatory gap between idealism as foundational reality and the physical world as empirically apparent. Can quantum theory, as its adherents believe, open the door "to a profoundly new vision of the cosmos, where observer, observed, and the act of observation are interlocked," thus hinting "at a science of wholeness, going beyond the purely physical emphasis of current science?" Ad- herents look to developments in the intersection of quantum theory, biology, neuroscience and the philosophy of mind. Non-local in- teractions of the quantum universe are cited as evidence of the inter- connectedness of everything, supporting the idea that "consciousness and matter are not fundamentally distinct, but rather are two comple- mentary aspects of one reality, embracing the micro and macro worlds," ultimately founded on consciousness as the ultimate reality (Kafatos
+There are elaborate theories that claim to explain how consciousness, once assumed to be fundamental in nature and reality, generates or interacts with matter and energy and interfaces with the brain. In one version, developed by computer science professional Mahendra Samarawickrama, consciousness governs causation and creates energy and matter. The interplay of consciousness, matter and energy
+underpins what we experience and observe in reality (Consciousness Studies, Australia, 2024). Consciousness itself is "a high-speed sequen- tial process that leads to awareness" (notwithstanding the brain's massive parallel-processing capability). "Like time, consciousness is also subjected to relativity. When the observer is moving, both time and consciousness dilate." Further, "the electromagnetic energy of con- sciousness follows quantum principles and wave-particle duality .... This interplay of consciousness with matter and energy makes consciousness and reality interrelate and follows determinism, realism, and physi- calism" (Samarawickrama, 2023).
+No surprise that none of this is taken seriously by a large majority of quantum physicists (Rovelli, 2022) (11.16).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Samarawickrama, 2023)', '(Rovelli, 2022)']
+
+    Filtered References:
+    human brain. PLoS Comput. Biol. 16 (6), e1007923 https://doi.org/10.1371/
+journal.pcbi.1007923, 2020 Jun 1.
+Samarawickrama, Mahendra, 2023. Unifying matter, energy and consciousness. 11th Int.
+Conf. Mathematic. Model. Phys. Sci. AIP Conf. Proc. 2872 https://doi.org/10.1063/
+5.0162815, 110001-1–110001-5.
+
+informed by neuroimaging research with psychedelic drugs. Front. Hum. Neurosci.
+8—2014 https://doi.org/10.3389/fnhum.2014.00020, 03 February 2014.
+Carlo Rovelli, 2020. On what We Can Learn from the octopus Mind. BBC Science Focus.
+https://www.sciencefocus.com/nature/carlo-rovelli-on-what-we-can-learn-from-th
+e-octopus-mind.
+
+    
+2024-10-26 02:09:34,615 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Consciousness as Fundamental Reality",
+    "description": "A theory suggesting that consciousness is the fundamental reality from which the physical world emerges, with quantum theory providing a bridge between consciousness and the observable universe. It posits that consciousness governs causation and interacts with matter and energy, leading to our experiences of reality.",
+    "categories": ["Idealism", "Quantum Theory", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:09:34,615 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Mahendra Samarawickrama",
+    "biography": "Mahendra Samarawickrama is a computer science professional known for his work on the interplay of consciousness, matter, and energy, proposing that consciousness governs causation and creates energy and matter."
+  }
+}
+```
+2024-10-26 02:09:34,615 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Samarawickrama, Mahendra, 2023. Unifying matter, energy and consciousness. 11th Int. Conf. Mathematic. Model. Phys. Sci. AIP Conf. Proc. 2872 https://doi.org/10.1063/5.0162815, 110001-1–110001-5.",
+      "material_type": "Conference Proceedings",
+      "associated_theory_name": "Consciousness as Fundamental Reality"
+    },
+    {
+      "citation": "Rovelli, Carlo, 2020. On what We Can Learn from the octopus Mind. BBC Science Focus. https://www.sciencefocus.com/nature/carlo-rovelli-on-what-we-can-learn-from-the-octopus-mind.",
+      "material_type": "Online Article",
+      "associated_theory_name": "Consciousness as Fundamental Reality"
+    }
+  ]
+}
+```

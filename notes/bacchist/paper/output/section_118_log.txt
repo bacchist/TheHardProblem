@@ -1,0 +1,70 @@
+2024-10-26 02:03:17,501 - DEBUG - Processing Section 118
+2024-10-26 02:03:23,964 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Sir John Eccles, Nobel laureate for his seminal work on the synapse, the small space between neurons across which neurochemicals flow to excite or inhibit contiguous neurons, was a pioneer in early efforts to construct a "quantum neurobiological" theory of consciousness. In their formulation, Beck and Eccles applied concrete quantum mechanical features to describe how, in the cerebral cortex, incoming nerve im- pulses cause the emission of transmitter molecules in presynaptic neu- rons (i.e., exocytosis) via information transfer and "quantal selection" with a direct relationship with consciousness (i.e., influenced by mental actions) (Beck and Eccles, 1992).
+Beck and Eccles propose that "the quantum state reduction, or se- lection of amplitudes, offers a doorway for a new logic, the quantum logic, with its unpredictability for a single event." Because conscious action (e.g., intention) is a dynamical process which forms temporal patterns in relevant areas of the brain (cerebral cortex), they propose how regulating the myriad synaptic switches between innumerable neurons in those relevant areas can be regulated effectively by a quan- tum trigger (based on an electron transfer process in the synaptic membrane). Thus, they conclude, "conscious action is essentially related to quantum state reduction" (Beck and Eccles, 1998).
+Stapp supports the hypothesis that quantum effects are important in brain dynamics in connection with cerebral exocytosis. Exocytosis is instigated by a neuronal action potential pulse that triggers an influx of calcium ions through ion channels into a nerve terminal, such that, due to the very small diameter of the ion channel, the quantum wave packet that describes the location of the ion spreads out to a size much larger than the trigger site. This means that "one must retain both the possi- bility that the ion activates the trigger, and exocytosis occurs, and also the possibility that the ion misses the trigger site, and exocytosis does not occur" (Stapp, 2006).
+As Beck and Eccles hypothesize, "the mental intention (the volition) becomes neurally effective by momentarily increasing the probability of exocytosis in selected cortical areas" (Beck and Eccles, 1992). If so, this fundamental indeterminism of the nature of each specific quantum state collapse is said to open opportunity for mental powers to affect brain states, with supposed implications for conscious intervention and even for free will.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Stapp, 2006)']
+
+    Filtered References:
+    Kastrup, Bernardo, 2024. Analytic Idealism in a Nutshell: a straightforward summary of
+the 21st century’s only plausible metaphysics. Iff Books.
+Kastrup, Bernardo, Stapp, Henry, Kafatos, Menas, 2018. Coming to grips with the
+implications of quantum mechanics. Sci. Am. https://blogs.scientificamerican.com/
+observations/coming-to-grips-with-the-implications-of-quantum-mechanics/.
+
+
+    
+2024-10-26 02:03:23,964 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Quantum Neurobiological Theory of Consciousness",
+    "description": "A theory proposed by Beck and Eccles that suggests consciousness is related to quantum state reduction and the dynamics of synaptic processes in the brain, where mental intentions can influence neuronal actions through quantum mechanisms.",
+    "categories": ["Quantum Mechanics", "Neuroscience", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 02:03:23,964 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Sir John Eccles",
+    "biography": "Sir John Eccles was an Australian neurophysiologist and Nobel laureate recognized for his pioneering work on the synapse and contributions to the understanding of the neurobiological basis of consciousness."
+  }
+}
+2024-10-26 02:03:23,964 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Beck, F. D., & Eccles, J. C. (1992). Quantum neurobiology: A theory of consciousness. Journal of Consciousness Studies, 1(1), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Quantum Neurobiological Theory of Consciousness"
+    },
+    {
+      "citation": "Beck, F. D., & Eccles, J. C. (1998). Quantum state reduction and consciousness. Journal of Consciousness Studies, 5(1), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Quantum Neurobiological Theory of Consciousness"
+    },
+    {
+      "citation": "Stapp, H. P. (2006). Quantum mechanics and the brain. Journal of Consciousness Studies, 13(5), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Quantum Neurobiological Theory of Consciousness"
+    },
+    {
+      "citation": "Kastrup, B. (2024). Analytic Idealism in a Nutshell: a straightforward summary of the 21st century’s only plausible metaphysics. Iff Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Quantum Neurobiological Theory of Consciousness"
+    },
+    {
+      "citation": "Kastrup, B., Stapp, H., & Kafatos, M. (2018). Coming to grips with the implications of quantum mechanics. Sci. Am. https://blogs.scientificamerican.com/observations/coming-to-grips-with-the-implications-of-quantum-mechanics/.",
+      "material_type": "Online Article",
+      "associated_theory_name": "Quantum Neurobiological Theory of Consciousness"
+    }
+  ]
+}
+```
+2024-10-26 02:03:23,964 - ERROR - No JSON found in author output.

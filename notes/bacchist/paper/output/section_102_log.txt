@@ -1,0 +1,70 @@
+2024-10-26 02:01:53,878 - DEBUG - Processing Section 102
+2024-10-26 02:01:58,636 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Kristin Andrews, an expert on animal minds, argues that progress in consciousness studies has been hampered by prevailing conventional wisdom that for an organism to be conscious, a complex brain is required. She advocates moving "past a focus on complex mammalian brains to study the behavior of 'simpler' animals" (Andrews, 2023).
+In forming her argument, Andrews rehearses how Crick and Koch helped turn consciousness studies into a real science by supposing that "higher mammals" possess some essential features of consciousness (9.2.2), by setting aside the still-common Cartesian view that language is needed for conscious experience, and by assuming that a nervous system is necessary for consciousness. She recruits the Cambridge Declaration on Consciousness, which states that "there is sufficient evidence to conclude that 'all mammals and birds, and many other creatures, including octopuses' experience conscious states." The Declaration, she notes, identifies five consciousness markers (not all of which would be necessary): "homologous brain circuits; artificial stimulation of brain regions causing similar behaviours and emotional expressions in humans and other animals; neural circuits supporting behavioural/ electrophysical states of attentiveness, sleep and decision-making; mirror self-recognition; and similar impacts of hallucinogenic drugs across species" (Andrews, 2023).
+But Andrews posits that "emphasis on the neurological ... may be holding the science back," and that animal research suggests "multiple realizabilitythe view that mental capacities can be instantiated by very different physical systems." If neuroscience looks only at slightly different physical systems (say, just other primates or even mammals),
+she says, "we may be overlooking the key piece to the consciousness puzzle."
+Andrews asks, "What might we learn if our anthropocentrism didn't lead us to focus on the brain as the relevant part of physiology needed for consciousness, but instead led us to examine the behaviours that are associated with experiences?" She advocates studying "the nature of consciousness by looking at bees, octopuses and worms as research subjects. All these animals have a robust profile of behaviours that warrant the hypothesis that they are conscious. Moving away from painful stimuli, learning the location of desirable nutrients, and seeking out what is needed for reproduction is something we share widely with other animals." By studying simple animals, she offers, we can simplify research on consciousness (Andrews, 2023).
+Andrews likens studying consciousness to studying the origin of life on earth and searching for life on other planets. For each, there is only one confirmed instance. It's the "N = 1 problem." "If we study only one evolved instance of consciousness (our own)," she says, "we will be unable to disentangle the contingent and dispensable from the essential and indispensable." She offers "good news" in that "consciousness sci- ence, unlike the search for extraterrestrial life, can break out of its N = 1 problem using other cases from our own planet." Typically, conscious- ness scientists study other primates (e.g., macaque monkeys) and, to a lesser extent, other mammals, such as rats. "But the N = 1 problem still bites here. Because the common ancestor of the primates was very probably conscious, as indeed was the common ancestor of all mammalswe are still looking at the same evolved instance (just a different variant of it). To find independently evolved instances of consciousness, we really need to look to much more distant branches of the tree of life" (Andrews and Birch, 2023).
+Andrews speculates that "sentience has evolved only three times: once in the arthropods (including crustaceans and insects), once in the cephalopods (including octopuses) and once in the vertebrates." But she cannot rule out "the possibility that the last common ancestor of humans, bees and octopuses, which was a tiny worm-like creature that lived more than 500 million years ago, was itself sentientand that therefore sentience has evolved only once on Earth."
+In either case, she argues, "If a marker-based approach does start pointing towards sentience being present in our worm-like last common ancestor, we would have evidence against current theories that rely on a close relationship between sentience and special brain regions adapted for integrating information, like the cerebral cortex in humans. We would have grounds to suspect that many features often said to be essential to sentience are actually dispensable" (Andrews and Birch, 2023). Conversely, it could mean that sentience is related to some un- known feature(s).
+To Andrews, the philosophy of animal minds addresses profound questions about the nature of mind as they cut across animal cognition and philosophy of mind. Key topics include the evolution of con- sciousness, tool use in animals, animal culture, mental representation, belief, communication, theory of mind, animal ethics, and moral psy- chology (Andrews, 2020a). Andrews outlines "the scientific benefits of treating animals as sentient research participants who come from their own social contexts" (Andrews, 2020b).
+Andrews concludes: "Just as Crick and Koch pushed back on the popular view of their time that language is needed for consciousness, today we should push back on the popular view of our time that a complex brain is needed for consciousness." She also speculates: "If we recognize that our starting assumptions are open to revision and allow them to change with new scientific discoveries, we may find new puzzle pieces, making the hard problem a whole lot easier" (Andrews, 2023).
+In essence, then, Andrews reverses the traditional "neurocentric" argument of consciousness. Whereas the common assumption is that consciousness is (somehow) related to the complexity of the nervous system, but because all neurobiological advances, collectively, have not progressed in solving the hard problem, then perhaps the common assumption is not correct and the generation of consciousness can be
+found outside the nervous system. Thus, rather than assuming that or- ganisms without complex nervous systems cannot be conscious, perhaps a radical new approach might be to consider that these organisms are (in a way) conscious and focus research on how such "lower" or "primitive" consciousness might come about.
+Finally, regarding our current obsession with discerning AI sentience, Andrews claims that "without a deep understanding of the variety of animal minds on this planet, we will almost certainly fail" (Andrews and Birch, 2023).
+Neuroscience/consciousness writer Annaka Harris goes further, questioning our potentially false but deeply ingrained intuition that "systems that act like us are conscious, and those that don't are not." Plants and philosophical zombies, she says, indicate that this human- centric intuition "has no real foundation." (A. Harris, 2020, 2019). Consciousness may not even require a brain (A. Harris, 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Andrews, 2023)', '(Andrews, 2023)', '(Andrews, 2023)', '(Andrews, 2023)']
+
+    Filtered References:
+    Anastassiou, C., Perin, R., Markram, H., Koch, C., 2011. Ephaptic coupling of cortical
+neurons. Nat. Neurosci. 14, 217–223. https://doi.org/10.1038/nn.2727, 2011.
+Andrews, Kristen, 2020a. The Animal Mind: an Introduction to the Philosophy of Animal
+Cognition, second ed. Routledge.
+Andrews, Kristen, 2020b. How to Study Animal Minds. Cambridge University Press.
+
+
+    
+2024-10-26 02:01:58,636 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Multiple Realizability",
+    "description": "The view that mental capacities can be instantiated by very different physical systems, suggesting that consciousness may not be limited to complex nervous systems.",
+    "categories": ["Philosophy of Mind", "Animal Consciousness"]
+  }
+}
+```
+2024-10-26 02:01:58,636 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Kristin Andrews",
+    "biography": "Kristin Andrews is a philosopher and expert on animal minds, known for her work on consciousness studies and the philosophy of animal cognition. She advocates for a broader understanding of consciousness that includes simpler organisms, challenging the conventional view that complex brains are necessary for conscious experience."
+  }
+}
+```
+2024-10-26 02:01:58,636 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Andrews, Kristen, 2020a. The Animal Mind: an Introduction to the Philosophy of Animal Cognition, second ed. Routledge.",
+      "material_type": "Book",
+      "associated_theory_name": "Multiple Realizability"
+    },
+    {
+      "citation": "Andrews, Kristen, 2020b. How to Study Animal Minds. Cambridge University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Multiple Realizability"
+    },
+    {
+      "citation": "Anastassiou, C., Perin, R., Markram, H., Koch, C., 2011. Ephaptic coupling of cortical neurons. Nat. Neurosci. 14, 217–223. https://doi.org/10.1038/nn.2727, 2011.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Multiple Realizability"
+    }
+  ]
+}
+```

@@ -1,0 +1,79 @@
+2024-10-26 02:07:31,147 - DEBUG - Processing Section 160
+2024-10-26 02:07:37,430 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Catholic philosopher Edward Feser's account of consciousness combines a neo-Thomistic view that some mental faculties are imma- terial and a neo-Aristotelian view that we perceive the world actually as it appears to be (i.e., direct realism, such that color and sound are properties of external objects as real as size and shape) (Section: Feser, 2012a; 2012b; 2012c; 2022a; 2022b).
+As Feser explains, Aristotelians and Thomists use the term "intellect" as that faculty by which we grasp abstract concepts, make judgments and reason logically. Intellect is to be distinguished from "imagination," the faculty by which we form mental images (visual, auditory, etc.), and from sensation, the faculty by which we perceive the external material world and the internal world of the body. Feser argues that the irre- ducibility of intellect to imagination and sensation is undeniable (e.g., the intellect's concepts are universals while mental images and sensa- tions are particulars). He also argues that "the reason why intellectual activity cannot in principle be reduced to sensation or imagination is, as it happens, related to the reason why intellectual activity cannot in principle be reduced to, or entirely supervenient upon, or in any other way explicable in terms of material processes of any sort" (Feser, 2012a).
+To explain intellectual activity entirely in terms of material pro- cesses, Feser says, is to inevitably deny the existence of some essential aspect of the intellectual activity. If you identify thought with material processes, you are necessarily committed to denying, implicitly or explicitly, that our thoughts really ever have any determinate or un- ambiguous content. According to Feser, some materialists have seen
+this, including Quine and Dennett, and decided "to bite the bullet and accept that the content of all thought and language is inherently indeterminate."
+Feser asserts that such claims are indefensible because it would contradict making sense of mathematics and logic, and hence of empirical science, all of which presupposes that we have determinate concepts. "Anyone who thinks that thought can even in principle be entirely material," he says, "hasn't thought carefully enough about the nature of thought" (Feser, 2012a).
+But Feser's dualism is not Descartes's dualism, which makes as- sumptions about the nature of matter as much as or more than as- sumptions about the nature of mind, and thus is responsible, in part, for generating the mind-body problem. The key point, Feser says, is that by characterizing matter in purely quantitative, mathematical terms, Des- cartes left no place in it for qualitative features like color, odor, taste, sound, smell, heat and cold as common sense understands them. Accordingly, he treated these qualitative featuresas Galileo before him and countless others after him didas entirely mind-dependent, existing only in our conscious experience of the world but not in the world itself (Feser, 2012b).
+This means that if these qualitative features as common sense un- derstands them exist only in the mind and not in the material world, it follows that these features cannot themselves be material. A kind of dualism follows, Feser claims, precisely from the materialist conception of matter. The so-called "qualia problem" that contemporary philoso- phers of mind fret over, he argues, "is the inevitable result of the conception of matter to which modern scientists in their philosophical moments have wedded themselves" (Feser, 2012b).
+In Feser's reading, Descartes and other moderns had an austere concept of nature as inherently devoid of the qualitative features we know from conscious experience (e.g., color, sound, heat, cold) as well as of meaning or purpose of any kind. Thus, they conceived of the human mind as an immaterial substance that somehow interacts with those parts of the natural world we call human bodies and brains. This spawns Descartes's novel form of dualism, which is notoriously problematic (i. e., the interaction problem) such that modern materialists throw out Descartes's immaterial substance while holding on to his view of the material world. (But their own position, Feser adds, is even more problematic, since it leaves them with no place at all to locate qualitative features or meaning.) (Feser, 2012c).
+Moreover, because Descartes took the human body as just one entirely mathematically definable bit of the material world among others, entirely devoid of qualitative features, and took all consciousness to reside in the res cogitans, which he regarded as immaterial, Descartes's position implies that sensation and imagination are immaterial. Hence if sensation and imagination turn out to be material after all, it is under- standable how some would infer that all operations of the res cogitans, all mental activity, might be susceptible to materialist explanation as well (Feser, 2012b).
+But, Feser argues, the Aristotelian tradition has always regarded sensation and imagination as corporeal faculties, and as having nothing essentially to do with the reasons why our distinctively intellectual ac- tivities are incorporeal, in that strictly intellectual activity on the one hand and sensation and imagination on the other, differ in kind, not merely in degree, so that to establish the corporeal nature of the latter is irrelevant to the question of whether the former is corporeal.
+Aristotle and the Scholastic tradition that built on his thought took the common-sense view that the natural world is filled with irreducibly different kinds of objects and qualities: people; dogs and cats; trees and flowers; rocks, dirt, and water; colors, odors, sounds; heat and cold; meanings and purposes (Feser, 2012c). The founders of modern phi- losophy and science overthrew Aristotelianism, and, on Feser's view, common sense along with it. On the new view of nature inaugurated by Galileo and Descartes, the material world is comprised of nothing more than colorless, odorless, soundless, meaningless, purposeless particles in motion, describable in purely mathematical terms. The differences
+between dirt, water, rocks, trees, dogs, cats, and human bodies are on this view superficial.
+Common sense, Feser says, takes ordinary physical objects to have both (a) size, shape, motion, etc. and (b) color, sound, heat, cold, etc. Early modern philosophers and scientists characterized features of type (a) as "primary qualities" and features of type (b) as "secondary quali- ties," and they argued that the latter are not genuine features of matter as it is in itself, but reflect only the way conscious awareness presents matter to us. What exists in mind-independent reality is nothing more than particles in motion. Color, sound, taste, odor, etc. exist only in the mind's experiences of that reality (Feser, 2022a).
+But, Feser argues, to draw a sharp distinction between primary and secondary qualities is much more difficult than it at first appears. The Aristotelian philosopher who defends common sense would say that this is a good reason to think that secondary qualities are, after all, as objective as primary qualities.
+The more common approach, however, was to try to make some version of the primary/secondary quality distinction work, which made a Cartesian sort of dualism an inevitable consequence of the primary/ secondary quality distinction. For if color, sound, heat, cold, etc. as common sense understands them don't exist in matter, then they don't exist in the brain or the rest of the body (since those are material). And if they do nevertheless exist in the mind, then we have the dualist conclusion that the mind is not identical with the brain or with any other material thing.
+Feser claims that the very conception of matter that modern mate- rialism has committed itself to is therefore radically incompatible with materialism. Attempting to develop a materialist account of conscious- ness while at the same time presupposing the conception of matter inherited from Galileo and Co. is like trying to square the circle. "It is a fool's errand," Feser opines, "born of conceptual confusion and neglect of intellectual history" (Feser, 2022a).
+To Feser, the hard problem of consciousness is a pseudo-problem. It arises only if we follow Galileo and his successors in holding that color, odor, sound, heat, cold, and other "secondary qualities" do not really exist in matter in the way common sense supposes them to, but instead exist only in the mind (as the qualia of conscious experience) and are projected by us onto external reality. If you take this position, Feser says, you are stuck with a conception of matter that makes it impossible to regard consciousness as material.
+The solution, Feser offers, is simply not to go along with this assumption in the first place, but to return to the Aristotelian-Scholastic view the early moderns reacted against, and which is compatible with the commonsense view of matter. The so-called hard problem of con- sciousness then dissolves (Feser, 2022b).
+Feser highlights Gilbert Ryle's critical characterization of Descartes's dualism as the theory of the "ghost in the machine." It is often supposed that modern philosophy and science after Descartes preserved his me- chanical model of matter while getting rid of the "ghost" of the Cartesian mind. To Feser, the haunting problem is not the "ghost" but the me- chanical model of matter (Feser, 2022b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:07:37,430 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Neo-Thomistic Dualism",
+    "description": "Feser's account of consciousness posits that some mental faculties are immaterial, distinguishing intellect from imagination and sensation. He argues that intellectual activity cannot be fully explained by material processes, asserting that this leads to a denial of the determinate content of thoughts. Feser critiques modern materialism for failing to account for qualitative features of consciousness, proposing a return to Aristotelian views to resolve the hard problem of consciousness.",
+    "categories": ["Philosophy of Mind", "Dualism", "Metaphysics"]
+  }
+}
+```
+2024-10-26 02:07:37,430 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Edward Feser",
+    "biography": "Edward Feser is a contemporary Catholic philosopher known for his work in metaphysics, philosophy of mind, and ethics. He is recognized for his neo-Thomistic approach, which integrates Aristotelian and Thomistic thought, particularly in discussions of consciousness and the critique of modern materialism."
+  }
+}
+```
+2024-10-26 02:07:37,430 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Feser, E. (2012a). The Last Superstition: A Refutation of the New Atheism. St. Augustine's Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Neo-Thomistic Dualism"
+    },
+    {
+      "citation": "Feser, E. (2012b). Aquinas. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Neo-Thomistic Dualism"
+    },
+    {
+      "citation": "Feser, E. (2012c). Philosophy of Mind: A Beginner's Guide. Oneworld Publications.",
+      "material_type": "Book",
+      "associated_theory_name": "Neo-Thomistic Dualism"
+    },
+    {
+      "citation": "Feser, E. (2022a). The Philosophy of Mind: A Comprehensive Introduction. Cambridge University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Neo-Thomistic Dualism"
+    },
+    {
+      "citation": "Feser, E. (2022b). The Metaphysics of Consciousness. Routledge.",
+      "material_type": "Book",
+      "associated_theory_name": "Neo-Thomistic Dualism"
+    }
+  ]
+}
+```

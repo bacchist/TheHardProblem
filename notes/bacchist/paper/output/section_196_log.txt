@@ -1,0 +1,35 @@
+2024-10-26 02:10:47,186 - DEBUG - Processing Section 196
+2024-10-26 02:10:48,742 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: 
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:10:48,742 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "",
+    "description": "",
+    "categories": []
+  }
+}
+```
+2024-10-26 02:10:48,742 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "",
+    "biography": ""
+  }
+}
+```
+2024-10-26 02:10:48,742 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```

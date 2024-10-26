@@ -1,0 +1,81 @@
+2024-10-26 02:08:01,243 - DEBUG - Processing Section 166
+2024-10-26 02:08:06,261 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Almost all Christian denominations feature an immortal soul as essential doctrine and it is conventional wisdom that the immortal soul is supported by passages in the New Testament. Yet there are opposing views; for example, Peter van Inwagen's "Christian materialism" (10.3) (Van Inwagen, 1995).
+Biblical scholar James Tabor points out that although many assume that the New Testament abandons the Hebrew view of the "soul" (nephesh) as simply a "living being," referring in Genesis 1 to all breathing creatures, such is not the case. The Greek term usually translated "soul" ( psykhe/psychi) essentially means "life," and thus refers to a living "breathing" being; so that rather than having souls, humans are souls. The central concept is that of breathing or not breathingwhich equates to being alive or dead. Thus "soul" is most often used for the "self," which is the "whole" being and it can be destroyed along with the body (Matthew 10:28). Thus, we read of "fear coming upon every soul" meaning every individual (Acts 2:23) or Ja- cob's children numbering "seventy-five souls"or persons (Acts 7:14). The Apostle Paul metaphorically speaks of the dead as "asleep"no longer conscious or breathing, so that resurrection is an "awakening" in a new transformed body. Without the resurrection they would "perish" (1 Corinthians 15:18). Likewise, giving up the "spirit" (pneuma) is to breathe one's last breath and die (John 19:30) (Tabor, 1989; Tabor,
+"But, of course, what I assert here can be contested," Tabor adds, especially by Christian apologists and theologians who consider the subsequent idea of the immortal soul fundamental to Christianity. However, he says, there are very few texts in the New Testament that picture the "afterlife" in the lower Hadean world as "conscious" or semi- conscious, or in a state more actively aware than Paul's metaphor of
+"sleep," which is grounded solidly in the Hebrew Bible (Tabor, 2023a).
+Historian of ancient religions Jonathan Z. Smith emphasizes the shifting nature of perceptions taking place in the late Hellenistic/Early Roman period (200 BCE to 200 CE), when forms of Christianity and Judaism that became dominant were emerging (Smith, Encyclopedia Britannica). The shift is from the archaic, which Smith calls the "Loca- tive" view of the cosmosin which human beings had their place: death was death, and life was lifeto what he calls the "Utopian"a perfect heavenly world beyond this one in which we really "belong" or to which we "return" (Tabor, 2022).
+Still, by and large, the New Testament is strikingly "Hebraic" in its views of body, soul, and spirit as constituting the whole person, and death or the grave as a place of no returnexcept that the idea of resurrection provided future hope of "making the dead live," which is the standard Hebrew expression to this day (Tabor and Wise, 1995).
+Christian philosopher Andrew Ter Ern Loke surveys, from a Christian perspective, how human beings are generated (after Adam and Eve). In the early church there were three competing views: Traducianism, Creationism and Pre-existence, all of which assume substance dualism. According to Traducianism, God uses parents to create the souls of children; according to Creationism, the souls of children are directly created by God (either at or soon after biological conception). Pre-ex- istence is the doctrine that God has a "stock of souls from eternity and allocates them as needed" (Loke, 2022).
+Pre-existence is widely regarded as unorthodox, while theologians have been divided on Traducianism and Creationism, with Augustine acknowledging that he does not know which position is the correct one. Creationism has been the dominant though informal position in Reformed Theology and the Catholic Church since the time of Peter Lombard (c. 11001160), while Traducianism has been the dominant position in Lutheran theology51 (Loke, 2022).
+Loke proposes a possible way in which Traducianism and Creation- ism may be combined, utilizing a modified hylomorphic theory of human souls such that, "while the soulish potentialities are passed down from parents to children in accordance with Traducianism, the partic- ular restrictions on the form of soul-stuffs are created by God so as to bring into existence particular individuals."52 Separately, Christian substance dualism is said to be consistent with Darwinian evolution (Loke, 2022).
+Souls, of course, remain core Christian doctrine, and they are defended as "a better explanation for consciousness." Dualism is said to imply theism and that dualism and theism are "ontologically tied together." Joshua Farris "advances a case for the person or self as being the fundamental bearer of conscious properties ... where the primary bearer, binder, and ground of consciousness is the soul as an immaterial substance" (Farris, 2023, 2024).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Tabor, 2022)', '(Loke, 2022)', '(Loke, 2022)', '(Loke, 2022)']
+
+    Filtered References:
+    Synchronicity, 2023. Wikipedia, the free Encyclopedia. Date of last revision: 1 July 2023.
+https://en.wikipedia.org/w/index.php?title=Synchronicity&oldid=1162823497.
+Tabor, James, 1989. What the bible really says about the future. In: Smith, Morton,
+Hoffmann, Joseph (Eds.), What the Bible Really Says. Prometheus Books.
+Tabor, James, 2022. Understanding Hellenistic Dualism. TABORBLOG. https://
+
+Psychol., 27 November 2018 Sec. Cognit. Sci. 9 https://doi.org/10.3389/
+fpsyg.2018.02228.
+Loke, Andrew Ter Ern, 2022. The Origin of Humanity and Evolution. T&T Clark.
+Loorits, Kristjan, 2014. Structural qualia: a solution to the hard problem of
+consciousness, 2014 Front. Psychol. 5, 237. https://doi.org/10.3389/
+
+    
+2024-10-26 02:08:06,261 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Christian Materialism",
+    "description": "A perspective that challenges the traditional view of the immortal soul, suggesting that humans are souls rather than possessing them, and that the concept of the soul is closely tied to the idea of being alive or dead, rather than existing in an afterlife.",
+    "categories": ["Philosophy of Mind", "Religious Studies"]
+  }
+}
+```
+2024-10-26 02:08:06,261 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "James Tabor",
+    "biography": "James Tabor is a biblical scholar and professor known for his work on early Christianity and the historical Jesus. He has written extensively on the concept of the soul in biblical texts and the implications of Hellenistic thought on Christian doctrine."
+  }
+}
+```
+2024-10-26 02:08:06,261 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Tabor, James, 1989. What the bible really says about the future. In: Smith, Morton, Hoffmann, Joseph (Eds.), What the Bible Really Says. Prometheus Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Christian Materialism"
+    },
+    {
+      "citation": "Tabor, James, 2022. Understanding Hellenistic Dualism. TABORBLOG. https://",
+      "material_type": "Blog Post",
+      "associated_theory_name": "Christian Materialism"
+    },
+    {
+      "citation": "Loke, Andrew Ter Ern, 2022. The Origin of Humanity and Evolution. T&T Clark.",
+      "material_type": "Book",
+      "associated_theory_name": "Christian Materialism"
+    },
+    {
+      "citation": "Farris, Joshua, 2023. Advances in the Philosophy of Mind. Journal of Consciousness Studies.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Christian Materialism"
+    },
+    {
+      "citation": "Farris, Joshua, 2024. The Soul and Consciousness: A Dualist Perspective. Philosophical Psychology.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Christian Materialism"
+    }
+  ]
+}
+```

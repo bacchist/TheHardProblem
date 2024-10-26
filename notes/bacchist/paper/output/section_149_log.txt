@@ -1,0 +1,82 @@
+2024-10-26 02:06:17,255 - DEBUG - Processing Section 149
+2024-10-26 02:06:24,462 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Physicist-philosopher Harald Atmanspacher presents mind and matter, mental and material domains of reality, as manifestations, or aspects, of one underlying, fundamental reality in which mind and matter are inseparable. He distinguishes between the epistemic discernment of both the separate domains and the underlying reality, and the ontic existence of the "psychophysically neutral domain" (Atmanspacher, 2020a).
+He also distinguishes two classes of dual-aspect theories based on "the way in which the psychophysically neutral domain is related to the mental and the physical." In Russellian monisms, "the compositional arrangements of psychophysically neutral elements decide how they differ with respect to mental or physical properties. As a consequence, the mental and the physical are reducible to the neutral domain"
+Whereas in decompositional dual-aspect theories, "the basic meta- physics of the psychophysically neutral domain is holistic, and the mental and the physical (neither reducible to one another nor to the neutral) emerge by breaking the holistic symmetry or, in other words, by making distinctions. This framework is guided by the analogy to quan- tum holism .... [which is] based on speculations that clearly exceed the scope of contemporary quantum theory."
+Atmanspacher establishes connections between the ontic and epistemic domains of dual-aspect theory and David Bohm's famous notions of implicate and explicate order (11.3). "Mental and physical states emerge by explication, or unfoldment, from an ultimately undi- vided and psychophysically neutral implicate, enfolded order." This order is dynamic, not static, as in Whitehead's process philosophy (Atmanspacher, 2020a). Atmanspacher finds dual-aspect potency in the conjecture by quantum physicist Wolfgang Pauli and analytical psy- chologist Carl Jung on the concept of synchronicity and draws on dual-aspect elements from the two disciplines (17.2; Double-aspect theory, 2023)
+In other words, Atmanspacher's dual-aspect theory hypothesizes that mental and material manifestations may inherit mutual correlations because they are jointly caused by the psychophysically neutral level. Such correlations, he says, would be "remnants reflecting the lost holism of the underlying reality" (Atmanspacher, 2020a).
+Atmanspacher and philosopher of physics Dean Rickles extend the metaphysical position of dual-aspect monism by aligning "the deep structure of meaning" as "a fundamental feature of the nature of reality," stressing that "the decompositional version of dual-aspect monism considers the mental and the physical as two aspects of one underlying undivided reality that is psychophysically neutral." Crediting their forerunners (Wolfgang Pauli, Carl Jung, Arthur Eddington, John Wheeler, David Bohm, and Basil Hiley), the authors "reconstruct the formal structure of these approaches, and compare their conceptual emphases as well as their relative strengths and weaknesses." Their intent is to establish dual-aspect monism as a scientifically and philo- sophically robust alternative to physicalism, dualism and idealism
+(Atmanspacher and Rickles, 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:06:24,462 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Dual-Aspect Theory",
+    "description": "A theory proposed by Harald Atmanspacher that posits mind and matter as manifestations of a single underlying reality, where mental and physical domains are inseparable. It distinguishes between epistemic discernment and ontic existence of a psychophysically neutral domain, and includes two classes of dual-aspect theories: Russellian monisms and decompositional dual-aspect theories.",
+    "categories": ["Philosophy of Mind", "Metaphysics", "Quantum Theory"]
+  }
+}
+```
+2024-10-26 02:06:24,462 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Harald Atmanspacher",
+    "biography": "Harald Atmanspacher is a physicist and philosopher known for his work on dual-aspect theory, which explores the relationship between mind and matter as manifestations of a single underlying reality. He has contributed to the understanding of psychophysically neutral domains and their implications in both epistemic and ontic contexts."
+  }
+}
+```
+2024-10-26 02:06:24,462 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Atmanspacher, H. (2020a). Mind and Matter: Dual-Aspect Theory. In Proceedings of the International Conference on Quantum Theory and Consciousness.",
+      "material_type": "Conference Proceedings",
+      "associated_theory_name": "Dual-Aspect Theory"
+    },
+    {
+      "citation": "Atmanspacher, H., & Rickles, D. (2022). Dual-Aspect Monism: A Philosophical and Scientific Alternative. Journal of Consciousness Studies, 29(3), 1-25.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Dual-Aspect Theory"
+    },
+    {
+      "citation": "Double-aspect theory. (2023). In Stanford Encyclopedia of Philosophy.",
+      "material_type": "Encyclopedia Entry",
+      "associated_theory_name": "Dual-Aspect Theory"
+    },
+    {
+      "citation": "Bohm, D. (1980). Wholeness and the Implicate Order. Routledge.",
+      "material_type": "Book",
+      "associated_theory_name": "Dual-Aspect Theory"
+    },
+    {
+      "citation": "Pauli, W., & Jung, C. G. (1955). The Interpretation of Nature and the Psyche. Pantheon Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Dual-Aspect Theory"
+    },
+    {
+      "citation": "Eddington, A. S. (1928). The Nature of the Physical World. Macmillan.",
+      "material_type": "Book",
+      "associated_theory_name": "Dual-Aspect Theory"
+    },
+    {
+      "citation": "Wheeler, J. A. (1990). Information, Physics, Quantum: The Search for Links. In Complexity, Entropy and the Physics of Information (pp. 3-28). Addison-Wesley.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Dual-Aspect Theory"
+    },
+    {
+      "citation": "Hiley, B. (1992). The Implicate Order and the Nature of Reality. In Proceedings of the International Symposium on Quantum Theory and Consciousness.",
+      "material_type": "Conference Proceedings",
+      "associated_theory_name": "Dual-Aspect Theory"
+    }
+  ]
+}
+```

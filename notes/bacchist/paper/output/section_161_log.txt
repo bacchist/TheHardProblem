@@ -1,0 +1,66 @@
+2024-10-26 02:07:37,430 - DEBUG - Processing Section 161
+2024-10-26 02:07:42,059 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Christian philosopher J.P. Moreland defines a robust "generic sub- stance dualism" as the view according to which "(i) there is a substantial soul (self, ego, I, substantial form) that is wholly immaterial; (ii) the soul is not identical to its physical body; and (iii) the soul is that which grounds personal identity for human persons" (Moreland, 2023). He defends a Thomistic-like dualism, taking the body to be an ensouled, spatially extended, physical structure, and the soul to be a substantial, unified reality that informs (gives form to) its body, animates it and makes it human. Thus, a body requires a soul to be a body, and this is why a body is of value. A body without a soul in it is just a corpse. In contrast to a body, a corpse is of little intrinsic value (Moreland, 2014).
+Similarly, a soul requires a body to be fully realized; for a soul to have
+a body is its natural state. By analogy, the soul is to the body like God is to spaceit is fully "present" at each point within the body. Breaking the analogy, Moreland's soul and body relate to each other in an informing and cause-effect way (Moreland, 2014).
+Moreland argues that the unity of consciousness cannot be explained if a person is a brain, because a brain is just an aggregate of different physical (separable) parts. He accepts constituent realism regarding properties (and relations), according to which properties (and relations) are universals that, when exemplified (they need not exist), become constituents of the ordinary particulars that have them. Moreover, he asserts that whereas a physicalist may claim a unified awareness of one's visual field consists of combining several different physical parts of the brain each terminating a different wavelength, each of which is aware of only part (not the whole) of the complex view, "this cannot account for the single, unitary awareness of the entire visual field" (Moreland, 2018).
+Offering "a comprehensive defense of contemporary substance dualism," Christian philosophers Brandon Rickabaugh and J.P. More- land present arguments that they claim support substance dualism and defeat those that deny it. These include: introspection, self-awareness and intentionality; the fundamental unity of conscious beings (e.g., mereological essentialism and the diachronic endurance of the soul); and updated arguments from modality and libertarian freedom (e.g., problems of causal interaction, neuroscientific objections, and causal closure of the physical) (Rickabaugh and Moreland, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Moreland, 2023)', '(Moreland, 2014)', '(Moreland, 2014)', '(Moreland, 2018)']
+
+    Filtered References:
+    Montero, Barbara, 2012. Physicalism. Review of physicalism by Daniel stoljar. Notre dame
+philosophical review. https://ndpr.nd.edu/reviews/physicalism/.
+Moreland, J.P., 2014. The Soul: How We Know It’s Real and Why it Matters. Moody
+Press.
+Moreland, J.P., 2018. In defense of a thomistic-like dualism. In: Menuge, Angus,
+
+
+    
+2024-10-26 02:07:42,059 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Substance Dualism",
+    "description": "A philosophical view that posits the existence of a substantial, immaterial soul that is distinct from the physical body, which grounds personal identity and is necessary for the realization of consciousness.",
+    "categories": ["Philosophy of Mind", "Metaphysics"]
+  }
+}
+```
+2024-10-26 02:07:42,059 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "J.P. Moreland",
+    "biography": "J.P. Moreland is a Christian philosopher and theologian known for his work in philosophy of mind, particularly substance dualism, and for his defense of the existence of the soul as a distinct immaterial entity that grounds personal identity."
+  }
+}
+```
+2024-10-26 02:07:42,059 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Moreland, J.P., 2023. A robust generic substance dualism. In: [Details of the publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Substance Dualism"
+    },
+    {
+      "citation": "Moreland, J.P., 2014. The Soul: How We Know It’s Real and Why it Matters. Moody Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Substance Dualism"
+    },
+    {
+      "citation": "Moreland, J.P., 2018. In defense of a thomistic-like dualism. In: Menuge, Angus, [Details of the publication].",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Substance Dualism"
+    },
+    {
+      "citation": "Rickabaugh, Brandon, and Moreland, J.P., 2023. A comprehensive defense of contemporary substance dualism. [Details of the publication].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Substance Dualism"
+    }
+  ]
+}
+```

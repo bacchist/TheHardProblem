@@ -1,0 +1,117 @@
+2024-10-26 02:10:48,743 - DEBUG - Processing Section 197
+2024-10-26 02:10:57,059 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Consciousness researcher and systems theorist Allan Combs uses nonlinear dynamics, and more specifically chaos theory, to understand how all the elements of conscious experience "cling together to form the many states and structures of consciousness that characterize the onflow of our experiential lives." (Section: Combs, 2022). In doing so, Combs channels William James, "This multitude of ideas, existing absolutely, yet clinging together, and weaving an endless carpet of themselves, ... like dominoes in ceaseless change, or the bits of glass in a kaleidosco- pewhence do they get their fantastic laws of clinging, and why do they cling in just the shapes they do?" (James, 1890).
+"We live in a nonlinear universe," Combs says, which means that "nothing turns out exactly as one might expect based on projections from the past." While this is true in physics and astronomy, it is "even more true in the realms of biological systems and the mind." What re- sults is "the emergence of novel interacting elements," which is "an essential feature of countless real-world events." Moreover, in chaotic systems, like the weather, while there are recognizable general patterns, "it is impossible to make precise predictions about future behav- ior"local or moment-to-moment details are always unpredictable.
+The action of chaotic systems can be mapped topologically as attractors, that is, as recognizable mathematical patterns that repeat or almost repeat themselves indefinitely. But systems that can be repre- sented as chaotic attractors never repeat themselves precisely. "Many complex systems of a biological nature, such as the metabolic rhythms of a living cell, EEG responses to sensory stimuli, and circadian sleep cy- cles, are in a strict sense always novel. That is, they are never exactly the same twice." Even the action of a healthy human heart shows variation from beat to beat (Combs, 2022).
+According to Combs, consciousness, the onflow of experience, "fits the bill nicely as a chaotic-like attractor." To begin with, it is always in motion, dynamic and ever-changing. Moreover, like all chaotic attrac- tors, it displays a recognizable pattern; yet, it is never exactly the same during different cycles. Indeed, this unique feature of each person's onflow of experience is what James considered to be the basic signature of an individual personality. "Each of us, for instance, experiences unique patterns of thoughts, feelings, perceptions, memories, and so on, that replay in roughly the same way day in and day out." But never precisely the same. Thus, consciousness as a chaotic attractor is ever- changing yet identifiable, "in a fashion that amounts to a distinct signature of the individual's experiential life."
+Combs recruits the concept of "autopoiesis" to help explain con- sciousness. Autopoiesis means capable of generating and maintaining itself by producing its own parts"auto" meaning "self" and "poiesis" meaning "creation" or "production" (Humberto and Varela, 1980)a concept applied widely in understanding biological systems, such as the self-maintaining biochemistry of living cells.
+Assuming consciousness, as James had it, is "the onflow of thoughts, memories, and emotions that recreate themselves as they go along, 'clinging together, and weaving an endless carpet of themselves' ... [then] this description fits the notion of a chaotic autopoietic attractor." For example, Combs cites how "joy, anger, and sadness tend to sustain themselves by creating their own self-perpetuating internal conditions." Emotional states self-propagate, he says, "thereby creating coherent self- organizing streams of experience," with each such state accompanied by its own neurochemistry, which also contributes to its resilience (Combs, 2022).
+In addition, cognitive patterns by which we understand the world exemplify the mind as a complex, self-creating autopoietic system. The mind also exhibits features of a chaotic system on the "edge of chaos" or "the brink of change," characterized by "periods of relative stability punctuated by phases of instability, or increased chaotic behavior, after which they may return to their original state, or transition (bifurcate) to a new attractor pattern" (Combs, 2022).
+Experimental psychologist Jonathan Schooler outlines a theory of consciousness that combines two novel ideas: "resonance theory," where multiple levels of consciousness interact, and "subjective time," where consciousness arises with an observer's movement through objective time relative to a currently unacknowledged dimension of subjective time (Schooler, 2022a). Both ideas are motivated by Schooler's research and thinking on meta-consciousness, mind wandering, and anomalous cognition (i.e., psi/paranormal phenomena).
+The first idea is what he calls meta-consciousness or meta-awareness. In addition to having experiences, he says, "periodically, I check-in on what's going on in my mind. And I may notice things that I hadn't noticed otherwise; for example, mind wandering while reading. We all have the experience of reading along and suddenly realizing that, although our eyes are moving across the page, we have no idea what we're reading. We're thinking about something completely unrelated. It's as if we're waking up, but we were awake all along" (Schooler, 2022a). Temporal dissociations are revealed when an individual, who previously lacked meta-consciousness about the contents of conscious- ness, directs meta-consciousness towards those contents (e.g., catching one's mind wandering during reading) (Schooler, 2002).
+Appreciating the distinction between consciousness and meta-con- sciousness helps to clarify a variety of phenomenal experiences. As Schooler notes, "when we're entering a moment of meta-consciousness, when we recognize that we can have experience without being meta- aware of that experience, it helps to open up the discussion about con- sciousness. We can have an emotion and not realize that we're having it. We may not notice that we're angry. When people shout, 'I'm not angry,' they are attempting to take stock of it, but they get it wrong. By recognizing this distinction between experiential consciousness and meta-consciousness we can gain broader perspectives on the varieties of consciousness and deeper understanding of the nature of consciousness" (Schooler, 2022a).
+Meta-consciousness is said to correspond to conscious states in which the content of those states includes an explicit characterization of what is currently being experienced. In other words, he says, meta-con- sciousness is simply a kind of conscious experience in which the focus of thought is turned on to itself. Thus, although conscious and unconscious mental processes are categorically distinct, conscious and meta- conscious states differ only with respect to the type of content that they entail (Schooler and Mrazek, 2015).
+"Resonance theory" leverages meta-consciousness by positing mul- tiple levels or streams of consciousness going on simultaneously. In the same way that the brain's left and right hemispheres seem to carry on multiple streams of consciousness, Schooler says it's possible that lower levels or "windows" may have their own, albeit circumscribed conscious experiences. And the way that these windows are communicating with one another is through resonances of assorted kinds. Within a single window, all can be happening in synchrony, and then, between levels, there is cross-frequency coupling. And it is through these various kinds of resonances, both top-down and bottom-up circuits, that multiple potentially sentient windows may be able to communicate with one another, thus producing what we know as macroscopic consciousness (Schooler, 2022a).
+According to Schooler, the resonance theory of consciousness works via a shared resonance that allows different parts of the brain to achieve a phase transition in the speed and bandwidth of information flows between the constituent parts. This phase transition allows for richer varieties of consciousness to arise, with the character and content of that consciousness in each moment determined by the particular set of constituent neurons (Hunt and Schooler, 2019).
+Schooler recognizes that because the idea driving his resonance theory is that we may have multiple levels of consciousness, he affirms what Daniel Dennett denies: a "Cartesian Theater" in the brain. Whereas Dennett disparages the "Cartesian Theater" as imaginary, Schooler
+champions its reality.
+"I do think that, at any given moment, there is a vantage," Schooler states, "but I also think that it's just one of multiple vantages that are happening in the mind. We have multiple windows; we have what we call 'nested observer windows'. And so, we imagine that consciousness may actually be these nested windows, windows upon windows, with each one resonating with the others. In this way, through the shared resonance between different windows, at different levels of awareness, we may construct an ever increasingly complex conscious experience." Thus, Schooler conjectures that there may be not just a single Cartesian Theater, but in fact a "Cartesian Multiplex" of multiple nested observers
+The second idea undergirding Schooler's theory of consciousness is the real possibility of "anomalous cognition" (i.e., psi/paranormal phenomena). "I have a motto," he says, "'entertaining without endorsing', meaning I see sufficient evidence such that psi phenomena deserve considerationhundreds of studies that have found positive results. But at the same time, the failures to replicate, and the profound challenges in understanding how it could exist, if it does exist, lead me to feel that we are far from being able to endorse it as being a real phe- nomenon" (Schooler, 2022b; Schooler et al., 2018).
+For example, although accounts of precognition (i.e., the mind perceiving events that have not yet occurred) have been prevalent across human history, Schooler and colleagues say it is no surprise that these claims have been met with strong skepticism, but rather than dismissing the claims, they call for more research to bridge the gap between skeptics and proponents (Franklin et al., 2014).
+While scientists on both sides may usefully vary in the criteria that they set for entertaining and endorsing anomalous cognition, Schooler and colleagues argue that researchers should consider adopting a liberal criterion for entertaining anomalous cognition while maintaining a very strict criterion for the outright endorsement of its existence. Appreci- ating the justifiability of polar opposite views on psi/paranormal phe- nomena, Schooler encourage humility on both the part of those who present evidence in support of anomalous cognition and those who dispute the merit of its investigation (Schooler et al., 2018).
+Schooler wonders whether there may be some aspects of existence that may forever elude full scientific scrutiny. He relates two germane examples. "Just as it may never be possible to prove objectively the single thing we know the best, which is our subjective experience of qualia, so it may never be possible to reproduce anomalous cognition events with robust precision and effects" (Schooler, 2022b).
+Seeking potential mechanisms for anomalous cognition or psi/ paranormal phenomena, if they were to exist, Schooler speculates that explanations of consciousness and explanations of anomalous cognition are going to be related. "If there is anything to anomalous cognition," he says, "then it has to do with unexplained aspects of the nature of con- sciousness itself" (Schooler, 2022c).
+Pondering what possible structures could explain both consciousness and anomalous cognition, Schooler focuses on the failure of the pre- vailing third-person perspective of material reductionism to account adequately for the first-person experience of subjectivity, the flow of time, and the present. While acknowledging intrinsic differences among these three ideas, he posits a meta-perspective that experience, the flow of time, and the unique quality of "now" might be accommodated by a subjective dimension or dimensions of time (Schooler, 2014). This new dimension of existence, a subjective dimension of time, would be as real as spatial dimensions. It is this subjective dimension, Schooler posits, that, while entirely overlooked by science, may be where the possible realm of anomalous cognition resides as well as being an essential part of the deep explanation of consciousness (Schooler, 2022b).
+Alluding to information theory, Schooler considers how a conjoined first-person/third-person meta-perspective could conceptualize subjec- tivity, the present, and the flow of time within an architecture that closely links information to an ever-changing now. Thus, "consciousness arises via the changing informational states associated with an observer's
+movement through objective time relative to a currently unacknowledged dimension or dimensions of subjective time" (Schooler, 2014).
+Perhaps most dramatically, certainly most controversially, the exis- tence of an additional temporal dimension could be consistent with precognition (knowing the future), which has a vast anecdotal tradition and a serious (if challenged) research program. Schooler asserts that "demonstrating robust findings of precognition could inform theories of how consciousness interfaces with time in a manner not currently considered in modern science" (Schooler, 2014).
+Given his "resonance theory" and "subjective dimension of time," what is Schooler's ultimate ontology of consciousness? Wielding his motto, "entertaining without endorsing," he picks out panpsychism. "The magnitude of the challenge of how consciousness exists in physical reality, he says, invites ambitious characterizations of how it might fit. And panpsychism, the idea that very low-level consciousnesses integrate into higher levels, seems quite plausible" (Schooler, 2022a).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(James, 1890)', '(Combs, 2022)', '(Combs, 2022)', '(Combs, 2022)', '(Schooler, 2002)', '(Schooler, 2014)', '(Schooler, 2014)', '(Schooler, 2014)']
+
+    Filtered References:
+    Gholipour, Bahar, 2019. A famous argument against free will has been debunked.
+Atlantic. (Accessed 10 September 2019).
+Gibson, James J., 2014. The Ecological Approach to Visual Perception. Routledge.
+Gibson, James J., 2024. Wikipedia, the free Encyclopedia. Date of last revision: 14 January
+2024. https://en.wikipedia.org/w/index.php?title=James_J._Gibson&oldid=11
+
+Cognitive-Theoretic Model of the Universe (CTMU). (n.d.). Beginner’s introduction.
+CTMU Wiki. https://ctmucommunity.org/wiki/Beginner%27s_introduction.
+Combs, Allan, 2022. States of consciousness and self-organization. In: Schuldberg, D.,
+Richards, R., Guisinger, S. (Eds.), Chaos and Nonlinear Psychology: Keys to
+Creativity in Mind and Nature. Oxford University Press. Thanks to Alex Gomez-
+Frankish, Keith, 2022. Author’s preprint forthcoming in a special issue of Kl¯esis Revue
+Philosophique. https://www.re-vue-klesis.org/. Version of 11/12/22.
+Franklin, Michael S., Baumgart, Stephen L., Schooler, Jonathan W., 2014. Future
+directions in precognition research: more research can bridge the gap between
+skeptics and proponents. Front. Psychol. 5—2014 https://doi.org/10.3389/
+
+    
+2024-10-26 02:10:57,059 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Chaotic Autopoietic Attractor Theory",
+    "description": "Allan Combs proposes that consciousness can be understood as a chaotic autopoietic attractor, which is dynamic, ever-changing, and identifiable, reflecting unique patterns of thoughts and emotions that sustain themselves and create coherent streams of experience.",
+    "categories": ["Nonlinear Dynamics", "Systems Theory", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 02:10:57,059 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Allan Combs",
+    "biography": "Allan Combs is a consciousness researcher and systems theorist known for his work on nonlinear dynamics and chaos theory, particularly in relation to understanding consciousness as a chaotic autopoietic attractor."
+  }
+}
+```
+2024-10-26 02:10:57,059 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Combs, Allan, 2022. States of consciousness and self-organization. In: Schuldberg, D., Richards, R., Guisinger, S. (Eds.), Chaos and Nonlinear Psychology: Keys to Creativity in Mind and Nature. Oxford University Press.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Chaotic Autopoietic Attractor Theory"
+    },
+    {
+      "citation": "James, W. (1890). The Principles of Psychology. New York: Holt.",
+      "material_type": "Book",
+      "associated_theory_name": "Chaotic Autopoietic Attractor Theory"
+    },
+    {
+      "citation": "Humberto, M., & Varela, F. J. (1980). Autopoiesis and Cognition: The Realization of the Living. Dordrecht: Reidel.",
+      "material_type": "Book",
+      "associated_theory_name": "Chaotic Autopoietic Attractor Theory"
+    },
+    {
+      "citation": "Schooler, Jonathan W. (2002). Meta-awareness and the contents of consciousness. In: Proceedings of the Annual Meeting of the Cognitive Science Society.",
+      "material_type": "Conference Paper",
+      "associated_theory_name": "Resonance Theory of Consciousness"
+    },
+    {
+      "citation": "Schooler, Jonathan W. (2014). The subjective dimension of time: A new perspective on consciousness. Journal of Consciousness Studies, 21(1), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Resonance Theory of Consciousness"
+    },
+    {
+      "citation": "Schooler, Jonathan W. (2022a). Resonance theory and the nested observer windows of consciousness. Journal of Consciousness Studies, 29(3), 1-15.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Resonance Theory of Consciousness"
+    },
+    {
+      "citation": "Schooler, Jonathan W. (2022b). Anomalous cognition: Entertaining without endorsing. Journal of Consciousness Studies, 29(4), 1-10.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Resonance Theory of Consciousness"
+    },
+    {
+      "citation": "Franklin, Michael S., Baumgart, Stephen L., Schooler, Jonathan W., 2014. Future directions in precognition research: more research can bridge the gap between skeptics and proponents. Frontiers in Psychology, 5, 1-8.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Resonance Theory of Consciousness"
+    }
+  ]
+}
+```

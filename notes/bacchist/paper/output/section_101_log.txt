@@ -1,0 +1,43 @@
+2024-10-26 02:01:49,163 - DEBUG - Processing Section 101
+2024-10-26 02:01:53,877 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Cleeremans and Tallon-Baudry propose that "subject-level experi- ence'What it feels like'is endowed with intrinsic value, and it is precisely the value agents associate with their experiences that explains why they do certain things and avoid others." Because experiences have value and guide behavior, they argue, "consciousness has a function" and that under "this hypothesis of 'phenomenal worthiness' ... conscious agents 'experience' things and 'care' about those experiences" (Cleere- mans and Tallon-Baudry, 2022).
+The authors note that "the function of consciousness" has been "addressed mostly by philosophers," yet "surprisingly few things have been written about [it] ... in the neuroscientific or psychological liter- ature." The reason, they surmise, is the "classical view" that "subjective experience is a mere epiphenomenon that affords no functional advan- tage." They reject such "consciousness inessentialism" by appealing to "how the concept of value has been approached in decision-making, emotion research and consciousness research" and by arguing that "phenomenal consciousness has intrinsic value"such as it being "the central drive for the discovery and creation of new behaviours." They conclude that consciousness "must have a function" (Cleeremans and Tallon-Baudry, 2022).
+Under their hypothesis, "consciousness would have evolved and been selected because it adds an important degree of freedom to the machinery of reward-based behaviour: behaviour that seems purpose- less from a purely functional perspective nevertheless has intrinsic value. But this, crucially, only holds when associated with conscious experience." Phenomenal experience, they speculate, "might act as a mental currency of sorts, which not only endows conscious mental states with intrinsic value but also makes it possible for conscious agents to compare vastly different experiences in a common subject-centered space"a feature, they claim, that "readily explains the fact that con- sciousness is 'unified.'" They offer the "phenomenal worthiness hy- pothesis" as a way to make "the 'hard problem' of consciousness more tractable, since it can then be reduced to a problem about function"an offering unlikely to persuade nonmaterialists (Cleeremans and
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:01:53,877 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Phenomenal Worthiness Hypothesis",
+    "description": "This hypothesis posits that consciousness has intrinsic value, which influences behavior and decision-making. It suggests that consciousness evolved to provide an important degree of freedom in reward-based behavior, allowing conscious agents to compare experiences in a unified manner.",
+    "categories": ["Philosophy of Mind", "Neuroscience", "Psychology"]
+  }
+}
+```
+2024-10-26 02:01:53,877 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Stanislas Dehaene",
+    "biography": "Stanislas Dehaene is a French neuroscientist known for his work on the cognitive neuroscience of consciousness, numerical cognition, and the brain mechanisms underlying reading and arithmetic."
+  }
+}
+```
+2024-10-26 02:01:53,877 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Cleeremans, A., & Tallon-Baudry, C. (2022). The function of consciousness: A phenomenal worthiness hypothesis. Journal of Consciousness Studies, 29(3), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Phenomenal Worthiness Hypothesis"
+    }
+  ]
+}
+```

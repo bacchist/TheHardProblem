@@ -1,0 +1,86 @@
+2024-10-26 02:06:47,563 - DEBUG - Processing Section 154
+2024-10-26 02:06:51,826 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher John Leslie suggests that ethical requirements, when not overruled by stronger ethical requirements, are creatively effective. The cosmos they create is a collection of infinitely many minds, each infinite mind eternally conscious of all that's worth contemplating. Our universe is a structure inside one such mind, its reality consisting simply in its being contemplated. (Infinitely many finer universes might join our universe in that mind's consciousness, but it does at least deserve its place there.) (Leslie, 2001).
+How, though, would one's own consciousness fit into this scenario? Well, each infinite mind is "a single existent" in this sense, that its in- gredients stand to it somewhat as a ruby's shape and its redness stand to the ruby; they couldn't exist independently, any more than could the particles in the Bose-Einstein condensates described by quantum phys- ics. But despite how all the parts of each universe which any such mind contemplated would existremember, solely through entering into that mind's contemplationssome of those parts could each have con- sciousness of its own. They could be conscious brains, or conscious computers. Being inside the existential unity of that mind wouldn't make these know that it was there that they existed, or what other things existed there. Conscious, when it contemplated us, of every quark and electron of your brain and mine, that mind could leave us in ignorance even of each other's existence (Leslie, 2001).
+Similarly, our lives from birth to death could be eternally present to that mind's awareness whereas we could only guess what would fill our next few hours. Still, one's consciousness might itself be existentially unified at any given moment, perhaps thanks to quantum-physical processes. This could explain how the entirety of a painting, for instance, can be known in a single glance. Brains without regions that featured quantum computations, computers which weren't quantum computers, might be incapable of such knowledge.
+Leslie concludes, "Innumerable further things worth contemplating would exist inside each infinite mind, many of them quite unlike our universe and its living beings. Examples could be utterly lifeless uni- verses; universes very unlike ours in their physical laws, or obeying no laws at all; countless things of interest or of beauty, each not forming part of any universe" (Leslie, 2001).
+15. Dualisms
+Dualism is the theory of consciousness that requires two radically distinct parts: a physical brain, obviously, but also in addition, a sepa- rate, nonphysical substance that is not only independent of the brain but also not of the physical world (as presently conceived). This would mean that reality consists of (at least) two ontological categoriesphysical and nonphysical, whether substances, properties, aspects, dimensions or planes of existence. Dualism is often called "substance dualism," to distinguish it from "property dualism," which is ontologically different (15.1). In general usage, "dualism" means substance dualism.
+For dualism to be true, what follows must be that the physical world,
+at its most fundamental level of fields and forces, is not in some way causally closed, and that mental properties play a causal role in affecting the physical world. This perspective, often called interactionism, provides that physical states cause phenomenal states, and phenomenal states cause physical states, and whatever psychophysical laws there may be will operate in both directions (Chalmers, 2003; 15.8).
+Common forms of dualism identify the essence of the person with a nonphysical "soul," generally an immortal soul. This kind of "soul- centered dualism" is also the theory of consciousness most widely believed by the vast majority of the world's population, largely implicitly via acculturation to belief systems, whether organized reli- gion or folk traditions. Dualism (substance dualism), certainly, is the default doctrine in the Abrahamic religions of Judaism, Christianity and Islam.
+Dualism is largely rejected by philosophers, at least by most pro- fessional philosophers in the West48 (PhilPapers Survey, 2009, 2020). Dualism has fallen out of philosophical favor for at least four reasons. (i) No Interactions: given the scientific understanding that the physical world is a causally closed system in that every event has a prior, phys- ically efficient cause, how could anything outside such a closed system affect it? (Goff, 2020). (ii) Not Parsimonious: two kinds of world stuffs seem excessively complex; Occam's razor cuts unnecessary entities in explanations. (iii) No Knowledge: souls are slippery; how to know anything about how they work? (iv) Fading Divine Creator: With God less prominent in academia, there seems one less way to create or allocate souls.
+In trying to characterize souls (assuming for a moment that souls do exist), we ask questions. Are all souls exactly the same, as all electrons in the electron quantum field are the same? Are souls undifferentiated (everyone gets the same "starter kit"), or specially tailored to each in- dividual? Are souls created by God? Or are souls the inevitable, auto- matic product of a set of deep psychophysical laws; in other words, given specific, complex structures of atoms, do souls pop into existence? Or are souls always existing, part of a cosmic consciousnessjourneying, reincarnating, transitioning, transforming, reincarnating ....?
+Notably, because consciousness, under dualism, would require both a non-physical substance and a physical brain (somehow working together), it is conceivable, following the death of the body and the dissolution of the brain, that this nonphysical substance by itself could maintain some kind of existence, conscious or otherwise. (Although this nonphysical substance is traditionally called a "soul"a term laden with theological burdensa soul is not the only kind of thing, or form, that such a nonphysical substance could be.)
+Philosopher Dean Zimmerman reviews "a spectrum of dualisms," resulting from different meanings of "nonphysical". Are souls simple, with no parts, or composite, with internal components (whether fixed or flexible)? To pose an extreme, could souls be abstract objects, outside of space and time, necessary existents? Most dualists would have souls as concrete, nonphysical objects. Some would even have souls extended in space, sharing the same special coordinate system as bodies (Zimmer- man, 2005).
+David Bentley Hart welcomes confrontation by claiming that most early modern scientists were better able to understand the mind-body problem than are many in the sciences today. The 17th century solution to the seeming irreconcilability of mind and matter was "to adopt a casual and contented dualism, allowing the mental and the physical each its own discrete autonomous sphere: nature, not being teleological or intentional in any way, is nothing like mind; mind, not being
+composite, purposeless, and impersonal, is nothing like nature." The two can somehow interact, probably, Hart suggests, through the sheer power of God, but "neither is reducible or even qualitatively similar to the other." Hart recognizes the inherent problems in describing "any kind of coherent ontological, causal, or epistemological continuity between the two spheres"Hart himself is a monist (14.11)"it [dualism] was no- where near so magnificent a disaster as the later, materialistically monistic attempts to reduce mental events to mechanical [processes] have so far proved" (Hart, 2019a, 2021a).
+To Galen Strawson, "Dualists who postulate two distinct substances while holding that they interact causally not only face the old and seemingly insuperable problem of how to give an honest account of this interaction. They also face the (even more difficult) problem of justi- fying the claim that there are two substances." To think that dualism has anything in its favor, Strawson asserts, "is simply to reveal that one thinks one knows more about the nature of things than one doesand it has Occam's razor (that blunt, sharp instrument) against it" (Strawson, 2008). The dualism theories that follow in this section challenge this denial.
+Jaron Lanier says, "You've got two choices. Either you know everything [about consciousness], or you organize your ignorance in some intelligent and organized manner. Dualism is the most honest manner of organizing your ignorance, okay?" (Lanier, 2007b).
+As noted, Closer To Truth viewers regularly send me diverse theories related to consciousness, some just ideas, some elaborate systems, and occasionally they are hard to classify. For example, a consciousness system operating independently of the central nervous system, consti- tuted by "a Material B" (exhibiting "coupling properties" beyond the boundaries of physics) and explored by "memory-related thought pro- cesses" and "illogical nonlinear-thinking"49 (Ma et al., 2023).
+It is well known that mental causation is a vexing problem for du- alists. By what conceivable mechanism could nonphysical stuff effect physical stuff? This is not a primary issue for this Landscape (15.8), but it
+Again, the purpose of this section on Dualisms as a theory of con- sciousness is to describe various kinds of dualism, not to argue in favor or against (a self-imposed hurdle on which I occasionally trip).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Leslie, 2001)', '(Leslie, 2001)', '(Leslie, 2001)', '(Goff, 2020)', '(Strawson, 2008)']
+
+    Filtered References:
+    Nature 21. December 2023. https://www.nature.com/articles/d41586-02
+3-04047-6.
+Leslie, John, 2001. Infinite Minds. Oxford University Press.
+Leslie, John, 2006. Is consciousness irreducible, closer to truth -. https://closertotruth.co
+m/video/lesjo-008/?referrer=7845. Leslie, John. Closer To Truth—36 CTT videos
+
+Feser, Edward, 2012c. Aristotle, call your office. First Things. https://www.firstthings.co
+m/web-exclusives/2012/10/aristotle-call-your-office.
+Feser, Edward, 2022a. Problems for Goff’s panpsychism. https://edwardfeser.blogspot.
+com/2022/07/problems-for-goffs-panpsychism.html.
+Feser, Edward, 2022b. Chomsky on consciousness. https://edwardfeser.blogspot.com/
+Fodor, Jerry, 2007. Headaches have themselves. In: London Review of Books, vol. 29,
+10—24 May 2007. Review of Consciousness and Its Place in Nature: Does Physicalism
+Entail Panpsychism? by Galen Strawson et al. Imprint Academic. October 2006.
+Forrest, Matthew H., 2021. The meaning of life: when the black dog is barking up the
+right tree. ITZA Glob. Books.
+
+    
+2024-10-26 02:06:51,826 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Dualism",
+    "description": "Dualism posits that consciousness consists of two distinct substances: a physical brain and a separate, nonphysical substance that interacts with the physical world. This theory suggests that mental properties can affect physical states and vice versa, leading to a complex relationship between the two.",
+    "categories": ["Philosophy of Mind", "Metaphysics"]
+  }
+}
+```
+2024-10-26 02:06:51,826 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Leslie",
+    "biography": "John Leslie is a philosopher known for his work in metaphysics and the philosophy of mind, particularly regarding the nature of consciousness and the implications of infinite minds."
+  }
+}
+```
+2024-10-26 02:06:51,826 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Leslie, John, 2001. Infinite Minds. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Dualism"
+    },
+    {
+      "citation": "Goff, 2020. [Title not provided].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Dualism"
+    },
+    {
+      "citation": "Strawson, Galen, 2008. [Title not provided].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Dualism"
+    }
+  ]
+}
+```

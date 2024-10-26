@@ -1,0 +1,75 @@
+2024-10-26 02:04:12,499 - DEBUG - Processing Section 126
+2024-10-26 02:04:17,031 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroscientist Roman Poznanski proposes a Dynamic Organicity Theory (DOT) of consciousness, a quantum biological theory based on a
+multiscale interpretation of type-B materialism.38 DOT utilizes a mul- tiscalar temporal-topological framework to include quantum biological effects in the sense of what happens to macroscopic systems upon interaction with quantum potential energy that exists when a living negentropic39 state of the brain imposes thermodynamic constraints (Section: Poznanski, 2024).
+DOT does not deal with quantum consciousness or assume quantum brain dynamics. However, according to Poznanski, a Schr odinger-like equation describes the quantum effects within the multiscale complexity, where multiscale complexity is both functional and struc- tural through changeable boundary conditions (resulting in the topology being a holarchical modularity). This is made possible by treating time consciousness, i.e., "consciousness-in-the-moment," on a nonlinear temporal scale and implicitly grounding space to the contingency of changing boundary conditions. The approach is based on the dynamics of functional relations (not to be confused with functionalist or relational theories of consciousness). It is a nonspatial topological framework (not the mathematical study of "space" in a general sense of topological spaces) associated with the temporal aspect of the functionality. Here, functionality refers to the biological realization of the physical as those features of usefulness that exist subjectively. Therefore, Poznanski says, it rules out functionalism and focuses on the qualitativeness of brain functioning. As noted, the approach is type-B materialism (Chalmers, 2003), where consciousness is a physical process, but epistemic objec- tivism alone does not define physicalism (Shand, 2021). This means that functionality as the quality of usefulness only refers to physical prop- erties assessed subjectively, which can be possible only through quan- tum biological effects.
+Moreover, the functional capability of the negentropic state chang- ing over time must satisfy the following necessary condition for con- sciousness to arise: the functionality of multiscale complexity must exceed the functionality of maximum complexity, i.e., FMultiComplexity > FMaxComplexity. This means that consciousness arises when the function- ality of multiscale complexity reaches above the functionality of maximum complexity. This required increase in functionality of multi- scale complexity is derived from an additional degree of freedom made possible by quantum biology40 beyond that of the functionality of maximum complexity as derived from brain structure, dynamics, and function. FMaxComplexity is an insufficient measure of consciousness. FMultiComplexity provides an epistemically subjective approach to dynamic organicity, including self-referential dynamic pathways that give an extra quality of energy-negentropy exchange for path selection as real- ization relations. FMultiComplexity is not a step-function but a gradual ascendance to plateaus accounting for different degrees of conscious- ness. (Whether this condition is sufficient is beyond DOT to decipher; something with an equivalent topology could cause consciousness in
+Poznanski states that "the act of understanding uncertainty is the main qualifier of consciousness" and "the 'act' connotes the experi- enceable form, which is, in essence, a precursor of the experience of acting." The process entails the potential for understanding "meaning" through self-referential dynamical pathways "instead of recognizing (cf. introspection) sensory information through perceptual channels, form- ing the basis of understanding uncertainty without relying on memory recall." It is not, he says, "coming into existence" because "quantum- thermal fluctuations are irreducible, yet the process as a whole comes 'to exist' perhaps not instantaneously but appears spontaneously. Its output
+is intentionality as an instruction to act in path selection."
+The self-reference principle, which Poznanski says can replace emergence and self-organization when dealing with functionality rather than structure, "establishes dynamical pathways from the microscale to the macroscale (this includes nonlocal pathways), in which diachronic causation and how the disunity of causal order in the redundancy creates a weak unity of consciousness through its temporal structure," the inferred purpose giving rise to "a sense of self."
+Poznanski avoids discussing phenomenological properties of con- sciousness, such as qualia, because, he says, they do "not apply to conscious reality when considered in the context of functional-structural realism, an offshoot of structuralism, without relying on introspection." Phenomenological consciousness, he says, "appears like a black box of 'being' instead of 'doing.'" However, functional interactions that entail self-referential dynamics "are uniquely fathomed and, hence, not phenomenally equivalent in other functional systems."
+Thus, Poznanski concludes, "a living negentropic state that supports biological function is a dynamic state of being organic representing an additional degree of freedom for intrinsic information to be structured, which makes it possible for a dynamic organicity theory of conscious- ness to take shape in the material brain" (Poznanski, 2024).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Chalmers, 2003)', '(Shand, 2021)', '(Poznanski, 2024)']
+
+    Filtered References:
+    consciousness. Minds Mach. 16, 185–200. https://doi.org/10.1007/s11023-006-
+9036-0.
+Bourget, David; Chalmers, David, general eds. PhilPapers. https://philpapers.org/browse
+/theories-of-consciousness.
+Bourget, David, Chalmers, David, 2014. What do philosophers believe? Phil. Stud. 170
+
+Seth, Anil, Bayne, Tim, 2022. Theories of consciousness. Nat. Rev. Neurosci. http://sro.
+sussex.ac.uk/id/eprint/105030/1/SethBayne_NRN_accepted.pdf.
+Shand, J., 2021. Consciousness: removing the hardness and solving the problem. Rev.
+Port. Filosof. 77, 1279–1296.
+Sheldrake, Rupert (n.d.b.) Morphic Resonance and Morphic Fields—an Introduction. htt
+2022. https://en.wikipedia.org/w/index.php?title=Possibilianism&oldid=1
+083909954.
+Poznanski, Roman, 2024. The dynamic organicity theory of consciousness: how
+consciousness arises from the functionality of multiscale complexity in the material
+brain. J. Multiscale Neurosci. 3 (1), 68–87. https://doi.org/10.56280/1609121701.
+
+    
+2024-10-26 02:04:17,031 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Dynamic Organicity Theory",
+    "description": "A quantum biological theory that posits consciousness arises from the functionality of multiscale complexity in the brain, emphasizing the role of quantum biological effects and a nonlinear temporal scale in understanding consciousness.",
+    "categories": ["Quantum Biology", "Neuroscience", "Materialism"]
+  }
+}
+```
+2024-10-26 02:04:17,031 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Roman Poznanski",
+    "biography": "Roman Poznanski is a neuroscientist known for proposing the Dynamic Organicity Theory (DOT) of consciousness, which integrates quantum biological principles and multiscale complexity to explain the emergence of consciousness in the brain."
+  }
+}
+```
+2024-10-26 02:04:17,031 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Chalmers, D. (2003). The conscious mind: In search of a fundamental theory. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Dynamic Organicity Theory"
+    },
+    {
+      "citation": "Shand, J. (2021). Consciousness: removing the hardness and solving the problem. Rev. Port. Filosof. 77, 1279–1296.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Dynamic Organicity Theory"
+    },
+    {
+      "citation": "Poznanski, R. (2024). The dynamic organicity theory of consciousness: how consciousness arises from the functionality of multiscale complexity in the material brain. J. Multiscale Neurosci. 3 (1), 68–87. https://doi.org/10.56280/1609121701.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Dynamic Organicity Theory"
+    }
+  ]
+}
+```

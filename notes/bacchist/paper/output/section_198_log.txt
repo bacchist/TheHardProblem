@@ -1,0 +1,61 @@
+2024-10-26 02:10:57,060 - DEBUG - Processing Section 198
+2024-10-26 02:11:02,050 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Parapsychologist Rupert Sheldrake proposes "morphic fields" as a field of form or shape or organization, "such that every entity has its own field: each ant colony, each termite nest, a flock of birds, a pack of wolves and a herd of animals." Social groups of people too, such as a family, a tribe or a group, where "members of that group interact with each other within that [morphic] field. When they go apart, that field, as it were, stretches. It doesn't break. The members remain connected at a distance in a way analogous to quantum entanglement." There is a huge diversity of morphic fields. "Each self-organizing pattern of activity has its own morphic field, and a kind of collective, inherent memory" (Sheldrake, 2007a, n.d.a, n.d.b).
+Morphic fields at all levels of complexity have the following char- acteristics: They are self-organizing wholes; they have both a spatial and a temporal aspect, and organize spatio-temporal patterns of vibratory or rhythmic activity; they attract the systems under their influence towards characteristic forms and patterns of activity; they are a nested hierarchy or holarchy; they are structures of probability, and their organizing activity is probabilistic; and they contain a built-in memory that is cu- mulative and reinforcing (Sheldrake, n.d.b).
+Sheldrake's corollary concept of "morphic resonance" expresses this kind of collective memory inherent in nature, the inference of similar prior patterns of activity on subsequent similar patterns of activity- which, once they have occurred, can happen more easily anywhere. Morphic resonance is rhythmic in nature, patterns of vibration in space and time that give rise to this kind of memory. It is like a habit, he says, which depends on memory, usually unconscious memory.
+Sheldrake posits that morphogenesis in biology depends on orga- nizing fields. As the case in point, the fields organizing the activity of the nervous system are inherited "through morphic resonance, conveying a collective, instinctive memory. Each individual both draws upon and contributes to the collective memory of the species. This means that new patterns of behavior can spread more rapidly than would otherwise be possible."
+Unabashedly controversial and mainstream rejected, morphic fields, Sheldrake says, underlie our mental activity and our perceptions. He claims that the existence of these fields can be tested experimentally, such as the sense of being stared at (a claim refuted by in-field scien- tists.) He further claims that morphic fields of social groups "help pro- vide an explanation for telepathy" and that "telepathy seems to be a normal means of animal communication" (as with dogs [Sheldrake, 2011])all of which are mainstream dismissed.
+Sheldrake argues that "telepathy is normal not paranormal, natural not supernatural, and is also common between people, especially people who know each other well," adding, "The morphic fields of mental ac- tivity are not confined to the insides of our heads. They extend far beyond our brain through intention and attention"63 (Sheldrake, n.d.a, n.d.b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:11:02,050 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Morphic Fields and Morphic Resonance",
+    "description": "Rupert Sheldrake proposes that morphic fields are organizing fields that shape the form and behavior of entities, including social groups, and that these fields possess a collective memory known as morphic resonance, which influences patterns of activity across time and space.",
+    "categories": ["Parapsychology", "Collective Memory", "Biology"]
+  }
+}
+```
+2024-10-26 02:11:02,050 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Rupert Sheldrake",
+    "biography": "Rupert Sheldrake is a British biologist and parapsychologist known for his controversial theories on morphic fields and morphic resonance, which suggest that memory and behavior are influenced by collective patterns across time and space."
+  }
+}
+```
+2024-10-26 02:11:02,050 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Sheldrake, R. (2007a). Morphic fields and morphic resonance. In *The Science Delusion*. Retrieved from [source].",
+      "material_type": "Book",
+      "associated_theory_name": "Morphic Fields and Morphic Resonance"
+    },
+    {
+      "citation": "Sheldrake, R. (n.d.a). Morphic fields and their implications. Retrieved from [source].",
+      "material_type": "Online Article",
+      "associated_theory_name": "Morphic Fields and Morphic Resonance"
+    },
+    {
+      "citation": "Sheldrake, R. (n.d.b). The role of morphic resonance in biology. Retrieved from [source].",
+      "material_type": "Online Article",
+      "associated_theory_name": "Morphic Fields and Morphic Resonance"
+    },
+    {
+      "citation": "Sheldrake, R. (2011). *The Sense of Being Stared At: And Other Unexplained Powers of Human Minds*. Crown Publishing Group.",
+      "material_type": "Book",
+      "associated_theory_name": "Morphic Fields and Morphic Resonance"
+    }
+  ]
+}
+```

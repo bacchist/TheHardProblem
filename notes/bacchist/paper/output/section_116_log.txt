@@ -1,0 +1,64 @@
+2024-10-26 02:03:05,641 - DEBUG - Processing Section 116
+2024-10-26 02:03:11,906 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Paavo Pylkk anen proposes a view in which "the mech- anistic framework of classical physics and neuroscience is com- plemented by a more holistic underlying framework in which conscious experience finds its place more naturally" (Pylkk anen, 2007). Recog- nizing that it is "very likely that some radically new ideas are required if we are to make any progress" on the hard problem, he turns to quantum theory "to understand the place of mind and conscious experience in
+nature." In particular, Pylkk anen and physicist Basil Hiley focus on the ontological interpretation of quantum theory proposed by David Bohm and Hiley (1993) and make "the radical proposal that quantum reality includes a new type of potential energy which contains active infor- mation. This proposal, if correct, constitutes a major change in our notion of matter" (Hiley and Pylkk anen, 2022).
+Pylkk anen and Hiley's intuition is that the reason "it is not possible to understand how and why physical processes can give rise to con- sciousness is partly the result of our assuming that physical processes (including neurophysiological processes) are always mechanical." However, they say, if "we are willing to change our view of physical reality by allowing non-mechanical, organic and holistic concepts such as active information to play a fundamental role," this might make it possible to understand the relationship between physical and mental processes in a new way (Hiley and Pylkk anen, 2022). For example, the human brain could operate in some ways like a "quantum measuring apparatus" (Pylkk anen, 2022).
+Philosophically, according to Pylkk anen, that the physical domain is causally closed has left "no room for mental states qua mental to have a causal influence upon the physical domain, leading to epiphenome- nalism and the problem of mental causation." One road to a possible solution is called "causal antifundamentalism:" causal notions cannot play a role in physics, because the fundamental laws of physics are radically different from causal laws." While "causal anti-fundamen- talism seems to challenge the received view in physicalist philosophy of mind and thus raises the possibility of there being genuine mental causation after all," Pylkk anen rejects it in favor of the ontological interpretation of quantum theory imparting active information (Pylkk anen, 2019).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:03:11,906 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Ontological Interpretation of Quantum Theory",
+    "description": "A theory proposed by Paavo Pylkkänen and Basil Hiley that suggests consciousness can be understood through a new type of potential energy containing active information, challenging the mechanistic view of physical processes and allowing for a holistic understanding of the relationship between mind and matter.",
+    "categories": ["Quantum Theory", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:03:11,906 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Paavo Pylkkänen",
+    "biography": "Paavo Pylkkänen is a philosopher known for his work on the intersection of quantum theory and consciousness, proposing that a holistic framework can better explain the relationship between physical processes and conscious experience."
+  }
+}
+```
+2024-10-26 02:03:11,906 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Pylkkänen, P. (2007). The mechanistic framework of classical physics and neuroscience. In [Details of the publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Ontological Interpretation of Quantum Theory"
+    },
+    {
+      "citation": "Hiley, B. J., & Pylkkänen, P. (1993). The ontological interpretation of quantum theory. In [Details of the publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Ontological Interpretation of Quantum Theory"
+    },
+    {
+      "citation": "Hiley, B. J., & Pylkkänen, P. (2022). Quantum reality and active information. In [Details of the publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Ontological Interpretation of Quantum Theory"
+    },
+    {
+      "citation": "Pylkkänen, P. (2019). Causal antifundamentalism and the problem of mental causation. In [Details of the publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Ontological Interpretation of Quantum Theory"
+    },
+    {
+      "citation": "Pylkkänen, P. (2022). The human brain as a quantum measuring apparatus. In [Details of the publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Ontological Interpretation of Quantum Theory"
+    }
+  ]
+}
+```

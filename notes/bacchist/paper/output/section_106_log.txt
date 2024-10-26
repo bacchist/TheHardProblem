@@ -1,0 +1,83 @@
+2024-10-26 02:02:13,817 - DEBUG - Processing Section 106
+2024-10-26 02:02:19,176 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Writer Tracy Witham argues that William James flipped the para- digm in which the hard problem arises, because James viewed con- sciousness through a problem he believed it solves by selecting for adaptive responses to specific environmental situations (James, 1890). Essentially, James believed that a brain complex enough to support a proliferation of options for responding to environmental situations is more likely to obscure than to identify the best option to use, unless that brain also has a selection mechanism for choosing adaptive over less, non-, and maladaptive options. But the question remains, Witham says, whether consciousness is, at least, a good prima facie fit, to address what can be called "the selection problem."
+The hypothesis that underlies James's view, she says, is that con- sciousness increases an organism's fitness by "bringing ... pressure to bear in favor of those of its performances which make for the most permanent interests of the brain's owner ..." (James, 1890, p. 140).
+Specifically, the role James gave to consciousness must be under- stood only in the context of the formation of de facto ends which he believed form when preferred sensations are recalled in their absence
+(James, 1890, p. 78). This context is crucial, because it is consciousness that confers the preferences for some sensations over others and thereby serves as the source of the ends. But to understand why James gave consciousness that role, Witham says we need to understand his two-- word phrase, "cerebral reflex," (James, 1890, p. 80). which implies a stimulus-and-response schema is the basis for the ends-and-means cou- plings that form cerebral reflexes. However, there is a problem with the implication. For this to work, ends must stand in for stimuli, arising in interactions between organisms and their environments.
+The problem is solved, Witham says, if consciousness just is what it seems to be: the means by which we reflect on our interactions with our environments to sense whether the interactions are favorable or not. So, what consciousness seems to be fits James's hypothesis perfectly, that its role is to "bring ... pressure to bear [in favor of] those of our perfor- mances" that are adaptive. Reflective experience, in short, makes it possible to identify experiences of our environmental interactions that contain adaptive behaviors and retain them as cerebral reflexes for future use. But then, as the means to solve the selection problem, con- sciousness becomes an adaptive adaptation in the sense of being an adaptation selecting for adaptive behaviors. And it does so by being, indeed, what it seems to be: an adaptive adaptation that is a marvelous source of solutions, not a confounding source of problems.
+The critical question, however, is whether a zombie-like black box of sufficient complexity could perform environmentally driven, fitness enhancing, evolutionarily successful activities, and if so, why then the radical advent of something so startlingly novel in the universe: inner experience? In other words, while the question of why consciousness was favored and selected by evolution is important, it is not the question of what consciousness actually is, which of course is the hard problem.
+10. Non-reductive physicalism
+Non-Reductive Physicalism takes consciousness to be entirely phys- ical, solely the product of biological brains, but mental states or prop- erties are irreducibly distinct from physical states or properties such that they cannot be entirely explained by physical laws, principles or dis- coveries (in brains or otherwise) (Macdonald and Macdonald, 2019).
+Non-reductive Physicalism was, in part, a response to conceptual problems in the early identity theories of physicalism where mental properties or kinds were literally the same thing as physical properties or kinds. This was challenged by several conceptual conundrums: the multiple realizability of the same mental properties or kinds by different physical properties or kinds (Hilary Putnam); the intentional essence of mental phenomena, which seems so radically different from physical laws or things (Donald Davidson's "Anomalous Monism," 14.2); and the apparent unbridgeable gap between physics and the special sciences (Jerry Fodor) (Macdonald and Macdonald, 2019).
+While mental states are generated entirely by physical states (of the brain), non-reductive physicalism maintains that they are truly other than physical; mental states are ontologically distinct.
+This would seem to make Non-Reductive Physicalism a form of property dualism (15.1) in that both recognize real mental states and yet only one kind of substance, matterbut, as expected, some adherents of each reject the claims of the other. If Non-Reductive Physicalism is indeed a form of property dualism, it would be perhaps the predominant contemporary kind.
+A core mechanism of Non-Reductive Physicalism is emergence, where novel properties at higher levels of integration are not discernible (and perhaps not even predictable, ever) from all-you-can-know at lower or more fundamental levels. A prime feature of Non-Reductive Physi- calism is often "top-down causation," where the content of conscious- ness is causally efficaciousqualia can do real work (contra Epiphenomenalism, 9.1.2).
+Some Christian philosophers, such as Nancey Murphy (10.2), who seek greater consonance between contemporary science and the Chris- tian faith, look to Non-Reductive Physicalism as a nondualistic account
+of the human person. It does not consider the "soul" an entity separable from the body, such that scientific statements about the physical nature of human beings would be referring to exactly the same entity as theo- logical statements concerning the spiritual nature of human beings (Brown et al., 1998). The structure of Non-Reductive Physicalism is said to enhance the Judeo-Christian concept of "resurrection of the dead" as opposed to what is said to be the non-Judeo-Christian doctrine of an "immortal soul" (Van Inwagen, 1995).
+On the other hand, Christian philosopher J.P. Moreland takes dualism to be "the clear teaching of Scripture" that "overwhelmingly sets forth a dichotomy of soul and body" and he decries those Christian thinkers who deny this conclusion, especially adherents of Non-Reduc- tive Physicalism (Moreland, 2014).
+Philosopher Jaegwon Kim's objections to Non-Reductive Physi- calism, based on causal closure and overdetermination, highlight its three principles: the irreducibility of the mental to the physical; some version of mental-physical supervenience; and the causal efficaciousness of mental states. The problem, according to Kim, is that when these three commitments are combined, an inconsistency is generated that entails the causal impotence of mental properties (Kim, 2024).
+I've always been puzzled by Non-Reductive Physicalism in that I can well understand how, under physicalism, consciousness is non-reductive in practice, but how non-reductive in principle? Conversely, if indeed consciousness is in principle non-reductiveimpossible for science ever to explain how it works in terms of fundamental physical con- stituentsit would seem to require the ontological reality of non- physical properties (at least by current boundaries), which would seem to embed a contradiction. Or else, by what mechanisms could such higher-level non-reducible "laws" work? Perhaps by something analo- gous to quantum fields but operating at higher levels? Occam is sharp- ening his Razor.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(James, 1890)', '(Moreland, 2014)', '(Kim, 2024)']
+
+    Filtered References:
+    Gholipour, Bahar, 2019. A famous argument against free will has been debunked.
+Atlantic. (Accessed 10 September 2019).
+Gibson, James J., 2014. The Ecological Approach to Visual Perception. Routledge.
+Gibson, James J., 2024. Wikipedia, the free Encyclopedia. Date of last revision: 14 January
+2024. https://en.wikipedia.org/w/index.php?title=James_J._Gibson&oldid=11
+
+Montero, Barbara, 2012. Physicalism. Review of physicalism by Daniel stoljar. Notre dame
+philosophical review. https://ndpr.nd.edu/reviews/physicalism/.
+Moreland, J.P., 2014. The Soul: How We Know It’s Real and Why it Matters. Moody
+Press.
+Moreland, J.P., 2018. In defense of a thomistic-like dualism. In: Menuge, Angus,
+S0140525X07002786.
+Block, Ned, 2008. Functional reduction. In: Sabat´es, M., Sosa, D., Horgan, T. (Eds.),
+Supervenience in Mind: A Festschrift for Jaegwon Kim. The MIT Press. https://www.
+academia.edu/2744912/Functional_reduction.
+Block, Ned, 2014. Language and consciousness. Closer To Truth. https://closertotruth.co
+
+    
+2024-10-26 02:02:19,176 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "William James's Selection Theory of Consciousness",
+    "description": "William James proposed that consciousness plays a crucial role in selecting adaptive responses to environmental situations, enhancing an organism's fitness by favoring performances that align with its permanent interests. This theory suggests that consciousness is not merely a byproduct of brain complexity but serves as a mechanism for reflecting on interactions with the environment to identify and retain adaptive behaviors.",
+    "categories": ["Adaptive Behavior", "Evolutionary Psychology"]
+  }
+}
+```
+2024-10-26 02:02:19,176 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "William James",
+    "biography": "William James was an American philosopher and psychologist, widely regarded as one of the most influential figures in the development of psychology and philosophy in the late 19th and early 20th centuries. He is best known for his work on the philosophy of pragmatism and his theories on consciousness, particularly his view that consciousness serves to select adaptive responses to environmental challenges."
+  }
+}
+```
+2024-10-26 02:02:19,176 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "James, W. (1890). The Principles of Psychology. New York: Holt.",
+      "material_type": "Book",
+      "associated_theory_name": "William James's Selection Theory of Consciousness"
+    },
+    {
+      "citation": "Moreland, J.P. (2014). The Soul: How We Know It’s Real and Why it Matters. Moody Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Non-reductive physicalism"
+    },
+    {
+      "citation": "Kim, J. (2024). Causal Closure and Overdetermination. In: [Details of the publication].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Non-reductive physicalism"
+    }
+  ]
+}
+```

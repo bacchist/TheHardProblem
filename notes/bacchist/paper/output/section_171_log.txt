@@ -1,0 +1,58 @@
+2024-10-26 02:08:27,915 - DEBUG - Processing Section 171
+2024-10-26 02:08:32,237 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Many, I'd say most, religious traditions present elaborate levels or stages or realms of the soul, accommodating the soul and its elaborate journeys before birth and after deathYog ac ara Buddhism, Sufism in Islam, Kabbalah in Judaism, Christian mysticism, occult sects such as Theosophy (15.18). These religions espouse different doctrines super- ficially, but the complex, multi-level, multi-dimensional, geometric structures of the habitats of the soulthe bewildering imagery of what souls are, where they come from, where they go, what they dolook remarkably alike.
+While such visions of the soul do not address directly the essence of consciousness, the fact that they espouse a nonphysical substance or entity, the soul, that is prominent, primitive, and permanent makes personal consciousness derivative and hence also nonphysical.
+Yet, all this means little for purposes of this dualism category. In no way does any of this, in no way does all of this, add verisimilitude to the story of souls, but humanity's fascination, obsession, with souls cannot be denied.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:08:32,237 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Dualism of the Soul and Consciousness",
+    "description": "A perspective that posits the existence of a nonphysical substance or entity, the soul, which is seen as primitive and permanent, suggesting that personal consciousness is derivative and also nonphysical.",
+    "categories": ["Philosophy of Mind", "Religious Studies"]
+  }
+}
+```
+2024-10-26 02:08:32,237 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Yogacara Buddhism",
+    "biography": "Yogacara Buddhism is a school of Mahayana Buddhism that emphasizes the role of consciousness in the perception of reality, proposing that the mind is the primary source of experience."
+  }
+}
+```
+2024-10-26 02:08:32,237 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Theosophy. (n.d.). In Encyclopedia of Religion. Retrieved from [URL]",
+      "material_type": "Encyclopedia Entry",
+      "associated_theory_name": "Dualism of the Soul and Consciousness"
+    },
+    {
+      "citation": "Kabbalah. (n.d.). In Encyclopedia of Religion. Retrieved from [URL]",
+      "material_type": "Encyclopedia Entry",
+      "associated_theory_name": "Dualism of the Soul and Consciousness"
+    },
+    {
+      "citation": "Sufism. (n.d.). In Encyclopedia of Religion. Retrieved from [URL]",
+      "material_type": "Encyclopedia Entry",
+      "associated_theory_name": "Dualism of the Soul and Consciousness"
+    },
+    {
+      "citation": "Christian Mysticism. (n.d.). In Encyclopedia of Religion. Retrieved from [URL]",
+      "material_type": "Encyclopedia Entry",
+      "associated_theory_name": "Dualism of the Soul and Consciousness"
+    }
+  ]
+}
+```

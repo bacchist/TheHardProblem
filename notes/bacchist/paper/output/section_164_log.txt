@@ -1,0 +1,46 @@
+2024-10-26 02:07:53,085 - DEBUG - Processing Section 164
+2024-10-26 02:07:56,613 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Amy Kind defends dualism 2.0, "a thoroughly modern version of dualism ... decoupled from any religious or non-scientific connotations." Her argument is direct and forceful: "A physicalist framework cannot adequately capture the full reality of our conscious experience"which has a "qualitative nature." However physicalism is defined, she says, "whether it's in terms of current physics or future physics, or some other way entirelywe should see the theory as committed to an important constraint: Physicalism can be true only if the phenomenality is not a primitive aspect of the world" (Kind and Stoljar, 2023, pp. 4, 58).
+She analyzes and rejects Materialist Theories of Representationalism (9.8) and High-order Theories (9.8.3), and Russellian Monism (14.1), and she deflects the counterattack that "rejecting physicalism is tanta- mount to believing in ghosts, or fairy dust, or magic." She stresses that "the claim that consciousness is not a physical thing does not commit one to the existence of spooky stuff. Rather, it should be seen as perfectly consistent with an adoption of a broadly naturalistic conception of the world and our place in it." She calls Dualism 2.0 "a rebooted version of dualism ... what it looks like to adopt this kind of view from the vantage point of the 21st century" (Kind and Stoljar, 2023, p. 5).
+Kind's claim is a simple one: "Just as physical states, events, and processes are an irreducibly real part of the world, so too are phenom- enal states, events, and processes an irreducibly real part of the world" (jointly, "activity"). Given "the existence of both phenomenal activity and physical activity, and further, in virtue of its claim that these two kinds of activity cannot be reduced to one another," she declares that "the view is appropriately characterized as dualistic." Immediately, however, she stresses that "this duality need not be thought of in terms of mental substances. We can have duality of activity without duality of entities" (Kind and Stoljar, 2023, p. 53).
+While obviously distinct from physicalism, Kind's dualism 2.0 dis- tinguishes itself from Russellian Monism (and Panpsychism, 13), because, although the "claim that phenomenality (or proto- phenomenality) can be found at the fundamental level of reality ... is consistent with dualism 2.0 ... it is not required by it." Dualism 2.0, she says, "need not take mass and charge to be the appropriate model for phenomenality." Nor does dualism 2.0 "commit itself to the ubiquity of phenomenality," nor "to anything spooky." Just because "something cannot be reduced to the physical" does not mean, ipso facto, "that it is magical or mystical." Her example is mathematics (Kind and Stoljar, 2023, pp. 5354).
+What about the physicalist argument that specifying the putative phenomenal laws seems a project from nowhere? Kind reminds her critics of their lack of progress "in giving precise physical or functional specifications of phenomenally conscious states"and she concludes
+that "dualism 2.0 is not here in any worse shape than its competitors." She holds out hope for "a better and broader understanding of the nature of causation" that could enable us "to accommodate mental causes and thus affirm the causal efficacy of the phenomenal ... without those seeming either mysterious or spooky" (Kind and Stoljar, 2023, pp. 5556).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:07:56,613 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Dualism 2.0",
+    "description": "A modern version of dualism that asserts both phenomenal and physical states are irreducibly real parts of the world, emphasizing that consciousness cannot be fully captured by physicalist frameworks. It distinguishes itself from other theories by not requiring the existence of mental substances or committing to the ubiquity of phenomenality.",
+    "categories": ["Dualism", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:07:56,613 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Amy Kind",
+    "biography": "Amy Kind is a philosopher known for her work in the philosophy of mind, particularly her defense of dualism 2.0, which presents a modern interpretation of dualism that separates consciousness from physicalist frameworks while maintaining a naturalistic view of the world."
+  }
+}
+```
+2024-10-26 02:07:56,613 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Kind, A., & Stoljar, D. (2023). Dualism 2.0. In *Philosophy of Mind* (pp. 4, 5, 53, 55-56).",
+      "material_type": "Book",
+      "associated_theory_name": "Dualism 2.0"
+    }
+  ]
+}
+```

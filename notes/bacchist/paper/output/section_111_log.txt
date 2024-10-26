@@ -1,0 +1,54 @@
+2024-10-26 02:02:38,159 - DEBUG - Processing Section 111
+2024-10-26 02:02:42,739 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Medical doctor John Sanfey's Abstract Realism (AR) claims to bridge the mind-matter explanatory gap with two arguments suggesting a complementarity between first and third-person perspectives, with each perspective containing an equivalent observer function. The first argu- ment posits that science must use abstract devices integrating past and future moments of continuous time that reflect first-person perception. The second argument tackles the hard problem by examining phenom- enal simultaneity, where no time separates experiencer from experi- enced (Sanfey, 2023).
+In "something it is like to experience redness," the experiencer knows they are not simultaneously causing the redness; one cannot consciously cause something without being conscious of doing so, obviously. But an intelligent system not experiencing conscious presence cannot be certain it is not causing what it perceives because its observing self must reside in the same physical systems that may or may not be producing illusions. This suggests, to Sanfey, that experiencing presence is sufficient to create logical possibilities such as disembodied mind or idealism. Rooted in phenomenal simultaneity, these causal mechanics of con- sciousness are unobservable in principle, he says, making consciousness indistinguishable from strong emergence. Proven causal power means that consciousness can be produced by physical systems even synthetic ones without introducing new physics. (In Sanfey's AR, the brain gen- erates consciousness when two information systems, two electromag- netic fields [9.3], interact bi-directionally, causally, and with sufficient complexity such that one is the observing reference for the other.)
+Simultaneous causation cannot happen, but experiential simulta- neity is certain, and with causal power, consciousness can be integrated with physics within a Non-Reductive Physicalism paradigmwithout appealing to psycho-identity, panpsychism, idealism, or reductive physicalism. Matter, defined as that which behaves according to phys- ical laws independently of conscious mind, is always either a sensory or conceptual model, a complementarity of first and third-person per- spectives, each containing an equivalent observer function (Sanfey, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Sanfey, 2023)', '(Sanfey, 2023)']
+
+    Filtered References:
+    Samkhya, 2024. Wikipedia, the free Encyclopedia. Date of last revision: 18 January
+2024. https://en.wikipedia.org/w/index.php?title=Samkhya&oldid=1151847061.
+Sanfey, John, 2023. Simultaneity of consciousness with physical reality: the key that
+unlocks the mind-matter problem. Front. Psychol. 14 https://doi.org/10.3389/
+fpsyg.2023.1173653, 2023.
+
+
+    
+2024-10-26 02:02:42,739 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Abstract Realism",
+    "description": "A theory proposed by John Sanfey that aims to bridge the mind-matter explanatory gap by suggesting a complementarity between first and third-person perspectives, where each perspective contains an equivalent observer function. It addresses the hard problem of consciousness through the concept of phenomenal simultaneity, positing that consciousness can be produced by physical systems without introducing new physics, and integrates consciousness with a Non-Reductive Physicalism paradigm.",
+    "categories": ["Philosophy of Mind", "Consciousness Studies", "Non-Reductive Physicalism"]
+  }
+}
+```
+2024-10-26 02:02:42,739 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Sanfey",
+    "biography": "John Sanfey is a medical doctor and theorist known for his work on Abstract Realism, which seeks to address the mind-matter explanatory gap by exploring the relationship between first and third-person perspectives in consciousness."
+  }
+}
+```
+2024-10-26 02:02:42,739 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Sanfey, John, 2023. Simultaneity of consciousness with physical reality: the key that unlocks the mind-matter problem. Front. Psychol. 14 https://doi.org/10.3389/fpsyg.2023.1173653, 2023.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Abstract Realism"
+    },
+    {
+      "citation": "Samkhya, 2024. Wikipedia, the free Encyclopedia. Date of last revision: 18 January 2024. https://en.wikipedia.org/w/index.php?title=Samkhya&oldid=1151847061.",
+      "material_type": "Online Encyclopedia",
+      "associated_theory_name": "Abstract Realism"
+    }
+  ]
+}
+```

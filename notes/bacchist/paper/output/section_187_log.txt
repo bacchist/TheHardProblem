@@ -1,0 +1,49 @@
+2024-10-26 02:09:52,668 - DEBUG - Processing Section 187
+2024-10-26 02:09:55,663 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Comparative philosopher Miri Albahari defends "Perennial Idealism" as a mystical solution to the mind-body problem. She faces the "vicious dilemma" of subjects arising from unconditioned consciousness. "If the manifest world of subjects is real, it irrevocably undercuts the purely unconditioned nature of the ground by imposing boundaries between subjects and the ground. If only the ground is real, we have the seem- ingly absurd consequence of denying reality to what seems undeniably existent." She finds resources in the modern mystic, Sri Ramana Maharshi, who was recorded as saying, "Nothing exists except the one reality ... The one unity alone exists ever. To such as find it difficult to grasp this truth and who ask, 'How can we ignore this solid world we see all around us?' the dream experience is pointed out and they are told, 'All that you see depends on the seer. Apart from the seer, there is no seen.'" (Ramana is expressing what is known in Advaita Vedanta as the aj ata doctrine, which means "not created, not caused".) (Albahari, 2019a).
+Albahari takes as evidence "first-person accounts from people who claim to have experienced and indeed permanently established them- selves in aperspectival or nondual consciousness," mystics from across traditions and centuries who came to believe that they "have directly 'awoken' to their abiding nature as aperspectival consciousness, real- izing it to be none other than the ultimate ground of what we take to be the world." The "central metaphysical content of this allegedly recurring insight" has been termed by Aldous Huxley and others, "Perennial Philosophy" (Huxley, 1946), from which Albahari's "Perennial Idealism" denotes its philosophical parentage (Albahari, 2019a).
+Albahari posits her Perennial Idealism as "a radical new successor to Cosmopsychism," which, erroneously, she argues, "takes the entire externally specified cosmos to be an internally conscious subject" (13.3). This brings "serious troubles for Cosmopsychism," which not only "typically casts the entire cosmos as a conscious subject" but also "in turn grounds the consciousness of subjects such as ourselves" (Albahari, 2019b). The most promising way forward in the mind-body problem, she argues "is to renounce the pervasive panpsychist supposition that fundamental consciousness must belong to a subject. This extends the reach and scope of consciousness to ground not merely to the inner nature of the cosmos, but everything we take to be the world, with its subjects and objects" (Albahari, 2019a). This, Albahari concludes, "of- fers a framework for thinking about how the world could be grounded in a universal consciousness which, following Advaita Vedanta and the 'Perennial Philosophy', is not structured by subject or object" (Albahari, 2019b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Huxley, 1946)']
+
+    Filtered References:
+    Hutto, Daniel, 2023. Enactivism. Internet Encycloped. Philosop. https://iep.utm.edu/en
+activism/. (Accessed 29 August 2023).
+Huxley, Aldous, 1946. The Perennial Philosophy. Fontana Books.
+Integral theory (Ken Wilber), 2024. Wikipedia, the free Encyclopedia. Date of last
+revision: 19 January 2024. https://en.wikipedia.org/w/index.php?title=Integral_th
+
+
+    
+2024-10-26 02:09:55,663 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Perennial Idealism",
+    "description": "A philosophical perspective that posits a mystical solution to the mind-body problem, suggesting that the ultimate reality is unconditioned consciousness, which transcends the distinctions between subjects and the manifest world.",
+    "categories": ["Philosophy of Mind", "Metaphysics", "Mysticism"]
+  }
+}
+```
+2024-10-26 02:09:55,663 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Miri Albahari",
+    "biography": "Miri Albahari is a comparative philosopher known for her work on Perennial Idealism, which addresses the mind-body problem through a mystical lens, drawing on insights from various mystical traditions and Advaita Vedanta."
+  }
+}
+```
+2024-10-26 02:09:55,663 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Huxley, Aldous, 1946. The Perennial Philosophy. Fontana Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Perennial Idealism"
+    }
+  ]
+}
+```

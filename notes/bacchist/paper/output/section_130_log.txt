@@ -1,0 +1,101 @@
+2024-10-26 02:04:34,162 - DEBUG - Processing Section 130
+2024-10-26 02:04:40,576 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroscientist Christof Koch states that Integrated Information Theory (IIT) shares many intuitions with panpsychism (13), in particular that "consciousness is an intrinsic fundamental property of reality, is graded, and can be found in small amounts in simple physical systems." Unlike panpsychism, Koch continues, IIT "articulates which systems are conscious and which ones are not [partially] resolving panpsychism's combination problem and why consciousness can be adaptive." The systemic weakness of panpsychism, or any other-ism, he says, "is that they fail to offer a protracted conceptual, let alone empirical, research program that yields novel insights or proposes new experiments" (Koch, 2021).
+While uncertainty in theoretical development and inconceivability of empirical experiments are indeed weaknesses, should they ipso facto disqualify the theory? Experimental verification of string theory seems impossible because the energy levels required are many orders of magnitude larger than instrumentation could ever be built, and while some argue that this incapacity to be falsified should indeed disqualify string theory as a scientific theory, many string theorists disagree, betting their careers on it.
+Koch's comparing IIT with panpsychism provides insight into both. Although admitting "I've always had a secret crush on the singular beauty of panpsychism," Koch counts himself among those surprised by its resurgence. He claims that IIT addresses several major shortcomings of panpsychism"it explains why consciousness is adaptive, it explains the different qualitative aspects of consciousness (why a 'kind of blue' feels different from a stinky Limburger cheese), and it head-on addresses the combination problem"per IIT's exclusion postulate, only systems with a maximum of  have intrinsic existence and are conscious" (Koch, 2021).
+The exclusion postulate, Koch explains, "dictates whether or not an aggregate of entitiesants in a colony, cells making up a tree, bees in a hive, starlings in a murmurating flock, an octopus with its eight semi- autonomous arms, and so onexist as a unitary conscious entity or not."
+Koch claims that IIT "offers a startling counter-example to Goff's claim that qualitative aspects of conscious experience cannot be captured by quantitative considerations""a detailed, mathematical account of how the phenomenology of two-dimensional space, say an empty canvas, can be fully accounted for in terms of intrinsic causal powers of the associated physical substrate, here a very simple, grid-like neural network" (Koch, 2021, quoting Huang, ). Integrated Information Theory may well be wrong, Koch says, but it "provides proof-of-principle for how quantitative primary qualities (here intrinsic causal power of simple model neurons that can be numerically computed; it doesn't get more quantitative than that) correspond to secondary qualitiesthe experience of looking at a blank wall" (Koch, 2021). (For Goff's response, 13.8.)
+13. Panpsychisms
+Panpsychism is the theory that phenomenal consciousness exists because physical ultimates, fundamental physics, have phenomenal or
+proto-phenomenal properties. This means that the essence of mentality, awareness, experience is a primitive, non-reducible feature of each and every part or aspect of physical reality, similar to the fundamental fields and particles in physics. Everywhere there is energy-matter, perhaps everywhere there is even spacetime, panpsychism says there is also something of consciousness. Everything that exists has a kind of inherent "proto-consciousness" which, in certain aggregates and under certain conditions, can generate inner awareness and experience. Panpsychism has multiple forms, nuances, and variants, as one would expect.
+Panpsychism is one of the oldest theories in philosophy of mind, going back to pre-modern animistic religions, the ancient Greeks, Leibniz's monads, and a host of 19th century thinkers (Goff et al., 2022). Of late, in reaction to the seemingly intractable hard problem of con- sciousness, panpsychism has been gathering adherents and gaining momentum, especially among some analytic philosophers.
+Panpsychism has strong non-Western roots, not often explored. In particular, the ideas and arguments from Indian philosophical tradi-   tionsespecially Ved anta, Yog ac ara Buddhism, and Saiva Non- dualismcan enrich contemporary debates about panpsychism (Maharaj, 2020).
+Panpsychism is also finding new supporters. Take "Kabbalah Pan- psychism," an interpretation of the Jewish mystical tradition that un- derstands consciousness to be holographically and hierarchically organized, relativistic, and capable of downward causation (Schipper, 2021).
+Yujin Nagasawa provides a careful critique of panpsychism, arguing that although it seems promising, it reaches "a cognitive dead end" in that "even if it's true, we can't prove it." He challenges so-called constitutive Russellian panpsychism (14.1), which many consider to be the most efficacious panpsychist approach to the hard problem of con- sciousness, by arguing that it "seems caught in a deadlock: we are cognitively unable to show how microphenomenal properties can aggregate to yield macrophenomenal properties (or how cosmopheno- menal properties can be segmented to yield macrophenomenal proper- ties)" (Nagasawa, 2021).
+Panpsychism's revival, indeed its flourishing, has left some philos- ophers (as well as scientists) dumbfounded and dismayed. (I'd feel remiss if I did not make an exception and at least recognize panpsy- chism's critics.) When I asked John Searle about panpsychism's increasing scholarly acceptance, he said, "I don't think that's a serious view. If you've got panpsychism, you know you've made a mistake. And the reason is that consciousness comes in discrete units. There has to be a place where my consciousness ends and your consciousness begins. It can't just be spread over the universe like a thin veneer of jam. Pan- psychism has the result that everything is conscious, and you can't make a coherent statement of that" ( Searle, 2014a).
+To physicist Sean Carroll, "our current knowledge of physics should make us skeptical of hypothetical modifications of the known rules, and that without such modifications it's hard to imagine how intrinsically mental aspects could play a useful explanatory role." Part of the reason is the "causal closure of the physical" such that "Without dramatically upending our understanding of quantum field theory, there is no room for any new influences that could bear on the problem of consciousness." Other than materialism/physicalism, Carroll characterizes all theories of consciousness, including panpsychism, thus: "To start with the least well-understood aspects of reality and draw sweeping conclusions about the best-understood aspects is arguably the tail wagging the dog" (Carroll, 2021).
+Here I array the nature and kinds of panpsychism on offer. I then summarize the perspectives of several well-known panpsychists.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Koch, 2021)', '(Koch, 2021)', '(Koch, 2021)', '(Maharaj, 2020)', '(Schipper, 2021)', '(Nagasawa, 2021)', '(Carroll, 2021)']
+
+    Filtered References:
+    Ambron, Richard, 2023b. Toward the unknown: consciousness and pain. Neurosci.
+Consciousness 1, niad002. https://doi.org/10.1093/nc/niad002.
+Anastassiou, C., Perin, R., Markram, H., Koch, C., 2011. Ephaptic coupling of cortical
+neurons. Nat. Neurosci. 14, 217–223. https://doi.org/10.1038/nn.2727, 2011.
+Andrews, Kristen, 2020a. The Animal Mind: an Introduction to the Philosophy of Animal
+
+Macdonald, Cynthia, Macdonald, Graham, 2019. Emergence and Non-reductive
+Physicalism. The Routledge Handbook of Emergence. Routledge.
+Maharaj, Ayon, 2020. Panentheistic cosmopsychism: Swami Vivekananda’s S¯aṃkhya-
+Ved¯antic solution to the hard problem of consciousness. Panentheism and
+panpsychism. In: Godehard, Brüntrup, Benedikt Paul, G¨ocke, Ludwig, Jaskolla
+of Philosophy, Winter 2018 Edition. https://plato.stanford.edu/archives/win2018/e
+ntries/monism/.
+Schipper, Hyman, 2021. Kabbalistic Panpsychism: the Enigma of Consciousness in
+Jewish Mystical Thought. Iff Books.
+Schlitz, Marilyn, 2007. Why is ESP so intriguing? Closer To Truth. https://closertotruth.
+January, 2003, vol. 76, 3. https://web.archive.org/web/20080516091824/. http
+://www.apa.udel.edu/apa/publications/proceedings/v76n3/public/abstracts.asp.
+Alter, Torin, Nagasawa, Yujin, 2012. What is russellian monism? J. Conscious. Stud.
+September 2012.
+Alter, Torin, Pereboom, Derk, 2019. Russellian monism. In: Zalta, Edward N. (Ed.), The
+Carr, Bernard, 2016d. Does ESP make sense? Closer To Truth. https://closertotruth.co
+m/video/carbe-007/?referrer=8379.
+Carroll, Sean, 2016. Physics of Consciousness. Closer To Truth. https://closertotruth.co
+m/video/carse-023/?referrer=7736. Sean Carroll on Closer To Truth—27 CTT
+videos and 8 CTT TV episodes—. https://closertotruth.com/contributor/sean
+
+    
+2024-10-26 02:04:40,576 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Integrated Information Theory",
+    "description": "A theory proposed by Christof Koch that suggests consciousness corresponds to the capacity of a system to integrate information, addressing shortcomings of panpsychism by explaining why consciousness is adaptive and how different qualitative aspects of consciousness arise.",
+    "categories": ["Information Processing", "Neuroscience", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:04:40,576 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Christof Koch",
+    "biography": "Christof Koch is a prominent neuroscientist known for his work on the neural basis of consciousness and for developing Integrated Information Theory (IIT), which posits that consciousness corresponds to the capacity of a system to integrate information."
+  }
+}
+```
+2024-10-26 02:04:40,576 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Koch, C. (2021). Integrated Information Theory: A Theory of Consciousness. In: Ambron, R. (Ed.), Toward the unknown: consciousness and pain. Neurosci. Consciousness, 1, niad002. https://doi.org/10.1093/nc/niad002.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Maharaj, A. (2020). Panentheistic cosmopsychism: Swami Vivekananda’s S¯aṃkhya-Ved¯antic solution to the hard problem of consciousness. In: Godehard, B., Brüntrup, B. P., & G¨ocke, L. (Eds.), Panentheism and panpsychism. Stanford Encyclopedia of Philosophy, Winter 2018 Edition. https://plato.stanford.edu/archives/win2018/entries/monism/",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Panpsychism"
+    },
+    {
+      "citation": "Schipper, H. (2021). Kabbalistic Panpsychism: the Enigma of Consciousness in Jewish Mystical Thought. Iff Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Panpsychism"
+    },
+    {
+      "citation": "Nagasawa, Y. (2021). What is Russellian monism? J. Conscious. Stud., September 2012.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Panpsychism"
+    },
+    {
+      "citation": "Carroll, S. (2021). Physics of Consciousness. Closer To Truth. https://closertotruth.com/video/carse-023/?referrer=7736.",
+      "material_type": "Video",
+      "associated_theory_name": "Panpsychism"
+    }
+  ]
+}
+```

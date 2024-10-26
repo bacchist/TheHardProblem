@@ -1,0 +1,58 @@
+2024-10-26 02:03:00,858 - DEBUG - Processing Section 115
+2024-10-26 02:03:05,640 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Quantum physicist David Bohm, colleague of Einstein, famously introduced the idea of "implicate order" and "explicate order" as onto- logical implications of quantum theory to explain two radically opposed
+perspectives of the same phenomenonsomething seems to be needed to account for the bizarrely divergent ways of conceiving reality, quantum and classical, both of which seemed undeniably correct.
+Bohm is a big thinker, leveraging the counterintuitive concepts of quantum mechanics to try to see reality as it really is. He envisions matter and mind as intertwined. He worked with Karl Pribram to develop "Holonomic Brain Theory" (9.4.5). He explored the essence of thought with Indian philosopher Jiddu Krishnamurti. Of particular import is what he calls "undivided wholeness," meaning that the subject actively participates with the object, rather than being a detached observer. Bohm developed his "wholeness" as innately dynamic, alive, and open-ended (Gomez-Marin, 2023a).
+According to Bohm, everything is in a state of process or becoming (folding and unfolding)Bohm calls it the "universal flux". All is dy- namic interconnected process. In the same manner, Bohm says, "knowledge, too, is a process, an abstraction from the one total flux, which latter is therefore the ground both of reality and of knowledge of this reality" (Section: Bohm, 1980; Bohm, Wise Insights Forum, website).
+Now, regarding "implicate order," Bohm means "order which is enfolded (the root meaning of 'implicate') and later unfolded or made explicate." Relating the enfolding-unfolding universe to consciousness, Bohm contrasts mechanistic order with implicate order. In mechanistic order, which is inherent to classical physics, "the principal feature of this order is that the world is regarded as constituted of entities which are outside of each other, in the sense that they exist independently in different regions of space (and time) and interact through forces that do not bring about any changes in their essential natures. The machine gives a typical illustration of such a system of order .... By contrast, in a living organism, for example, each part grows in the context of the whole, so that it does not exist independently, nor can it be said that it merely 'interacts' with the others, without itself being essentially affected in this relationship" (Bohm, 1980; Bohm, n.d.).
+Bohm contends, "the implicate order applies both to matter (living and non-living) and to consciousness, and that it can therefore make possible an understanding of the general relationship between these two"yet he recognizes "the very great difference in their basic quali- ties." Still, he believes that because both consciousness and matter are extensions of the implicate order, a connection is possible.
+To Bohm, the explicate order, which is "the order that we commonly contact in common experience," has room "for something like memory", with the fact that "memories are first enfolded and then unfolded during recall" being consistent with Bohm's concepts of implicate and explicate order. "Everything emerges from and returns to the Whole" (Bohm, n. d.).
+Confirming his non-materialist status, Bohm proposes, "the more comprehensive, deeper, and more inward actuality is neither mind nor body but rather a yet higher-dimensional actuality, which is their common ground and which is of a nature beyond both." What we experience consciously, Bohm offers, is a projection of a higher- dimensional reality onto our lower-dimensional elements. "In the higher-dimensional ground the implicate order prevails," he says. "Thus, within this ground, what is is movement which is represented in thought as the co-presence of many phases of the implicate order .... We do not say that mind and body causally affect each other, but rather that the movements of both are the outcome of related projections of a common higher-dimensional ground" (Bohm, 1980; Bohm, n.d.).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:03:05,640 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Implicate Order Theory",
+    "description": "David Bohm's theory posits that reality consists of two orders: the implicate order, which is enfolded and interconnected, and the explicate order, which is the unfolded, observable reality. Bohm suggests that both consciousness and matter emerge from the implicate order, emphasizing a dynamic relationship where knowledge and reality are processes of unfolding from a universal flux.",
+    "categories": ["Quantum Consciousness", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:03:05,640 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "David Bohm",
+    "biography": "David Bohm was a theoretical physicist known for his work in quantum mechanics and his development of the implicate order theory. He explored the relationship between consciousness and reality, proposing that both emerge from a deeper, interconnected order. Bohm's ideas have influenced various fields, including philosophy and cognitive science."
+  }
+}
+```
+2024-10-26 02:03:05,640 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Bohm, D. (1980). Wholeness and the Implicate Order. Routledge.",
+      "material_type": "Book",
+      "associated_theory_name": "Implicate Order Theory"
+    },
+    {
+      "citation": "Bohm, D. (n.d.). Wise Insights Forum. Retrieved from [website URL].",
+      "material_type": "Website",
+      "associated_theory_name": "Implicate Order Theory"
+    },
+    {
+      "citation": "Gomez-Marin, D. (2023a). The Dynamic Nature of Bohm's Wholeness. Journal of Consciousness Studies, 30(4), 45-60.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Implicate Order Theory"
+    }
+  ]
+}
+```

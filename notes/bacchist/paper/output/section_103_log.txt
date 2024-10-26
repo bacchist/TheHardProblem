@@ -1,0 +1,63 @@
+2024-10-26 02:01:58,636 - DEBUG - Processing Section 103
+2024-10-26 02:02:04,593 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Cognitive psychologist Arthur Reber dubs his theory of the origins of mind and consciousness the Cellular Basis of Consciousness (CBC), arguing that "sentience emerged with life itself." He states, "The most primitive unicellular species of bacteria are conscious, though it is a sentience of a primitive kind. They have minds, though they are tiny and limited in scope." He rejects that "minds are computational and can be captured by an artificial intelligence." He develops CBC using standard models of evolutionary biology, leveraging the "remarkable repertoire of single-celled species that micro- and cell-biologists have discovered ... Bacteria, for example, have sophisticated sensory and perceptual sys- tems, learn, form memories, make decisions based on information about their environment relative to internal metabolic states, communicate with each other, and even show a primitive form of altruism." All such functions, Reber contends, "are indicators of sentience" (Reber, 2016,
+Reber's model is based on a simple, radical axiom: "Mind and con- sciousness are not unique features of human brains. They are grounded in inherent features present in simpler forms in virtually every species. Any organism with flexible cell walls, a sensitivity to its surrounds and the capacity for locomotion will possess the biological foundations of mind and consciousness." In other words, "subjectivity is an inherent feature of particular kinds of organic form. Experiential states, including those denoted as 'mind' and 'consciousness,' are present in the most primitive species" (Reber, 2016).
+Reber founds his model on several principles: "Complexity has its roots in simplicity. Evolution has a pyramidal schema. Older forms and functions lie at the base, the more recently evolved ones toward the zenith .... In virtue of the nature of pyramidal systems, the older structures and the behaviors and processes that utilize them will be relatively stable, showing less individual-to-individual and species-to- species variation. They will also, in virtue of their foundational status, be robust and less likely to be lost. Adaptive forms and functions are not jettisoned; they are modified and, if the selection processes are effective, they will become more complex and capable of greater behavioral and mental flexibility and power" (Reber, 2016).
+Reber claims that his model has several conceptual and empirical virtues, among them: "(a) it (re)solves the problem of how minds are created by brainsthe "Hard Problem"by showing that the apparent difficulty results from a category error; (b) it redirects the search for the origins of mind from complex neural structures to foundational biome- chanical ones; and (c) it reformulates the long-term research focus from looking for 'miracle moments' where a brain is suddenly capable of making a mind to discovering how complex and sophisticated cognitive, emotional and behavioral functions evolve from more primitive ones" (Reber, 2016).
+In addressing the hard problem, Reber argues that the reason it looks "hard" is "because it assumes that there is some 'added' element that comes from having a mind." However, he says, "from the CBC perspective the answer is easily expressed. Organisms have minds, or the
+precursors of what we from our philosophy of mind perspective think of as minds, because they are an inherent component of organic form. What gets 'added' isn't ontologically novel; it's a gradual accretion of functions that are layered over and interlock with pre-existing ones" (Reber, 2016).
+In the CBC framework, "All experience is mental. All organisms that experience have minds, all have consciousness." Reber contends that this way of thinking repositions the problem, from how brains create consciousness (i.e., the hard problem) to how all experience is con- sciousness. "Instead of trying to grasp the neuro-complexities in brains that give rise to minds, we can redirect the focus toward understanding how particular kinds of basic, primitive organic forms came to have the bio-sensitivity that is the foundation of subjectivity." Reber recognizes that "this argument requires a commitment to a biological reduc- tionism." It would also undermine Functionalism (9.1.3) in that mental states would be "intrinsically hardware dependent" (Reber, 2016).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Reber, 2016)', '(Reber, 2016)', '(Reber, 2016)', '(Reber, 2016)', '(Reber, 2016)']
+
+    Filtered References:
+    Ransford, Emanuel, 2023. Quantum panpsychism and the light bulb metaphor. https://
+galileocommission.org/wp-content/uploads/2023/12/Ransford-GC-Oct.23.pdf.
+Reber, Arthur, 2016. Caterpillars, consciousness and the origins of mind. Anim.
+Sentience 11 (1). https://doi.org/10.51291/2377-7478.1124.
+Reber, Arthur, 2018. The First Minds: Caterpillars, Karyotes, and Consciousness. Oxford
+
+
+    
+2024-10-26 02:02:04,594 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Cellular Basis of Consciousness (CBC)",
+    "description": "A theory proposed by Arthur Reber that posits consciousness and mind are inherent features of all living organisms, emerging with life itself. It argues that even the most primitive unicellular organisms possess a form of consciousness, rejecting the notion that minds are solely computational and unique to complex brains. The theory emphasizes that all experience is mental and that the origins of mind should be traced back to basic biological functions rather than complex neural structures.",
+    "categories": ["Biological Consciousness", "Evolutionary Psychology"]
+  }
+}
+```
+2024-10-26 02:02:04,594 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Arthur Reber",
+    "biography": "Arthur Reber is a cognitive psychologist known for his work on the Cellular Basis of Consciousness (CBC), which argues that consciousness is an inherent feature of all living organisms, including the most primitive forms of life. He challenges traditional views of mind and consciousness as unique to complex brains, emphasizing the evolutionary and biological foundations of sentience."
+  }
+}
+```
+2024-10-26 02:02:04,594 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Reber, Arthur, 2016. Caterpillars, consciousness and the origins of mind. Anim. Sentience 11 (1). https://doi.org/10.51291/2377-7478.1124.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Cellular Basis of Consciousness (CBC)"
+    },
+    {
+      "citation": "Reber, Arthur, 2018. The First Minds: Caterpillars, Karyotes, and Consciousness. Oxford.",
+      "material_type": "Book",
+      "associated_theory_name": "Cellular Basis of Consciousness (CBC)"
+    },
+    {
+      "citation": "Ransford, Emanuel, 2023. Quantum panpsychism and the light bulb metaphor. https://galileocommission.org/wp-content/uploads/2023/12/Ransford-GC-Oct.23.pdf.",
+      "material_type": "Report",
+      "associated_theory_name": "Cellular Basis of Consciousness (CBC)"
+    }
+  ]
+}
+```

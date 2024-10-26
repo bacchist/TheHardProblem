@@ -1,0 +1,61 @@
+2024-10-26 02:09:48,029 - DEBUG - Processing Section 186
+2024-10-26 02:09:52,668 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher-theologian Keith Ward's "personal idealism" integrates his philosophical convictions about consciousness and souls, idealism in Eastern traditions, and his Christian faith (Ward, 2022). It's a heady brew.
+Ward describes souls as "the embodied agents which are created by God." To build his case, he cites the "huge gap in modern culture be- tween neurophysiologists and old-fashioned philosophers" (musing, "We thought we were very trendy in our time"). It's a fundamental, philosophical divide, he says, and from his perspective, he begins from consciousness, puts consciousness first, because "this is where all knowledge starts ... your starting point is perception, a set of percep- tions, a set of concepts. And from that, you build up a picture of what the world is like" (Ward, 2006).
+Ward stresses "you can never get rid of consciousness." He is firm: "From where I sit, I can just say whatever view you come up with, consciousness is not reducible to particles which are publicly observable in space and time." He is adamant: "I will just not give way on thisbecause it seems to me so obvious; I don't see how anyone can deny it." Responding to questions about the putative illusion of conscious unity, Ward is dismissive (politely): "You're inventing a problem."
+Ward's idealism surfaces when contrasting dualism. His claim, even for explaining Descartes, is not that mind and body/brain are separate substances that must somehow interact, but rather are subject and ob- ject, the thinker and perceiver as the subject who is aware of its per- ceptions and which is engaged in having its thoughts. "What you've got is a subject thinking. The subject is not a different substance."
+Ward then rationalizes his idealism. "The whole world is actually a construct with perceptions and feelings and thoughts. But the agent who is having these perceptions, the perceiver, the thinker, is not another thing somewhere. So, subjects and objects are always together. There's no subject without an object. There's no mind without some objectivity, some environment in which it's embodied. That's why I see embodiment as an essential part of mentality, and of being a person. When you're talking about the mind, you're talking about a subject, an embodied subject, who nevertheless is not to be identified simply by physical facts which are publicly observable. I think that's what the soul is: An embodied subject of intellectual and moral agency" (Ward, 2006).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Ward, 2022)', '(Ward, 2006)', '(Ward, 2006)']
+
+    Filtered References:
+    com/video/walda-006/?referrer=7736.
+Wallace, David, 2016c. What Is Panpsychism. Closer To Truth.
+Ward, Keith, 2006. Why immortal souls? Closer To Truth -. https://closertotruth.co
+m/video/warke-023/?referrer=8169. Keith Ward on Closer To Truth—33 CTT videos
+and 17 CTT TV episodes—https://closertotruth.com/contributor/keith-ward/.
+
+
+    
+2024-10-26 02:09:52,668 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Personal Idealism",
+    "description": "A philosophical perspective that emphasizes consciousness as the starting point of knowledge, positing that souls are embodied agents created by God. It argues against the reduction of consciousness to physical particles and asserts that subjects and objects are inherently linked, with embodiment being essential to mentality.",
+    "categories": ["Philosophy", "Idealism", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 02:09:52,668 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Keith Ward",
+    "biography": "Keith Ward is a philosopher-theologian known for his work on personal idealism, which integrates philosophical convictions about consciousness and souls with Eastern traditions and Christian faith. He emphasizes the importance of consciousness in understanding knowledge and critiques the reduction of consciousness to physical phenomena."
+  }
+}
+```
+2024-10-26 02:09:52,668 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Ward, Keith, 2022. Personal Idealism. Closer To Truth.",
+      "material_type": "Video",
+      "associated_theory_name": "Personal Idealism"
+    },
+    {
+      "citation": "Ward, Keith, 2006. Why immortal souls? Closer To Truth -. https://closertotruth.com/video/warke-023/?referrer=8169. Keith Ward on Closer To Truth—33 CTT videos and 17 CTT TV episodes—https://closertotruth.com/contributor/keith-ward/.",
+      "material_type": "Video",
+      "associated_theory_name": "Personal Idealism"
+    },
+    {
+      "citation": "Wallace, David, 2016c. What Is Panpsychism. Closer To Truth.",
+      "material_type": "Video",
+      "associated_theory_name": "Personal Idealism"
+    }
+  ]
+}
+```

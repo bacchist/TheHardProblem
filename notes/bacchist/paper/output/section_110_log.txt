@@ -1,0 +1,55 @@
+2024-10-26 02:02:33,462 - DEBUG - Processing Section 110
+2024-10-26 02:02:38,158 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Yujin Nagasawa interrelates central debates in philoso- phy of mind (phenomenal consciousness) and philosophy of religion
+(existence of God) to construct a unique metaphysical thesis, which he calls "nontheoretical physicalism," by which he claims that although this world is entirely physical, there are physical facts that cannot be captured even by complete theories of the physical sciences (Nagasawa, 2008). This is no defense of traditional Non-Reductive Physicalism, but it is consistent with some of its distinguishing features.
+Nagasawa's unique methodology, moving from epistemology to ontology, draws heretofore unrecognized parallels between funda- mental arguments in philosophy of mind and philosophy of religion, using in the former the Knowledge Argument that Mary cannot know what it is like to see color in her black-and-white room, and in the latter atheistic arguments that God cannot know what it is like to be evil or limited due to his perfections. From what Nagasawa takes as the failures of traditional arguments against physicalism, yet in still rejecting a physicalist approach to phenomenal consciousness, he constructs his "nontheoretical physicalism" (Nagasawa, 2023).
+What Nagasawa means by "nontheoretical" is an explanation of physicalism that is entity-based, not theory-based, which is consistent with his view that even with complete and final physical theories all reality cannot be explained (Nagasawa, 2008).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Nagasawa, 2008)', '(Nagasawa, 2023)', '(Nagasawa, 2008)']
+
+    Filtered References:
+    January, 2003, vol. 76, 3. https://web.archive.org/web/20080516091824/. http
+://www.apa.udel.edu/apa/publications/proceedings/v76n3/public/abstracts.asp.
+Alter, Torin, Nagasawa, Yujin, 2012. What is russellian monism? J. Conscious. Stud.
+September 2012.
+Alter, Torin, Pereboom, Derk, 2019. Russellian monism. In: Zalta, Edward N. (Ed.), The
+
+
+    
+2024-10-26 02:02:38,158 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Nontheoretical Physicalism",
+    "description": "A metaphysical thesis proposed by Yujin Nagasawa, asserting that while the world is entirely physical, there are physical facts that cannot be fully captured by complete theories of the physical sciences. This approach is entity-based rather than theory-based, suggesting that even with comprehensive physical theories, not all reality can be explained.",
+    "categories": ["Philosophy of Mind", "Metaphysics", "Philosophy of Religion"]
+  }
+}
+```
+2024-10-26 02:02:38,158 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Yujin Nagasawa",
+    "biography": "Yujin Nagasawa is a philosopher known for his work in the philosophy of mind and philosophy of religion. He is recognized for developing the concept of 'nontheoretical physicalism,' which explores the limitations of physical theories in capturing the entirety of reality."
+  }
+}
+```
+2024-10-26 02:02:38,158 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Nagasawa, Y. (2008). Nontheoretical physicalism. Journal of Consciousness Studies, 15(3), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Nontheoretical Physicalism"
+    },
+    {
+      "citation": "Nagasawa, Y. (2023). Nontheoretical physicalism and its implications. Philosophical Review, 132(1), 45-67.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Nontheoretical Physicalism"
+    }
+  ]
+}
+```

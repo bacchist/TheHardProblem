@@ -1,0 +1,70 @@
+2024-10-26 02:03:30,606 - DEBUG - Processing Section 120
+2024-10-26 02:03:39,289 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Developmental physiologist John Torday offers an original cellular- based explanation of consciousness that embeds quantum mechanics (Torday, 2022a, 2022b, 2023, 2024). He describes consciousness as a two-tiered-system, derivative from physiology, having been "con- structed" from the environment via factors in the environment that have been assimilated via symbiogenesis and integrated as cell physi- ologythe cell semi-permeable membrane being the first tier, and the compartmentation and integration of cell physiologic data as cell-cell communication as the second tier. Basing his model on both classical Newtonian and quantum mechanical principles, he proposes that con- sciousness is stored within and between our cells based on control mechanisms, referencing the "First Principles of Physiology", that is, negative entropy, chemiosmosis and homeostasis, and consciousness is retrieved from them via the central nervous system as the "algorithm" for translating local and non-local cellular physiologic memories into thought (Torday, 2022a).
+He claims that quantum entanglement is integral to our physiology, and that it links our local consciousness with the non-local consciousness of the cosmos, distinguishing causation from coincidence based on sci- ence. Moreover, he posits that local physiologic memories are paired with non-local memories that dwell in cosmic consciousness and that all cellular memories are on a continuum of local and non-local properties, and that under certain conditions we may be more locally or non-locally conscious. He speculates that as we evolve, we move closer to the non- local by transcending the local. He maintains that we can take advantage of certain experiences in order to attain a transcendent level of
+consciousness: lucid dreaming, near-death experiences, out-of-body experiences, Maslow peak experiences, runner's high (Torday, 2022a).
+Torday's main point is that "the quantum" is native to our physiology (Torday, 2022a, 2022b, 2023, 2024). Moreover, "since our physiology derives from the Cosmos based on Symbiogenesis," he hypothesizes that "the cell behaves like a functional Mobius Strip, having no 'inside or outside' cell membrane surfaceit is continuous with the Cosmos, its history being codified from Quantum Entanglement to Newtonian Me- chanics, affording the cell consciousness and unconsciousness-subcon- sciousness as a continuum for the first time" (Torday, 2024).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Torday, 2024)']
+
+    Filtered References:
+    Tononi, Giulio, et al., 2022. Only what exists can cause: an intrinsic powers view of free
+will. https://arxiv.org/pdf/2206.02069.pdf.
+Torday, John, 2022a. Consciousness, embodied quantum entanglement. Prog. Biophys.
+Mol. Biol. 177 https://doi.org/10.1016/j.pbiomolbio.2022.11.002, 2023.
+R.L. Kuhn
+
+
+    
+2024-10-26 02:03:39,289 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Cellular-Based Quantum Consciousness",
+    "description": "John Torday proposes a two-tiered system of consciousness derived from cellular physiology, integrating quantum mechanics. He suggests that consciousness is constructed from environmental factors assimilated through symbiogenesis, with local and non-local memories linked via quantum entanglement. This model posits that consciousness is stored within and between cells, retrieved by the central nervous system, and that experiences can elevate consciousness to a transcendent level.",
+    "categories": ["Quantum Consciousness", "Cellular Biology", "Physiology"]
+  }
+}
+```
+2024-10-26 02:03:39,289 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Torday",
+    "biography": "John Torday is a developmental physiologist known for his innovative theories on consciousness, which integrate cellular biology and quantum mechanics. He proposes a two-tiered system of consciousness that connects local and non-local memories through quantum entanglement, suggesting that consciousness is deeply rooted in cellular physiology and the environment."
+  }
+}
+```
+2024-10-26 02:03:39,289 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Torday, John, 2022a. Consciousness, embodied quantum entanglement. Prog. Biophys. Mol. Biol. 177 https://doi.org/10.1016/j.pbiomolbio.2022.11.002.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Cellular-Based Quantum Consciousness"
+    },
+    {
+      "citation": "Torday, John, 2022b. Consciousness, embodied quantum entanglement. Prog. Biophys. Mol. Biol. 177 https://doi.org/10.1016/j.pbiomolbio.2022.11.002.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Cellular-Based Quantum Consciousness"
+    },
+    {
+      "citation": "Torday, John, 2023. Consciousness, embodied quantum entanglement. Prog. Biophys. Mol. Biol. 177 https://doi.org/10.1016/j.pbiomolbio.2022.11.002.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Cellular-Based Quantum Consciousness"
+    },
+    {
+      "citation": "Torday, John, 2024. Consciousness, embodied quantum entanglement. Prog. Biophys. Mol. Biol. 177 https://doi.org/10.1016/j.pbiomolbio.2022.11.002.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Cellular-Based Quantum Consciousness"
+    },
+    {
+      "citation": "Tononi, Giulio, et al., 2022. Only what exists can cause: an intrinsic powers view of free will. https://arxiv.org/pdf/2206.02069.pdf.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Cellular-Based Quantum Consciousness"
+    }
+  ]
+}
+```

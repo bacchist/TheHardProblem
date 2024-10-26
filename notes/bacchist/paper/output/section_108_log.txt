@@ -1,0 +1,64 @@
+2024-10-26 02:02:24,922 - DEBUG - Processing Section 108
+2024-10-26 02:02:33,437 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Christian philosopher Nancey Murphy, reflecting increasing Chris- tian scholarship calling for acceptance of physicalism, argues that the theological workability of physicalism depends on the success of an argument against reductionism. She takes Non-Reductive Physicalism, a common term in philosophy of mind, to "signal opposition to
+anthropological dualisms of body and either mind or soul, as well as to physicalist accounts that reduce humans to nothing but complex ani- mals." She sets herself the task of showing that "non-reductive physi- calism is philosophically defensible, compatible with mainstream cognitive neuroscience, and is also acceptable biblically and the- ologically"a task made more difficult because she must be able to explain "how Christians for centuries could have been wrong in believing dualism to be biblical teaching" (Murphy, 2017, 2018).
+To Murphy, part of the answer lies in translation. She focuses on the Septuagint, a Greek translation of the Hebrew scriptures that dates from around 250 BC. This text translated Hebrew terminology into Greek, and "it then contained terms that, in the minds of Christians influenced by Greek philosophy, referred to constituent parts of humans. Later Chris- tians have obligingly read and translated them in this way." A key instance, she says, is "the Hebrew word nephesh, which was translated as psyche in the Septuagint and later into English as 'soul' ... In most cases the Hebrew or Greek term is taken simply to be a way of referring to the whole living person" (Murphy, 2018).
+Murphy is impressed by how many capacities or faculties of the soul, as attributed by Thomas Aquinas, are now well explained by cognitive science and neurobiology. She is moved by "localization studiesthat is, research indicating not only that the brain is involved in specific mental operations, but that very specific regions are."
+That gives her the physicalismthe easy part, I'd say. What about the non-reductivethe hard part?
+An obvious answer to the problem of neurobiological reductionism, Murphy says, would be the presence and power of downward causation or whole-part causation. That is, if causal reductionism is the thesis that all causation is from part to whole, then the complementary alternative causation would be from whole to part. If we describe a more complex system, such as an organism, as a higher-level system than the simple sum of its biological parts, then causal reductionism is bottom-up causation, and the alternative, causal anti-reductionism, or causal non- reductionism, is top-down or downward causation (Murphy, 2017).
+To support Non-reductive Physicalism by undermining reductionist determinism, Murphy recruits contemporary concepts in systems the- ory, such as chaos theory, non-linear dynamics, complex adaptive sys- tems, systems probabilities, and systems biology. Thus, Murphy posits, an understanding of downward causation in complex systems allows for the defeat of neurobiological reductionism.
+Finally, Murphy muses that "non-reductive physicalism, while it is the term most often used in philosophy, is perhaps not the best for purposes of Christian anthropology, because, at least by connotation, it places disproportionate stress on the aspect of our physicality." She quotes theologian Veli-Matti K arkk ainen in proposing a replacement: "multi-aspect monism" (Murphy, 2018).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Murphy, 2018)', '(Murphy, 2017)', '(Murphy, 2018)']
+
+    Filtered References:
+    Progress in Biophysics and Molecular Biology 190 (2024) 28–169
+159
+Brown, Warren, Maloney, H. Newton, Murphy, Nancy, 1998. Whatever Happened to the
+Soul? Scientific and Theological Portraits of Human Nature. Fortress Press.
+Buckner, R.L., 2013. The brain’s default network: origins and implications for the study
+
+
+    
+2024-10-26 02:02:33,437 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Non-Reductive Physicalism",
+    "description": "A philosophical position that opposes dualistic views of human nature and asserts that while humans are physical beings, their mental states cannot be fully reduced to physical processes. It emphasizes the importance of downward causation, where higher-level systems can influence lower-level components.",
+    "categories": ["Philosophy of Mind", "Physicalism", "Theology"]
+  }
+}
+```
+2024-10-26 02:02:33,437 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Nancey Murphy",
+    "biography": "Nancey Murphy is a Christian philosopher known for her work in the philosophy of mind and theology, particularly her advocacy for Non-Reductive Physicalism, which seeks to reconcile physicalist views with Christian anthropology. She has contributed significantly to discussions on the implications of cognitive science for understanding human nature."
+  }
+}
+```
+2024-10-26 02:02:33,437 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Murphy, N. (2017). Non-reductive physicalism and the challenge of reductionism. Progress in Biophysics and Molecular Biology, 190, 28–169.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Non-Reductive Physicalism"
+    },
+    {
+      "citation": "Murphy, N. (2018). Whatever Happened to the Soul? Scientific and Theological Portraits of Human Nature. Fortress Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Non-Reductive Physicalism"
+    },
+    {
+      "citation": "Murphy, N. (2018). Non-reductive physicalism and biblical interpretation. Progress in Biophysics and Molecular Biology, 190, 28–169.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Non-Reductive Physicalism"
+    }
+  ]
+}
+```

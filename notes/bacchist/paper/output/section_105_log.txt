@@ -1,0 +1,57 @@
+2024-10-26 02:02:09,427 - DEBUG - Processing Section 105
+2024-10-26 02:02:13,817 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Developmental and synthetic biologist Michael Levin introduces "a framework for understanding and manipulating cognition in uncon- ventional substrates," which he calls 'TAMETechnological Approach to Mind Everywhere." He asserts that creating "novel embodied cogni- tive systems (otherwise known as minds) in a very wide variety of chimeric architectures combining evolved and designed material and
+software"via synthetic biology and bioengineering"are disrupting familiar concepts in the philosophy of mind, and require new ways of thinking about and comparing truly diverse intelligences, whose composition and origin are not like any of the available natural model species." TAME, Levin says, "formalizes a non-binary (continuous), empirically-based approach to strongly embodied agency," and it "provides a natural way to think about animal sentience as an instance of collective intelligence of cell groups, arising from dynamics that mani- fest in similar ways in numerous other substrates" (Levin, 2022).
+By focusing on cognitive function, not on phenomenal or access consciousness, Levin takes "TAME's view of sentience as fundamentally tied to goal-directed activity," noting carefully that "only some aspects of which can be studied via third-person approaches." Provisionally, Levin suggests that consciousness "comes in degrees and kinds (is not binary)," for the same reasons he argues for continuity of cognition: "if consciousness is fundamentally embodied, the plasticity and gradual malleability of bodies suggest that it is a strong requirement for pro- ponents of phase transitions to specify what kind of 'atomic' (not further divisible) bodily change makes for a qualitative shift in capacity con- sciousness" (Levin, 2022).
+Although Levin takes the null or default hypothesis to be the rela- tively smooth continuity of consciousness across species and phyloge- netically, he hedges that "the TAME framework is not incompatible with novel discoveries about sharp phase transitions." He points to future, radical brain-computer interfaces in human patients as "perhaps one avenue where a subject undergoing such a change can convince them- selves, and perhaps others, that a qualitative, not continuous, change in their consciousness had occurred."
+In a radical implication of TAME, Levin argues that "while 'embodiment' is critical for consciousness, it is not restricted to physical bodies acting in 3D space, but also includes perception-action systems working in all sorts of spaces." This implies, he says, "counter to many people's intuitions, that systems that operate in morphogenetic, tran- scriptional, and other spaces should also have some (if very minimal) degree of consciousness. This in turn suggests that an agent, such as a typical modern human, is really a patchwork of many diverse con- sciousnesses, only one of which is usually capable of verbally reporting its states (and, not surprisingly, given its limited access and self- boundary, believes itself to be a unitary, sole owner of the body)."
+Levin remains "skeptical about being able to say anything definitive about consciousness per se (as distinct from correlates of consciousness) from a 3rd-person, objective perspective." Yet, he muses, "The devel- opmental approach to the emergence of consciousness on short, onto- genetic timescales complements the related question on phylogenetic timescales, and is likely to be a key component of mature theories in this field" (Levin, 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Levin, 2022)', '(Levin, 2022)', '(Levin, 2022)']
+
+    Filtered References:
+    Leslie, John, 2013. Existing because ethically required. The mystery of existence. In:
+John, Leslie, Robert Lawrence, Kuhn (Eds.), Wiley-Blackwell, pp. 126–141.
+Levin, Michael, 2022. Technological approach to mind everywhere: an experimentally-
+grounded framework for understanding diverse bodies and minds, 24 March 2022
+Front. Syst. Neurosci. 16. https://doi.org/10.3389/fnsys.2022.768201, 2022.
+
+
+    
+2024-10-26 02:02:13,817 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Technological Approach to Mind Everywhere (TAME)",
+    "description": "A framework proposed by Michael Levin for understanding and manipulating cognition in unconventional substrates, emphasizing a non-binary, continuous approach to consciousness that is fundamentally tied to goal-directed activity and embodied agency.",
+    "categories": ["Cognitive Science", "Philosophy of Mind", "Synthetic Biology"]
+  }
+}
+```
+2024-10-26 02:02:13,817 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Michael Levin",
+    "biography": "Michael Levin is a developmental and synthetic biologist known for his work on the Technological Approach to Mind Everywhere (TAME), which explores cognition in unconventional substrates and challenges traditional concepts in the philosophy of mind."
+  }
+}
+```
+2024-10-26 02:02:13,817 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Levin, Michael, 2022. Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds, 24 March 2022 Front. Syst. Neurosci. 16. https://doi.org/10.3389/fnsys.2022.768201, 2022.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Technological Approach to Mind Everywhere (TAME)"
+    },
+    {
+      "citation": "Leslie, John, 2013. Existing because ethically required. The mystery of existence. In: John, Leslie, Robert Lawrence, Kuhn (Eds.), Wiley-Blackwell, pp. 126–141.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Technological Approach to Mind Everywhere (TAME)"
+    }
+  ]
+}
+```

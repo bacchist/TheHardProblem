@@ -1,0 +1,56 @@
+2024-10-26 02:07:02,177 - DEBUG - Processing Section 156
+2024-10-26 02:07:13,528 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Dualism is the oldest and most ubiquitous theory of consciousness in the sense that nonphysical aspects of the world and mind, such as
+animism and ancestor worship, had long seemed the default assumption of millennia of pre-modern human groups and cultures. Plato's description of immortal souls in ancient Greece, where the person was entirely immaterial, and the profound ruminations about consciousness in ancient India, debating individual and cosmic varieties, were consistent with common intuitions and thus readily accepted.
+On the other hand, biblical accounts of the nature of the person, especially in the Hebrew scriptures, stress human physicality and mor- tality, with no obvious assertions about immortal souls (Van Inwagen, 1995). In Genesis, humans became (were not inherently) "a living soul" (Gen. 2:7). Ezekiel writes, "The soul that sinneth, it shall die" (Ezek. 18:20). Paul, in the New Testament, has "the wages of sin is death" (Rom. 6:23). Granted, theologians can interpret "death," as, say, a soul that is separated from God. But the Psalmist is clear, saying of humans, "His breath goeth forth, he returneth to his earth; in that very day his thoughts perish" (Ps. 146:4). And Solomon is unambiguous, "the dead know nothing" (Eccles. 9:5).
+Nonetheless, the overwhelming majority of adherents to the Abra- hamic religions of Judaism, Christianity and Islam, along with most of their religious teachers, assume that human beings are, in essence, a soul and that the soul has some kind of future beyond death.
+John Leslie describes the historical understanding of souls as "exis- tentially unified," noting, "When the parts of a soul were viewed as existentially unified at each particular instant, it wasn't thought that God, when manufacturing unified souls, had to do some kind of special mixing involving many separate steps. It was believed simply that souls had, from the moment of their creation by God, the property of being complex yet existentially unified. Many distinguishable elements of such complexity were present when a soul had a thought or an experience, but still, a soul remained existentially unified at each instant and remained the very same soul at successive instants" (Leslie, 2006).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Leslie, 2006)']
+
+    Filtered References:
+    Nature 21. December 2023. https://www.nature.com/articles/d41586-02
+3-04047-6.
+Leslie, John, 2001. Infinite Minds. Oxford University Press.
+Leslie, John, 2006. Is consciousness irreducible, closer to truth -. https://closertotruth.co
+m/video/lesjo-008/?referrer=7845. Leslie, John. Closer To Truth—36 CTT videos
+
+
+    
+2024-10-26 02:07:13,528 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Dualism",
+    "description": "A theory of consciousness that posits the existence of nonphysical aspects of the mind, suggesting that the mind and body are distinct entities. This view has historical roots in various cultures and philosophies, including ancient Greek and Indian thought, and is reflected in religious beliefs about the soul.",
+    "categories": ["Philosophy", "Religious Studies"]
+  }
+}
+```
+2024-10-26 02:07:13,528 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Leslie",
+    "biography": "John Leslie is a Canadian philosopher known for his work in the philosophy of mind, metaphysics, and the nature of consciousness. He has written extensively on the concept of souls and their existential unity, contributing to discussions on dualism and the implications of consciousness."
+  }
+}
+```
+2024-10-26 02:07:13,528 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Leslie, John, 2006. Is consciousness irreducible, closer to truth -. https://closertotruth.com/video/lesjo-008/?referrer=7845.",
+      "material_type": "Video",
+      "associated_theory_name": "Dualism"
+    },
+    {
+      "citation": "Leslie, John, 2001. Infinite Minds. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Dualism"
+    }
+  ]
+}
+```

@@ -1,0 +1,55 @@
+2024-10-26 02:09:34,616 - DEBUG - Processing Section 183
+2024-10-26 02:09:38,778 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Quantum physicist Amit Goswami proposes that consciousness, not matter, is the primary "stuff" of creation, and indeed it is consciousness that creates the material world, not the other way around. He uses quantum physics, particularly the Copenhagen interpretation (where an "observer" is required for the collapse of the wave function), to disabuse us of the false notion that matter is simple, solid and foundational. Consciousness, he says, "is the agency that collapses the wave of a quantum object, which exists in potentia, making it an immanent par- ticle in the world of manifestation" (Goswami, 1993; Woronko, 2020).
+Goswami sees Idealism as not only the most parsimonious theory of consciousness but also mitigating and perhaps solving the famous par- adoxes of quantum mechanics, such as entanglement, superposition and non-locality.
+The key, Goswami offers, is that there is only one consciousness in the universe, one subject of experience, in which we all (somehow) participate. The ego, he says "is constricted consciousness, much like a localized object. You cannot understand consciousness without experi- encing expanded states of consciousness."
+Consciousness, according to Goswami, plays an active role in con- structing physical reality by "choosing" the results of a measurement. He views our mental activities, our thoughts and feelings, as "mental ob- jects" in a sense similar to material objects, subject to the same laws of physics, particularly quantum mechanics. Thus, Goswami envisions the brain, not simply as a passive measuring device that intervenes in the quantum world, but more significantly as an active quantum system that selects and determines which unconscious processes become conscious. Goswami concludes that all creation is interconnected, including us (Goswami, 1993).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Goswami, 1993)']
+
+    Filtered References:
+    Gomez-Marin, Arnau, Juan, 2019. The false problem of consciousness. Pre-print.
+https://philsci-archive.pitt.edu/16804/.
+Goswami, Amit, 1993. The Self-Aware Universe. Tarcher/Putnam.
+Goyal, Madhav, Singh, Sonal, et al., 2014. Meditation programs for psychological stress
+and well-being - a systematic review and meta-analysis. JAMA Intern. Med. 174 (3)
+
+
+    
+2024-10-26 02:09:38,778 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Idealism and Consciousness",
+    "description": "A theory proposed by Amit Goswami that posits consciousness as the fundamental essence of reality, asserting that it is consciousness that creates the material world. This perspective utilizes quantum physics to argue that consciousness plays an active role in shaping physical reality and resolving paradoxes in quantum mechanics.",
+    "categories": ["Quantum Consciousness", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:09:38,778 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Amit Goswami",
+    "biography": "Amit Goswami is a theoretical physicist and author known for his work in quantum physics and consciousness. He advocates for the idea that consciousness is the primary substance of the universe, proposing that it plays a crucial role in the creation of physical reality."
+  }
+}
+```
+2024-10-26 02:09:38,779 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Goswami, Amit, 1993. The Self-Aware Universe. Tarcher/Putnam.",
+      "material_type": "Book",
+      "associated_theory_name": "Idealism and Consciousness"
+    },
+    {
+      "citation": "Woronko, J. (2020). Title of the work. Publisher.",
+      "material_type": "Book",
+      "associated_theory_name": "Idealism and Consciousness"
+    }
+  ]
+}
+```

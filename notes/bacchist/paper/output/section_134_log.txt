@@ -1,0 +1,35 @@
+2024-10-26 02:04:54,851 - DEBUG - Processing Section 134
+2024-10-26 02:04:58,165 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: In the theory of Qualia Force, consciousness is a deep feature of physical reality that emerges from the fields and particles of funda- mental physics, perhaps in the strong emergence sense that it cannot be explained by fundamental physics, even with knowledge beyond the current, even in principle. This qualia force differs from traditional panpsychism, where consciousness is co-fundamental with the deepest laws of physics. Although in some sense derivative from the funda- mental laws of physics, this qualia force sustains its own faculties and capacities.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:04:58,165 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Qualia Force",
+    "description": "A theory that posits consciousness as a deep feature of physical reality, emerging from fundamental physics in a way that cannot be fully explained by it, suggesting a strong emergence. It differs from panpsychism by asserting that consciousness, while derivative from fundamental laws, sustains its own faculties and capacities.",
+    "categories": ["Emergence", "Consciousness Studies", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:04:58,165 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Unknown",
+    "biography": "The theory of Qualia Force is not attributed to a specific theorist in the provided text, and thus the author remains unidentified."
+  }
+}
+```
+2024-10-26 02:04:58,165 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```

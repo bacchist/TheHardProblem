@@ -1,0 +1,91 @@
+2024-10-26 02:02:42,739 - DEBUG - Processing Section 112
+2024-10-26 02:02:46,300 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Northoff frames his views on consciousness (1.2.12) as "non-reduc- tive neurophilosophy," which, he says, is "primarily a methodological approach," a particular strategy that takes into account "certain phe- nomena which otherwise would remain outside our scope [conscious- ness studies]." He deems "the link of conceptual models and ontological
+theories with empirical data to be key in providing insight into brain- mind connection and its subjectivity" (Northoff, 2022).
+Paraphrasing Kant, Northoff says that "brain data without brain- mind models are blind, brain-mind models without brain data are empty." Thus, Northoff has non-reductive neurophilosophy allowing for "a systematic and bilateral connection of theoretical concepts and empirical data, of philosophy and neuroscience." His emphasis is on "systematic," by providing and defining "different steps in how to link concepts and facts in a valid way without reducing the one to the respective other." Taken in such sense, Northoff considers non-reductive neurophilosophy "a methodological strategy of analyzing the relation- ship of concepts and facts just like there are specific methods of logical analyses in philosophy and empirical data analysis in neuroscience." In other words, "non-reductive neurophilosophy is a methodological tool at the interface of philosophy and neuroscience. As such it can be applied to problems in both philosophy and neuroscience" (Northoff, 2022).
+11. Quantum theories
+Quantum theories of consciousness take seriously the idea that quantum mechanics plays a necessary, if not sufficient role, in the spe- cific generation of phenomenal consciousness in certain physical entities like brainsbeyond the general application of quantum mechanics in all physical entities. The kinds of quantum theories or models on offer differ radically.
+Philosopher of science Paavo Pylkk anen explores whether the dynamical and holistic features of conscious experience might reflect "the dynamic and holistic quantum physical processes associated with the brain that may underlie (and make possible) the more mechanistic neurophysiological processes that contemporary cognitive neuroscience is measuring." If so, he says, "these macroscopic processes would be a kind of shadow, or amplification of the results of quantum processes at a deeper (pre-spatial or 'implicate') level where our minds and conscious experience essentially live and unfold." At the very least, Pylkk anen says, "a quantum perspective will help a 'classical' consciousness theo- rist to become better aware of some of the hidden assumptions in his or her approach." What quantum theory is all about, he stresses, is "learning, on the basis of scientific experiments, to question the 'obvious' truths about the nature of the physical world and to come up with more coherent alternatives" (Pylkk anen, 2018).
+There is certainly growing interest in the putative quantum-con- sciousness nexus. For example, Quantum and Consciousness Revisited, with papers the product of two conferences, present various philo- sophical approaches to quantum paradoxes including further consider- ations of the Copenhagen Interpretation and alternatives with implications for consciousness studies, mathematics and biology. Topics include observation and measurement; collapse of the wave function; and time and gravity. All the papers, the editors write, "reopen the questions of consciousness and meaning which occupied the minds of the early thinkers of quantum physics" (Kafatos et al., 2024).
+In his technical review article, "Quantum Approaches to Con- sciousness," theoretical physicist Harald Atmanspacher describes three basic approaches to the question of whether quantum theory can help understand consciousness: (1) consciousness as manifestation of quan- tum processes in the brain, (2) quantum concepts elucidating con- sciousness without referring to brain activity, and (3) matter and consciousness as dual aspects of one underlying reality (Atmanspacher, 2020a).
+For example, one approach considers how quantum field theory can describe why and how classical behavior emerges at the level of brain activity. The relevant brain states themselves are properly considered as classical states. The idea, Atmanspacher says, is "similar to a classical thermodynamical description arising from quantum statistical me- chanics," and works "to identify different regimes of stable behavior (phases, attractors) and transitions between them. This way, quantum
+field theory provides formal elements from which a standard classical description of brain activity can be inferred" (Atmanspacher, 2020a).
+Atmanspacher reports applications of quantum concepts to mental processes, focusing on complementarity, entanglement, dispersive states, and non-Boolean logic. These involve quantum-inspired concepts to address purely mental (psychological or cognitive) phenomena, without claiming that actual quantum mechanics is necessary to make it work. This includes research groups studying quantum ideas in cogni- tion (Patra, 2019). While the term "quantum cognition" has gained acceptance, Atmanspacher says that a more appropriate characteriza- tion would be "non-commutative structures in cognition," and he questions whether it is "necessarily true that quantum features in psy- chology imply quantum physics in the brain?" (Atmanspacher, 2020a).
+After reviewing major quantum theories of consciousness (several are discussed below), Atmanspacher suggests that progress is more likely made by investigating "mental quantum features without focusing on associated brain activity" (at least to begin with). Ultimately, he says, "mind-matter entanglement is conceived as the hypothetical origin of mind-matter correlations. This exhibits the highly speculative picture of a fundamentally holistic, psychophysically neutral level of reality from which correlated mental and material domains emerge" (Atmans- pacher's Dual-Aspect Monism, 14.7.).
+To position quantum theories of consciousness, consider each as representing one of two forms: (i) quantum processes, similar to those in diverse areas of biology (e.g., photosynthesis), that uniquely empower or enable the special activities of cells, primarily neurons, to generate consciousness; and (ii) the more radical claim that these two great mysteries, consciousness and quantum theory, are intimately connected such that the solution to both mysteries can be solved only together.
+Physicist Carlo Rovelli disagrees. Consciousness and quantum me- chanics, he says, have no special, intimate relationship. With respect to quantum mechanics, Rovelli says, "Consciousness never played a role ... except for some fringe speculations that I do not believe have any solid ground. The notion of 'observer' should not be misunderstood. In quantum physics parlance an 'observer' can be a detector, a screen, or even a stone. Anything that is affected by a process. It does not need to be conscious, or human, or living, or anything of the sort" (Rovelli, 2022).
+Philosopher of physics David Wallace sees "potentially intriguing connections between consciousness and quantum mechanics, tied partly to the idea that traditional formulations of quantum mechanics seem to give a role to measurement or observationand, well, what is that?" He says, "the natural hypothesis is that measurement or observation is conscious perception," which somehow implies "a role of a conscious observer." Although this would be "extremely suggestive for connecting the two"consciousness and quantum mechanics"but you can con- nect them in a lot of ways." Some, Wallace says, might try to explain consciousness reductionistically in terms of quantum mechanical pro- cesses. But, "In my view, that works no better than explaining con- sciousness in terms of classical processes." However, "Another way is not try to reduce consciousness, but find roles for consciousness in quantum mechanics. That's one of the big questions about consciousness. What does it do? What is it here for? How can it affect the physical world? So, I'm at least taking seriously the idea that maybe consciousness plays a potential role in quantum mechanics. It's a version of the traditional idea that consciousness collapses the wave function. It's not an espe- cially popular idea among physicists these days, partly because it takes consciousness as fundamentalbut if, like me, you think there are in- dependent reasons to do that, then I think it's an avenue worth looking at" (Wallace, 2016b).
+Chalmers and McQueen readdress the question of whether con- sciousness collapses the quantum wave function. Noting that this idea was taken seriously by John von Neumann and Eugene Wigner but is now widely dismissed, they develop the idea by combining a mathe- matical theory of consciousness (Integrated Information Theory, 12) with an account of quantum collapse dynamics (continuous spontaneous
+localization). In principle, versions of the theory can be tested by ex- periments with quantum computers. The upshot is not that conscious- ness-collapse interpretations are clearly correct, but that there is a research program here worth exploring (Chalmers and McQueen, 2022).
+Physicist Tim Palmer argues that our ability for counterfactual thinkingthe existence of alternative worlds where things happen dif- ferentlywhich is both an exercise in imagination and a key prediction of quantum mechanicssuggests that "our brains are able to ponder how things could have been because in essence they are quantum computers, accessing information from alternative worlds" (he recruits the Many Worlds Interpretation of quantum mechanics). Consciousness (along with understanding and free will), he states, "involves appealing to counterfactual worlds" and thus "quantum computing is the key to consciousness" (Palmer, 2023).
+At the very least, for quantum processing to play a content or informational role in the brain it would require some mechanism that stores and transports quantum information in qubits for sufficiently long, macroscopic times. Moreover, the mechanism would need to entangle vast numbers of qubits, and then that entanglement would need to be translated into higher-level chemistry in order to influence how neurons trigger action potentials (Ouellette, 2016). Experiments with anesthetics and brain organoids hint that quantum effects in the brain may be in some way involved in consciousness (Musser, 2024).
+Although most physicists and neuroscientists have not taken quan- tum theories of consciousness seriously, such theories are proliferating, becoming more sophisticated and mainstream, and are increasingly backed up by claims of experimental evidence. Personally, I started out an incorrigible, utter skeptic about quantum consciousness; I'm still a skeptic, though no longer so incorrigible, no longer so utter.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Northoff, 2022)', '(Northoff, 2022)', '(Patra, 2019)', '(Rovelli, 2022)', '(Palmer, 2023)', '(Ouellette, 2016)', '(Musser, 2024)']
+
+    Filtered References:
+    Progress in Biophysics and Molecular Biology 190 (2024) 28–169
+166
+Northoff, Georg, 2021. Why is there Sentience? J. Conscious. Stud. 28 (7–8), 67–82,
+2021.
+Northoff, Georg, 2022. My way to non-reductive neurophilosophy. J. NeuroPhilosop. 1
+
+Books.
+Pascal, Andre, 2023. Bergson Vocabulary (Unpublished paper).
+Patra, S., 2023. Quantum-like cognition and reality. Paper in progress.
+Penrose, Roger, 1996. Shadows of the Mind: A Search for the Missing Science of
+Consciousness. Oxford University Press.
+informed by neuroimaging research with psychedelic drugs. Front. Hum. Neurosci.
+8—2014 https://doi.org/10.3389/fnhum.2014.00020, 03 February 2014.
+Carlo Rovelli, 2020. On what We Can Learn from the octopus Mind. BBC Science Focus.
+https://www.sciencefocus.com/nature/carlo-rovelli-on-what-we-can-learn-from-th
+e-octopus-mind.
+Consciousness Paperback (Bergson’s doctoral dissertation.).
+Bergson, Henri, 1896. Matter and Memory, 1990 (Mati`ere et M´emoire, 1896), 1990.
+translators N.M. Paul and W.S. Palmer. Zone Books.
+Bergson, Henri, 1920. Life and Consciousness. Mind-Energy. Henry Holt and Company.
+Berkovich-Ohana, A., Dor-Ziderman, Y., Trautwein, F.-M., Schweitzer, Y., Nave, O.,
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003588.
+Olson, Eric, Segal, Aaron, 2023. Do We Have a Soul? A Debate. Routledge.
+Ouellette, Jennifer, 2016. A new spin on the quantum brain. Quanta Magazine. htt
+ps://www.quantamagazine.org/a-new-spin-on-the-quantum-brain-20161102/.
+Ouellette, Jennifer, 2018. Brains may teeter near their tipping point. Quanta Magazine.
+Loorits, Kristjan, 2014. Structural qualia: a solution to the hard problem of
+consciousness, 2014 Front. Psychol. 5, 237. https://doi.org/10.3389/
+fpsyg.2014.00237. I learned about Loortis via George Musser, 2023.
+Loorits, Kristjan, 2018. The location and boundaries of consciousness: a structural realist
+approach. Rev. Philosop. Psychol. 9 (3) https://doi.org/10.1007/s13164-018-0385-
+
+    
+2024-10-26 02:02:46,300 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Non-reductive Neurophilosophy",
+    "description": "A methodological approach that emphasizes the systematic connection between theoretical concepts and empirical data in understanding the brain-mind relationship, without reducing one to the other.",
+    "categories": ["Neurophilosophy", "Methodology"]
+  }
+}
+```
+2024-10-26 02:02:46,300 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Georg Northoff",
+    "biography": "Georg Northoff is a prominent philosopher and neuroscientist known for his work in neurophilosophy, particularly his concept of non-reductive neurophilosophy, which seeks to bridge the gap between empirical neuroscience and philosophical inquiry into consciousness."
+  }
+}
+```
+2024-10-26 02:02:46,300 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Northoff, Georg, 2022. My way to non-reductive neurophilosophy. J. NeuroPhilosop. 1 Books.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Non-reductive Neurophilosophy"
+    }
+  ]
+}
+```

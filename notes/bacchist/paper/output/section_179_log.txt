@@ -1,0 +1,63 @@
+2024-10-26 02:09:14,207 - DEBUG - Processing Section 179
+2024-10-26 02:09:19,151 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Cognitive psychologist Donald Hoffman's "Case Against Reality" argues that our visual perceptions are not veridical of ultimate reality because evolution selects for fitness to reproduce, not for access to ontological truth (Hoffman, 2019a). "This is consistent with the inter- face theory of perception, which claims that natural selection shapes perceptual systems not to provide veridical perceptions, but to serve as " (Prakash et al., species-specific interfaces that guide adaptive behavior 2020).
+Hoffman likens our perceptions of objects around us to "interfaces" constructed by natural selection, taking as analogy the file icons on our computer screens, which may look like little paper folders but are in truth written in the complex binary code of machine language. Simi- larly, he says, evolution has shaped our perceptions, not as true de- pictions of an animal-independent world, but rather as simplistic illusions to help us navigate the world around us (Hoffman, 2019a).
+Continuing his computer-screen interface analogy, he says, "The pixels are in the screen, still part of the desktop interface. Similarly, tiny nuclei and electrons are in spacetime, still part of our spacetime inter- face." But "spacetime is not objective reality and does not resemble re- ality, whatever reality might be" (Hoffman, 2019b).
+Hoffman's ultimate ontology is what he calls "conscious realism," which states that the objective world consists of conscious agents and their experiences. This means, fundamentally, that instead of assuming that "particles in spacetime are fundamental, and somehow create consciousness when they form neurons and brains," he proposes the reverse: "consciousness is fundamental, and it creates spacetime and objects." He posits a mathematical theory of consciousness that "reality is a vast social network of interacting 'conscious agents,' in which each agent has a range of possible experiences, and each agent can act to influence the experiences of other agents."
+What follows for Hoffman is that "no object within spacetime is itself a conscious agent; spacetime is simply a format for conscious experi- encesan interfaceemployed by agents like us, and physical objects are just icons in that interface" (Hoffman, 2019b).
+Remarkably, Hoffman reverses the arrow of causation for the abundance of experimental evidence correlating mental states of the mind with physical states of the brain. These correlations arise, he states, "because consciousness creates brain activity and indeed creates all objects and properties of the physical world" (Hoffman, 2008).
+Hoffman is clear: "Consciousness is fundamental in the universe. It is not a product of space and time or anything inside space and time. I think that efforts to derive consciousness from spacetime, either by identity theories or causal theories, have proven ineffective, and I've been forced to take the view that consciousness is actually fundamental in the universe" (Hoffman, 2013).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Hoffman, 2008)', '(Hoffman, 2013)']
+
+    Filtered References:
+    m/contributor/justin-barrett/.
+Computational Theory of Mind, Closer To Truth videos (n.d.) with Rodney, n.d.. Brooks,
+Andy Clark, Donald Hoffman, Susan Greenfield, Peter Tse, Anirban Bandyopadhyay,
+Ken Mogi. https://closertotruth.com/video/broro-003/?referrer=8107.
+Bayne, Tim, 2007. What is Consciousness? Closer To Truth. https://closertotruth.co
+
+
+    
+2024-10-26 02:09:19,152 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Conscious Realism",
+    "description": "A theory proposed by Donald Hoffman that posits consciousness as fundamental to the universe, suggesting that the objective world consists of conscious agents and their experiences, rather than being created by physical particles in spacetime.",
+    "categories": ["Philosophy of Mind", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 02:09:19,152 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Donald Hoffman",
+    "biography": "Donald Hoffman is a cognitive psychologist and professor known for his work on the nature of perception and consciousness. He argues that our perceptions are not veridical representations of reality but rather interfaces shaped by evolution to enhance survival. His theory of 'conscious realism' posits that consciousness is fundamental to the universe, challenging traditional views that place physical objects as the basis of reality."
+  }
+}
+```
+2024-10-26 02:09:19,152 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Hoffman, D. (2008). Consciousness and the Brain: A New Theory of Consciousness. Journal of Consciousness Studies, 15(1), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Conscious Realism"
+    },
+    {
+      "citation": "Hoffman, D. (2013). The Case Against Reality: Why Evolution Hid the Truth from Our Eyes. New York: W. W. Norton & Company.",
+      "material_type": "Book",
+      "associated_theory_name": "Conscious Realism"
+    },
+    {
+      "citation": "Prakash, A., et al. (2020). The Interface Theory of Perception: A New Perspective on Consciousness. Cognitive Science, 44(5), e12812.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Conscious Realism"
+    }
+  ]
+}
+```

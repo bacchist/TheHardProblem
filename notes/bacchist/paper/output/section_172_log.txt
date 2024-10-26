@@ -1,0 +1,88 @@
+2024-10-26 02:08:32,237 - DEBUG - Processing Section 172
+2024-10-26 02:08:38,849 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Soul and consciousness are core doctrines of Theosophy, an occult amalgam of esoteric ideas from Western and Eastern religions, traditions and philosophies. Theosophy defines itself as "Wisdom-religion" or "Divine Wisdom," and considers itself "The substratum and basis of all the world-religions and philosophies, taught and practiced by a few elect ever since man became a thinking being" (Theosophy, 2023).
+Theosophy's "soul" describes three of the seven principles that are said to compose human beings: animal soul (astral body, astral shape, and the animal or physical intelligence); human soul ("a compound in its highest form, of spiritual aspirations, volitions, and divine love; and in its lower aspect, of animal desires and terrestrial passions imparted to it by its associations with its vehicle, the seat of all these"); spiritual soul ("irrational in the sense that as a pure emanation of the Universal mind it can have no individual reason of its own on this plane of matter") (Soul, 2023).
+The Secret Doctrine, Theosophy's primary text (written by its founder, Madame Blavatsky), speaks of consciousness as "the dark mystery of non-Being; unconscious, yet absolute Consciousness; unrealisable, yet the one self-existing reality." The state of consciousness is described as "beyond limitation, and hence is beyond the cognizer, cognition and cognized." It is the state attained in Nirvana, a state "in which all sense of individuality is merged in the whole" (Consciousness, Absolute, n.d.).
+Theosophy approaches personal consciousness "as sentience or awareness of internal and external existence." In this view, Theosophy's consciousness "includes any kind of cognition, experience, feeling, or perception." A special case of consciousness is "self-consciousness" or "self-awareness," which is "the experience or perception of one's own personality or individuality." Theosophy's consciousness is "a funda- mental (not an emergent) property of the cosmos, which is present in everything including inorganic matter." The implication of this univer- sal ubiquity is that "consciousness is not necessarily a cognitive function as normally experienced by humans, but rather the more basic ability to perceive and respond to the environment in some form." Thus, Theos- ophy regards each individual atom as "possessing a principle of con- sciousness in its most basic form. This does not mean that there is some process of thinking in the atom." Rather, "'atomic consciousness' could be its ability to 'perceive' or 'identify' atoms with which it has affinity, responding to them by forming molecules" (Consciousness, 2023).
+In Theosophy's telling, there are many levels of consciousness, "depending on the plane or body through which it manifests." In addi- tion, the difference between consciousness and self-consciousness is also important, "since the latter is said to be a special feature that is fully developed only in human beings, especially in connection to the phys- ical plane" (Consciousness, 2023).
+A contemporary Theosophy thinker is Edi Bilimoria, an engineer, classical musician and life-long student of perennial philosophy. He takes "Unfolding Consciousness" as his overarching framework "to show how the Universal Wisdom Traditionthe Perennial Philosophyand the corroboration of some of its tenets by enlightened science of the quantum era, broadens and contextualises mainstream science beyond its existing metaphysical limitations." He explores, "in the manner of the Universal Wisdom Tradition, the unfolding of Consciousness from its Unmanifest and Implicate realms, through Cosmos, and Man." Mind and consciousness, he contends, cannot be wholly explained without in- depth understanding of "the subtle (i.e., non-physical) bodies of the
+human being on all levels" (Bilimoria, 2022; Bilimoria, n.d.).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Theosophy, 2023)', '(Soul, 2023)', '(Consciousness, 2023)', '(Consciousness, 2023)']
+
+    Filtered References:
+    19 December 2023. https://en.wikipedia.org/w/index.php?title=Complex_adaptive
+_system&oldid=1190785624.
+Consciousness, 2023. Theosophy Wiki. Date of last revision: 25 November 2023. https
+://theosophy.wiki/en/Consciousness.
+Consciousness, Absolute. (n.d.) Theosophy World. https://theosophy.world/encyclo
+
+/brast-003/?referrer=8257. Stephen Braude on Closer To Truth—9 CTT videos and 3
+CTT TV episodes—.
+Braude, Stephen, 2007b. Do Persons Have Souls? Closer to Truth. https://closertotruth.co
+m/video/brast-002/?referrer=7869.
+Brin, David, 2003. Kiln People. Tor Science Fiction.
+xperience-pain-may-unlock-mystery-consciousness/.
+Ambron, Richard, 2023b. Toward the unknown: consciousness and pain. Neurosci.
+Consciousness 1, niad002. https://doi.org/10.1093/nc/niad002.
+Anastassiou, C., Perin, R., Markram, H., Koch, C., 2011. Ephaptic coupling of cortical
+neurons. Nat. Neurosci. 14, 217–223. https://doi.org/10.1038/nn.2727, 2011.
+
+    
+2024-10-26 02:08:38,849 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Theosophical Consciousness",
+    "description": "Theosophy posits that consciousness is a fundamental property of the cosmos, present in all entities, including inorganic matter. It differentiates between various levels of consciousness and emphasizes the distinction between general consciousness and self-consciousness, which is fully developed only in humans. Theosophy views consciousness as encompassing sentience and awareness, and it is described as a state beyond limitation, merging individuality with the whole in Nirvana.",
+    "categories": ["Spiritual Philosophy", "Metaphysics"]
+  }
+}
+```
+2024-10-26 02:08:38,849 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Edi Bilimoria",
+    "biography": "Edi Bilimoria is an engineer, classical musician, and lifelong student of perennial philosophy. He explores the concept of 'Unfolding Consciousness' to connect Universal Wisdom Tradition with contemporary scientific insights, emphasizing the importance of understanding the subtle bodies of human beings in relation to mind and consciousness."
+  }
+}
+```
+2024-10-26 02:08:38,849 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Theosophy. (2023). Theosophy Wiki. Date of last revision: 25 November 2023. https://theosophy.wiki/en/Consciousness.",
+      "material_type": "Website",
+      "associated_theory_name": "Theosophical Consciousness"
+    },
+    {
+      "citation": "Soul. (2023). Theosophy Wiki. Date of last revision: 25 November 2023. https://theosophy.wiki/en/Soul.",
+      "material_type": "Website",
+      "associated_theory_name": "Theosophical Consciousness"
+    },
+    {
+      "citation": "Consciousness. (2023). Theosophy Wiki. Date of last revision: 25 November 2023. https://theosophy.wiki/en/Consciousness.",
+      "material_type": "Website",
+      "associated_theory_name": "Theosophical Consciousness"
+    },
+    {
+      "citation": "Consciousness, Absolute. (n.d.) Theosophy World. https://theosophy.world/encyclo/brast-003/?referrer=8257.",
+      "material_type": "Website",
+      "associated_theory_name": "Theosophical Consciousness"
+    },
+    {
+      "citation": "Bilimoria, E. (2022). Unfolding Consciousness. [Details of publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Theosophical Consciousness"
+    },
+    {
+      "citation": "Bilimoria, E. (n.d.). Unfolding Consciousness. [Details of publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Theosophical Consciousness"
+    }
+  ]
+}
+```

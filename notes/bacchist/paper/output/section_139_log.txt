@@ -1,0 +1,45 @@
+2024-10-26 02:05:23,240 - DEBUG - Processing Section 139
+2024-10-26 02:05:26,590 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroscience/consciousness writer Annaka Harris posits that "con- sciousness isn't self-centered" and that we should "think of
+consciousness like spacetimea fundamental field that's everywhere." In Conscious, her "meditation on the self, free will, and felt experience," she wonders whether "we've been thinking about the problem back- ward. Rather than consciousness arising when non-conscious matter behaves a particular way, is it possible that consciousness is an intrinsic property of matterthat it was there all along?" (A. Harris, 2020, 2019).
+Harris argues that contemporary panpsychism, the idea that "all matter is imbued with consciousness in some sense," differs significantly from its earlier versions, now "unencumbered by any religious beliefs ... [and] informed by the sciences and fully aligned with physicalism and scientific reasoning." She carefully distinguishes between consciousness and thought, so that if some primitive consciousness does inhabit all matter, this does not mean that inanimate objects, like rocks, have ex- periences or "points of view." Only certain complex systems, like humans and other animals, have such (A. Harris, 2020).
+Harris has a disarmingly simple solution for panpsychism's vexing combination problem. "We run into a combination problem," she says, "only when we drag the concept of a 'self' or a 'subject' into the equa- tion. The solution to the combination problem is that there is really no 'combining' going on at all with respect to consciousness itself." It all depends on "the arrangement of the specific matter in question" (A. Harris, 2020).
+As for "the correct resolution to the mystery of consciousness," Harris says she personally "is split between a brain-based explanation and a panpsychic one. So while I'm not convinced that panpsychism offers the correct answer, I am convinced that it is a valid category of possible solutions that cannot be easily dismissed." She prefers, however, a more neutral term, such as "intrinsic nature theory" or "intrinsic field theory" (A. Harris, 2020).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:05:26,591 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Panpsychism",
+    "description": "A theory that posits all matter is imbued with consciousness in some sense, suggesting that consciousness is an intrinsic property of matter rather than a byproduct of complex systems. It distinguishes between primitive consciousness in all matter and the complex consciousness found in certain systems like humans and animals.",
+    "categories": ["Philosophy of Mind", "Neuroscience"]
+  }
+}
+```
+2024-10-26 02:05:26,591 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Annaka Harris",
+    "biography": "Annaka Harris is a writer and advocate for consciousness studies, known for her work on panpsychism and the nature of consciousness. She explores the intersection of science and philosophy, questioning traditional views on consciousness and proposing that it may be an intrinsic property of matter."
+  }
+}
+```
+2024-10-26 02:05:26,591 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Harris, A. (2020). Conscious: A Brief Guide to the Fundamental Mystery of the Mind. HarperCollins.",
+      "material_type": "Book",
+      "associated_theory_name": "Panpsychism"
+    }
+  ]
+}
+```

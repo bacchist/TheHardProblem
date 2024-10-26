@@ -1,0 +1,109 @@
+2024-10-26 02:08:51,129 - DEBUG - Processing Section 175
+2024-10-26 02:08:57,050 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Consciousness is central to the philosophical and religious traditions that emerged on the ancient Indian subcontinent, perhaps more central to Indian philosophy and religion than it is to any other global tradition. The sophistication and subtleties of the millennia-long discussions on consciousness in Indian traditions have enriched human understanding of, and appreciation for, consciousness as core of human sentience.
+All the schools of ancient Indian philosophy were concerned with ideas about consciousness and self, which were based on the Upani- shads, the late Vedic, sacred Sanskrit texts (800-300 BCE). Although the motivation was often the perennial question, "How does one [Self] overcome suffering?", the explorations developed sophisticated philos- ophies and subtle ontologies (Sarvapriyananda, 2020; Sarvapriyananda, 2023a).
+Speaking on Closer To Truth, Swami Sarvapriyananda explains why ancient Indian thinkers of all varietiesHindus, Buddhists, Jains, etc. were so interested in consciousness. Their central quest was to overcome suffering, he reiterates, to attain liberation of the self. "Once you do that, you see immediately that consciousness and the self are very intimately connected. I am obviously conscious. I am aware. And it is in my awareness that I experience suffering, and the struggle to liberate myself from suffering. But all of it requires consciousness. Even the search for God requires consciousness" (Sarvapriyananda, 2023b).
+Sarvapriyananda defines consciousness as "that to which everything else appears." So, this world, he asks, "Is it consciousness? No. Nothing in this world is consciousness because it's an object to you. Is this body consciousness? No. Because it's an object to you. Now, what about the mind, our thoughts and emotions, which would normally be taken as
+related to consciousness? By this elegant definition of consciousness as 'that to which everything else appears,' can you designate this thought or this emotion subjectively from your perspective? You can. And if you can, then even thoughts and emotions are also objects to consciousness. The result is that consciousness is clearly distinguished from all objects. Whatever appears to you belongs to material nature. And consciousness is not that. Consciousness does exactly one thing. It gives you a first- person experience" (Sarvapriyananda, 2023b). ("Consciousness" is the usual translation of the Vedantic term "Chaitanya," although alternative English words, such as "awareness" and "sentience," are also used.)
+The preeminence of consciousness, both intrinsically and to the self, elicited a wide diversity of speculation about what consciousness is, and how it arises and functions. "Indian philosophy had different schools, and they argued with each other fiercely. Each of the schools fashioned its own approach to consciousness and to its relationship with self. The range of beliefs parallels consciousness studies today, from materialist- reductionism to idealism. Although the ancient Indian materialists (Charvakas) were a popular school, the dominant theme of the primary Vedanta schools, especially Advaita Vedanta, became nondual idealism, 'nondualism'" (Sarvapriyananda, 2020). Other schools said there are two kinds of consciousness: a personal consciousness associated with individual bodies and minds, and a cosmic consciousness associated with all bodies and minds. "You are the consciousness associated with your body and mind. And God is the consciousness associated with all bodies and minds. God is cosmic consciousness" (Sarvapriyananda, 2023b).
+"But this goes further," Swami Sarvapriyananda says. "How does consciousness interact with material nature? There were multiple an- swers from multiple schools. One is that material nature is real, and consciousness is just an expression of material nature. (There were modern materialists in ancient India!) The second school says that the universe is produced from consciousness. And who says that? Every theistic school in the world says that. If God is the creator God, and God is obviously conscious, then in some sense, consciousness produces the material universe. These are the dualists. The third school is the Samkhyan, where consciousness and matter are parallel; neither pro- duces the other; both are fundamental, irreducible realities."
+The fourth, Advaita Vedanta, Swami Sarvapriyananda's own school, is nondualist, "which means that you cannot solve the interaction problem. If consciousness and matter are fundamentally different, then there is no way they could interact. Where would be the place, the boundary, where interaction could occur?" So, not being able to solve the interaction problem, what to do? "Let's just stick to our experience," he advises. "What is matter? That which appears in consciousness. And if matter appears in consciousness, then matter can be reduced to con- sciousness. Thus, the materialist reduces consciousness to matter, the nondualist reduces matter to consciousness" (Sarvapriyananda, 2023b).
+Advaita Vedanta, a monistic system, eradicates the dualistic di- chotomy between consciousness and its object. Even more fundamental than the mind is nondual pure consciousness. The term for this ultimate consciousness is Brahman, "the vast" or "the limitless" (literally, "that which expands into everything"), and it is the key concept that unifies the consciousness of the individual with the consciousness of the cosmos, which is the fundamental, nondual reality of the universe. Rather than conceiving of prakriti/nature as a transformation of purusa/ consciousness, in Advaita Vedanta, prakriti is considered an appearance of purusa (Sarvapriyananda, 2020).
+In the succinct expression of the Mandukya, the briefest of the major Upanishads, "Brahman is all, and the Self is Brahman."
+Thus, Advaita Vedanta's nondualism asserts that each individual soul, in some literal sense, is non-different from the infinite Brahman. "You are that underlying reality, Brahman. Not you as the body; not you as the mind; not even you as the person you think yourself to be, but as an underlying consciousness that shines through, functions through, and expresses itself through this body-mind complex." Swami Vivekananda, who introduced Vedanta to Western audiences, put it this way: "If only
+you knew yourselves as you truly are." Not as a body, bound to age, decay, and die; not even as a mind, a changing, limited personality, but as an unlimited consciousness expressing itself through a mind and a body (Sarvapriyananda, 2020).
+The modern Hindu sage Bhagavan Sri Ramana Maharshi clarified the fundamental principles of Advaita Vedanta, as explained by philoso- pher/translator Michael James, an expert on Sri Ramana. With regard to consciousness, "Sri Ramana highlighted the distinction between transi- tive awareness (suttarivu in Tamil) and intransitive awareness (suttatra arivu). Transitive awareness is awareness that knows objects or phe- nomena, whereas intransitive awareness is awareness that knows nothing other than itself. In classical Advaita Vedanta, intransitive awareness is called pure consciousness ( suddha caitanya), because it is consciousness devoid of any content, and being-consciousness (sat-cit), not only because it is conscious only of its own being, 'I am', but also because it is the consciousness (cit) that is itself pure being (sat), meaning that it is what alone actually exists, so it is the one real sub- stance (vastu) from which all other things derive their seeming existence, just as gold ornaments derive their existence from gold. Transitive awareness, on the other hand, is called cid abh asa, meaning that it is an  abh asa (semblance, likeness or reflection) of consciousness (cit), because it is not real consciousness, since it is consciousness of things that do not actually exist but merely seem to exist, like all the things seen in a dream. Only consciousness of what actually exists is real consciousness, and since what actually exists is only pure consciousness, it alone is real consciousness" (James, 2012, 2024).
+However, according to James, "these are not two separate con- sciousnesses, but two forms of the one and only consciousness, one form of which is consciousness as it actually is, namely intransitive aware- ness, and the other form of which is an unreal appearance, namely transitive awareness. Intransitive awareness is real because it is per- manent, unchanging, self-existent and self-shining. It is self-existent because it exists independent of all other things, and it is self-shining because it shines by its own light of consciousness, underived from anything else. Transitive awareness, on the other hand, is impermanent and constantly changing, and it is neither self-existent nor self-shining, because it derives its seeming existence from the real existence of intransitive awareness and it shines by the light of consciousness that it borrows from intransitive awareness. Intransitive awareness is therefore the reality that underlies and supports the illusory appearance of tran- sitive awareness, just as a rope is the reality that underlies and supports the illusory appearance of a snake. That is, we cannot be aware of anything without being aware, but we can be aware without being aware of anything, so intransitive awareness is primary and funda- mental whereas transitive awareness is secondary and emergent" (James, 2024).
+Sri Ramana concluded that "transitive awareness (awareness of anything other than ourself) is an unreal appearance, and that the only real consciousness is pure intransitive awareness (awareness of nothing other than our own being). That is, consciousness or awareness is not an object but the reality of the subject, so no objective investigation can enable us to know consciousness as it actually is. Since we ourself are consciousness, in order to know ourself as we actually are, we need to turn our entire attention back on ourself, away from all other things"a practice Sri Ramana called self-investigation ( atma-vic ara), which means "keeping our attention fixed firmly on what we actually are, namely our fundamental awareness 'I am', which is our very being, so he also called this practice 'awareness-investigation' (j n ana-vic ara)" (James, 2012, 2024).
+According to artist and computer scientist Ganapathy Subramaniam, Brahman as "Consciousness/Awareness/Self" can be compacted to "I". While all things can be reduced to this "I," this "I" cannot be reduced (i. e., the Vedanta fundamental irreducible is in the first person). So, when Vedanta says, "I am that," meaning "I am the fundamental," it does not mean that the individual person is fundamental; rather the irreducible I is the fundamental. This leads to the declaration, "Atman is Brahman,"
+meaning, "The Individual Consciousness is the same as Universal Con- sciousness" (which is the irreducible "I") (Subramaniam, 2023).
+Subramaniam states that "reincarnation and the interrelated concept of karma are stepping stones to understand ultimate truth. Under- standing ultimate truth is called Nirvana. It's nothing more nothing less." How do the multiple reincarnations "stop" with Nirvana? he asks rhetorically. "Nirvana means apprehending that the concept of births and deaths is an illusion and the consciousness that you truly are, does not get born or die. Consciousness is fundamental. and you are that. This is the only truth, and this obviously negates reincarnationwhich is the true meaning of the statement that 'Once you achieve Nirvana, you no longer reincarnate.' It's simply a logical conclusion from the definition of Nirvana."
+"Indian thought is layered and progressive, and as you move through the layers you need to abandon and evolve out of the previous one," Subramaniam says. "Within mainstream Indian thought you have Karma theory as well as negation of Karma theory. If you look at both at the same time, it appears to be a contradiction. But if you look at both as a progression, it fits in well."
+Consciousness qua consciousness is "incapable of experiences," Subramaniam contends, "so, only a person (or any sentient) is capable of physical and mental experience. When you investigate who 'you' are, you will logically arrive at the conclusion that 'you' are not the person." But you will still be experiencing all the events of life, accumulating experiences, much like in a dream or a novel or a movie or a video game. But the fact is you are not the person. Nobody is ever the person they think they are or as they appear to be. And it all converges to the singular consciousness" (Subramaniam, 2023).
+In that Advaita Vedanta's central teaching is "That Thou Art," with "That" representing God and "Thou" standing for the individual, how to counter the charge of blasphemy, equating oneself with God? The Advaita exculpatory answer is that when the limited personality is transcended, the divinity within is revealed. Each soul is potentially divine. (Reasoning in reverse, the Advaita Vedanta system claims to prove the existence of God in that "our own existence is the existence of God"although the reasoning, at least superficially, has a touch of circularity.)
+Concisely, with respect to consciousness, the central paradigm of Advaita Vedanta is that there is only one nondual reality, which is consciousness, and it is this all-pervading cosmic consciousness that is our individual consciousness and generates our first-person inner ex- periences (qualia) (Sarvapriyananda, 2020).
+Naturally, within Hinduism, different traditions understand the na- ture of consciousness in different ways, but most of them do take con- sciousness to be fundamental (Medhananda, 2023). One school follows the tradition of Sri Ramakrishna (a 19th century mystic in India), and his view was that while consciousness is fundamental, the one divine con- sciousness is not just impersonal but also personal, and that everything in the universe in reality is one and the same Divine Consciousness, even though everything in the universe in appearance, manifests as various and diverse forms. (This might compare to the Western metaphysics of panentheistic cosmopsychism, according to which the sole reality is one cosmic consciousness, which grounds all of the individual-level con- sciousnesses.) (Medhananda, 2022).
+Aphorisms give flavor.
+The soul/consciousness is smaller than the smallest, larger than the largest, and is everything everywhere all at once. Consciousness localized is Body; globalized is Mind; universalized is Soul; and synchronized is Life.
+To understand properly Advaita Vedanta's conception of con- sciousness, one must introduce reincarnation, the guiding belief in most India-based religious traditions that the soul goes through innumerable, perhaps endless, cycles of birth-death-rebirth. Without discussing rein- carnation as a doctrine, with its (to be expected) myriad nuances, suffice
+it to say that reincarnation works to distinguish among soul, self and consciousness. While the underlying soul may be in a sense immortal, its consciousness is contingent on its current incarnation, with scant, if any, awareness of its prior existences (although the karma of past lives would influence the condition of future lives).
+Relating consciousness to ultimate reality, Swami Sarvapriyananda explains what it means that "Brahman, the ultimate reality, is limitless existence, limitless consciousness, existence and consciousness without limit." Without limit, he says, "should be understood technically as no limits in space and no limits in time, and no limits in something called 'object limitation.' Limit in space means it's here and it's not there. But Brahman is not something that's located in one place. It's everywhere. And limit in time means it does not exist earlier, it does not exist later. But Brahman is not something that appears and disappears. It always is. Object limitation is interesting. A table is not a chair. A horse is not a cow. But Brahman does not have object limitation. Consciousness does not have object limitation. There is no object which is other than con- sciousness because they are all appearances of consciousness, in con- sciousness, and ultimately, nothing but consciousness itself"
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Sarvapriyananda, 2020)', '(Sarvapriyananda, 2020)', '(Sarvapriyananda, 2020)', '(James, 2024)', '(Subramaniam, 2023)', '(Subramaniam, 2023)', '(Sarvapriyananda, 2020)', '(Medhananda, 2023)', '(Medhananda, 2022)']
+
+    Filtered References:
+    Sapolsky. Medspire. https://medspire.net/en/interview-posts/from-stanford-to-
+medspire-an-exclusive-interview-with-robert-sapolsky/.
+Sarvapriyananda, Swami, 2020. Consciousness and self in Advaita Vedanta. Awakened
+India 125 (1). https://advaitaashrama.org/pb/2020/012020.pdf.
+Sarvapriyananda, Swami, 2023a. The Nature of the Human Person (Part 2). Closer To
+
+Gholipour, Bahar, 2019. A famous argument against free will has been debunked.
+Atlantic. (Accessed 10 September 2019).
+Gibson, James J., 2014. The Ecological Approach to Visual Perception. Routledge.
+Gibson, James J., 2024. Wikipedia, the free Encyclopedia. Date of last revision: 14 January
+2024. https://en.wikipedia.org/w/index.php?title=James_J._Gibson&oldid=11
+Stump, Eleonore, 1995. Non-cartesian substance dualism and materialism without
+reductionism. Faith Philos. 12 (Issue 4).
+Subramaniam, Ganapathy, 2023. Personal communications. https://www.ganapathysu
+bramaniam.com/about.
+Sutherland, Stuart, 1989. The International Dictionary of Psychology. Crossroads Classic.
+Stanford Encyclopedia of Philosophy (Summer 2021 Edition. https://plato.stanford.
+edu/archives/sum2021/entries/supervenience/.
+Medhananda, Swami, 2022. Swami Vivekananda’s Ved¯antic Cosmopolitanism. Oxford
+University Press.
+Medhananda, Swami, 2023. Person, Self, Soul, Spirit (Part II). closertotruth.com/video/
+
+    
+2024-10-26 02:08:57,050 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Advaita Vedanta",
+    "description": "A nondual philosophical system that posits that the individual self (Atman) is fundamentally identical to the ultimate reality (Brahman), asserting that consciousness is the primary and all-pervading reality, transcending the dualistic distinctions between consciousness and its objects.",
+    "categories": ["Eastern Philosophy", "Nondualism", "Metaphysics"]
+  }
+}
+```
+2024-10-26 02:08:57,050 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Swami Sarvapriyananda",
+    "biography": "Swami Sarvapriyananda is a contemporary Hindu monk and scholar of Advaita Vedanta, known for his teachings on consciousness and the self, emphasizing the nondual nature of reality and the connection between individual consciousness and the universal consciousness."
+  }
+}
+```
+2024-10-26 02:08:57,050 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Sarvapriyananda, Swami, 2020. Consciousness and self in Advaita Vedanta. Awakened India 125 (1). https://advaitaashrama.org/pb/2020/012020.pdf.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Advaita Vedanta"
+    },
+    {
+      "citation": "James, 2024. Personal communications. https://www.ganapathysubramaniam.com/about.",
+      "material_type": "Personal Communication",
+      "associated_theory_name": "Advaita Vedanta"
+    },
+    {
+      "citation": "Subramaniam, Ganapathy, 2023. Personal communications. https://www.ganapathysubramaniam.com/about.",
+      "material_type": "Personal Communication",
+      "associated_theory_name": "Advaita Vedanta"
+    },
+    {
+      "citation": "Medhananda, Swami, 2022. Swami Vivekananda’s Ved¯antic Cosmopolitanism. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Advaita Vedanta"
+    },
+    {
+      "citation": "Medhananda, Swami, 2023. Person, Self, Soul, Spirit (Part II). closertotruth.com/video/",
+      "material_type": "Video",
+      "associated_theory_name": "Advaita Vedanta"
+    }
+  ]
+}
+```

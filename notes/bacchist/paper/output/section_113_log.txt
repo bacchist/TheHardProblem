@@ -1,0 +1,101 @@
+2024-10-26 02:02:46,300 - DEBUG - Processing Section 113
+2024-10-26 02:02:54,928 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Penrose-Hameroff's quantum consciousness, which they call Orchestrated Objective Reduction (OrchOR), is the claim that con- sciousness arises in the fundamental gap between the quantum and classical worlds. Formulated by mathematician and Nobel laureate Roger Penrose (Penrose, 2014; 1996; Penrose, 2014, 2023), and devel- oped by anesthesiologist Stuart Hameroff (Hameroff, 2014a, 2014b), consciousness is non-computational, yet still explained by the physics of neurons, but a physics distinct from and broader than that which we currently understand.
+Penrose claims that only a non-computational physical process could explain consciousness. He is not saying that consciousness is beyond physics, rather that it is beyond today's physics. "Conscious thinking can't be described entirely by the physics that we know," Penrose said, explaining that he "needed something that had a hope of being non- computational."36 He focuses on "the main gap in physics": the contradiction between the continuous, probabilistic evolution given by the Schr odinger equation in quantum mechanics and the discrete, deterministic events when you make measurements in classical phys- ics"how rules like Schr odinger's cat being dead and alive at the same time in quantum mechanics do not apply at the classical level" (Penrose, 2014, 2023),
+Penrose argues that the missing physics that describes how the quantum world becomes the classical world "is the only place where you could have non-computational activity." But he admits that it's "a tall order" to sustain quantum information in the hot, wet brain, because "whenever quantum systems become entangled with the environment, 'environmental decoherence' occurs and information is lost."
+"Quantum mechanics acting incoherently is not useful [to account for consciousness]," Penrose explains; "it has to act coherently. That's
+why we call [our mechanism] 'Orch OR', or 'orchestrated objective reduction'the 'OR' stands for objective reduction, which is where the quantum state collapses to one alternative or another, and 'Orch' stands for orchestrated. The whole system must be orchestrated, or organized, in some global way, so that the different reductions of the states actually do make a big difference to what happens to the network of neurons" (Penrose, 2014, 2023),
+So how can the hot, wet brain operate a quantum information sys- tem? Hameroff proposed a biological mechanism utilizing microtubules in neurons. As an anesthesiologist who had shepherded thousands of conscious-unconscious-conscious transitions, Hameroff, together with Penrose, developed their quantum theory of consciousness.
+"Objective reduction in the quantum world is occurring every- where," Hameroff recognizes, "so proto-conscious, undifferentiated moments are ubiquitous in the universe. Now in our view when orchestrated objective reduction occurs in neuronal microtubules, the process gives rise to rich conscious experience" (Hameroff, 2014b).
+In Hameroff's telling, microtubules are cylindrical polymers of the protein tubulin capable of information processing, with fundamental units being states of a billion tubulins per neuron. Microtubules in all cells enact purposeful spatiotemporal activities, and in the brain, mi- crotubules establish neuronal shape, create and regulate synapses, and are proposed to underlie memory, cognition and consciousness. Tubulin is the brain's most prevalent protein, so the brain is largely made of microtubules, each with unique, high frequency vibrational and quan- tum properties from non-polar aromatic ring pathways. The claim is made that experimental evidence shows that anti-depressants, psyche- delics and general anesthetics, which selectively alter or block con- sciousness, all act via microtubules (Brophy and Hameroff, 2023).
+Some evidence suggests that entangled states can be maintained in noisy open quantum systems at high temperature and far from thermal equilibriumfor example, counterbalancing decoherence by a "reco- herence" mechanismsuch that, "under particular circumstances, entanglement may persist even in hot and noisy environments such as the brain" (Atmanspacher, 2020a). Moreover, Anirban Bandyopadhyay describes experiments with the tubulin protein in microtubules where conductivity resistance becomes so low it's almost a macroscopic quantum-like system (Bandyopadhyay, 2014).
+Penrose's ontology requires basic conscious acts to be linked to gravitation-mediated reductions of quantum states, with "real quantum jumps" related to conscious thoughts and, by extension, to neural cor- relates of consciousness. A complete theory seems to require a robust theory of quantum gravity, long the holy grail of physics.
+As noted, the Orch OR theory proposes that consciousness arises from orchestrated (Orch) quantum state objective reductions (OR) in microtubules within brain neurons, which connect, adherents say, to the fine-scale structure of spacetime geometry. Adherents posit that Orch OR accounts for cognitive binding, real-time conscious causal action (through non-computable Penrose OR and retroactivity), memory encoding, and, ambitiously, the hard problem of phenomenal experi- ence. Moreover, consciousness as a non-local quantum process in spacetime geometry provides potentially plausible mechanism for near- death and out-of-body experiences, pre-cognition, afterlife and rein- carnation (Brophy and Hameroff, 2023). Quite the claim, that.
+Hameroff makes the striking statement that "consciousness came before life." Based on observations of extraterrestrial organic material, in context of the Penrose-Hameroff quantum theory of consciousness, Hameroff challenges the conventional wisdom that consciousness evolved after life, posing that "consciousness may have been what made evolution and life possible in the first place" (Hameroff et al., 2024).
+For years, Penrose-Hameroff stood largely alone, defending their quantum consciousness model against waves of scientific critics (Baars and Edelman, 2012), some of whom largely dismissed the notion as fanciful and fringy. Then, as quantum biology began emerging as a real science with broad applicationswith quantum mechanisms shown to play essential roles in photosynthesis, vision, olfaction, mitochondria,
+DNA mutations, magnetoreception, etc.a larger community began taking quantum consciousness more seriously.
+Today, while Penrose-Hameroff Orch OR remains the most well- known quantum theory of consciousness, with increasing interest, there are other, diverse theories of how quantum processes are essential in consciousness. Their numbers are growing.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Bandyopadhyay, 2014)']
+
+    Filtered References:
+    Baker, Lynne Rudder, 2005. Death and the afterlife. In: Wainwright, William (Ed.), The
+Oxford Handbook of Philosophy of Religion. Oxford University Press.
+Bandyopadhyay, Anirban, 2014. Quantum Physics of Consciousness. Closer To Truth.
+https://closertotruth.com/video/banan-005/?referrer=7937.
+Barnard, William, 2011. Living Consciousness: the Metaphysical Vision of Henri Bergson.
+
+
+    
+2024-10-26 02:02:54,928 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Orchestrated Objective Reduction (OrchOR)",
+    "description": "A theory proposed by Roger Penrose and Stuart Hameroff that suggests consciousness arises from orchestrated quantum state objective reductions in microtubules within brain neurons, linking consciousness to quantum processes and spacetime geometry.",
+    "categories": ["Quantum Consciousness", "Neuroscience", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:02:54,928 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Roger Penrose",
+    "biography": "Roger Penrose is a British mathematician and physicist, known for his work in mathematical physics, particularly in the areas of general relativity and cosmology. He was awarded the Nobel Prize in Physics in 2020 for the discovery that black hole formation is a robust prediction of the general theory of relativity. Penrose is also recognized for his contributions to the theory of consciousness, particularly through his collaboration with Stuart Hameroff on the Orchestrated Objective Reduction (OrchOR) theory."
+  }
+}
+```
+2024-10-26 02:02:54,928 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Bandyopadhyay, Anirban, 2014. Quantum Physics of Consciousness. Closer To Truth. https://closertotruth.com/video/banan-005/?referrer=7937.",
+      "material_type": "Video",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Brophy and Hameroff, 2023. [Title not provided in the text].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Hameroff et al., 2024. [Title not provided in the text].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Baars and Edelman, 2012. [Title not provided in the text].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Penrose, 2014. [Title not provided in the text].",
+      "material_type": "Book",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Penrose, 1996. [Title not provided in the text].",
+      "material_type": "Book",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Penrose, 2023. [Title not provided in the text].",
+      "material_type": "Book",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Hameroff, 2014a. [Title not provided in the text].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    },
+    {
+      "citation": "Hameroff, 2014b. [Title not provided in the text].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Orchestrated Objective Reduction (OrchOR)"
+    }
+  ]
+}
+```

@@ -1,0 +1,62 @@
+2024-10-26 02:10:10,539 - DEBUG - Processing Section 190
+2024-10-26 02:10:15,061 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Late 19th/early 20th century philosopher Henri Bergson's non-
+reductive consciousness is an unapologetic, sophisticated challenge to Materialism Theories. In consciousness, he says, "we find succeeding states without distinction; and, in space, simultaneities which, without succeeding, are distinguished, in the sense that one is no longer there when the other one appears. Outside of us, reciprocal exteriority without succession: within, succession without reciprocal exteriority" (Bergson, 1889; Pascal, 2023).
+Bergson's consciousness, which "retains the past and anticipates the future," is not easy to categorize. It is the complex centerpiece of his grand philosophical system that highlights several original concepts: multiplicity (heterogeneity and continuity, the immediate data of con- sciousness); duration (no juxtaposition of events, no mechanistic cau- sality, a qualitative multiplicity); perception (pure, images are all we sense); memory (pure, personal)each from Bergson's idiosyncratic perspective (Lawlor and Moulard-Leonard, 2021).
+Bergson self-characterizes his own view as "frankly dualist," because it "affirms both the reality of matter and the reality of spirit," though he recognizes (and thinks he can overcome) "the theoretical difficulties which have always beset dualism." Bergson rejects that "matter is a thing that possesses a hidden power able to produce representations in us. There is no hidden power in matter; matter is only images." He cri- tiques materialism by "showing that matter does not differ in nature from representation ... the image is less than a thing but more than a representation" Moreover, Bergson's theory of "pure perception" posits that how we know things, in their pure states, is representational, thus establishing a middle ground between realism and idealism (Lawlor and
+To Bergson, "That which perceives is consciousness, that is to say the memory taken as a whole because this consciousness, which we might call here human soul or human spirit, is a continuous movement between pure perception and pure memory." "The brain does not perceive: it transmits perception (pure or not) from the organ of perception to consciousness (sensory mechanism) and, conversely, it transmits the nascent order of action from consciousness to the appropriate motor organ to act in response to perception (motor mechanism) (Bergson, 1896, 1990; Pascal, 2023).
+Continuing, Bergson puts memory at the heart of consciousness with pithy propositions. "Mind with memory is consciousness and produces time. Mind without memory is the unconscious and produces space." "The phenomena of memory are at the juncture of consciousness and matter." "Going from pure perception to memory, we definitively leave matter behind for the mind." "First the present becomes past and then the past becomes present. Thus, consciousness becomes the bridge be- tween the present and the past which we call the future. The future is being fabricated at all times by a free act called choice of consciousness" (Bergson, 1896, 1990; Pascal, 2023).
+Bergson has consciousness as "unquestionably connected with the brain: but it by no means follows that a brain is indispensable to con- sciousness." The brain, he says, is not the generator of consciousness, but a "filter" of consciousness, because unfiltered consciousness would be shattering and stupefying. Our capacity to focus and act in the world is enabled by our brain acting as barrier, shielding our personal awareness from the vast cacophony swirling in the great beyond (Bergson, 1920).
+Bergson's notion of consciousness is "a ceaselessly dynamic, inher- ently temporal substance of reality" that might even allow for some sort of survival after death (Barnard, 2011). Is Bergson a kind of dualist, panpsychist or even idealist? No matter. Certainly, he is no materialist. He was president of the Society for Psychical Research, which no doubt reflects his views and warrants his inclusion in this category.
+According to Alex Gomez-Marin, "The essential debate about the precise relationship between thoughts and brains (solidarity versus equivalence, participation versus interaction, etc.) has faded. But one can revisit Henri Bergson to find a lucid dose of common sense: 'That there is a close connection between a state of consciousness and the brain we do not dispute. But there is also a close connection between a coat and the nail on which it hangs, for, if the nail is pulled out, the coat
+falls to the ground. Shall we say, then, that the shape of the nail gives us the shape of the coat, or in any way corresponds to it?' What do brain data really show? The edifice of twenty-first-century consciousness neuroscience stands on the foundations of the following candid empir- ical fact: 'change the brain, experience changes.' The hard problem of wardrobes is to explain why and how hangers give rise to clothes" (Gomez-Marin, 2022).
+Moreover, Gomez-Marin and Juan Arnau retrieve an argument by Bergson to expose, what they call "the fundamental self-contradiction of parallelism: it forces the idealist to sustain that 'the part is the whole', and the realist that 'the part subsists when the remainder of the whole vanishes.'" Bergson's image-movement theory (from Matter and Mem- ory) is then recast "to overcome the conceptual dead-end of paral- lelism"the point being that "Consciousness is real. So is its special relation to the brain. Differentiating between solidarity (as lesions demonstrate) and equivalence (as no data does) offers an alternative point of departure for an understanding of consciousness that does not, from the outset, outlay a false problem" (Gomez-Marin and Arnau, 2019).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Bergson, 1920)', '(Barnard, 2011)']
+
+    Filtered References:
+    Bandyopadhyay, Anirban, 2014. Quantum Physics of Consciousness. Closer To Truth.
+https://closertotruth.com/video/banan-005/?referrer=7937.
+Barnard, William, 2011. Living Consciousness: the Metaphysical Vision of Henri Bergson.
+State University of New York Press.
+Barrett, Justin, 2000. Exploring the natural foundations of religion. Trends Cognit. Sci. 4
+
+
+    
+2024-10-26 02:10:15,061 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Bergson's Non-reductive Consciousness",
+    "description": "Bergson's theory posits that consciousness is a dynamic, temporal substance that retains the past and anticipates the future, emphasizing the roles of memory and perception. He critiques materialism, asserting that the brain acts as a filter for consciousness rather than its generator, and he explores the relationship between consciousness and matter.",
+    "categories": ["Philosophy of Mind", "Dualism", "Non-materialism"]
+  }
+}
+```
+2024-10-26 02:10:15,062 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Henri Bergson",
+    "biography": "Henri Bergson was a French philosopher known for his influential ideas on time, consciousness, and the nature of reality. His work challenged materialism and emphasized the importance of memory and perception in understanding consciousness. Bergson's concepts of duration and the dynamic nature of consciousness have had a lasting impact on philosophy and cognitive science."
+  }
+}
+```
+2024-10-26 02:10:15,062 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Bergson, H. (1920). The Two Sources of Morality and Religion. New York: Henry Holt and Company.",
+      "material_type": "Book",
+      "associated_theory_name": "Bergson's Non-reductive Consciousness"
+    },
+    {
+      "citation": "Barnard, W. (2011). Living Consciousness: the Metaphysical Vision of Henri Bergson. State University of New York Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Bergson's Non-reductive Consciousness"
+    }
+  ]
+}
+```

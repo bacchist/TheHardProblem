@@ -1,0 +1,59 @@
+2024-10-26 02:09:26,163 - DEBUG - Processing Section 181
+2024-10-26 02:09:30,186 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Holistic physician Deepak Chopra defines consciousness as "It is what makes experience possible. It is what makes perception possible. It is what makes cognition possible. Everything we call reality, con- sciousness makes possible. Consciousness is the ultimate reality" (Cho- pra, 2013).
+To Chopra, progress in cognitive neuroscience, such as brain scans that translate electrical patterns in the brain into real words in synthe- sized speech, are "false clues," like tracking a fox in the snow only to find that the tracks have led you in a circle. "This looks like progress," he says, "and yet the progress is built up from false clues, for the same reason that pertains to circular tracks in the snow. It is physically impossible for brain cells to create the human mind. Brain cells are composed of the same basic organic chemicals as any other cell in the body, and organic chemicals can't think. It doesn't matter how many billions of neurons the human brain contains, or the quadrillions of synaptic connections between them. Complexity doesn't get around the simple impossibility that chemicals aren't conscious, and the brain is nothing but chemicals. The presence of electrical activity in the brain is also a false clue, because electricity can't think, either" (Chopra, 2023a, b). "If you want to understand consciousness, then the last thing you want to be is a neuroscientist," Chopra half-jokes, referring to my/RLK background. "Because neuroscience doesn't give you a clue" (Chopra,
+2013).
+Chopra's persistent claim is that there is only one way to get past every false clue in the hunt for consciousness. "You must make it the 'stuff' of creation, a non-physical state from which matter, energy, time, and space are created. It is not, he says, that every phenomenon we can experience has consciousness or exhibits mind. It is that consciousness shapes itself into every mode of knowing and experiencing reality." In other words, Chopra says, "the 'hard problem' isn't a problem at all. Consciousness, being our source and origin, explains everything by it- self, needing no outside explanation" (Chopra, 2013).
+According to Chopra, taking idealism to its logical extremesome say to its simplest conditionwhat's conscious is only the whole, not the parts like us. The entirety of reality, the fullness of the cosmos, a mul- tiverse of innumerable universes (if there are such), everything every- where all together, is the expression of a unitary consciousness.
+In their essay, "Why You Aren't Conscious and Never Have Been," Chopra and physicist Menas Kafatos, after rejecting both materialism and panpsychism, seek to explain consciousness not by trying to figure out how individuals are conscious, which they claim is doomed to fail- ure, but rather by assuming that all reality is conscious and individual instances of consciousness are conscious only with respect to their being part of the whole. "When you arrive at the conclusion that nothing material is conscious, bizarre as this sounds, you make a tremendous breakthrough. 'I am conscious' misstates the reality, which is 'I am consciousness itself'" (Chopra and Kafatos, 2023).
+"The way that humans are conscious is what matters," the authors write. "Consciousness is everywhere all the time embracing past, present and future. I am part of that reality. Therefore, I am consciousness itself. Who I really am is beyond time."
+Nothing can be conscious on its own, Chopra and Kafatos claim; the only way to be conscious is to be part of the "All and One." As for where the All-and-One Consciousness comes from or came from, the answer is the same as to "Who made God?" "Our origin story begins with absolute, pure awareness, which has no explanation. It simply is" (Chopra and Kafatos, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Chopra, 2013)']
+
+    Filtered References:
+    s://closertotruth.com/video/noam-chomsky-on-the-big-questions-part-4/.
+Chomsky, Noam, 2022b. Mind Chat. https://www.youtube.com/watch?v=g2Vx5Ze_p8s.
+Chopra, Deepak, 2013. What is Consciousness. Closer To Truth. https://closertotruth.co
+m/video/chode-012/?referrer=7827. Deepak Chopra on Closer To Truth—32 CTT
+videos and 6 CTT TV episodes—https://closertotruth.com/contributor/deepak-ch
+
+
+    
+2024-10-26 02:09:30,186 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Unitary Consciousness Theory",
+    "description": "Deepak Chopra posits that consciousness is the ultimate reality from which all matter, energy, time, and space are derived. He argues that individual consciousness is an expression of a larger, unitary consciousness that encompasses all of reality. This theory rejects materialism and panpsychism, suggesting that nothing material is conscious on its own, and emphasizes that consciousness is a non-physical state that shapes all experiences.",
+    "categories": ["Idealism", "Metaphysics"]
+  }
+}
+```
+2024-10-26 02:09:30,186 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Deepak Chopra",
+    "biography": "Deepak Chopra is a prominent physician, author, and speaker known for his work in alternative medicine and spirituality. He is a proponent of mind-body healing and has written extensively on the topics of consciousness, health, and the interconnectedness of all life."
+  }
+}
+```
+2024-10-26 02:09:30,186 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Chopra, Deepak, 2013. What is Consciousness. Closer To Truth. https://closertotruth.com/video/chode-012/?referrer=7827.",
+      "material_type": "Video",
+      "associated_theory_name": "Unitary Consciousness Theory"
+    },
+    {
+      "citation": "Chopra, Deepak and Kafatos, Menas, 2023. Why You Aren't Conscious and Never Have Been.",
+      "material_type": "Essay",
+      "associated_theory_name": "Unitary Consciousness Theory"
+    }
+  ]
+}
+```

@@ -1,0 +1,59 @@
+2024-10-26 02:04:17,031 - DEBUG - Processing Section 127
+2024-10-26 02:04:22,418 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: The following theories of consciousness are not quantum theories per se in that they do not have quantum mechanics as the essence or generator of consciousness. Rather, each reflects how quantum me- chanics could facilitate or interact with other theories of consciousness. All are highly speculative.
+Computer scientist Terry Bollinger enjoys speculating about possible mechanisms of quantum consciousness; these include, non-linear soliton Schr odinger wave models in sensory neural networks; neural dendrites as antennas for wave collapses; how warm brains might actively main- tain and manipulate quantum wave functions; and how "quasiparticles" might enable quantum consciousness by quantizing classical data transfers between neurons (Bollinger, 2023).
+Complexity theorist Sudip Patra posits that mathematical tools used in quantum science (information theory included) can be also used to describe cognition; for example, Hilbert space modeling of cognitive states might provide better descriptions of different features like con- textuality in decision making, or even exploring 'entanglement-like' features of mental states (Patra, 2023; Rooney and Patra, 2022). Though Patra is agnostic about any underlying physics of consciousness, he works with Kauffman (11.7) to construct a non-local theory of con- sciousness outside the constraints of physical space-time.
+New-age physician-author Deepak Chopra explains "the intricate relationship between consciousness and the quantum field" by applying the same word "field" to both. Consciousness isn't individual, he says. "Instead, it is a vast field that individuals share in. This field encom- passes myriad possibilities. It is the source from which thoughts, sen- sations, images, and feelings emerge and then dissolve back into, just as subatomic particles do in the quantum field. Mental experiences and quanta are transient, shaped by uncertainty, and are, in essence, ener- getic fluctuations within the consciousness field." Chopra points to the infinite nature of the quantum and the consciousness fields, and to the essential entanglement within each, such that local realismi.e., the world of isolated physical objects and mental thoughtsis "out the window" for both physical and mental phenomena. This entanglement, he says, "suggests that physical objects are intertwined with perception and consciousness, blurring the boundaries between the observer and the observed." Chopra proposes "a drastic paradigm shift" in which "consciousness comes first, being the field that is the origin of creation, acting in concert with the quantum field" (Chopra, 2023a,b).
+Philosopher Emmanuel Ransford proposes "quantum panpsychism" where matter is richer "with an extra content or dimension"he calls it "holomatter," composed of "holoparticles"and consciousness is "a
+nonmaterial content of the world." It assumes two types of causality: "out-causation," causation from outside, out of reach and deterministic; and "in-causation," causation from within, unpredictable and "self-wil- led," a kind of randomness. Holoparticles, Ransford offers, also have two parts: one obvious, deterministic and out-causal; the other hidden, random-looking and in-causal. This hints, he says, that "the randomness of some quantum events is a smoking-gun evidence of in-causation." He adds the "im-im hypothesis," where "im-im" stands for immaterial and immanent, and his claimed insight is that the brain is a catalyst of the mind. "It is a biological 'lamp' of sorts that pours out untold sparks of consciousness instead of untold sparks of light (or photons) in the case of ordinary lamps." Indeed, the brain spawning large flows of active and entangled in-causal holoparticles within the im-im framework would underpin ordinary consciousnessholoparticles linking quantum and consciousness. This is why "consciousness, albeit immaterial, needs a physical structure to 'catalyze' it into being" (Ransford, 2023).
+Theoretical engineer Edward Kamen proposes that "the human soul is a type of quantum field," which interacts with only certain fields in the physical universe, and not directly with matter. The claim is made that "fields that interact with the soul field include electromagnetic waves," citing as evidence "near-death experiences where events that could not have been seen through the eyes of the individual are verified." Extending the theory, Kamen speculates that because "electric fields and electromagnetic fields have the same quanta consisting of photons, electric fields may also interact with the soul field." This could result in the transfer of information, he says, from working memory to the soul through electric fields produced by neural ensembles in the human brain. Further, the soul field may also affect neurons on the molecular level, perhaps via electric fields and cytoelectric coupling (Kamen and
+Quantum consciousness: a growth market.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Bollinger, 2023)', '(Ransford, 2023)']
+
+    Filtered References:
+    Bohm, David, Hiley, Basil, 1993. The Undivided Universe: an Ontological Interpretation
+of Quantum Theory. Routledge.
+Bollinger, Terry, 2023. An unexpectedly specific theory of consciousness. Apabistia Notes
+2023-04-16.1630 (2023). https://sarxiv.org/apa.2023-04-26.1630.pdf.
+Bostrom, Nick, 2003. Are you living in a computer simulation? Phil. Q. 53 (211),
+
+Truth—10 CTT videos and 6 CTT TV episodes—https://closertotruth.com/co
+ntributor/v-s-ramachandran/. .
+Ransford, Emanuel, 2023. Quantum panpsychism and the light bulb metaphor. https://
+galileocommission.org/wp-content/uploads/2023/12/Ransford-GC-Oct.23.pdf.
+Reber, Arthur, 2016. Caterpillars, consciousness and the origins of mind. Anim.
+
+    
+2024-10-26 02:04:22,418 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Quantum Panpsychism",
+    "description": "A theory proposed by Emmanuel Ransford suggesting that matter has an extra dimension called 'holomatter' composed of 'holoparticles', where consciousness is a nonmaterial content of the world. It posits two types of causality: 'out-causation' from outside and deterministic, and 'in-causation' from within and unpredictable. The theory implies that the randomness of some quantum events indicates in-causation, with the brain acting as a catalyst for consciousness.",
+    "categories": ["Panpsychism", "Quantum Theories of Consciousness"]
+  }
+}
+2024-10-26 02:04:22,418 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Emmanuel Ransford",
+    "biography": "Emmanuel Ransford is a philosopher known for his work on quantum panpsychism, proposing that consciousness is a nonmaterial aspect of reality and exploring the relationship between quantum mechanics and consciousness through concepts like 'holomatter' and 'holoparticles'."
+  }
+}
+```
+2024-10-26 02:04:22,418 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Ransford, Emanuel, 2023. Quantum panpsychism and the light bulb metaphor. https://galileocommission.org/wp-content/uploads/2023/12/Ransford-GC-Oct.23.pdf.",
+      "material_type": "Online Article",
+      "associated_theory_name": "Quantum Panpsychism"
+    }
+  ]
+}
+```
+2024-10-26 02:04:22,418 - ERROR - No JSON found in theory output.

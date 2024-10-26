@@ -1,0 +1,62 @@
+2024-10-26 02:04:40,576 - DEBUG - Processing Section 131
+2024-10-26 02:04:44,851 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Proponents position panpsychism as a solution to the vexing prob- lems of both materialism and dualism: replacing materialism's apparent impotence to account for consciousness and avoiding dualism's sharply
+bifurcated reality (Goff et al., 2022). The challenge, according to Chalmers, is how microphysical properties, characterized by a completed physics, relate to phenomenal (or experiential) properties, the most familiar of which is simply the property of phenomenal con- sciousness (Chalmers, 2013).
+If panpsychism is correct, Chalmers says, there is microexperience and there are microphenomenal properties, which are obviously very different from human experience. Though a proper panpsychist theory of consciousness is currently lacking, some progress can be made.
+Chalmers posits "constitutive panpsychism" as the thesis that mac- roexperience is (wholly or partially) grounded in microexperience. It is the thesis that microexperiences somehow add up to yield macro- experience. "Nonconstitutive panpsychism" holds that microexperience does not ground the macroexperience; rather, macroexperience is strongly emergent from microexperience and/or from microphysics
+In either case, traditional panpsychism is micropsychism, the posi- tion that all facts of panpsychism are formed at the micro-level. Two forms are distinguished, based on which aspect of mentality is privileged to be fundamental and ubiquitous: thought (pancognitivism) and con- sciousness (panexperientialism).
+Panpsychism's thorniest problem, long recognized, is the "combi- nation problem": How could micro-level entities with their own very basic forms of conscious experience somehow come together in brains to constitute human and animal conscious experience? The problem is severe: How could minuscule conscious subjects of rudimentary expe- rience somehow coalesce to form macroscopic conscious subjects with complex experiences? (Goff et al., 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Chalmers, 2013)']
+
+    Filtered References:
+    consciousness. Minds Mach. 16, 185–200. https://doi.org/10.1007/s11023-006-
+9036-0.
+Bourget, David; Chalmers, David, general eds. PhilPapers. https://philpapers.org/browse
+/theories-of-consciousness.
+Bourget, David, Chalmers, David, 2014. What do philosophers believe? Phil. Stud. 170
+
+
+    
+2024-10-26 02:04:44,851 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Constitutive Panpsychism",
+    "description": "A theory positing that macroexperience is wholly or partially grounded in microexperience, suggesting that microexperiences combine to yield macroexperience.",
+    "categories": ["Panpsychism", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:04:44,851 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "David Chalmers",
+    "biography": "David Chalmers is a philosopher and cognitive scientist known for his work on the philosophy of mind and consciousness, particularly for formulating the 'hard problem' of consciousness and advocating for panpsychism."
+  }
+}
+```
+2024-10-26 02:04:44,851 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Chalmers, D. (2013). The combination problem for panpsychism. Minds and Machines, 16, 185–200. https://doi.org/10.1007/s11023-006-9036-0.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Constitutive Panpsychism"
+    },
+    {
+      "citation": "Bourget, D., & Chalmers, D. (2014). What do philosophers believe? Philosophical Studies, 170.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Constitutive Panpsychism"
+    },
+    {
+      "citation": "Bourget, D., & Chalmers, D. (n.d.). PhilPapers. Retrieved from https://philpapers.org/browse/theories-of-consciousness.",
+      "material_type": "Website",
+      "associated_theory_name": "Constitutive Panpsychism"
+    }
+  ]
+}
+```

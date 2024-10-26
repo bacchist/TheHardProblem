@@ -1,0 +1,142 @@
+2024-10-26 02:10:00,352 - DEBUG - Processing Section 189
+2024-10-26 02:10:10,539 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: As creator and host of Closer To Truth, I receive ideas from viewers globally. These unsolicited papers are often elaborate treatises, the majority of which focus on consciousness or cosmology. I look at all of them, keep an open mind with at least one eye skeptical, learn some, respond as I can. I marvel at the passion and respect the dedication.56
+Addressing the "ultimate questions" of cosmic existence and human sentience is the highest calling of human beings, which is why I appre- ciate diverse ideas (Kuhn, 2023). While I cannot agree with many of the assumptions, and certainly not with most of the assertions, I see the scope of subjects as exemplifying the kinds of issues and challenges that enliven the human spirit (small "s").
+To conclude this section on Idealism, I note several models of idealism I've received (among many). The only judgment I pass is that consciousness in general, and idealism in particular, fire the imagination as well as stir the passions.
+Flip-Book Idealism (FBI), developed by neuroscientist Silvia Paddock and physicist Thomas Buervenich, agrees with other forms of idealism that spacetime is not primary and that consciousness exists outside of it. According to FBI, observer/participants, who are individuations of this consciousness, detect patterns in a facet of consciousness called the "Urgrund"the fundamental essence of existenceand shape this in- formation into frames of experience by translating complex signal pat- terns into qualia. One hallmark of FBI is that the generation of experiential frames by consciousness creates the arrow of time. Its observer-based viewpoint of reality aligns with quantum mechanics, such that wave-particle duality and entanglement ("spooky action at a distance") are no longer odd or mysterious. FBI distinguishes itself from other forms of idealism by asserting that conscious agents primarily interact with one another through the intermediary of the Urgrund in a kind of question-and-answer game and by proposing that spacetime is a set of rules that consciousness needs to adhere to when creating expe- riential frames to allow for the experienced world to be consistent. FBI does not solve the hard problem of consciousness but attests to its sig- nificance (Paddock and Buervenich, 2023). According to reviewer Jo Edwards, "The central idea is that our subjectivity is the inherently conscious universe enjoying local snapshots in discrete time 'frames', set by brain interactions, that are elided into a sense of movement and continuity, as for a cartoon flipbook." He concludes that the authors make "a nice case for these being fundamental time units that in the brain are a few milliseconds long but elsewhere will follow rules of quantum field theoryperhaps as decoherence intervals. I think this is the right direction to go in. It is nice to see mainstream quantum theory rather than fringe interpretations or invocations of entanglement, tachyons, or dark matter. Like genes, consciousness is likely to be based on kitchen sink biophysics" (Edwards, 2024).
+Rodrigues's C-Pattern Theory. Neuroscientist Pablo Rodriguez posits that the brain can generate only c-patterns, no experiences, because experiences are qualitatively different from matter. Experiences are thus regarded as created by the universe, in that c-patterns are constantly
+"read" and converted to experiences. C-Pattern Theory has three basic points. First, the brain doesn't generate conscious experiences; it gen- erates c-patterns, which are complex geometric three-dimensional structures composed of all action potentials from all of the brain's [relevant] neurons firing at any given moment. The c-pattern's specific form and geometry is postulated as being what fully defines any conscious experience. So, for every moment, there's a different c-pattern and a corresponding experience defined by it. Second, an experience is defined by a c-pattern's form, but each is created by the universe, not by the brain; rather, a c-pattern's specific form and geometry encodes an experience as a discrete expressions of a universal geometric experience language, which the universe understands perfectly and decodes into real, actual experiences. Third, we are not body and brain; we are consciousness. If c-patterns are mere symbols converted to experiences, then only consciousness can be what's having all experiences. And as we are the ones experiencing, we are parts of consciousness. Different or- ganisms have different c-patterns, experiences, and levels of under- standing reality. So, this world is just what our c-patterns currently allow, until we manage to expand them to the next level. Thus, true human progress is possible only if the experience language is deciphered and c-patterns are expanded towards greater understanding (Rodriguez, 2023).
+The Meaning of Life. The primacy of consciousness explored via science and logic, without leaping to faith or spiritual awakening. It dissects the mind-body-spirit conundrum and provides a theory of everything that posits that reality is an agreed-upon hallucination. It includes the probative power of optical illusions, why linear time is a stubborn illusion, and the roles that beauty, love, and creativity play to help shape reality (Forrest, 2021).
+Is-Ness. All consciousness is one. Every human spirit is unique, with our singular thoughts, perceptions and experiences, like a whirlpool in an infinite ocean of consciousness. While universal consciousness is infinite in space and time, each conscious being experiences creation from a unique perspective. The power of spirit does not come from its past achievements or future aspirations, but from its existence in the present instant. This is the essence of our existence. Awareness of this essence is the state of "Is-Ness" (Koyoti, 2023).
+Consciousness from Non-Self in Buddhism. Consciousness in the sense of qualia and self-consciousness are not a two-tier, parallel rela- tionship like that of the Cartesian Theatre or "Cogito, ergo sum", but a one-tier, serial relationship. The sense of self just emerges out of the process of alternating "awareness" and "awareness of awareness." This view on consciousness comes from an interpretation of "non-self" in Buddhism. Conversely, it also provides insight into consciousness-only and anatta (from "non-self" to "emptiness") in Buddhism: in reality, there is neither subject nor object of "awareness" (or "consciousness"). According to Yog ac ara, there is no object of awareness (or conscious- ness). Therefore, the mystery behind "consciousness-only" should be how consciousness arises. However, according to Madhyamaka, there is even no consciousness and everything is empty (Huang, n.d.).
+Consciousness's Platonic Computation. Consciousness (the power to conceive, perceive and be self-aware) is the most fundamental and irreducible existence. Creation of all else is rendered by the "Platonic computer" that is made by, of, with and from Consciousness. The hy- pothesis of "Platonic computation" offers a solution to the inverse hard problem of consciousness: how matter arises out of consciousness (Duan, n.d.).
+Hawkins's Map of Consciousness. Psychiatrist and spiritual teacher David Hawkins claims human consciousness comes arrayed with 17 levels and associated "energy fields," with the "frequency" or "vibra- tion" of energy increasing with each rise in level, along with corre- sponding implications for emotional tone, view of God, and view of life. Consciousness is pervasive, connecting to God via "devotional non- duality" and enabling, at its higher levels, a beneficial and healing effect on the world. Hawkins says his scientific framework elucidates the spiritual levels delineated by saints, sages and mystics, with highest
+levels representing Self-realization, the void, nothingness vs. allness, full enlightenment, and divine realization.57 (Hawkins, 2014; Hawkins, n. d.).
+17. Anomalous and altered states theories
+Can nonphysical consciousness (or realms) be revealed or accessed via anomalous, psi or paranormal phenomenaextrasensory perception (ESP), out-of-the-body experiences (OBEs), near-death experiences (NDEs), and the like? Psychical research beginning in the late 19th century and parapsychology in the mid-20th century sought to study the phenomena scientifically.
+To those who believe in its existenceresearchers and general public alikethe reality of psi/paranormal phenomena leads directly to con- sciousness being nonphysical, as well as to nonphysical modes of mental existence, whether as individual "spirits" or "souls" or in the broader sense of nonphysical realms of parallel worlds (Radin, 2007; Schlitz, 2007; Tart, 2007). There are innumerable reports of ESPtelepathy, clairvoyance, precognition, psychokinesisthe vast majority anecdotal, some research-based; believers ("sheep") and skeptics ("goats") remain equally adamant in their convictions. Moreover, even among psi-sheep researchers, there are replicability problems and a possible paradox of confounding interactions between the researcher (the observer) and the experiment (the observed) (Rabeyron, 2020).
+For the record, I remain skeptical regarding the overwhelming ma- jority of anecdotal paranormal stories and circumspect regarding sta- tistically significant research affirming psi. I consider likely drivers to be illusion, delusion, fraud, imperfect experimental design, unwitting experimenter bias, ex ante sample selection, ex post data selection, ex post reasoning, and/or plain-old wishful thinking.
+Still, I have to say, I generally respect parapsychologists and their experimental designs, and I cannot rule out all paranormal stories. This is why I must consider the profound implications for theories of con- sciousness if any claims of psi and the paranormal would turn out to be veridical. (In context of my skepticism and consideration, and in the spirit of full disclosure, I have a history.58)
+Parapsychologist Dean Radin distinguishes sharply between the words paranormal and psi. They are not synonymous, he stresses. "The paranormal is a tabloid trope that encompasses Bigfoot, astrology, crystal healing, UFOs, the Bermuda Triangle, etc.," he says. "Equating paranormal with psi perpetuates the idea that psi is part of a great silliness, and this is one of the many reasons why sober academics strictly avoid the topic." By contrast, Radin points out, "psi refers only to common aspects of human experiences reported throughout history and across all cultures, and psi research studies such experiences." Radin acknowledges, "Yes, 95% of these reports may have mundane expla- nations, but 5% do not. And that 5% changes everything" (Radin, 2024).
+Psi research, Radin notes, was "designed explicitly to exclude the illusion, delusion, fraud, p-hacking [misuse of data analysis to report false positives], and the like." He asserts, "There is no better way to demonstrate the current state of the evidence for psi than to read major pro-psi and con-psi articles published in the APA's flagship journal,
+American Psychologist (Carde na, 2018; Reber and Alcock, 2020). The pro article discusses meta-analyses of 10 classes of psi experiments reported in over 1000 individual studies. In reply, the authors of the con article state up front that they would not address the evidence because  and they actually say this  psi is impossible. That's the Spanish Inquisition approach to ignoring uncomfortable facts, and yet that is the state of psi skepticism today" (Radin, 2024).
+Cardena's paper, "The experimental evidence for parapsychological phenomena: A Review," clarifies "the domain of psi, summarizes recent theories from physics and psychology that present psi phenomena as at least plausible, and then provides an overview of recent/updated meta- analyses." The evidence, Cardena concludes, "provides cumulative support for the reality of psi, which cannot be readily explained away by the quality of the studies, fraud, selective reporting, experimental or analytical incompetence, or other frequent criticisms." The evidence for psi, he says, "is comparable to that for established phenomena in psy- chology and other disciplines, although there is no consensual under- standing of them" (Carde na, 2018).
+Reber and Alcock's paper, "Searching for the impossible: Para- psychology's elusive quest," presents an opposing perspective to "the general claims of psi (the umbrella term often used for anomalous or paranormal phenomena)." The authors mount "a broad-based critique of the entire parapsychology enterprise." Their position is straightforward: "Claims made by parapsychologists cannot be true. The effects reported can have no ontological status; the data have no existential value." Reber and Alcock base their stark conclusion "on well-understood sci- entific principles. In the classic English adynaton, 'pigs cannot fly.' Hence, data that suggest that they can are necessarily flawed and result from weak methodology or improper data analyses or are Type I er- rors.59 So it must be with psi effects." What they find "particularly intriguing is that, despite the existential impossibility of psi phenomena and the nearly 150 years of efforts during which there has been, literally, no progress, there are still scientists who continue to embrace the pur- suit" (Reber and Alcock, 2020).
+The vast anecdotal literature of near-death experiences (NDEs) and out-of-the-body experiences (OBEs) (17.12), amplified by innumerable (supposed) communications with the dead, also some serious but controversial research, gives rise to beliefs in a sentient afterlife, thus giving apparent credence to non-materialistic theories of consciousness. There are even reports of auras and halos around or emanating from people; some claim to witness, at the moment of death, the soul departing the body. "Terminal lucidity"unanticipated and unex- plained changes in mental clarity, verbal communication, and/or physical capability in the days and hours before death when each pa- tient's medical condition should not allow for such sudden improve- mentssuggests, to some, that there is something nonphysical going on (Roehrs et al., 2023). Credulous readers will find an inexhaustible sup- ply of NDE/OBE anecdotes and stories, but modest serious research of sound design in which the extraordinary claims are supported unam- biguously by extraordinary evidence (to paraphrase Carl Sagan) (I acknowledge claims to the contrary.60).
+Perhaps the most common claim of "evidence" that consciousness is nonphysical comes from out-of-the-body experiences (Tart, 1987, 2007). Those having OBEs report their experiential awareness to be as a nonphysical entity (spirit/soul) in a nonphysical world. It is all sensorily or perceptibly real, vivid and stable, yet they sense not being in their earthly bodies and not being in our earthly world. The more lucid quality of OBE consciousness (compared to dream consciousness), which
+is typical of OBEs, convinces OBE adherents of the nonphysical nature of their personal consciousness and the reality of nonphysical realms.
+It is no surprise that psi researchers are more compelled by labora- tory tests than by OBE/NDE anecdotes. They also point to everyday phenomena that people experience, such as thinking of someone and then getting a text or phone call from them, fueling the sense that it feels too unlikely to be a coincidence.
+To philosopher and parapsychologist Stephen Braude, the answer to the mind-body problem depends in part on how much exotic data you are willing to entertain. "If you are willing to look seriously at some of the data suggesting a persistence of personality after bodily death, after the body has decomposed," he says, "then certainly the conventional materialist, neurophysiological view goes out the window" (Braude, 2007a). (For mathematician-astronomer Bernard Carr, paranormal phenomena inform his views of consciousness and the nature of fundamental reality11.10.)
+The fact of the matterwhether such psi/paranormal phenomena have credible claims on reality, or whether they are purely and merely illusion, delusion, poor design or faulty analysis (those that aren't already outright frauds)is not for adjudication or even for assessment here. (But the wholly skeptical view, personified engagingly by Susan Blackmore, does need voice [Blackmore, 2002, 2007].)
+Rather, if any of these psi/paranormal phenomenaeven if a minuscule fraction of themis real and does challenge or defy the laws of physics as currently construed, then non-materialistic theories of consciousness would have to be taken more seriously. This possibility, however remote or however likely, justifies inclusion, at least for me, of psi-motivated theories of consciousness here on the Landscape of possible explanations.
+I largely agree with Alex Gomez-Marin: "The study of consciousness requires that we take seriously the many flavors of human experience, particularly those that lie at the edges of what is typically explored scientifically and discussed in public. From psychedelics and synchro- nicities, to lucid dreaming and psychic phenomena, the 'backdoors of perception' have the potential to transform not just neuroscience and physics but our very understanding of the nature of reality and our place in it" (Gomez-Marin, 2023b). (I am, however, modestly less optimistic that meaningful progress can be made.)
+The more general "altered states of consciousness" subsumes diverse deviations from our normal alert, waking consciousness as induced by various physiological, psychological, or pharmacological actions or agents (Altered state of consciousness, 2023). Charles Tart, whose book, Altered States of Consciousness, was the first comprehensive treatment of the subject, focuses on the subjective nature of the experience: "Altered states of consciousness are alternate patterns or configurations of experience, which differ qualitatively from a baseline state," stressing "... such that the experiencer feels his consciousness is radically different from the way it functions ordinarily" (Tart, 1969).
+Note that Anomalous and Altered States theories, strictly speaking, are generally not theories of consciousness per se in that they are not theories of what consciousness is. Rather, they are claimed as evidence of what consciousness is notnot reducible to neurobiological states without residue. It is natural that those who interpret psi results favor- ably are also motivated to accept (or to create) non-local theories of consciousness. Moreover, while advocates of Anomalous and Altered States theories skew toward dualist or idealist theories, they espouse all the non-materialist theories: quantum, panpsychism and monism as well as dualism and idealism. For example, Dean Radin supports a "quantum oriented," non-substance dualism (17.3), while Charles Tart supports an "emergent interactionism" substance dualism (17.4). All the theories that follow are motivated, at least in significant part, by anomalous, psi or paranormal phenomena (often NDEs and OBEs).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Kuhn, 2023)', '(Edwards, 2024)', '(Rodriguez, 2023)', '(Forrest, 2021)', '(Koyoti, 2023)', '(Rabeyron, 2020)', '(Radin, 2024)', '(Radin, 2024)', '(Tart, 1969)']
+
+    Filtered References:
+    augmented outline. Open Philosop. 3 (1), 527–549. https://doi.org/10.1515/opphil-
+2020-0138.
+R.L. Kuhn
+Progress in Biophysics and Molecular Biology 190 (2024) 28–169
+158
+
+wakefulness in human consciousness. Sci. Transl. Med. 16, eadj4303 https://doi.
+org/10.1126/scitranslmed.adj4303.
+Edwards, Jo, 2024. Review of Plato’s prisoners by Silvia Paddock and Thomas J.
+Buervenich. J. Conscious. Stud. 31 (1–2), 235–241.
+Ellis, George F.R., 2006. What are the ultimate questions of all reality? Closer To Truth.
+167
+Rodriguez, E., et al., 1999 Feb 4. Perception’s shadow: long-distance synchronization of
+human brain activity. Nature 397 (6718), 430–433. https://doi.org/10.1038/17120.
+Rodriguez, Pablo, 2023. C-pattern theory: a new perspective on consciousness and
+10—24 May 2007. Review of Consciousness and Its Place in Nature: Does Physicalism
+Entail Panpsychism? by Galen Strawson et al. Imprint Academic. October 2006.
+Forrest, Matthew H., 2021. The meaning of life: when the black dog is barking up the
+right tree. ITZA Glob. Books.
+Frank, Adam, Gleiser, Marcello, Thompson, Evan, 2024. The Blind Spot: Why Science
+Kopel, Jonathan, 2023. Near-death experiences and emergent dualism. Theol. Sci. 21, 2.
+https://doi.org/10.1080/14746700.2023.2188374.
+Koyoti, Michael, 2023. Is-ness: science, consciousness, spirit. Koyoti Edge.
+Krauss, Lawrence, 2023. The Edge of Knowledge: Unsolved Mysteries of the Cosmos. Post
+Hill Press, Kindle Edition, p. 195.
+pp. 215–235.
+Qualia Research Institute. (n.d.) FAQ. https://qri.org/faq. Retrieved: 15 March 2024.
+Rabeyron, Thomas, 2020. Why most research findings about psi are false: the
+replicability crisis, the psi paradox and the myth of sisyphus. Front. Psychol. 11,
+562992 https://doi.org/10.3389/fpsyg.2020.562992.
+com/contributor/stuart-kauffman/.
+Kauffman, Stuart, 2023. Personal Communication.
+Kauffman, Stuart, Radin, Dean, 2020. Quantum aspects of the brain-mind relationship: a
+hypothesis with supporting evidence. Biosystems 223, 104820, 2023 Jan.
+Kauffman, Stuart, Roli, Andrea, 2022. What is Consciousness? Biol. J. Linn. Soc.
+Tallis, Raymond, 2023. The how & why of consciousness. Philos. Now. (159) https://ph
+ilosophynow.org/issues/159/The_How_and_Why_of_Consciousness.
+Tart, Charles, 1969. Altered States of Consciousness. John Wiley & Sons.
+Tart, Charles, 1978a. Emergent interactionist understanding of human consciousness. In:
+Shapin, Betty, Colu, Lisette (Eds.), Brain/Mind and Parapsychology: Proceedings of
+
+    
+2024-10-26 02:10:10,539 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Flip-Book Idealism (FBI)",
+    "description": "A theory developed by Silvia Paddock and Thomas Buervenich that posits consciousness exists outside of spacetime, with observer/participants detecting patterns in a fundamental essence called the 'Urgrund'. This theory suggests that consciousness generates experiential frames that create the arrow of time and aligns with quantum mechanics, proposing that conscious agents interact through the Urgrund.",
+    "categories": ["Idealism", "Quantum Mechanics"]
+  }
+}
+```
+2024-10-26 02:10:10,539 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Silvia Paddock",
+    "biography": "Silvia Paddock is a neuroscientist known for her work on consciousness and her development of the Flip-Book Idealism (FBI) theory, which explores the relationship between consciousness and spacetime."
+  }
+}
+```
+2024-10-26 02:10:10,539 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Edwards, Jo, 2024. Review of Plato’s prisoners by Silvia Paddock and Thomas J. Buervenich. J. Conscious. Stud. 31 (1–2), 235–241.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Flip-Book Idealism (FBI)"
+    },
+    {
+      "citation": "Rodriguez, Pablo, 2023. C-pattern theory: a new perspective on consciousness and wakefulness in human consciousness. Sci. Transl. Med. 16, eadj4303 https://doi.org/10.1126/scitranslmed.adj4303.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Flip-Book Idealism (FBI)"
+    },
+    {
+      "citation": "Forrest, Matthew H., 2021. The meaning of life: when the black dog is barking up the right tree. ITZA Glob. Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Flip-Book Idealism (FBI)"
+    },
+    {
+      "citation": "Koyoti, Michael, 2023. Is-ness: science, consciousness, spirit. Koyoti Edge.",
+      "material_type": "Book",
+      "associated_theory_name": "Flip-Book Idealism (FBI)"
+    },
+    {
+      "citation": "Rabeyron, Thomas, 2020. Why most research findings about psi are false: the replicability crisis, the psi paradox and the myth of sisyphus. Front. Psychol. 11, 562992 https://doi.org/10.3389/fpsyg.2020.562992.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Flip-Book Idealism (FBI)"
+    },
+    {
+      "citation": "Radin, Dean, 2024. Psi research and the implications for consciousness. American Psychologist.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Flip-Book Idealism (FBI)"
+    },
+    {
+      "citation": "Tart, Charles, 1969. Altered States of Consciousness. John Wiley & Sons.",
+      "material_type": "Book",
+      "associated_theory_name": "Flip-Book Idealism (FBI)"
+    }
+  ]
+}
+```

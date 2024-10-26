@@ -1,0 +1,62 @@
+2024-10-26 02:08:23,846 - DEBUG - Processing Section 170
+2024-10-26 02:08:27,914 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: The concept of the soul, in multifarious forms, has infused indige- nous and folk religions throughout the world, and although we tend to categorize these ancient belief systems as "pre-modern" and "pre-sci- entific," lacking the sophistication of the major Eastern and Abrahamic traditions, we may be remiss not to recognize the data and to assess its implications (if any). The geographic ubiquity of soul belief, spanning the globe and including all racial and cultural groups, and its resiliency over time, should not be ignored.
+The cognitive science of religion, a relatively recent field of inquiry, can account for beliefs in supernatural agents and entities, from souls and ghosts to angels and gods (Barrett, 2000; Boyer, 2001; Lawson, 1993). Psychologist Justin Barrett's idea of a "hyperactive agent detection device" can explain why human beings evolved concepts of gods and spirits. (Barrett asserts that this evolved psychological mech- anism is agnostic on whether such gods and spirits would actually exist: "Having a scientific explanation for mental phenomena does not mean we should stop believing in them," he says [Barrett, 2012].)
+Although the soul in indigenous religions is often more a vital prin- ciple or an immanent power resident in all animate and even inanimate objects, not a non-physical substance in each individual, there is wide recognition of spiritual aspects of human beings. While it is not fruitful to try to discern the metaphysics of what is designated by some ab- origines as "spirit of the man," or "spirit in the man," there is certainly widespread belief in the existence of forces, powers and entities beyond their physical worlds (Rivi`ere, 1987, 2005).
+Whether these beliefs can be classified as substance dualism as presently conceived is debatable, although numerous examples show that "there exists a quite noticeable distinction between the body element and the diversity of spiritual entities that one may call 'souls' for
+the sake of convenience, entities that may have the body as a prop." What James Frazer in The Golden Bough called the "external soul" has some characteristics of dualism's souls or spirits, such as the capacity to depart the body during dreams. (Differences include, for example, the external soul living in an animal double or in one's shadow.)
+The origin of the indigenous soul, compared with that of dualism's soul, also has similarities (e.g., coming from an almighty spirit) and differences (e.g., obtained as a gift or by conquest or by choice). The Ewe of Togo use specific, separate terms for the "substance of the soul" and the "breath of life," and believe that the individual, before incarnation, exists as a spirit, and together with the supreme creator (Mawu-Lisa) he or she chooses their own destiny. Other indigenous groups have very physical means to obtain souls, such as pilgrimage, fasting, eating, combat and killing (Rivi`ere, 1987, 2005).
+Regarding its destiny after death, souls can reach new worlds in which to live or be transmitted as a vital force to descendants. The majority believe that after death their ancestors live in another world. Many African religions focus on ancestors, who, in some cases, can reincarnate in a newborn baby.
+The Native American Dakota have four types of souls (given by the sky god): one is judged after deathif deserving, one's soul enters the world of spirits; if not, it must wander forever. Almost everywhere, the soul after death involves a gradual purification through a series of trials. The ultimate destination is a celestial space or an undifferentiated earth- based place (underground, marshes, desert). While living in the other world, the dead person can be present elsewhere; as a specter or a ghost (Rivi`ere, 1987, 2005).
+In Chinese folk religion, the majority of supernatural beings are thought to originate from the "souls" of dead people (Harrell, 1979). Traditional Chinese Medicine (TCM) is said to engage "a deeper level of consciousness that touches various organs of the human body." Every organ is in some sense involved in consciousness. This includes the brain, of course, but it also includes the liver, the kidney, the heart, etc. each with its own essence or contribution, thus forming "an integrated consciousness system." "Shen" () is the TCM concept corresponding to "consciousness" and the classic TCM text (Huangdi Neijing) describes "how to understand the meaning of Shen in the heart, soul in the liver, meaning in the spleen, soul in the lungs, essence in the kidney, and will." According to TCM theory, "the human body is a little universe. Things outside the body form the big universe. These outside and inside uni- verses are closely connected together in one holistic overall system." The claim is that this idea corresponds to the cognitive-science concepts of embodiment, specifically Ecological Psychology (9.6.7) and Embodied Cognition (9.6.1) (Lu et al., 2022).
+The imaginative varieties of indigenous souls reflect the richness and abundance of human creativity. The Fang of Gabon name seven types of souls: three disappear at death; two persevere after death; one is a dis- incarnated spirit (which can appear as a ghost); and one is "both shadow and soul." (Harrell, 1979). While these "souls" are not dualist sub- stances, they reflect aspects of dualism.
+No claim is made that souls in indigenous religions, however ubiq- uitous, corroborate dualism as a theory of consciousness. On the other hand, the substantial and similar anthropological data should at least be acknowledged.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Harrell, 1979)', '(Harrell, 1979)']
+
+    Filtered References:
+    & Prinz. (2008. Mind and Cognition, third ed. Basil Blackwell.
+Harp, Dennis, 2022. Lumignosis. https://lumignosis.org.
+Harrell, Stevan, 1979. The concept of soul in Chinese folk religion. J. Asian Stud. https://
+www.jstor.org/stable/2053785.
+Harris, Lydon, 1998. Divine action: an interview with John Polkinghorne. Cross Current
+
+
+    
+2024-10-26 02:08:27,914 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Traditional Chinese Medicine and Integrated Consciousness",
+    "description": "This theory posits that consciousness is an integrated system involving various organs of the body, each contributing to a holistic understanding of consciousness. The concept of 'Shen' in TCM corresponds to consciousness, suggesting a deep connection between the body and the universe.",
+    "categories": ["Cognitive Science", "Eastern Philosophy", "Holistic Health"]
+  }
+}
+```
+2024-10-26 02:08:27,914 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Stevan Harrell",
+    "biography": "Stevan Harrell is an anthropologist known for his work on Chinese folk religion and the concept of the soul, particularly in the context of cultural beliefs and practices."
+  }
+}
+```
+2024-10-26 02:08:27,915 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Harrell, Stevan, 1979. The concept of soul in Chinese folk religion. J. Asian Stud. https://www.jstor.org/stable/2053785.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Traditional Chinese Medicine and Integrated Consciousness"
+    },
+    {
+      "citation": "Lu et al., 2022. [Title not provided].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Traditional Chinese Medicine and Integrated Consciousness"
+    }
+  ]
+}
+```

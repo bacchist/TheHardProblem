@@ -1,0 +1,55 @@
+2024-10-26 02:07:27,046 - DEBUG - Processing Section 159
+2024-10-26 02:07:31,147 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: The influential Christian scholastic philosopher St. Thomas Aquinas gives an account of the soul that is non-Cartesian in character, according to Catholic philosopher Eleonore Stump, who has Aquinas taking the soul to be something essentially immaterial or configurational but nonetheless realized in material components. This suggests, she argues, not only that Cartesian dualism isn't essential to Christianity but also that the battle lines between dualism and materialism are misdrawn (Stump, 1995).
+Stump recognizes that because Cartesian dualism is widely regarded (among philosophers) as false, and because "it is also the case that the major monotheisms have traditionally been committed to dualism of a Cartesian sort, then in the view of many philosophers the apparent or putative falsity of Cartesian dualism becomes an embarrassment for those religions."
+In building his alternative to a Cartesian sort of dualism (in historical context, to Plato's account of the soul), Aquinas is guided by "two complex, culturally conditioned sets of intuitions," each of which relates to a biblical passage. The first is "dust thou art, and unto dust shalt thou return" (Gen. 3:19), conveying that a human being is a material object, "made out of the same sort of constituents as the earth is," and the second is "Then shall the dust return to the earth as it was, and the spirit shall return to God who gave it" (Eccles.12:7), conveying that a human person survives death, "because her spirit or soul continues to exist after
+the dissolution of her body." Stump has Aquinas accommodating both sets of intuitions with his account of the human soul (Stump, 1995).
+Famously, Aquinas takes the soul to be the form of the body, but, as Stump points out, "the soul not only is the form that makes this matter a living human body but also is the form that makes the matter this human being." And when, after death, all that is left of a human being is the soul, "individuality persists on Aquinas's account."
+"Soul" is a larger category for Aquinas, his generic term for the substantial forms of all material objects that are living. Plants have souls, not in the human sense, but in that they enable "a configuration of matter which allows for nutrition, growth, reproduction." Animals, too, have souls, since they, too, are living things; but the configuration of their matter also allows them perception. The forms that constitute human beings allow a more distinctive set of capacities, namely, intel- lective processes. Aquinas tends to call the human soul "the intellective soul" or "the rational soul".
+Aquinas's soul is created directly by God and infused into matter. The soul is the act of the body, "because it is in virtue of the soul that something is actually a living human body." Moreover, because the soul is the form of the body, it has a spatial location; while the body is alive, the soul is located where the body is.
+As for the post-mortem, disembodied soul, while it does persist, it is not the complete human being who was the composite but only a part of that human being. A separated soul does exist on its own after death, but it nonetheless isn't a substance in its own right. Disembodied existence isn't natural to the soul.
+Stump sums up: "The soul is an essentially configurational state which is immaterial and subsistent, able to exist on its own apart from the body. On the other hand, the soul is the form that makes the living human body what it is. While it is possible with divine help for the soul to exist and exercise cognitive function on its own, apart from the body, that state is unnatural to it. In the natural condition, human cognitive functions are to be attributed to the whole composite and not to the soul alone, although the composite exercises cognitive functions by means of the soul." In Stump's view, the real lesson of Aquinas's account of the soul is to show that the dichotomy between materialism and dualism is misleading (Stump, 1995).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Stump, 1995)', '(Stump, 1995)', '(Stump, 1995)']
+
+    Filtered References:
+    Strawson, Galen, Bertrand, Russell, 2021. Oh you materialist! J. Conscious. Stud. 28
+(9–10), 2021.
+Stump, Eleonore, 1995. Non-cartesian substance dualism and materialism without
+reductionism. Faith Philos. 12 (Issue 4).
+Subramaniam, Ganapathy, 2023. Personal communications. https://www.ganapathysu
+
+
+    
+2024-10-26 02:07:31,147 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Aquinas's Account of the Soul",
+    "description": "Aquinas presents a non-Cartesian view of the soul, suggesting it is an immaterial and configurational state that is realized in material components. The soul is the form of the body, allowing for individuality and cognitive functions, but its disembodied existence is not natural. This account challenges the traditional dichotomy between dualism and materialism.",
+    "categories": ["Philosophy of Mind", "Metaphysics", "Theology"]
+  }
+}
+```
+2024-10-26 02:07:31,147 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Eleonore Stump",
+    "biography": "Eleonore Stump is a prominent philosopher known for her work in medieval philosophy, particularly on St. Thomas Aquinas. She has contributed significantly to discussions on the nature of the soul, dualism, and the intersection of philosophy and theology."
+  }
+}
+```
+2024-10-26 02:07:31,147 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Stump, Eleonore, 1995. Non-cartesian substance dualism and materialism without reductionism. Faith Philos. 12 (Issue 4).",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Aquinas's Account of the Soul"
+    }
+  ]
+}
+```

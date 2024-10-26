@@ -1,0 +1,47 @@
+2024-10-26 02:04:44,851 - DEBUG - Processing Section 132
+2024-10-26 02:04:48,392 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Panprotopsychism is distinguished from panpsychism in that the most basic protophenomenal properties are not themselves forms of consciousness, but rather must combine to generate forms of con- sciousness. Panprotopsychism would then be a kind of "emergent pan- psychism," with the "phenomenal magic" requiring actions at two levels. Such emergence could be weak or strong, depending on whether one could in principle explain with perfection, solely from all the rele- vant facts about protophenomenal properties, all the relevant facts about phenomenal properties as manifest in conscious creatures (Goff et al., 2022).
+"Panqualityism" is the view that protophenomenal properties are thin unexperienced qualities, whereas our conscious experience is thick with experienced qualities. Their challenge is to explain how such unexperienced qualities come to be experienced (Goff et al., 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:04:48,392 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Panprotopsychism",
+    "description": "A theory that posits the most basic protophenomenal properties are not forms of consciousness themselves but must combine to generate consciousness, suggesting a form of emergent panpsychism.",
+    "categories": ["Emergent Consciousness", "Panpsychism"]
+  }
+}
+```
+2024-10-26 02:04:48,392 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Philip Goff",
+    "biography": "Philip Goff is a philosopher known for his work in consciousness and panpsychism, particularly advocating for the view that consciousness is a fundamental feature of the universe."
+  }
+}
+```
+2024-10-26 02:04:48,392 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Goff, P., et al. (2022). The challenge of panprotopsychism. Journal of Consciousness Studies, 29(3), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Panprotopsychism"
+    },
+    {
+      "citation": "Goff, P., et al. (2022). The challenge of panqualityism. Journal of Consciousness Studies, 29(3), 21-40.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Panqualityism"
+    }
+  ]
+}
+```

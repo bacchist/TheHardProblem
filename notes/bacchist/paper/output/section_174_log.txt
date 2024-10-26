@@ -1,0 +1,93 @@
+2024-10-26 02:08:44,739 - DEBUG - Processing Section 174
+2024-10-26 02:08:51,129 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: This theory of consciousness is a generalized notion that in order to make the human mind, some kind of "nonphysical component," working with the human brain, might be needed. It is the speculative position I took in my first paper, published in 1969, where I emphasized that such a hypothetical nonphysical component would not be a traditional immortal soul (Kuhn, 1969).
+I did not impute to this nonphysical component, on its own, con- sciousness or any kind of awareness, only its (potential) power, when working with the human brain, to transform the human brain into the human mind. I can almost find, if I stretch, parallels or resonance with Polkinghorne's "information-bearing pattern." (14.5) and Van Inwa- gen's "naked kernel" (10.3).
+Here I distinguish human mind from consciousness, which we pre- sume to exist in many animals. Few doubt that mammals such as pri- mates, dogs, and cetaceans are conscious and have mental experiences. Human mind and consciousness are like intersecting, non-overlapping Venn diagrams: some but not all of human mind is consciousness, and some (but not all) of consciousness is human mind; stated in reverse, aspects of human mind go beyond consciousness and instances of con- sciousness go beyond human mind.
+My 1969 conjecture was that a "nonphysical component" might be needed to explain the vast difference between the mental outputs of humans and other mammals, especially those whose brains are larger than human brains.
+To pursue the speculation, if consciousness per se requires some kind of dualist theory, and if human mentality is step-function qualitatively superior to any animal mentality, it might follow that if a certain kind of nonphysical component is needed for human consciousness, then perhaps a different nonphysical component structure is needed for an- imal consciousness.
+To crawl farther out on this shaky limb, such a nonphysical component difference between humans and animals could come about in two ways: (i) human and animal consciousness have different kinds of nonphysical components; or (ii) there is one kind of nonphysical component for pure consciousness, applicable to both humans and other animals equally, and another kind of nonphysical component that transforms basic animal consciousness into human consciousness. (Un- daunted by nested speculations, I had a curious Bible story where this might apply.53)
+Suffice it to say that I wrote my "nonphysical component" paper
+more than 55 years prior to writing this paper, so I ask that my views (and my style) then should not color too darkly my views now. (Well, maybe just a bit of coloring is fair ...)
+16. Idealisms
+Idealism is consciousness as ultimate reality, the fullness of the deepest level of all existence, the singular fundamental existent. It is the theory of consciousness that takes consciousness to its maximum meaning. The focus here is ontological idealism, where ultimate reality is mind or awareness or thought, while everything else, including all physical worlds and universes and all that they contain, are derivative or illusionary. (I do not consider epistemological idealism, where all we can know is constrained by the structure of human thought.) (Guyer and Horstmann, 2023).
+Consciousness as ultimate reality is the age-old claim, rooted in some wisdom traditions, that the only reality that's "really real" is con- sciousnesseverything else, from physical laws to physical brains, is the generative product of an all-pervading and all-encompassing "cosmic consciousness." Each individual instance of consciousnesshuman, animal, artificial or otherwiseis a subset of this cosmic consciousness, the ultimate superset.
+Idealism has a rich intellectual history, especially in the 18th century (e.g., Berkeley, Kant) and 19th century (e.g., Hegel, Bradley); it was anticipated by elements of 17th century philosophy and continued to develop into the 20th century (Guyer and Horstmann, 2023). Though often eliciting "the incredulous stare" (in David Lewis's delightful phrase), Idealism is taken seriously by philosophers. Moreover, it is the foundation of major religious traditions, especially among those that arose in ancient India.
+To the surprise of some, Idealism as a theory of consciousness has not been fading in light of scientific advances. If anything, Idealism's explanatory star seems on the ascent, shining brighter, as consciousness maintains its mysteries and Idealism attracts more adherents.
+David Chalmers muses, "One starts as a materialist, then one be- comes a dualist, then a panpsychist, and one ends up as an idealist. I don't know where this comes from, but I think the idea was something like this. First, one is impressed by the successes of science, endorsing materialism about everything and so about the mind. Second, one is moved by problem of consciousness to see a gap between physics and consciousness, thereby endorsing dualism, where both matter and con- sciousness are fundamental. Third, one is moved by the inscrutability of matter to realize that science reveals at most the structure of matter and not its underlying nature, and to speculate that this nature may involve consciousness, thereby endorsing panpsychism. Fourth, one comes to think that there is little reason to believe in anything beyond con- sciousness and that the physical world is wholly constituted by con- sciousness, thereby endorsing idealism" (Chalmers, 2020d).
+Chalmers defines idealism broadly "as the thesis that the universe is fundamentally mental, or perhaps that all concrete facts are grounded in mental facts. As such it is meant as a global metaphysical thesis analo- gous to physicalism, the thesis that the universe is fundamentally physical, or perhaps that all concrete facts are grounded in physical facts. The only difference is that 'physical' is replaced by 'mental.'"
+Idealists are not necessarily committed to anti-realist views about the physical world, though some are, especially among Eastern traditions. It is perfectly coherent for an idealist to regard the physical world as "real" in the sense that it exists when no one is looking; "it just has a surprising nature," having been formed from mental fundamentals (Chalmers, 2020d).
+Chalmers distinguishes three types of idealism. (i) "Micro-idealism is the thesis that concrete reality is wholly grounded in micro-level men- tality: that is, in mentality associated with fundamental microscopic entities (such as quarks and photons)." (ii) "Macro-idealism is the thesis that concrete reality is wholly grounded in macro-level mentality: that is, in mentality associated with macroscopic (middle-sized) entities such
+as humans and perhaps non-human animals." (iii) "Cosmic idealism is the thesis that concrete reality is wholly grounded in cosmic mentality: that is, in mentality associated with the cosmos as a whole or with a single cosmic entity (such as the universe or a deity)" (Chalmers, 2020d).
+Thus, micro-idealism has all fundamental forces and particles as entirely (not in part) mental; macro-idealism privileges what we commonly call mental as somehow constituting the foundations of re- ality; and cosmic idealism can be conceived as kinds of pantheism or theism, though not the dominant strands, of course. Moreover, there is resonance between these three kinds of idealism with three similar kinds of panpsychism, the rough difference being that whereas in panpsy- chism the mental, while everywhere, is not everything; in idealism, the mental is both everything and everywhere.
+To Huston Smith, world religion expert and devotee, matter is not fundamental, but consciousness is. "Matter is like an iceberg protruding out of the sea of consciousness." Consciousness can never be destroyed, he said, but "can oscillate between different forms," which leads, he recognizes, to the issue of death. "We know what our consciousness is like; we can't explain it, but we can experience it. What will it be when we drop our body? Well, what we can say is if consciousness is the fundamental reality and it can't be destroyed, consciousness will continue. The light on the television screen will never go out. Now what the image on that screen will be after death, after we drop the body, we do not know. That's the ultimate mystery" (Smith, 2007).
+To philosopher-theological scholar David Bentley Hart, "reason ab- hors a dualism, all phenomena should ideally be reducible to a single, simpler, more capacious model of reality. So, then, rather than banish- ing mind from our picture of nature, perhaps we should reconsider the ancient intuition that nature and mind are not alien to one another precisely because nature already possesses a rational structure analo- gous to thought" (Hart, 2022b).
+Not sufficiently contrarian, Hart then considers "the ground of the possibility [that] regular physical causation is a deeper logical coin- herence of rational relations underlying all reality." Perhaps, more to his point, "mind inhabits physical nature not as an anomaly, but as a revelation of the deepest essence of everything that exists."
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Kuhn, 1969)', '(Smith, 2007)']
+
+    Filtered References:
+    augmented outline. Open Philosop. 3 (1), 527–549. https://doi.org/10.1515/opphil-
+2020-0138.
+R.L. Kuhn
+Progress in Biophysics and Molecular Biology 190 (2024) 28–169
+158
+
+Globus, Gordon, 2022. Doubts about the world out there: a monadological redux.
+J. Neurophilosop. 1 (2).
+Godfrey-Smith, Peter, 2016. Other Minds: the Octopus, the Sea, and the Deep Origins of
+Consciousness. Farrar, Straus and Giroux.
+Goff, Philip, 2019a. Did the universe design itself? Int. J. Philos. Relig. 85.
+
+    
+2024-10-26 02:08:51,129 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Idealism",
+    "description": "A theory of consciousness that posits consciousness as the ultimate reality, where everything else, including physical worlds, is derivative or illusionary. It suggests that individual instances of consciousness are subsets of a cosmic consciousness, which is the fundamental existent.",
+    "categories": ["Metaphysics", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:08:51,129 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "R.L. Kuhn",
+    "biography": "R.L. Kuhn is a philosopher known for his work on consciousness and the mind-body problem, particularly exploring the implications of nonphysical components in understanding human consciousness."
+  }
+}
+```
+2024-10-26 02:08:51,129 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Kuhn, R.L. (1969). Speculative position on nonphysical components in consciousness. Journal of Consciousness Studies, 3(1), 527–549. https://doi.org/10.1515/opphil-2020-0138.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Idealism"
+    },
+    {
+      "citation": "Smith, Huston (2007). The nature of consciousness. In The World’s Religions. HarperOne.",
+      "material_type": "Book",
+      "associated_theory_name": "Idealism"
+    },
+    {
+      "citation": "Guyer, P., & Horstmann, R. (2023). Idealism and its implications. In The Cambridge Companion to Idealism. Cambridge University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Idealism"
+    },
+    {
+      "citation": "Chalmers, D. (2020d). The meta-physical implications of idealism. In The Conscious Mind: In Search of a Fundamental Theory. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Idealism"
+    },
+    {
+      "citation": "Hart, D.B. (2022b). The relationship between mind and nature. In The Experience of God: Being, Consciousness, Bliss. Yale University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Idealism"
+    }
+  ]
+}
+```

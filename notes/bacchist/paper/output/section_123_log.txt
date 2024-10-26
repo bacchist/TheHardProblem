@@ -1,0 +1,56 @@
+2024-10-26 02:03:52,564 - DEBUG - Processing Section 123
+2024-10-26 02:03:57,180 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Physicist/inventor Federico Faggin postulates "with high confi- dence" that "consciousness and free will are properties of quantum systems in pure quantum states" because they depend on quantum entanglement, a nonlocal property that cannot exist in any classical, deterministic universe (Faggin, 2023). The kind of information involved in consciousness needs to be quantum for multiple reasons, he says, "including its intrinsic privacy and its power of building up thoughts by entangling qualia states." As a result, Faggin comes to a "quantu- m-information-based panpsychism" (QIP) (D'Ariano and Faggin, 2022).
+The essence of QIP is that "a quantum system that is in a pure quantum state is conscious of its own state, that is, it has a qualia experience of its state." Faggin calls this "a highly plausible postulate" because "a qualia experience is definite (integrated, not made of a mixture of separable parts) and private since it can only be known by the experiencer."
+More formally, the theory says that a quantum state is an effective mathematical representation of a conscious experience because it pos- sesses the same crucial characteristics of what it represents: the defi- niteness and privacy of the experience. "Within QIP, quantum information describes the subjective inner reality of quantum systems, a reality that is private for each system" (Faggin, 2023).
+But this mathematical description of an experience (a vector in Hil- bert space), Faggin stresses, is not the experience itself. Quantum in- formation is non-cloneable and thus can be only partially objectified with classical information. Moreover, "the nature of that private knowing is not numeric but qualitative and subjective, because a conscious system 'knows' its own state by feeling it through qualia."
+Faggin says his hypothesis has creative possibilities, which are the foundation of imagination, intuition, vision, creativity, comprehension, and inventiveness, emerging "from the quantum level of reality, since a classical world is deterministic, that is, algorithmic and predictable, and thus incapable of real creativity." True creativity, Faggin says, like free will and consciousness, "are non-algorithmic properties that can only exist in a fundamental layer of the universe ruled by quantum physics." Because quantum consciousness is not reproducible, Faggin predicts that no machine can ever have it or create it (it is not reducible to mecha- nisms) and, he says, it could continue to exist after the death of the body (Faggin, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Faggin, 2023)', '(Faggin, 2023)', '(Faggin, 2023)']
+
+    Filtered References:
+    Durig, Alexander, 2023. Closer to Consciousness: the First Strong Theory of
+Consciousness. AuthorHouse.
+D’Ariano, G.M., Faggin, Federico, 2022. Hard problem and free will: an information-
+theoretical approach. In: Artificial Intelligence versus Natural Intelligence. Springer
+International Publishing, Cham, pp. 145–192.
+
+
+    
+2024-10-26 02:03:57,180 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Quantum-Information-Based Panpsychism (QIP)",
+    "description": "A theory that posits consciousness and free will as properties of quantum systems in pure quantum states, emphasizing that these systems have a qualia experience of their state due to quantum entanglement and the intrinsic privacy of quantum information.",
+    "categories": ["Quantum Consciousness", "Panpsychism", "Information Theory"]
+  }
+}
+```
+2024-10-26 02:03:57,180 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Federico Faggin",
+    "biography": "Federico Faggin is a physicist and inventor known for his work in quantum mechanics and consciousness. He is recognized for proposing the Quantum-Information-Based Panpsychism (QIP), which suggests that consciousness and free will are properties of quantum systems in pure quantum states."
+  }
+}
+```
+2024-10-26 02:03:57,180 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Faggin, Federico. (2023). Closer to Consciousness: the First Strong Theory of Consciousness. AuthorHouse.",
+      "material_type": "Book",
+      "associated_theory_name": "Quantum-Information-Based Panpsychism (QIP)"
+    },
+    {
+      "citation": "D’Ariano, G.M., Faggin, Federico. (2022). Hard problem and free will: an information-theoretical approach. In: Artificial Intelligence versus Natural Intelligence. Springer International Publishing, Cham, pp. 145–192.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Quantum-Information-Based Panpsychism (QIP)"
+    }
+  ]
+}
+```

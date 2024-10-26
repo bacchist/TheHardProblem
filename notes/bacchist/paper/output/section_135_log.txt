@@ -1,0 +1,49 @@
+2024-10-26 02:04:58,166 - DEBUG - Processing Section 135
+2024-10-26 02:05:04,025 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: In the theory of Qualia Space, consciousness is an independent, non- reducible feature of reality that exists in addition to the deepest laws of fundamental physics (i.e., the four forces, spacetime, mass-energy). This heretofore unknown qualia-space aspect of the world may take the form of a radically new structure or organization of reality, perhaps a different dimension of reality.
+The clearest current example would be Integrated Information Theory's (IIT) "conceptual structures" in qualia space (12). While this radically novel feature might suggest that IIT should be classified as a Panpsychism variant, I prefer to keep IIT independent but recognize the implicit connection by including "qualia space" here under
+Panpsychism. Note that IIT makes no claim that IIT's qualia space is ubiquitous in reality, as it would need be for IIT to be classic panpsychist in nature (Tononi and Koch, 2015). I can imagine other, distinct, non-IIT theories of consciousness founded on qualia-space.
+In addition, the Qualia Research Institute's (QRI) "State-Space Consciousness Via Qualia Formalism and Valence Realism" holds that phenomenal properties are a fundamental feature of the world and aren't spontaneously created only when a certain computation is being performed" (Qualia Research Institute, n.d.). Although it "mostly fits well with a panpsychist view," QRI members prefer to classify them- selves as a dual-aspect or neutral monism (6).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:05:04,025 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Qualia Space",
+    "description": "A theory proposing that consciousness is an independent, non-reducible feature of reality, existing alongside fundamental physical laws, potentially representing a new dimension or structure of reality.",
+    "categories": ["Panpsychism", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:05:04,025 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Giulio Tononi",
+    "biography": "Giulio Tononi is a neuroscientist and psychiatrist known for his Integrated Information Theory of consciousness, which explores the relationship between consciousness and information processing."
+  }
+}
+```
+2024-10-26 02:05:04,025 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Tononi, G., & Koch, C. (2015). Consciousness: An overview of the integrated information theory. In The Oxford Handbook of Philosophy of Consciousness.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Qualia Research Institute. (n.d.). State-Space Consciousness Via Qualia Formalism and Valence Realism.",
+      "material_type": "Online Resource",
+      "associated_theory_name": "Qualia Research Institute"
+    }
+  ]
+}
+```

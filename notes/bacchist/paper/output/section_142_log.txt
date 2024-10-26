@@ -1,0 +1,67 @@
+2024-10-26 02:05:36,615 - DEBUG - Processing Section 142
+2024-10-26 02:05:41,449 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Although Process Theory is already classified under Materialism Theories/Relational, motivated by Griffin's "panexperiential physi- calism" (9.7.7), I am making the odd decision to classify it also here under Panpsychism, motivated by process philosopher Matthew Segall's bringing Alfred North Whitehead's Philosophy of Organism "into con- versation with the recent panpsychist turn in analytic philosophy of mind." According to Segall, "Whitehead's unabashedly metaphysical project broadly aligns with recent critiques of reductive physicalism and the turn toward a conception of experience as basic to Nature." White- head's panexperientialism, he says, attempts to take consciousness at face value, resisting inflationary accounts toward absolute idealism and deflationary toward eliminative materialism (Segall, 2020).
+Segall distinguishes Whitehead's process-relational panexper- ientialism from the dominant substance-property variants of panpsy- chism, arguing that Whitehead's version avoids many of panpsychism's conceptual difficulties. To begin, "Whitehead's process-relational rendering doesn't claim that experience is a 'primary attribute' or 'intrinsic property' of matter. This is because in Whitehead's view, physics has moved beyond the substantialist view of matter, and talk of essential or accidental properties only made sense given such an [archaic] ontology ... While there was an 'essential distinction between [substantial] matter at an instant and the agitations of experience,' with this conception of matter having been swept away, a door is opened to analogies between energetic activity and concrete experience." Thus, "Experiences, like energy vectors, are intrinsically process-relational in that they always involve transition beyond themselves: They manifest in a 'specious present' [Whitehead] as a tension between the actualized facts of an inherited past and the potential forms of an anticipated future" (Segall, 2020).
+While Segall has "the philosophical payoff of panpsychism" dis- solving the hard problem of consciousness by "giving experience its proper place in Nature without undermining the scientific image of the universe." Regarding substance-property panpsychism's combination problem, Segall says that Whitehead's process-relational approach "doesn't so much solve this problem as it does reframe the problem's presuppositions." Whitehead does this not by "struggling to understand how abstract little bits of extended matter with mental intrinsic prop- erties might combine to form bigger bits of minded matter," but rather by starting "with a more concrete conception of energetic activity that is more easily analogized to agitations of experience. Neither 'matter' nor 'mind' is composed of simply located bits or states." Thus, "the ongoing composition of the cosmos is achieved not through the summation of tiny parts, nor through subtraction from some larger whole (as cos- mopsychists would have it), but by a dipolar relational process with both a stability providing material pole and a novelty inducing mental pole."
+According to Segall, "Whitehead is neither a micropsychist nor a cosmopsychist exclusively. He tries to have it both ways. There is a
+universal soul, a psyche of the cosmos, a primordial actuality or God of this world, and there are countless creatures creating in concert with it. Creativity transcends both God and finite actualities; it is the source of all co-evolving parts, wholes, bodies, and souls. Whitehead's account of process includes moments of combination and decombination, conjunction and disjunction. For Whitehead the combination problem becomes a logic of concrescence [i.e., 'the production of novel togeth- erness'], a feature and not a bug, a way of thinking change as more than just the rearrangement of pre-existing parts or the fragmentation of a pre-existing whole but as genuine becoming, as an 'emergent evolution' or 'creative advance' where neither wholes nor parts pre-exist their re- lations ... and in each act of creation the past is not destroyed but re- incarnated in the novel occasion ... Concrescence is thus a cumulative process and not a merely additive one" (Segall, 2020).
+Some call Whitehead's defense of a panpsychist philosophy the theory's most significant development in the 20th century. Whitehead radically reforms "our conception of the fundamental nature of the world, placing events (or items that are more event-like than thing-like) and the ongoing processes of their creation and extinction as the core feature of the world, rather than the traditional triad of matter, space and time. His panpsychism arises from the idea that the elementary events that make up the world (which he called occasions) partake of mentality in someoften extremely attenuatedsense, metaphorically expressed in terms of the mentalistic notions of creativity, spontaneity and perception" (Goff et al., 2022).
+This makes Whitehead an emergentist rather than a constitutive panpsychist. "A given moment of conscious experience is not reducible to nor simply identical with its constituent parts." It is "a creative repetition of the past rather than a combination of parts" (Segall, 2020).
+14. Monisms
+Monism is the theory that all of reality consists of exactly one con- crete object or thing, and everything that exists is, in some sense, that one concrete object or thing (or part of it) (Schaffer, 2018). Because monisms seek to account for both mental and physical aspects of reality, avoiding the metaphysical difficulties of dualism and overcoming the explanatory weakness of materialism, it follows that monisms are also theories of consciousness. In one way or another, monisms must cover or contain everything we call mental as well as everything we call physical. (The existence of various kinds of monisms does not much affect how monisms are theories of consciousness.)
+There is substantial and obvious articulation, or overlap, between Monism and Panpsychism. Both are motivated by the need to integrate consciousness into the deep nature of reality; thus, monism theories have panpsychism features and panpsychism theories can be seen as monisms (to first approximations). Perhaps it is simply the case of each reinforcing the other in what are merely different perspectives, histori- cal and theoretically, on essentially the same stance regarding the fundamental nature of ultimate reality. However, they are not entirely the same in that panpsychism has phenomenal or protophenomenal properties as a part or aspect of some larger, fundamental entity, while monism has only one fundamental entity that encompasses everything (although it is not intuitively obvious that this distinction makes much of a difference). Separate categories for monism and panpsychism are certainly justified, yet the boundary can be fuzzy.
+Some of the theories or ways of thinking that follow are categorized under Monism because all other categories seem less appropriate, imposing a belief system that should not apply. (I hope each of these theories feels less uncomfortable in Monisms.)
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Segall, 2020)', '(Segall, 2020)', '(Segall, 2020)', '(Segall, 2020)', '(Schaffer, 2018)']
+
+    Filtered References:
+    Segal, Aaron, 2023. Person, Self, Soul, Spirit (Part III). Closer To Truth. https://closerto
+truth.com/video/36445/?referrer=30153.
+Segall, Matthew T., 2020. The varieties of physicalist ontology: a study in Whitehead’s
+process-relational alternative. Philosophy, theology and the sciences. Mohr Siebeck
+7 (1).
+
+Sarvapriyananda, Swami, 2023b. Consciousness as Ultimate (Part 2). Closer To Truth. htt
+ps://closertotruth.com/video/sarsw-003/?referrer=30215.
+Schaffer, Jonathan, 2018. In: Zalta, Edward N. (Ed.), Monism. The Stanford Encyclopedia
+of Philosophy, Winter 2018 Edition. https://plato.stanford.edu/archives/win2018/e
+ntries/monism/.
+
+    
+2024-10-26 02:05:41,449 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Process Theory",
+    "description": "A theory that integrates consciousness into the fabric of reality by emphasizing the process-relational nature of experience, as articulated by Alfred North Whitehead. It posits that consciousness is not a property of matter but emerges from the dynamic interactions and transitions of experiences, which are fundamentally relational and creative.",
+    "categories": ["Panpsychism", "Monism", "Materialism"]
+  }
+}
+```
+2024-10-26 02:05:41,449 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Matthew Segall",
+    "biography": "Matthew Segall is a philosopher known for his work on process philosophy and panpsychism, particularly in relation to Alfred North Whitehead's ideas. He explores the implications of process-relational ontology for understanding consciousness and the nature of reality."
+  }
+}
+```
+2024-10-26 02:05:41,449 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Segall, Matthew T., 2020. The varieties of physicalist ontology: a study in Whitehead’s process-relational alternative. Philosophy, theology and the sciences. Mohr Siebeck 7 (1).",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Process Theory"
+    },
+    {
+      "citation": "Schaffer, Jonathan, 2018. In: Zalta, Edward N. (Ed.), Monism. The Stanford Encyclopedia of Philosophy, Winter 2018 Edition. https://plato.stanford.edu/archives/win2018/enries/monism/.",
+      "material_type": "Encyclopedia Entry",
+      "associated_theory_name": "Monism"
+    }
+  ]
+}
+```

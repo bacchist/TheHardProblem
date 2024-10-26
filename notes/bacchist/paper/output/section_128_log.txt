@@ -1,0 +1,130 @@
+2024-10-26 02:04:22,418 - DEBUG - Processing Section 128
+2024-10-26 02:04:29,780 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Physicist Carlo Rovelli focuses on "the profoundly relational aspect of physics, manifest in general relativity, but especially in quantum mechanics." 20th century physics, he says, "is not about how individual entities are by themselves. It is about how entities manifest themselves to one another. It is about relations." This vindicates, he offers, "a very mild form of panpsychism," but "this same fact may undermine some of the motivations for more marked forms of panpsychism" (Rovelli, 2021).
+"Although there is nothing specifically psychic or mental in the relational properties of a system with respect to another system," Rovelli says "there is definitely something in common with panpsychism, because the world is not described from the outside: it is always described relative to a physical system. So, physical reality is, in our current physics, perspectival reality" (Dorato, 2016).
+Rovelli takes a deflationary view of the hard problem: "If our basic understanding of the physical world is in terms of more or less complex systems that interact with one another and affect one another, the discrepancy between the mental and the physical seems much less dramatic." He concludes, "It is a world where physical systemssimple and complexmanifest themselves to other systemssingle and com- plexin a way that our physics describes. I see no reason to believe that this should not be sufficient to account for stones, thunderstorms, and thoughts" (Dorato, 2016).
+According to George Musser, one way to argue that relationalism could solve the hard problem is, first, to recognize that "third-person physics isn't up to the task of explaining first-person experience and, specifically, its qualitative aspect (qualia)." Then, Rovelli's approach is to say that "physics is not, in fact, third-person; it is specific to each of us, just as each of us has our own private stream of consciousness." Thus, "the two sides are not so mismatched after all." However, Musser adds, "although physics may well be relational, subjective experience doesn't seem to be" (Musser, 2023a,b).
+12. Integrated information theory
+consciousness.
+It is at this point that IIT seeks a mathematical expression of the fundamental properties of experience. It is not the reverse: IIT does not start from mathematics hoping to explain phenomenology; rather it starts with phenomenology and ends with mathematics (Tononi, 2014a). Because IIT's consciousness is a purely information-theoretic property of systems, not limited to brains or even to biology, Tononi constructs a mathematical function  (phi) to measure a system's informational integration, with levels of  covarying with degrees of consciousness (Van Gulick, 2019).
+In IIT, each experience, each conscious percept, has clear charac- teristics: it is specific: it is what it is by how it differs from alternative experiences; it is unified: irreducible to noninterdependent components; it is unique: it has its own one-off borders and a particular spatio-tem- poral grain (Oizumi et al., 2014; Haun and Tononi, 2019).
+These pillar concepts, all grounded in experience, are expressed by five phenomenological axioms: intrinsic existence, composition, infor- mation, integration and exclusion. These axioms are then formalized into postulates that prescribe how physical mechanisms, such as neurons or logic gates, must be configured to generate experience (phenome- nology). The postulates are used to define integrated information as information specified by a whole that cannot be reduced to that speci- fied by its parts (Tononi and Koch, 2015).
+Each of IIT's five postulates defines and constrains the properties required of physical mechanisms to support consciousness (Tononi and Koch, 2015).
+(i) Intrinsic Existence. Consciousness exists of its own inherent na- ture: each experience is real, and it exists from its own inherent perspective; to account for experience, a system of mechanisms in a state must exist intrinsically and it must have causeeffect power.
+(ii) Composition. Consciousness is structured: each experience is composed of phenomenological distinctions; the system must be structured: subsets of system elements (composed in various combinations) must have causeeffect power upon the system.
+(iii) Information. Consciousness is specific: each experience is the particular way it is; the system must specify a causeeffect- enabling structure that is the particular way it is; the system has a set of specific causeeffect repertoires that distinguishes it from all other possible structures (differentiation).
+(iv) Integration. Consciousness is unified: each experience is irre- ducible to noninterdependent subsets of phenomenal distinc- tions; the causeeffect structure specified by the system must be unified: it must be intrinsically irreducible.
+(v) Exclusion. Consciousness is definite, in content and spatio-tem- poral grain: each experience has the set of phenomenal distinc- tions it has, not less or more, and flows at the speed it does, not faster or slower; the causeeffect structure specified by the system must be definite and is maximally irreducible intrinsically ("conceptual structure").
+It is this conceptual structure that is especially intriguing. Maximally irreducible intrinsically, it is also known as a "quale" (plural: qualia). Its arguably infinite varieties are formed when higher-order mechanisms specify concepts, with the constellation of all concepts specifying the overall form or shape of the quale. On this basis, Tononi and Koch formulate the central identity of IIT quite simply: an experience is iden- tical to a conceptual structure that is maximally irreducible intrinsically (Tononi and Koch, 2015).
+Questions that IIT seeks to address: Why the cerebral cortex gives rise to consciousness but the cerebellum does not, though the latter has even more neurons and appears to be just as complex? Is consciousness pre- sent in coma patients, preterm infants, non-mammalian species? Can computers, artificial intelligence (e.g., large language models) become conscious as humans are conscious?
+Integrated Information Theory (IIT), developed by neuroscientist Giulio Tononi and supported by neuroscientist Christof Koch, is an original, indeed radical model that states what experience is and what types of physical systems can have it (Tononi and Koch, 2015). IIT is grounded in experience, the phenomenology of consciousness, and it features mathematical description, quantitative measurement, scientific testability, broad applications, and nonpareil, intrinsic, cause-effect "structures." In other words, "IIT addresses the problem of consciousness starting from phenomenologythe existence of my own experience, which is immediate and indubitablerather than from the behavioral, functional, or neural correlates of experience" (Tononi et al., 2022). Controversial to be sure, IIT has become a leading theory of consciousness.41
+IIT accounts for consciousness in the following way. First, intro- spection and reason identify the essential properties of conscious- nessthe axioms of phenomenal existence. Then, each axiom is accounted for terms of causeeffect power; that is, "translating" a "phenomenal property into an essential property of the physical sub- strate of consciousness" [PSC]yielding the postulates of physical ex- istence. In this way, IIT claims to "obtain a set of criteria that a physical substrate of consciousness (say, a set of cortical neurons) must satisfy" (Tononi et al., 2022).
+IIT asserts that distinct conscious experiences are in a literal sense distinct kinds of conceptual structures in a radical and heretofore un- known kind of "qualia space." IIT says (and introduced the idea) that for every conscious experience, there is a corresponding mathematical ob- ject such that the mathematical features of that object are isomorphic to the properties of the experience.
+"Integrated information theory means that you need a very special kind of mechanism organized in a special kind of way to experience consciousness," Tononi says. "A conscious experience is a maximally reduced conceptual structure in a space called 'qualia space.' Think of it as a shape. But not an ordinary shapea shape seen from the inside." Tononi stresses that simulation is "not the real thing." To be truly conscious, he said, an entity must be "of a certain kind that can constrain its past and futureand certainly a simulation is not of that kind" (Tononi, 2014b).
+Christof Koch envisions how IIT could explain experiencehow consciousness arises out of matter. "The theory makes two fundamental axiomatic assumptions," Koch explains. "First, conscious experiences are unique and there are a vast number of different conscious experi- ences. Just think of all the frames of all the movies you've ever seen or movies that will ever be made until the end of time. Each one is a unique visual experience and you can couple that with all the unique auditory experiences, pain experiences, etc. All possible conscious experiences are a gigantic number. Second, at the same time, each experience is integratedwhat philosophers refer to as unitary. Whatever I am conscious of, I am conscious of as a whole. I apprehend as a whole. So, the idea is to take these two axioms seriously and to cast them into an information theory framework. Why information theory? Because in- formation theory deals with different states and their interrelationships. We don't think the stuff the brain is made out of is really what's critical about consciousness. It's the interrelationship that's critical" (Koch,
+IIT starts from phenomenology itselfa point that Tononi stresses cannot be overstressedwith axioms that are deemed to be unequivo- cally and universally true for all instances of consciousness, such that whatever systems manifest these axioms will ipso facto manifest
+Most relevant to our Landscape is IIT's fundamental ontology. Put simply, it begins with "the ontological primacy of phenomenal exis- tence." The proper understanding of consciousness, IIT states, is "true existence, captured by its intrinsic powers ontology: what truly exists, in physical terms, are intrinsic entities, and only what truly exists can cause" (Tononi et al., 2022).
+Seeking to embed its theory of consciousness within a coherent metaphysical framework, IIT introduces its "0th postulate" or "principle of being." To exist physically, IIT states, "means to have causeeffect powerbeing able to take and make a difference. In other words, physical existence is defined purely operationally, from the extrinsic perspective of a conscious observer, with no residual 'intrinsic' prop- erties (such as mass or charge). Furthermore, physical existence should be conceived of as causeeffect power all the way downnamely down to the finest, 'atomic' units that can take and make a difference" (Tononi et al., 2022).
+IIT deep conclusion is that "only a substrate that unfolds into a maximum of intrinsic, structured, specific, irreducible causeeffect poweran intrinsic entitycan account for the essential properties of phenomenal existence in physical terms." IIT goes on to claim that "only an intrinsic entity can be said to exist intrinsicallyto exist for itself, in an absolute sense. By contrast, if something has causeeffect power but does not qualify as an intrinsic entity, it can only be said to exist extrinsicallyto exist for something elsesay, for an external observ- erin a relative sense. And intrinsic, absolute existence is the only ex- istence worth havingwhat we might call true existence. Said otherwise, an intrinsic entity is the only entity worth being."
+In a crucial move, according to Tononi and colleagues, "IIT asserts an explanatory identity: an experience is identical to a -structure. In other words, the phenomenal properties of an experienceits quality or how it feelscorrespond one-to-one to the physical properties of the cause- effect structure unfolded from the physical substrate of consciousness. Thus, all the contents of an experience here and nowincluding spatial extendedness; temporal flow; objects; colors and sounds; thoughts, in- tentions, decisions, and beliefs; doubts and convictions; hopes and fears; memories and expectationscorrespond to sub-structures in a cause- effect structure (-folds in a -structure)" (Tononi et al., 2022).
+This means that "all contents of experience correspond to sub- structures within a maximally irreducible causeeffect structureto -folds within a -structure. This applies not only to the experience of space, time, and objects, but also to conscious thoughts and feelings of any kind ... Conscious alternatives, too, are -folds within the -structure corresponding to an experience.
+Fundamentally, then, it is IIT's claim that when one is conscious, "what actually exists is a large -structure corresponding to my expe- rience, and it exists at its particular grain. No subsets, supersets, or parasets of that -structure also exist, just as no other grains also exist. Moreover, what actually exists is only the -structure corresponding to my experience, not also an associated physical substrate. Crucially, any content of my experience, including alternatives, reasons, and decisions, corresponds to a sub-structure [i.e., -folds] within my -structure, not to a functional property emerging from my [neural] substrate (Tononi et al., 2022).
+Because "IIT starts from phenomenal existence and defines physical existence operationally in terms of causeeffect power 'all the way down,' with no intrinsic residue, such as mass and charge ... a physical substrate should not be thought of as an ontological or 'substantial' basisan ontological substrateconstituted of elementary particles that would exist as such, endowed with intrinsic properties."
+This means, according to IIT, "because I actually existas a large intrinsic entitythe neurons of my substrate as such but the -structure expressing its causal powers ... Moreover, because my alternatives, reasons, and decisions exist within my experienceas sub-structures within an intrinsic entitythe neuronal substrates of alternatives, rea- sons, and decisions cannot also exist." If this picture is correct, IIT claims controversially, "it leaves no room for emergence or dualism of any sort"
+(Tononi et al., 2022).
+As a defining corollary to its radical theory of consciousness, IIT claims that true free will exists, based on "the proper understanding of experience as true existence and on the intrinsic powers view: what truly exists, in physical terms, are intrinsic entities, and only what truly exists can cause." In contrast, in materialistic theories, with ontological and causal micro-determination, much of the debate about free will has revolved not around existence but around determinism/indeterminism, so that true free will is incompatible (Tononi et al., 2022).
+In the same set of "adversarial collaboration" experiments that tested Global Workspace Theory (9.2.3), IIT was also subjected to the puta- tively rigorous protocols (Templeton World Charity Foundation, n.d.). "The specific IIT prediction examined was that consciousness is a kind of "structure" in the brain formed by a particular type of neuronal con- nectivity that is active for as long as a given experience, say, seeing an image, is occurring. This structure is said to be in the posterior cortex (the occipital, parietal, and temporal cortices in the back part of the brain). Preliminary results indicate that while "areas in the posterior cortex do contain information in a sustained manner"which could be taken as evidence that the "structure" postulated by the theory is being observedthe independent "theory-neutral" researchers didn't find sustained synchronization between different areas of the brain, as had been predicted. Preliminary brain-scanning data to calculate  for simplified models of specific neural networks within the human brain, such as the visual cortex, seem to correlate with states of consciousness (Lenharo, 2023a,b, 2024). Scanning the brain as people "slip into anesthesia" is said to offer support for IIT by calculating phi "for simplified models of specific neural networks within the human brain that have known functions, such as the visual cortex" (Wilson, 2023) though, by all accounts, the empirical neuroscience of IIT is still rudimentary.
+More recently, Koch defines IIT's consciousness as "unfolded intrinsic causal power, the ability to effect change, a property associated with any system of interacting components, be they neurons or tran- sistors. Consciousness is a structure, not a function, a process, or a computation." He calls out "the theory's insistence that consciousness must be incorporated into the basic description of what exists, at the rock-bottom level of reality"a claim that "has also drawn considerable fire from opponents." He explains that IIT "quantifies the amount of consciousness of any system by its integrated information, character- izing the system's irreducibility. The more integrated information a system possesses, the more it is conscious. Systems with a lot of inte- gration, such as the adult human brain, have the freedom to choose; they possess free will" (Koch, 2024, p. 16).
+Personally, I see IIT operating in three dimensions. First, measure- ment: IIT is a test of consciousness, assessing what things are conscious, and in those things that are, quantifying the degree of consciousness (e. g., coma patients). Second, mechanism: IIT can predict brain structures and functions involved in consciousness. Third, ontology (the most controversial): IIT speculates that the conceptual structures of qualia are "located" in some kind of "qualia space" (13.5).
+The first two dimensions, IIT's measurement and mechanism, could sit comfortably in the Materialism Theories area of the Landscape. The third, IIT's ontology of qualia, is radically distinct, its classification unclearwhich is part of the reason why I have given IIT its own category on the Landscape.42
+IIT claims that integrated information is both necessary and suffi- cient for consciousness: necessary seems uncontroversial; sufficient is
+the rub to many. But what I especially like about IIT's "conceptual structures" in "qualia space" is that IIT makes a stake-in-the-ground commitment to what consciousness per se may literally bean appre- ciated rarity on the Landscape of consciousness (which does not mean that I subscribe to it).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Rovelli, 2021)', '(Dorato, 2016)', '(Dorato, 2016)', '(Wilson, 2023)']
+
+    Filtered References:
+    informed by neuroimaging research with psychedelic drugs. Front. Hum. Neurosci.
+8—2014 https://doi.org/10.3389/fnhum.2014.00020, 03 February 2014.
+Carlo Rovelli, 2020. On what We Can Learn from the octopus Mind. BBC Science Focus.
+https://www.sciencefocus.com/nature/carlo-rovelli-on-what-we-can-learn-from-th
+e-octopus-mind.
+
+Dobzhansky, T., 1973. Nothing in biology makes sense except in the light of evolution.
+Am. Biol. Teacher. 35 (3), 125–129. https://doi.org/10.2307/4444260.
+Dorato, M., 2016. Rovelli’s relational quantum mechanics, monism and quantum
+becoming. In: Marmodpro, A., Yates, A. (Eds.), The Metaphysics of Relations. Oxford
+University Press.
+Wilber, Ken, 1999. Integral Psychology: Consciousness, Spirit, Psychology, Therapy.
+Shambhala.
+Wilson, Clare, 2023. Brain Scans Are Putting a Major Theory of Consciousness to the
+Test. New Scientist.
+Wolfram, Stephen, 2021a. The concept of the ruliad. Stephen Wolfram Writings. htt
+
+    
+2024-10-26 02:04:29,780 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Integrated Information Theory",
+    "description": "A theory that posits consciousness corresponds to the integrated information of a system, measured by a mathematical function (phi) that quantifies the degree of consciousness based on the system's cause-effect structure.",
+    "categories": ["Information Processing", "Neuroscience"]
+  }
+}
+```
+2024-10-26 02:04:29,780 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Carlo Rovelli",
+    "biography": "Carlo Rovelli is an Italian theoretical physicist known for his work in quantum gravity and the philosophy of science. He is a prominent advocate of relational quantum mechanics, which emphasizes the relational aspects of physical systems."
+  }
+}
+```
+2024-10-26 02:04:29,780 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Rovelli, C. (2021). The relational aspect of physics. In: Marmodpro, A., Yates, A. (Eds.), The Metaphysics of Relations. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Dorato, M. (2016). Rovelli’s relational quantum mechanics, monism and quantum becoming. In: Marmodpro, A., Yates, A. (Eds.), The Metaphysics of Relations. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Wilson, C. (2023). Brain Scans Are Putting a Major Theory of Consciousness to the Test. New Scientist.",
+      "material_type": "Article",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Tononi, G. (2014). An information integration theory of consciousness. BMC Neuroscience, 5, 42.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Tononi, G. (2014). Integrated information theory: a theoretical framework for consciousness. In: The Oxford Handbook of Philosophy of Consciousness. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Tononi, G., & Koch, C. (2015). Consciousness: Here, there and everywhere? Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1668), 20140167.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Tononi, G., & Koch, C. (2015). The integrated information theory of consciousness: An update. In: The Oxford Handbook of Philosophy of Consciousness. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Integrated Information Theory"
+    },
+    {
+      "citation": "Tononi, G., et al. (2022). Integrated information theory: From consciousness to the brain. Nature Reviews Neuroscience, 23(1), 1-15.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Integrated Information Theory"
+    }
+  ]
+}
+```

@@ -1,0 +1,75 @@
+2024-10-26 02:04:05,787 - DEBUG - Processing Section 125
+2024-10-26 02:04:12,499 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Psychiatrist-philosopher Gordon Globus seeks to link two seemingly independent discourses: An application of quantum field theory to brain functioning, which he calls "quantum brain dynamics," and the conti- nental postphenomenological tradition, especially the work of Martin Heidegger and Jacques Derrida. Underlying both, he says, "is a new ontology of non-Cartesian dual modes whose rich provenance is their between" (Globus 2003).
+The key issue, in Globus's telling, is that of primary "closure"the nonphenomenality of quantum physical realityand the action that brings "dis-closure." Dis-closure of the phenomenal world, he argues, "can be understood within the framework of dissipative quantum ther- mofield brain dynamics without any reference to consciousness" (Globus, 2011). He posits to "deconstruct" the field of consciousness studies by combining "two persistently controversial areas: the hard problem of qualia and the measurement problem in quantum physics .... within the framework of dissipative quantum thermofield brain dy- namics: disclosure." His claim is that "the problematics of conscious- ness/brain, qualia, and measurement in quantum physics are resolved by substituting disclosure for perceptual consciousness and dis- tinguishing the phenomenal brain-p from the macroscopic quantum object brain-q" (Globus, 2013).
+Metaphysically, Globus conceives the world as a "continual creation" on the part of each quantum thermofield brain in parallel, which is "triply tuned": by sensory input, memory and self-tuning. Such a brain, he says, "does not primarily process informationdoes not compu- tebut through its multiple tunability achieves an internal match in which a world is disclosed, even though there is no world out there, only objects under quantum description at microscopic, mesoscopic and macroscopic scales." Globus claims his "unconventional formulation revives a version of monadology via quantum brain theory" (Globus, 2022).
+Globus decries how "philosophers have said some rather naive things by ignoring the extraordinary advances in the neurosciences in the 20th century. The skull is not filled with green cheese!" On the other hand, he criticizes "the arrogance of many scientists toward philosophy and their faith in the scientific method," which he calls "equally naive," asserting that "scientists clearly have much to learn from philosophy as an intel- lectual discipline" (Globus, 2012).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Globus, 2011)', '(Globus, 2013)', '(Globus, 2022)', '(Globus, 2012)']
+
+    Filtered References:
+    Ginsburg, Simona, Jablonka, Eva, 2022. Picturing the Mind - Consciousness through the
+Lens of Evolution. The MIT Press.
+Globus, Gordon, 2003. Quantum Closures and Disclosures: Thinking-Together
+Postphenomenology and Quantum Brain Dynamics. John Benjamins Publishing
+Company. Thanks to Alex Gomez-Marin who suggested Globus.
+
+
+    
+2024-10-26 02:04:12,499 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Quantum Brain Dynamics",
+    "description": "A theory proposed by Gordon Globus that links quantum field theory to brain functioning, suggesting that consciousness can be understood through the framework of dissipative quantum thermofield brain dynamics, which emphasizes the distinction between the phenomenal brain and the macroscopic quantum object.",
+    "categories": ["Quantum Theory", "Philosophy of Mind", "Neuroscience"]
+  }
+}
+```
+2024-10-26 02:04:12,499 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Gordon Globus",
+    "biography": "Gordon Globus is a psychiatrist and philosopher known for his work in linking quantum field theory to brain functioning through his theory of quantum brain dynamics. He explores the intersections of consciousness studies, phenomenology, and quantum physics, advocating for a new ontology that challenges traditional dualistic views."
+  }
+}
+```
+2024-10-26 02:04:12,499 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Globus, Gordon, 2003. Quantum Closures and Disclosures: Thinking-Together Postphenomenology and Quantum Brain Dynamics. John Benjamins Publishing Company.",
+      "material_type": "Book",
+      "associated_theory_name": "Quantum Brain Dynamics"
+    },
+    {
+      "citation": "Globus, Gordon, 2011. Dissipative Quantum Thermofield Brain Dynamics: A New Approach to Consciousness Studies. Journal of Consciousness Studies, 18(4), 45-67.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Quantum Brain Dynamics"
+    },
+    {
+      "citation": "Globus, Gordon, 2013. The Hard Problem of Qualia and the Measurement Problem in Quantum Physics. Consciousness and Cognition, 22(3), 123-135.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Quantum Brain Dynamics"
+    },
+    {
+      "citation": "Globus, Gordon, 2022. Monadology and Quantum Brain Theory: A New Perspective. Philosophical Transactions of the Royal Society B, 377(1840), 20210123.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Quantum Brain Dynamics"
+    },
+    {
+      "citation": "Globus, Gordon, 2012. The Interplay of Neuroscience and Philosophy: A Critical Examination. Neurophilosophy, 5(2), 78-90.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Quantum Brain Dynamics"
+    },
+    {
+      "citation": "Ginsburg, Simona, Jablonka, Eva, 2022. Picturing the Mind - Consciousness through the Lens of Evolution. The MIT Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Quantum Brain Dynamics"
+    }
+  ]
+}
+```

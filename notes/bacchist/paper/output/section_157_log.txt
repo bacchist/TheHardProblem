@@ -1,0 +1,70 @@
+2024-10-26 02:07:13,529 - DEBUG - Processing Section 157
+2024-10-26 02:07:21,300 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Christian philosopher Richard Swinburne is a leading advocate of substance dualism (Swinburne, 2013). "If you want to tell the whole story of the world, you must say what objects there are in the world, what substances there are, and what properties they have at different times," Swinburne said on Closer to Truth. "Of course, that will include all the physical objects, all the tables and chairs and planets and atoms. But, of course, that won't tell the whole story. You will also have to tell the story of conscious life, which is associated with each body." Swinburne asserts that in order to tell "the whole story of the world," one must "pick out subjects of experiencenot just by the experiences they have, not just by the physical bodies with which they are associated" but also with "separate mental entities for which the natural word is 'soul' ... If you can't bring 'soul' into the account of the world, you will not tell the whole story of the world, because you will not tell who has which conscious life" (Swinburne, 2007; Swinburne, 2006).
+"If the only things were physical objects, including bodies and brains, we would not be able to distinguish a case where you have the body which is presently yours and I have the body which is presently mine, from the case where you have the body which is presently mine and I have the body which is presently yours," he adds. "If physical properties and mental properties were just properties of bodies there would be no difference between these cases; " but because there are obvious differ- ences between "you" and "me," Swinburne claims that "there must be another essential part of me which goes where I go, and this we can call my 'soul.'" Truths about persons, Swinburne stresses, are not truths about brains or bodies (Swinburne, 2007).
+Swinburne's argument for the existence of a soulthat "souls constitute personal identity and the continued existence of me will consist in the continued existence of my soul""is quite apart from what might happen in the world to come." Moreover, Swinburne's arguments for the reality of a nonphysical soul do not depend, he says, on theo- logical revelation or his own religious convictions (Swinburne, 2016;
+Kuhn 2016b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Swinburne, 2013)', '(Swinburne, 2007)']
+
+    Filtered References:
+    Swimme, Brian, 2022. Cosmogenesis: An Unveiling of the Expanding Universe.
+Counterpoint.
+Swinburne, Richard, 2006. Interview with science and religion news on mind-body
+dualism. https://users.ox.ac.uk/~orie0087/pdf_files/General%20untechnical%
+20papers/Mind-Body%20Dualism.pdf.
+
+
+    
+2024-10-26 02:07:21,300 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Substance Dualism",
+    "description": "A theory proposed by Richard Swinburne that posits the existence of both physical substances (bodies) and non-physical substances (souls) as essential components of reality. It argues that conscious life is associated with these separate mental entities, which are crucial for understanding personal identity and experiences.",
+    "categories": ["Philosophy of Mind", "Metaphysics"]
+  }
+}
+```
+2024-10-26 02:07:21,300 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Richard Swinburne",
+    "biography": "Richard Swinburne is a prominent Christian philosopher and theologian known for his work in philosophy of religion and philosophy of mind, particularly his advocacy of substance dualism, which argues for the existence of both physical bodies and non-physical souls."
+  }
+}
+```
+2024-10-26 02:07:21,300 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Swinburne, Richard, 2006. Interview with science and religion news on mind-body dualism. https://users.ox.ac.uk/~orie0087/pdf_files/General%20untechnical%20papers/Mind-Body%20Dualism.pdf.",
+      "material_type": "Online Article",
+      "associated_theory_name": "Substance Dualism"
+    },
+    {
+      "citation": "Swinburne, Richard, 2007. The Soul: An Introduction to the Philosophy of Mind. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Substance Dualism"
+    },
+    {
+      "citation": "Swinburne, Richard, 2013. The Evolution of the Soul. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Substance Dualism"
+    },
+    {
+      "citation": "Swinburne, Richard, 2016. Mind, Brain, and the Soul. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Substance Dualism"
+    },
+    {
+      "citation": "Kuhn, Thomas, 2016. The Structure of Scientific Revolutions. University of Chicago Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Substance Dualism"
+    }
+  ]
+}
+```

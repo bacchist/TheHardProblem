@@ -1,0 +1,60 @@
+2024-10-26 02:06:34,400 - DEBUG - Processing Section 152
+2024-10-26 02:06:38,418 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: The Qualia Research Institute (QRI), a not-for-profit pursuing unique approaches to the science of consciousness, stresses "Qualia Formalism," the hypothesis that the internal structure of our subjective experience can be represented precisely by mathematics, and "Valence Realism," the central importance of emotion/affect, that is, valence (how good or bad an experience feels) as a real and well-defined property of conscious states (Qualia Research Institute). Within the formalism, symmetry is said to play a significant compositional, functional, and aesthetic role. It is called the Symmetry Theory of Valence (proposed by philosopher Michael Edward Johnson): the symmetry of an information geometry of mind corresponds with how pleasant or unpleasant it is to be (or have) that experience. ("The biggest mystery hiding in plain sight is what gives experiences valence.") (Johnson, 2023).
+The key QRI move (or assumption) is that every distinct state of conscious experience is unique and can be described mathematically; the number of such states, a "combinatorial explosion of unexpected phenomena," is an unimaginably vast (but not infinite) "state-space of consciousness," which is an independent, quasi-dimensional aspect of reality that grows "supergeometrically." It is the specific geometry of each state-space of consciousness that is the conscious percept; each experience would correspond to a single point in the state-space of consciousness; the set of all possible experiences are organized in such a way that the similarities between experiences are encoded in the ge- ometry of the state-space; and the degrees of symmetry or lack of sym- metry of the geometry reflect the balance of positive and negative valence, both reflecting brain harmonics which somehow interact with the quasi-dimensional state-space and its symmetries (Shinozuka, 2020). (The "state-space of consciousness" resonates with a similar kind
+QRI says its position is close to dual-aspect monism or neutral monism. It is committed to an extended physicalism in the sense that extended laws of physics ultimately must describe fields of qualia. Included is the idea that emotional valence (the pleasantness/unpleas- antness of an experience) is a natural kind, a real division of the world carved at its joints, which is said to provide substantial information about phenomenology (Qualia Research Institute, n.d.).
+QRI rejects functionalism as creating confusion but considers exotic states of consciousness as important data points for reverse-engineering the underlying formalism for consciousness. As noted, QRI is most compatible with, but not synonymous with, Integrated Information Theory (12), which QRI calls the first mainstream theory of conscious- ness to satisfy a Qualia Formalist account of experience. QRI leverages the idea from Integrated Information Theory that for every conscious experience, there is a corresponding mathematical object such that the mathematical features of that object are isomorphic to the properties of the experience, and that without this idea, no matter the neurobiological theory, we cannot solve the hard problem of consciousness (Qualia
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Johnson, 2023)', '(Shinozuka, 2020)']
+
+    Filtered References:
+    Jaynes, Julian, 1987. Consciousness and the voices of the mind. Can. Psychol. 27 (2).
+April 1986.
+Johnson, Michael Edward, 2023. Qualia formalism and a symmetry theory of valence.
+https://opentheory.net/Qualia_Formalism_and_a_Symmetry_Theory_of_Valence.pdf.
+Jones, Mostyn, 2013. Electromagnetic-field theories of mind. J. Conscious. Stud. 20
+
+edition. Crown.
+Sheldrake, Rupert, 2021. Is the sun conscious? J. Conscious. Stud. 28 (3–4).
+Shinozuka, Kenneth, 2020. A big state-space of consciousness. Interview with Andreas
+G´omez Emilsson. Qualia Comput. https://qualiacomputing.com/2020/01/18/a-
+big-state-space-of-consciousness/.
+
+    
+2024-10-26 02:06:38,418 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Qualia Formalism",
+    "description": "A hypothesis that the internal structure of subjective experience can be represented mathematically, emphasizing the unique and vast state-space of consciousness, where each experience corresponds to a point in this space, reflecting emotional valence and symmetry.",
+    "categories": ["Mathematical Representation", "Consciousness Studies", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:06:38,418 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Michael Edward Johnson",
+    "biography": "Michael Edward Johnson is a philosopher known for his work on the Symmetry Theory of Valence, which explores the mathematical representation of subjective experiences and their emotional qualities."
+  }
+}
+```
+2024-10-26 02:06:38,418 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Johnson, Michael Edward, 2023. Qualia formalism and a symmetry theory of valence. https://opentheory.net/Qualia_Formalism_and_a_Symmetry_Theory_of_Valence.pdf.",
+      "material_type": "Online Article",
+      "associated_theory_name": "Qualia Formalism"
+    },
+    {
+      "citation": "Shinozuka, Kenneth, 2020. A big state-space of consciousness. Interview with Andreas Gómez Emilsson. Qualia Comput. https://qualiacomputing.com/2020/01/18/a-big-state-space-of-consciousness/.",
+      "material_type": "Online Interview",
+      "associated_theory_name": "Qualia Formalism"
+    }
+  ]
+}
+```

@@ -1,0 +1,105 @@
+2024-10-26 02:08:16,108 - DEBUG - Processing Section 169
+2024-10-26 02:08:23,846 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Theories of consciousness that developed in the ancient Indian sub- continent, based on the Vedic scriptures, focus on the relationship be- tween individual human consciousness and cosmic consciousness. Roughly, there were two major views: each individual human con- sciousness is a "piece," as it were, of the cosmic consciousness, or each individual human consciousness, in some mystical sense, is the entirety of the cosmic consciousness, even though there are innumerable in- stantiations of the same thing (Sarvapriyananda, 2023b; Sarvapriya- nanda, 2023a; Medhananda, 2023).
+These centers of individual consciousness would reincarnate through countless cycles of birth, death, and rebirth before a final disposition would be made, with the individual consciousness being absorbed back into the cosmic consciousness, as if a single drop of rain, having evap- orated from the ocean, condenses back into it.
+While the main Advaita Vedanta tradition is nondualist, meaning that consciousness is the only fundamental existent and all else, including the entire physical world, is derived from consciousness, there are minority schools that maintain that the physical world has realist existence (Medhananda, 2022, 2023).
+Historically, and perhaps ironically, one of the oldest Indian philo- sophical schools, Samkhya, advocated the fundamental existence of two distinct, universal realities: prakriti is matter or nature (time, space, energy), and purusha is consciousness or spirit. While the entirety of our perceived universe is nature (prakriti), including our bodies and brains, even our minds and emotions, that which experiences the external world and the internal world of the mind is consciousness or the self (purusha). Hence, dualism (Sarvapriyananda, 2020). Swami Sarvapriyananda ex- plains: "The Samkhyans were strict dualists. They said there is no larger consciousness. Each of us is an individual consciousness" (Sarvapriya- nanda, 2023b).
+According to Swami Medhananda, Samkhya is indeed dualist. It is founded on the eternal purusha (spirit or self), which alone is sentient; it is the witness-consciousness; it is absolute, independent, free, beyond perception, above any experience by mind or senses, and impossible to describe in words. Everything else (including the mind) is only a modification of insentient prakriti (primordial nature); it is inactive, unconscious, and is a balance of the three gunas (qualities or innate tendencies) (Medhananda, 2022; Samkhya, 2024).
+As Swami Vivekananda explains, the English word "mind" corre- sponds to what Samkhya philosophers call the antahkarana (internal organ), which comprises four aspects: the cogitating or thinking faculty; the will (or the intellect); the self-conscious egotism; and the substance in and through which all the faculties act, the floor of the mind as it were. Swami Vivekananda describes the Samkhyan approach to con- sciousness: "Mind, intelligence, will, and everything else is insentient. But they are all reflecting the sentiency, the cit [consciousness] of some being who is beyond all this, whom the Samkhya philosophers call purusha." Thus, Samkhya has a metaphysical dualism between conscious spirit and insentient matter. Fundamentally, even the mind (antahkar- ana) is actually a subtle form of insentient matter, but it appears to be conscious because of the "light" of the purusha behind it (Medhananda, 2022). In other words, the body/brain is "a gross form of matter" and the mind is "a subtle form of matter"and the soul is necessary to
+"illuminate the mind with consciousness" (Medhananda, 2023).
+Souls have always existed; souls are not created by God or by any- thing else; souls are part of the divine consciousness. How then do we each have our own unique conscious perspective? Swami Medhananda's mechanism is that "the one divine consciousness playfully limits itself" in the form of each person's private consciousnesss (Medhananda, 2023).
+To enrich contemporary debate about consciousness, Swami Med- hananda calls for considering the relevance and epistemic credentials of meditative techniques and spiritual experience. Doing such, he says, would bring philosophy of mind into fruitful dialogue with philosophy of religion (Medhananda, 2022).
+Indian philosopher and yogi (and nationalist) Sri Aurobindo envi- sions an ongoing, progressing evolution of consciousness as a prime feature of world meaning and human purpose. "He holds that the human mind is much too imperfect a type of consciousness to be the final resting point of nature, and that just as life developed out of matter, and mind out of life, a still higher form of consciousness is bound to develop out of the mind" (Cornelissen, 2004).
+Sri Aurobindo bases the ontology of his evolutionary consciousness on the Ved antic view of consciousness, which, in one telling, says that "consciousness is pervasive throughout reality and that it manifests as a range of ever-higher gradations of consciousness and being." In each category of reality, consciousness has its tailored form. "In matter, consciousness is fully engrossed in its own existence and shows itself only as matter's habit of form and its tendency to obey fixed laws. In plant and animal life, consciousness begins to emancipate a little, there are the first signs of exchange, of giving and taking, of feelings, drives and emotions. In the human mind we see a further emancipation of consciousness in the first appearance of an ability to 'play with ideas in one's mind' and to rise above the immediate situation." The mind, however, constitutes opposing characteristics. On the one hand, it is "the plane of objective, generalized statements, ideas, thoughts, intelligence, etc." On the other hand, it "is also an inveterate divider, making dis- tinctions between subject and object, I and thou, things and other things" (Cornelissen, 2004).
+From the Vedic perspective, "ordinary human mentality is consid- ered to be only the most primitive form of mental consciousness, most ego-bound, most dependent on the physical senses. Above it there is the unitary Higher Mind of self-revealed wisdom, the Illumined Mind where truths are seen rather than thought, the plane of the Intuitive Mind where truth is inevitable and perfect, and finally the cosmic Overmind, the mind of the Gods, comprehensive, all-encompassing." But one must rise beyond all of them to find ultimate perfection, "one with the divine consciousness that upholds the universe" (Cornelissen, 2004).
+While various spiritual traditions have set life's highest goal as connecting or even merging with the absolute consciousness, Sri Auro- bindo distinguishes his vision by announcing, "It is at this moment for the first time becoming possible to let a supramental consciousness enter into one's being and transform it in every respect." It is this "compre- hensive, supramental transformation of all aspects of human nature" that is the central theme of Sri Aurobindo's workand it is his grand prediction that human progress via the evolution of consciousness will eventually bring about "supramental consciousness as much an intrinsic, 'natural' part of earthly life as our ordinary mentality is now" (Corne- lissen, 2004).
+According to Ravi Gomatam, a quantum physicist and a monk of the Gaudiya Vaishnava (GV) Vedanta school of India, GV Vedanta is mono- theistic, with a pluralist ontology that distinguishes between the ener- getic personal God (shaktiman) and the diverse energies (shaktis) such as consciousness and matter, which emanate from God. Both the energetic personal God (the Universal "I") and his diverse energies, which include consciousness and matter, are ontologically real. While the material atoms lack consciousness and therefore are indistinguishable, the plane of non-material consciousness comprises innumerable individual units of consciousness, each with its own unique "I" (Gomatam, 2021).
+Yet, Gomatam says, GV Vedanta is uniquely compatible with the
+materialistic perspective informing modern cognitive sciencenamely that thinking, feeling, willing, intelligence, and even our present sense of "I" spring entirely from matter. This is via the GV Vedanta idea that many properties of consciousness can be separated from consciousness and instantiated in appropriate complementary "levels of matter," a novel technical concept that Gomatam is introducing through his work in the foundations of quantum mechanics. He says it is different from the prevailing idea of hierarchy of matter at various scales in physics.
+The color, size and shape of an apple can be instantiated on paper. A plastic apple may instantiate even further properties of the apple, such as its 3-dimensional shape, weight and texture. In either case, the apple itself is not reduced to the painting or the plastic object that instantiates its properties. Similarly, Gomatam explains, GV Vedanta allows various traits of consciousness to be instantiated sans consciousness in matter at various "levels" of matter, which are mutually exclusive, causal realms that complement one another, with each higher level not being consti- tuted by its lower levels (Gomatam, 1987).
+Even though matter instantiates properties such as thinking, feeling, experience and even an "I" via an apparent self onto these levels of matter, matter itself is not aware it carries these cognitive and affective properties. Only consciousness can know matter has these properties.
+GV Vedanta further explains that we mistake these materially instantiated traits to be part of our intrinsic consciousness due to maya (illusion), imposed upon the individual souls in the material world by the Universal Person (purushottama), from whom all individual "I"s emanate, but who is different from them. In this way, Gomatam suggests that GV Vedanta can contribute novel, sophisticated notions of levels of matter to instantiate various features of consciousness, without reducing consciousness itself to matter. Gomatam points out that here GV Vedanta differs from Advaita Vedanta, which holds both matter and individual "I"s to be ultimately non-existent, and admits only an impersonal Universal "I". Jainism and Buddhism, two other schools of Indian thought, additionally treat the Universal "I," personal or imper-
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Sarvapriyananda, 2020)', '(Medhananda, 2022)', '(Medhananda, 2023)', '(Medhananda, 2023)', '(Medhananda, 2022)', '(Cornelissen, 2004)', '(Cornelissen, 2004)', '(Cornelissen, 2004)', '(Gomatam, 2021)', '(Gomatam, 1987)']
+
+    Filtered References:
+    Sapolsky. Medspire. https://medspire.net/en/interview-posts/from-stanford-to-
+medspire-an-exclusive-interview-with-robert-sapolsky/.
+Sarvapriyananda, Swami, 2020. Consciousness and self in Advaita Vedanta. Awakened
+India 125 (1). https://advaitaashrama.org/pb/2020/012020.pdf.
+Sarvapriyananda, Swami, 2023a. The Nature of the Human Person (Part 2). Closer To
+
+Stanford Encyclopedia of Philosophy (Summer 2021 Edition. https://plato.stanford.
+edu/archives/sum2021/entries/supervenience/.
+Medhananda, Swami, 2022. Swami Vivekananda’s Ved¯antic Cosmopolitanism. Oxford
+University Press.
+Medhananda, Swami, 2023. Person, Self, Soul, Spirit (Part II). closertotruth.com/video/
+Consciousness, Absolute. (n.d.) Theosophy World. https://theosophy.world/encyclo
+pedia/consciousness-absolute.
+Cornelissen, Matthijs, 2004. Sri Aurobindo’s Evolutionary Ontology of Consciousness.
+Indian Psychology Institute. https://www.ipi.org.in/texts/matthijs/mc-conscious
+ness-mit.php.
+Goldstein, Rebecca Newberger, 2014. Language and consciousness. Closer To Truth. http
+s://closertotruth.com/video/golre-015/?referrer=8015.
+Gomatam, R., 1987. Real and Artificial Intelligence: toward a Hierarchical Model of
+Consciousness, Intelligence, Mind and the Body Bhaktivedanta Institute (Mumbai).
+R.L. Kuhn
+
+    
+2024-10-26 02:08:23,846 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Samkhya Dualism",
+    "description": "A philosophical theory that posits the existence of two distinct realities: prakriti (matter) and purusha (consciousness). It asserts that individual consciousness (purusha) is separate from the insentient nature of the physical world (prakriti), and that consciousness is the ultimate witness to experiences.",
+    "categories": ["Indian Philosophy", "Dualism"]
+  }
+}
+```
+2024-10-26 02:08:23,846 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Swami Sarvapriyananda",
+    "biography": "Swami Sarvapriyananda is a prominent monk of the Ramakrishna Order and a scholar of Advaita Vedanta. He is known for his teachings on consciousness and the nature of the self, emphasizing the relationship between individual consciousness and cosmic consciousness."
+  }
+}
+```
+2024-10-26 02:08:23,846 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Sarvapriyananda, Swami, 2020. Consciousness and self in Advaita Vedanta. Awakened India 125 (1). https://advaitaashrama.org/pb/2020/012020.pdf.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Samkhya Dualism"
+    },
+    {
+      "citation": "Medhananda, Swami, 2022. Swami Vivekananda’s Ved¯antic Cosmopolitanism. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Samkhya Dualism"
+    },
+    {
+      "citation": "Medhananda, Swami, 2023. Person, Self, Soul, Spirit (Part II). closertotruth.com/video/Consciousness, Absolute. (n.d.) Theosophy World. https://theosophy.world/encyclopedia/consciousness-absolute.",
+      "material_type": "Online Resource",
+      "associated_theory_name": "Samkhya Dualism"
+    },
+    {
+      "citation": "Cornelissen, Matthijs, 2004. Sri Aurobindo’s Evolutionary Ontology of Consciousness. Indian Psychology Institute. https://www.ipi.org.in/texts/matthijs/mc-consciousness-mit.php.",
+      "material_type": "Online Resource",
+      "associated_theory_name": "Samkhya Dualism"
+    },
+    {
+      "citation": "Gomatam, R., 1987. Real and Artificial Intelligence: toward a Hierarchical Model of Consciousness, Intelligence, Mind and the Body Bhaktivedanta Institute (Mumbai).",
+      "material_type": "Book",
+      "associated_theory_name": "Samkhya Dualism"
+    },
+    {
+      "citation": "Gomatam, R., 2021. [Details not provided in the text].",
+      "material_type": "Unknown",
+      "associated_theory_name": "Samkhya Dualism"
+    }
+  ]
+}
+```

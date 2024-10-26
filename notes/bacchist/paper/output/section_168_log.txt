@@ -1,0 +1,60 @@
+2024-10-26 02:08:12,141 - DEBUG - Processing Section 168
+2024-10-26 02:08:16,108 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Many in the Abrahamic religious traditionsJudaism, Christianity, Islambelieve that God dispenses souls actively to each individual (whether at birth, conception or some arbitrary time is irrelevant here). Whether all these original souls are the same kind of tabula rasa, indistinguishable initially one from another, or whether each soul has its own particular properties or propensities, is a matter of debate.
+Aaron Segal addresses another anti-dualist challengei.e., dualism would require material things like our bodies to have the extraordinary power to generate souls ex nihiloby invoking the God who created them. "If God exists," he argues, "then God might well be creating those souls in accordance with the laws; otherwise, this process would happen by itself. Either way, I'm not sure how much more extravagance any of this adds to the fact that souls are coming into existence ex nihilo in the first place. God is already supposed to be able to create ex nihilo, so if God is creating the souls, this would add no more extravagance at all. If God isn't involved, there would be no agent at all creating the soulsthe
+body would be no more of an agent than the sun is in growing trees" (Olson and Segal, 2023; Segal, 2023).
+A few religious denominations, especially in the Christian tradition, go further and assert that not only does God dispense a soul to each individual, but also God makes a determination, prior to or at that moment of allocation, what the future holds for that individual soul- person: the soul-person's ultimate destiny, whether that soul-person will attain salvation or be condemned to damnation. This controversial doctrine is called "predestination," and most mainstream religions reject it (Predestination, 2024).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Predestination, 2024)']
+
+    Filtered References:
+    doi.org/10.2139/ssrn.3406672.
+Pratt, Joseph, 2023. Personal Communication.
+Predestination, 2024. Wikipedia, the free Encyclopedia. Date of last revision: 22 January
+2024. https://en.wikipedia.org/w/index.php?title=Predestination&oldid=11
+54032814.
+
+
+    
+2024-10-26 02:08:16,108 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Predestination",
+    "description": "A doctrine in some religious traditions, particularly within Christianity, that asserts God determines the ultimate fate of each soul before or at the moment of its creation, deciding whether it will attain salvation or be condemned.",
+    "categories": ["Theology", "Philosophy of Religion"]
+  }
+}
+```
+2024-10-26 02:08:16,108 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Aaron Segal",
+    "biography": "Aaron Segal is a philosopher known for his work on dualism and the implications of the existence of God on the nature of souls, particularly in the context of Abrahamic religions."
+  }
+}
+```
+2024-10-26 02:08:16,108 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Predestination, 2024. Wikipedia, the free Encyclopedia. Date of last revision: 22 January 2024. https://en.wikipedia.org/w/index.php?title=Predestination&oldid=1154032814.",
+      "material_type": "Website",
+      "associated_theory_name": "Predestination"
+    },
+    {
+      "citation": "Olson and Segal, 2023.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Predestination"
+    },
+    {
+      "citation": "Pratt, Joseph, 2023. Personal Communication.",
+      "material_type": "Personal Communication",
+      "associated_theory_name": "Predestination"
+    }
+  ]
+}
+```
