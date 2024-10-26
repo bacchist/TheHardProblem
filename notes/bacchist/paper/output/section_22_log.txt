@@ -1,0 +1,54 @@
+2024-10-26 01:57:24,786 - DEBUG - Processing Section 22
+2024-10-26 01:57:24,812 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: While neuroscientist Kevin Mitchell argues, contra many scientists and philosophers, that free will, or agency, is not an illusionthat "we are not mere machines responding to physical forces but agents acting with purpose"he still asserts, "you cannot escape the fact that our consciousness and our behavior emerge from the purely physical workings of the brain" (Mitchell, 2023, p. 3).
+Mitchell mounts an evolutionary case for how living beings capable of choice arose from lifeless matter, stressing "the emergence of nervous systems provided a means to learn about the world," thus enabling sentient animals to model, predict, and simulate. These faculties reach their peak in humans with our capacities "to imagine and to be intro- spective, to reason in the moment, and to shape our possible futures through the exercise of our individual agency" (Mitchell, 2023).
+Normally, there is high correlation between those who deny "real" (libertarian) free will with the commitment that consciousness is entirely physical, and conversely, those who affirm "real" (libertarian) free will, are more likely to opt for nonphysical theories. Mitchell is significant in that he defends "real" free will, but unambiguously has consciousness as entirely physical. He describes creaturely acts of what he considers "free will" before consciousness even evolved. "Thoughts are not immaterial," he says; "they are physically instantiated in pat- terns of neural activity in various parts of the brain ... There's no need to posit a 'ghost in the machine'you're not haunting your own brain. The 'ghost' is the machine at work" (Mitchell, 2023, pp. 267268).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Mitchell, 2023)']
+
+    Filtered References:
+    permanent bodily death. https://www.bigelowinstitute.org/wp-content/uploads/2
+022/10/mishlove-beyond-brain.pdf.
+Mitchell, Kevin J., 2023. Free Agents. Princeton University Press, Kindle Edition.
+Mole, Christopher, 2013. The conscious brain: how attention engenders experience.
+Notre Dame Philosophic. Rev. (review) https://ndpr.nd.edu/reviews/the-conscio
+
+
+    
+2024-10-26 01:57:24,812 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Physicalist Free Will",
+    "description": "Kevin Mitchell argues that free will is not an illusion and that consciousness, while emerging from physical processes in the brain, allows for agency and purposeful action. He posits that thoughts and decisions are physically instantiated in neural activity, rejecting the notion of a non-physical 'ghost' influencing behavior.",
+    "categories": ["Neuroscience", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:57:24,812 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Kevin Mitchell",
+    "biography": "Kevin Mitchell is a neuroscientist known for his work on the relationship between free will and consciousness, arguing that agency is not an illusion and that our conscious experiences emerge from the physical workings of the brain."
+  }
+}
+```
+2024-10-26 01:57:24,812 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Mitchell, Kevin J., 2023. Free Agents. Princeton University Press, Kindle Edition.",
+      "material_type": "Book",
+      "associated_theory_name": "Physicalist Free Will"
+    },
+    {
+      "citation": "Mole, Christopher, 2013. The conscious brain: how attention engenders experience. Notre Dame Philosophic. Rev. (review) https://ndpr.nd.edu/reviews/the-conscious-brain-how-attention-engenders-experience/",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Physicalist Free Will"
+    }
+  ]
+}
+```

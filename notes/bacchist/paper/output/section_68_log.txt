@@ -1,0 +1,59 @@
+2024-10-26 01:58:50,826 - DEBUG - Processing Section 68
+2024-10-26 01:58:54,492 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: The extended mind, according to philosopher Andy Clark, features an "active externalism," based on the participatory role of the envi- ronment in driving cognitive processes. He asserts that when the human organism is linked with an external entity in a two-way interaction, a "coupled system" is created that can be conceptualized as a cognitive system in its own right (independent of the two components). This is because all the components in the system play an active causal role, and they jointly govern behavior in the same sort of way that cognition in a single system (brain) usually does. To remove the external component is to degrade the system's behavioral competence, just as it would to remove part of its brain. Clark's thesis is that this sort of coupled process counts equally well as a cognitive process, whether or not it is wholly in
+Clark concludes his book, Supersizing the Mind, by inviting us "to cease to unreflectively privilege the inner, the biological, and the neural ... The human mind, viewed through this special lens, emerges at the productive interface of brain, body, and social and material world." He marvels that "minds like ours emerge from this colorful flux as sur- prisingly seamless wholes" (Clark, 2010).
+According to Owen Flanagan, "Walking, talking and seeing are all things the enactive, embodied, extended (code words for this hip new view) mind does in the world." Clark "provides the best argument I've seen for the idea that minds are smeared over more space than neuro- science might have us believe, and that mind will continue spreading to other nooks and crannies of the universe as cognitive prostheses pro- liferate" (Flanagan, 2009).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Clark, 2010)', '(Flanagan, 2009)']
+
+    Filtered References:
+    m/contributor/justin-barrett/.
+Computational Theory of Mind, Closer To Truth videos (n.d.) with Rodney, n.d.. Brooks,
+Andy Clark, Donald Hoffman, Susan Greenfield, Peter Tse, Anirban Bandyopadhyay,
+Ken Mogi. https://closertotruth.com/video/broro-003/?referrer=8107.
+Bayne, Tim, 2007. What is Consciousness? Closer To Truth. https://closertotruth.co
+
+spins in the brain. November 2015 Ann. Phys. 362, 593–602. https://doi.org/
+10.1016/j.aop.2015.08.020.
+Flanagan, Owen, 1991. The Science of the Mind. The MIT Press.
+Flanagan, Owen, 1993. Consciousness Reconsidered. Bradford Books.
+Flanagan, Owen, 2003. The Problem of the Soul. Basic Books.
+
+    
+2024-10-26 01:58:54,492 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Extended Mind Theory",
+    "description": "A theory proposed by Andy Clark that suggests cognitive processes are not confined to the brain but are distributed across the brain, body, and environment, forming a 'coupled system' that functions as a cognitive system in its own right.",
+    "categories": ["Cognitive Science", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:58:54,493 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Andy Clark",
+    "biography": "Andy Clark is a philosopher and cognitive scientist known for his work on the philosophy of mind, particularly the Extended Mind Theory, which posits that cognitive processes extend beyond the brain to include the body and environment."
+  }
+}
+```
+2024-10-26 01:58:54,493 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Clark, A. (2010). Supersizing the Mind: Embodiment, Action, and Cognitive Extension. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Extended Mind Theory"
+    },
+    {
+      "citation": "Flanagan, O. (2009). The Extended Mind: A New Perspective on the Mind-Body Problem. In The Science of the Mind. The MIT Press.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Extended Mind Theory"
+    }
+  ]
+}
+```

@@ -1,0 +1,75 @@
+2024-10-26 01:57:24,431 - DEBUG - Processing Section 8
+2024-10-26 01:57:24,459 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Flanagan's constructive naturalism
+To philosopher Owen Flanagan, "consciousness is neither miraculous nor terminally mysterious," and he argues that "it is possible to under- stand human consciousness in a way that gives its subjective, phenom- enal aspects their full due, while at the same time taking into account the neural bases of subjectivity." The result, he says, "is a powerful synthetic theory of consciousness, a 'constructive naturalism,' according to which subjective consciousness is real, plays an important causal role, and resides [without residue] in the brain" (Flanagan, 1993).
+The "constructive naturalistic theory" that Flanagan sketches is "neurophilosophical" in that "it tries to mesh a naturalistic metaphysic of mind with our still sketchy but maturing understanding of how the brain works." It pictures consciousness "as a name for a heterogeneous set of events and processes that share the property of being experienced.
+Consciousness is taken to name a set of processes, not a thing or a mental faculty." The theory is neo-Darwinian, he says, "in that it is committed to the view that the capacity to experience things evolved via the processes responsible for the development of our nervous system." The theory, he stresses, "denies that consciousness is as consciousness seems at the surface." Rather, consciousness has a complex structure, and getting at it requires "coordination of phenomenological, psychological, and neural analyses" (Flanagan, 1993).
+Flanagan explains that "there is no necessary connection between how things seem and how they are ... [and] we are often mistaken in our self-reporting, including in our reporting about how things seem." This is why he cautions that phenomenology might do "more harm than good when it comes to developing a proper theory of consciousness, since it fosters certain illusions about the nature of consciousness" (Flanagan, 1993).
+"The most plausible hypothesis," Flanagan states, "is that the mind is the brain, a Darwin machine that is a massively well-connected system of parallel processors interacting with each other from above and below, and every which way besides." It is no wonder, he says, that "meaning holism is true, that we somehow solve the frame problem, and that my belief that snow is white is realized quite possibly in a somewhat different way in my brain than the same belief is realized in yours."
+Flanagan addresses "the gap between the first-person way in which conscious mental life reveals itself and the way it is, or can be described, from an objective point of view" by asserting bluntly, "mind and brain are one and the same thing seen from two different perspectives. The gap between the subjective and the objective is an epistemic gap, not an ontological gap." Indeed, he claims, "it is precisely the fact that in- dividuals possess organismic integrity that explains why subjectivity accrues first-personally" (Flanagan, 1993).
+As a physicalist, Flanagan recognizes the role of emergence, that "there are emergent natural properties that, despite being obedient to the laws of physics, are not reducible to physics" (Flanagan, 2003). He rejects epiphenomenalism, where "conscious thought plays no role in the execution of any act." The sense that we control our actions is real, not illusion, but the mechanism is all brain-bound; for example, an idea originating in the prefrontal cortex that calls up information or mem- ories from parietal association cortex (Campbell, 2004).
+To Flanagan, the "really hard problem" is finding "meaning in a material world" (Flanagan, 2007). To this end, he explores "neuro- existentialism," the condition "caused by the rise of the scientific au- thority of the human sciences and a resultant clash between the scientific and the humanistic image of persons" (Flanagan and Caruso, 2018).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Flanagan, 1993)', '(Flanagan, 1993)', '(Flanagan, 1993)', '(Flanagan, 1993)', '(Flanagan, 2003)', '(Campbell, 2004)', '(Flanagan, 2007)']
+
+    Filtered References:
+    spins in the brain. November 2015 Ann. Phys. 362, 593–602. https://doi.org/
+10.1016/j.aop.2015.08.020.
+Flanagan, Owen, 1991. The Science of the Mind. The MIT Press.
+Flanagan, Owen, 1993. Consciousness Reconsidered. Bradford Books.
+Flanagan, Owen, 2003. The Problem of the Soul. Basic Books.
+
+rticle/mg26134791-700-how-entropy-and-equilibrium-can-help-explain-consci
+ousness/.
+Campbell, Thomas. 2003/2007.) My big toe: a Trilogy unifying philosophy, physics, and
+metaphysics: awakening, discovery, inner workings. Lightning strike books. My big toe
+(n.d.) website. https://www.my-big-toe.com.
+
+    
+2024-10-26 01:57:24,459 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Constructive Naturalism",
+    "description": "A neurophilosophical theory proposed by Owen Flanagan that posits consciousness as a set of processes rooted in the brain's neural activity, emphasizing the importance of understanding both subjective experiences and their neural bases. It rejects the notion of consciousness as a mere illusion and asserts that the mind and brain are one and the same, viewed from different perspectives.",
+    "categories": ["Neurophilosophy", "Physicalism", "Evolutionary Psychology"]
+  }
+}
+```
+2024-10-26 01:57:24,459 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Owen Flanagan",
+    "biography": "Owen Flanagan is an American philosopher known for his work in philosophy of mind, consciousness, and neurophilosophy. He advocates for a constructive naturalism approach, which seeks to understand consciousness through both subjective experiences and their neural underpinnings, emphasizing the integration of scientific insights with philosophical inquiry."
+  }
+}
+```
+2024-10-26 01:57:24,459 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Flanagan, Owen, 1993. Consciousness Reconsidered. Bradford Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Constructive Naturalism"
+    },
+    {
+      "citation": "Flanagan, Owen, 2003. The Problem of the Soul. Basic Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Constructive Naturalism"
+    },
+    {
+      "citation": "Campbell, Thomas. 2003/2007. My big toe: a Trilogy unifying philosophy, physics, and metaphysics: awakening, discovery, inner workings. Lightning strike books.",
+      "material_type": "Book",
+      "associated_theory_name": "Constructive Naturalism"
+    },
+    {
+      "citation": "Flanagan, Owen, 2007. [Title not provided in the text]. [Publisher not provided in the text].",
+      "material_type": "Book",
+      "associated_theory_name": "Constructive Naturalism"
+    }
+  ]
+}
+```

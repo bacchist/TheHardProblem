@@ -1,0 +1,57 @@
+2024-10-26 01:58:39,268 - DEBUG - Processing Section 65
+2024-10-26 01:58:44,250 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Direct Perception Theory is the idea that "the information required for perception is external to the observer; that is, one can directly perceive an object based on the properties of the distal stimulus alone, unaided by inference, memories, the construction of representations, or the influence of other cognitive processes" (APA, website). Philosopher Ned Block describes non-mainstream views of phenomenal conscious- ness that take it to work via this kind of "a direct awareness relation to a peculiar entity like a sense datum [i.e., that which is immediately available to the senses] or to objects or properties in the environment." This direct awareness would seem to have to be "a primitive unana- lyzable acquaintance relation that is not a matter of representation." According to these direct realist or naive realist theories of conscious- ness, "the phenomenal character of a perceptual experience is object- constituted in the sense that a perceptual experience of a tomato de- pends for its existence and individuation on the tomato. Any experience that is of a different tomato will have a different phenomenal character, even if it is phenomenally indistinguishable and even if the different tomato is exactly the same in all its properties and causes exactly the same activations in the brain." Even subjectively indistinguishable hallucinatory experience would have to be different in phenomenal character as well (Block, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Block, 2023)']
+
+    Filtered References:
+    Blakemore, Colin, 2012b. Are brains and minds the same thing? Closer To Truth. http
+s://closertotruth.com/video/blaco-001/?referrer=8492.
+Block, Ned, 1980. What is functionalism? Block, Ned, ed.. In: Readings in the Philosophy
+of Psychology. Harvard University Press.
+Block, Ned, 2007a. What is the essence of consciousness? Closer to truth. Ned Block on
+
+
+    
+2024-10-26 01:58:44,250 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Direct Perception Theory",
+    "description": "The idea that perception is based solely on the properties of the distal stimulus, allowing for direct awareness of objects without the influence of cognitive processes or representations.",
+    "categories": ["Phenomenal Consciousness", "Direct Realism"]
+  }
+}
+```
+2024-10-26 01:58:44,250 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Ned Block",
+    "biography": "Ned Block is a prominent philosopher known for his work in the philosophy of mind, particularly in the areas of consciousness and perception. He has contributed significantly to discussions on phenomenal consciousness and the nature of mental representation."
+  }
+}
+```
+2024-10-26 01:58:44,250 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Block, Ned. (2023). Non-mainstream views of phenomenal consciousness. Closer to Truth.",
+      "material_type": "Website",
+      "associated_theory_name": "Direct Perception Theory"
+    },
+    {
+      "citation": "Block, Ned. (1980). What is functionalism? In: Readings in the Philosophy of Psychology. Harvard University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Direct Perception Theory"
+    },
+    {
+      "citation": "Blakemore, Colin. (2012b). Are brains and minds the same thing? Closer To Truth. https://closertotruth.com/video/blaco-001/?referrer=8492.",
+      "material_type": "Website",
+      "associated_theory_name": "Direct Perception Theory"
+    }
+  ]
+}
+```

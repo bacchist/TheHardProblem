@@ -1,0 +1,65 @@
+2024-10-26 01:57:24,963 - DEBUG - Processing Section 29
+2024-10-26 01:57:24,989 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Mostyn Jones gathers, explains and classifies various electromagnetic-field theories, each with its own theoretical foundation: computationalist, reductionist, dualist, realist, interactionist, epi- phenomenalist, globalist, and localist. He uses three questions to classify the field theories: 1. How do minds exist relative to fields? 2. Are minds unified by global or local fields? 3. How extensively do fields and neu- rons interact? (Jones, 2013).
+The claim is made that electromagnetic fields in the brain can solve the "binding problem," where distinct sensory modules combine to give a unified sense of phenomenal experiencesay, melding the red and roundness of a balloon into a single percept. For example, there doesn't seem to be a single synthesizing brain area into which all visual circuits feed, nor any well-known cortical circuits that bind (unite) color and shape to form unified images. However, perceptual binding does seem to involve the synchronized firing of circuits in unified lockstep (with a temporal binding code) for specific sensory modalities (e.g., shape), but neurons in color and shape circuits don't synchronize. Mostyn states that "while binding involves synchrony, binding seems to be more than synchrony," thus giving field theories the opening to unify visual experience via a single field, not by a single brain area or by synchrony (yet synchrony does amplify field activity) (Jones, 2013).
+Mostyn claims that evidence is mounting that unified neural elec- tromagnetic fields interact with neuronal cells and circuits to explain correlations and divergences between synchrony, attention, conver- gence, and unified minds, and that the simplest explanation for the unity of minds and fields is that minds are fields (Jones, 2017). Moreover, some electromagnetic-field theorists even put qualia itself on the explanatory agenda (Jones, 2013).
+Jones poses "neuroelectrical panpsychism" (NP) as "a clear, simple, testable mindbody solution" based on the conjunction of its two component theories: (i) "everything is at least minimally conscious," and (ii) "electrical activity across separate neurons creates a unified, intel- ligent mind." According to Jones, NP is bolstered by neuroelectrical activities that generate different qualia, unite them to form perceptions and emotions, and help guide brain operations. He claims, ambitiously, that "NP also addresses the hard problem of why minds accompany these neural correlates." He offers the radical identity that "the real nature of matter-energy (beyond how it appears to sense organs) is consciousness that occupies space, exerts forces, and unites neuro- electrically to form minds." He also has NP solving panpsychism's combination problem "by explaining how the mind's subject and ex- periences arise by electrically combining simple experiences in brains" (Jones, 2024).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Jones, 2013)', '(Jones, 2013)', '(Jones, 2017)', '(Jones, 2013)', '(Jones, 2024)']
+
+    Filtered References:
+    Johnson, Michael Edward, 2023. Qualia formalism and a symmetry theory of valence.
+https://opentheory.net/Qualia_Formalism_and_a_Symmetry_Theory_of_Valence.pdf.
+Jones, Mostyn, 2013. Electromagnetic-field theories of mind. J. Conscious. Stud. 20
+(11–12), 2013. Thanks to Galen Strawson for suggesting Mostyn Jones.
+Jones, Mostyn, 2017. Mounting evidence that minds are neural EM fields interacting
+
+
+    
+2024-10-26 01:57:24,989 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Neuroelectrical Panpsychism",
+    "description": "A theory proposing that everything is at least minimally conscious and that electrical activity across separate neurons creates a unified, intelligent mind. It aims to address the hard problem of consciousness and explains how simple experiences combine to form complex perceptions and emotions.",
+    "categories": ["Panpsychism", "Electromagnetic Field Theories", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 01:57:24,989 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Mostyn Jones",
+    "biography": "Mostyn Jones is a philosopher known for his work on electromagnetic-field theories of mind, exploring the relationship between consciousness and neural activity. He has proposed the theory of neuroelectrical panpsychism, which suggests that everything is at least minimally conscious and that electrical activity in the brain contributes to the formation of a unified mind."
+  }
+}
+```
+2024-10-26 01:57:24,989 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Jones, Mostyn, 2013. Electromagnetic-field theories of mind. J. Conscious. Stud. 20 (11–12), 2013. Thanks to Galen Strawson for suggesting Mostyn Jones.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Neuroelectrical Panpsychism"
+    },
+    {
+      "citation": "Jones, Mostyn, 2017. Mounting evidence that minds are neural EM fields interacting.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Neuroelectrical Panpsychism"
+    },
+    {
+      "citation": "Johnson, Michael Edward, 2023. Qualia formalism and a symmetry theory of valence. https://opentheory.net/Qualia_Formalism_and_a_Symmetry_Theory_of_Valence.pdf.",
+      "material_type": "Online Document",
+      "associated_theory_name": "Neuroelectrical Panpsychism"
+    },
+    {
+      "citation": "Jones, Mostyn, 2024. Neuroelectrical panpsychism: a clear, simple, testable mind-body solution.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Neuroelectrical Panpsychism"
+    }
+  ]
+}
+```

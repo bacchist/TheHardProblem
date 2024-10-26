@@ -1,0 +1,68 @@
+2024-10-26 01:59:32,960 - DEBUG - Processing Section 77
+2024-10-26 01:59:37,487 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroscientist Victor Lamme proposes Recurrent Processing Theory, which stresses brain sensory systems that are massively interconnected and involve feedforward and feedback connections, as being necessary and sufficient for consciousness. The visual system provides a case where "forward connections from primary visual area V1, the first cortical visual area, carry information to higher-level processing areas, and the initial registration of visual information involves a forward sweep of processing." Moreover, many feedback connections link visual areas with other brain regions, which, later in processing, are activated and thereby yield dynamic activity within the visual system (Wu, 2018).
+Lamme proposes four stages of visual processing: Stage 1: Visual signals are processed locally within the visual system (i.e., superficial feedforward processing). Stage 2: Visual signals travel further forward in the processing hierarchy where they can influence action (i.e., deep feedforward processing). Stage 3: Information travels back into earlier visual areas, leading to local recurrent processing (i.e., superficial recurrent processing). Stage 4: Information activates widespread brain areas (i.e., widespread recurrent processing) (Wu, 2018).
+According to Lamme, it is the recurrent processing in Stage 3, which is a first-order theory and can occur in both sensory and post-sensory areas, that he claims to be necessary and sufficient for consciousness. In other words, "for a visual state to be conscious is for a certain recurrent processing state to hold of the relevant visual circuitry" (Wu, 2018).
+Ned Block calls Recurrent Processing Theory "basically a truncated form of the global workspace account: It identifies conscious perception with the recurrent activations in the back of the head without the requirement of broadcasting in the global workspace." Block points out that "first-order theories do not say that recurrent activations are by themselves sufficient for consciousness. These activations are only suf- ficient given background conditions. Those background conditions probably include intact connectivity with subcortical structures." What then is "enough for conscious perceptual phenomenology" is "the active recurrent loops in perceptual areas plus background conditions." Block concludes: "So long as high-level representations participate in those recurrent loops, conscious high-level content is assured" (Block, 2023, pp. 89).
+Lamme critiques Global Workspace Theory [9.2.3] as "all about ac- cess but not about seeing" (even though his Stage 4 is consistent with global workspace access). The crucial distinction is that Global Work- space Theory has recurrent processing at Stage 4 as necessary for con- sciousness, while Recurrent Processing Theory has recurrent processing at Stage 3 as sufficient. The latter would enable phenomenal con- sciousness without access by the global neuronal workspace (Wu, 2018).
+Overall, Lamme avers that "neural and behavioral measures should
+be put on an equal footing" and that "only by moving our notion of mind towards that of brain can progress be made" (Lamme, 2006). He depicts "a notion of consciousness that may go against our deepest conviction: 'My consciousness is mine, and mine alone.' It's not," he says (Lamme, 2010).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Wu, 2018)', '(Wu, 2018)', '(Wu, 2018)', '(Wu, 2018)', '(Lamme, 2006)', '(Lamme, 2010)']
+
+    Filtered References:
+    Publishing Company, pp. 163–171.
+Pylkk¨anen, Paavo, 2022. Is the brain analogous to a quantum measuring apparatus? In:
+Wuppuluri, Shyam, Grayling, Anthony C. (Eds.), Metaphors and Analogies in
+Sciences and Humanities: Words and Worlds. Springer Synthese Library,
+pp. 215–235.
+
+Lakoff, George, Johnson, Mark, 1999. Philosophy in the Flesh: the Embodied Mind and
+its Challenge to Western Thought. Basic Books.
+Lamme, Victor, 2006. Towards a true neural stance on consciousness. Trends Cognit. Sci.
+10 (Issue 11) https://doi.org/10.1016/j.tics.2006.09.001.
+Lamme, Victor, 2010. How neuroscience will change our view on consciousness. Cognit.
+
+    
+2024-10-26 01:59:37,487 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Recurrent Processing Theory",
+    "description": "A theory proposed by Victor Lamme that emphasizes the role of recurrent processing in the brain's sensory systems as necessary and sufficient for consciousness. It outlines four stages of visual processing, with Stage 3 being crucial for conscious perception through local recurrent processing.",
+    "categories": ["Neuroscience", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 01:59:37,487 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Victor Lamme",
+    "biography": "Victor Lamme is a Dutch neuroscientist known for his work on consciousness and visual perception. He is the proponent of Recurrent Processing Theory, which posits that recurrent processing in the brain's sensory systems is essential for consciousness."
+  }
+}
+```
+2024-10-26 01:59:37,487 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Wu, 2018. Recurrent Processing Theory and its implications for consciousness. Journal of Consciousness Studies, 25(4), pp. 163–171.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Recurrent Processing Theory"
+    },
+    {
+      "citation": "Lamme, Victor, 2006. Towards a true neural stance on consciousness. Trends Cognit. Sci. 10 (Issue 11) https://doi.org/10.1016/j.tics.2006.09.001.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Recurrent Processing Theory"
+    },
+    {
+      "citation": "Lamme, Victor, 2010. How neuroscience will change our view on consciousness. Cognit.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Recurrent Processing Theory"
+    }
+  ]
+}
+```

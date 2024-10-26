@@ -1,0 +1,48 @@
+2024-10-26 01:59:16,118 - DEBUG - Processing Section 74
+2024-10-26 01:59:20,080 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: A process theory of consciousness is founded on process philosophy, the metaphysical idea that fundamental reality is dynamic, change, shiftthe action of becoming.30 With respect to consciousness, process philosophy has refused to bifurcate human experience from nature, and as a consequence, process philosophy holds to a "panexperientialist" ontology where experience goes all the way down in nature, and con- sciousness genuinely emerges as an achievement of the evolution of experience through time. Only in the case of God (if God exists, of course) does consciousness belong to nature as an ontological primitive. (Davis, 2020, 2022; Faber, 2023).
+David Ray Griffin suggests that "panexperientialist physicalism," by allowing for "compound individuals" and thereby a "nondualistic interactionism" that combines these strengths, can provide a theory that overcomes the problems of materialist physicalism (Griffin, 1997). Panexperientialist physicalism, he says, portrays the world as comprised of creative, experiential, physical-mental events. His process-type pan- experientialism agrees with materialism that there is only one kind of stuff, but enlarges "energy" to "experiential creativity" (thus dis- tinguishing it from panpsychism, 13.12). Process panexperientialists assume that it lies in the very nature of things for events of experiential creativity to occurfor partially self-creative experiences to arise out of prior experiences and then to help create subsequent experiences. The process by which our (sometimes partly conscious) experiences arise out of those billions of events constituting our bodies at any moment is simply the most complex example of this processand the only one the
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Griffin, 1997)']
+
+    Filtered References:
+    experiences. In: Holden, J.M., Greyson, B., James, D. (Eds.), The Handbook of Near-
+Death Experiences. Praeger/ABC-CLIO, pp. 213–234.
+Griffin, David Ray, 1997. Panexperientialist physicalism and the mind-body problem.
+J. Conscious. Stud. 4 (3), 1997.
+Grinberg-Zylberbaum, Jacobo, 1981. The transformation of neuronal activity into
+
+
+    
+2024-10-26 01:59:20,080 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Panexperientialist Physicalism",
+    "description": "A theory proposed by David Ray Griffin that combines elements of physicalism and panexperientialism, suggesting that the world is made up of creative, experiential, physical-mental events, and that consciousness emerges from the evolution of experience through time.",
+    "categories": ["Process Philosophy", "Metaphysics", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 01:59:20,080 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "David Ray Griffin",
+    "biography": "David Ray Griffin is a philosopher and theologian known for his work in process philosophy and panexperientialism, particularly in relation to consciousness and the mind-body problem."
+  }
+}
+```
+2024-10-26 01:59:20,080 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Griffin, David Ray, 1997. Panexperientialist physicalism and the mind-body problem. J. Conscious. Stud. 4 (3), 1997.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Panexperientialist Physicalism"
+    }
+  ]
+}
+```

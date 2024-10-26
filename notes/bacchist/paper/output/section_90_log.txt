@@ -1,0 +1,41 @@
+2024-10-26 02:00:47,109 - DEBUG - Processing Section 90
+2024-10-26 02:00:50,394 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Chomsky's Language and Consciousness
+%e e % %
+Searle's Language and Consciousness
+Koch's Consciousness does not Depend on Language
+Smith's Language as Classifier of Consciousness
+Jaynes's Breakdown of the Bicameral Mind
+Parrington's Language and Tool-Driven Consciousness
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:00:50,394 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Language and Consciousness",
+    "description": "A theory that explores the relationship between language and the nature of consciousness, suggesting that language plays a crucial role in shaping conscious experience.",
+    "categories": ["Linguistics", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 02:00:50,394 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Noam Chomsky",
+    "biography": "Noam Chomsky is a linguist, philosopher, cognitive scientist, historian, and social critic, widely known for his theory of generative grammar and his contributions to the study of language and its relation to the mind."
+  }
+}
+```
+2024-10-26 02:00:50,394 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```

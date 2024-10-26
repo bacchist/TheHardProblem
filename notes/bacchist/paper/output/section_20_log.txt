@@ -1,0 +1,76 @@
+2024-10-26 01:57:24,737 - DEBUG - Processing Section 20
+2024-10-26 01:57:24,760 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Jesse Prinz accounts for consciousness with two main claims: first, consciousness always arises at a particular stage of perceptual processing, the intermediate stage; and second, conscious- ness depends on attention. "Attention" is Prinz's focus in that it "changes the flow of information allowing perceptual information to access memory systems." Neurobiologically, he says, "this change in flow de- pends on synchronized neural firing. Neural synchrony is also impli- cated in the unity of consciousness and in the temporal duration of experience" (Prinz, 2012).
+What Prinz calls "attention" is a particular process of making an integrated representation of a stimulus' multiple properties, as perceived from a given point of view, available to working memo- ryand it is this process, and only this process, that generates con- sciousness. "Intermediateness," as Prinz's term of art, locates the critical transformation when representations are "integrated into a point-of- view-retaining format that gets made available by this 'attention pro- cess'" to working memory. This is why Prinz's theory earns the
+appellation, "Attended Intermediate Representation Theory" (Mole, 2013). [Note: Prinz's theory could be classified under Representational Theories.]
+In exploring the limits of consciousness, Prinz states, "We have no direct experience of our thoughts, no experience of motor commands, and no experience of a conscious self." His strong assertion is that "All consciousness is perceptual, and it functions to make perceptual infor- mation available to systems that allow for flexible behavior." Thus, Prinz provides "a neuroscientifically grounded response to the leading argu- ment for dualism," and he argues that "materialists need not choose between functional and neurobiological approaches, but can instead combine these into neurofunctional response to the mind-body prob- lem" (Prinz, 2012).
+Prinz encourages a direct, head-to-head competition, as it were, between his neurofunctionalism and David Chalmers's hard problem (Mole, 2013). "Where he [Chalmers] sought to synthesize two decades of dualist argumentation, I [Prinz] try here to synthesize two decades of empirical exploration" (Prinz, 2012; Mole, 2013). Whereas Chalmers famously declares that "no explanation given in wholly physical terms can ever account for the emergence of conscious experience."). Prinz counters that there is now "a satisfying and surprisingly complete theory [contained entirely within materialism] of how consciousness arises in the human brain" (Prinz, 2012).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Prinz, 2012)', '(Mole, 2013)', '(Prinz, 2012)', '(Mole, 2013)', '(Prinz, 2012)']
+
+    Filtered References:
+    pp. 235–247.
+Harman, G., 1990. ‘The intrinsic quality of experience’, in tomberlin; reprinted in lycan
+& Prinz. (2008. Mind and Cognition, third ed. Basil Blackwell.
+Harp, Dennis, 2022. Lumignosis. https://lumignosis.org.
+Harrell, Stevan, 1979. The concept of soul in Chinese folk religion. J. Asian Stud. https://
+
+2020-0138.
+R.L. Kuhn
+Progress in Biophysics and Molecular Biology 190 (2024) 28–169
+158
+Atmanspacher, Harald, Fuchs, Christopher A., 2014. Introduction. In:
+
+    
+2024-10-26 01:57:24,760 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Attended Intermediate Representation Theory",
+    "description": "A theory proposed by Jesse Prinz that posits consciousness arises at an intermediate stage of perceptual processing, dependent on attention, which integrates multiple properties of a stimulus into a format accessible to working memory.",
+    "categories": ["Representational Theories", "Neuroscience"]
+  }
+}
+```
+2024-10-26 01:57:24,760 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Jesse Prinz",
+    "biography": "Jesse Prinz is a philosopher known for his work on consciousness and perception, particularly his Attended Intermediate Representation Theory, which argues that consciousness arises from the integration of perceptual information through attention."
+  }
+}
+```
+2024-10-26 01:57:24,760 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Prinz, J. (2012). A neuroscientifically grounded response to the leading argument for dualism. In: [Details of the publication].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Attended Intermediate Representation Theory"
+    },
+    {
+      "citation": "Mole, C. (2013). [Details of the publication].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Attended Intermediate Representation Theory"
+    },
+    {
+      "citation": "Prinz, J. (2012). A satisfying and surprisingly complete theory of how consciousness arises in the human brain. In: [Details of the publication].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Attended Intermediate Representation Theory"
+    },
+    {
+      "citation": "Mole, C. (2013). [Details of the publication].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Attended Intermediate Representation Theory"
+    },
+    {
+      "citation": "Prinz, J. (2012). [Details of the publication].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Attended Intermediate Representation Theory"
+    }
+  ]
+}
+```

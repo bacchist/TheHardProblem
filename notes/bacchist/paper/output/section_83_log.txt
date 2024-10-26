@@ -1,0 +1,60 @@
+2024-10-26 02:00:05,954 - DEBUG - Processing Section 83
+2024-10-26 02:00:11,097 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Frank Jackson develops a representationalist view about perceptual experience. "That experience is diaphanousness (or trans- parent) is a thesis about the phenomenology of perceptual experience. It is the thesis that the properties that make an experience the kind of experience it is are properties of the object of experience." In other words, "accessing the nature of the experience itself is nothing other than accessing the properties of its object" (Jackson, 2007).
+Jackson uses his Diaphanous Representationalism theory to under- mine his own prior argument against materialism/physicalism based on the famous thought experiment of Mary the brilliant neurophysiologist who is forced to investigate the world from a black and white room via a black and white television monitor, and who acquires all the physical information there is to obtain about what goes on when we see colors. "What will happen when Mary is released from her black and white room or is given a color television monitor? Will she learn anything or not? It seems just obvious that she will learn something about the world and our visual experience of it. But then it is inescapable that her pre- vious knowledge was incomplete. But she had all the physical infor- mation. Ergo there is more to have than that, and Physicalism is false" (Jackson, 1982).
+Jackson argues that "although the diaphanousness thesis alone does not entail representationalism, the thesis supports an inference from a weaker to a stronger version of representationalism. On the weak version, perceptual experience is essentially representational. On the strong version, how an experience represents things as being exhausts its experiential nature." This means that there is nothing else needed to bring about phenomenal consciousness (qualia). Hence, according to Jackson, "strong representationalism undermines the claim that Mary learns new truths when she leaves the room"which would defeat the defeater of materialism/physicalism (Jackson, 2007).
+Philosopher Torin Alter disagrees, arguing that representationalism provides no basis for rejecting the knowledge argument, because even if representational character exhausts phenomenal character, "the physi- calist must still face a representationalist version of the Mary challenge, which inherits the difficulty of the original" (Alter, 2003).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Jackson, 2007)', '(Jackson, 1982)', '(Jackson, 2007)', '(Alter, 2003)']
+
+    Filtered References:
+    Alexander, Eben, 2014. Proof of Heaven: A Neurosurgeon’s Journey into the Afterlife.
+Simon & Schuster.
+Alter, Torin, 2003. Jackson’s Retraction, III-W. apaOnline: Proceedings and Addresses
+January, 2003, vol. 76, 3. https://web.archive.org/web/20080516091824/. http
+://www.apa.udel.edu/apa/publications/proceedings/v76n3/public/abstracts.asp.
+
+
+    
+2024-10-26 02:00:11,097 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Diaphanous Representationalism",
+    "description": "A theory proposed by Frank Jackson that suggests perceptual experiences are transparent and that understanding these experiences involves accessing the properties of the objects being perceived. It argues that the nature of an experience is fundamentally tied to its representational content, which challenges materialism by suggesting that there are aspects of experience (qualia) that cannot be fully captured by physical information alone.",
+    "categories": ["Philosophy of Mind", "Perception", "Representationalism"]
+  }
+}
+```
+2024-10-26 02:00:11,097 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Frank Jackson",
+    "biography": "Frank Jackson is an Australian philosopher known for his work in the philosophy of mind, particularly for his knowledge argument against physicalism and his development of the theory of Diaphanous Representationalism, which posits that perceptual experiences are fundamentally tied to the properties of the objects being perceived."
+  }
+}
+```
+2024-10-26 02:00:11,097 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Jackson, F. (2007). Diaphanous Representationalism. In [Details of the publication].",
+      "material_type": "Book",
+      "associated_theory_name": "Diaphanous Representationalism"
+    },
+    {
+      "citation": "Jackson, F. (1982). Epiphenomenal Qualia. Philosophical Quarterly, 32(127), 127-136.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Diaphanous Representationalism"
+    },
+    {
+      "citation": "Alter, T. (2003). Jackson’s Retraction, III-W. apaOnline: Proceedings and Addresses January, 2003, vol. 76, 3. https://web.archive.org/web/20080516091824/. http://www.apa.udel.edu/apa/publications/proceedings/v76n3/public/abstracts.asp.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Diaphanous Representationalism"
+    }
+  ]
+}
+```

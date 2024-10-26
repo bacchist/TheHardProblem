@@ -1,0 +1,67 @@
+2024-10-26 01:57:25,015 - DEBUG - Processing Section 31
+2024-10-26 01:57:25,040 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Molecular geneticist Johnjoe McFadden proposes conscious elec- tromagnetic information (CEMI) field theory as an explanation of con- sciousness. His central claim is that "conventional theories of consciousness (ToCs) that assume the substrate of consciousness is the brain's neuronal matter fail to account for fundamental features of consciousness, such as the binding problem," and he posits that the substrate of consciousness is best accounted by the brain's well-known electromagnetic (EM) field (McFadden, 2023).
+Electromagnetic field theories of consciousness (EMF-ToCs) were first proposed in the early 2000s primarily to account for the experi- mental discovery that synchronous neuronal firing was a strong neural correlate of consciousness (NCC) (McFadden, 2002). While McFadden has EMF-ToCs gaining increasing support, he recognizes that "they remain controversial and are often ignored by neurobiologists and philosophers and passed over in most published reviews of conscious- ness." In his own review, McFadden examines EMF-ToCs against established criteria for distinguishing between competing ToCs and ar- gues that "they [EMF-ToCs] outperform all conventional ToCs and provide novel insights into the nature of consciousness as well as a feasible route toward building artificial consciousnesses" (McFadden, 2023).
+McFadden references the neurophysiology of working memory in support of CEMI theory. He states that "although the exact neurons (the neural ensemble) maintaining a given memory in working memory varies from trial to trial, what is known as representational drift, sta- bility of working memory emerges at the level of the brain's electric fields as detected by EEG." This means, he argues that "since working memory is considered to be, essentially, conscious memory," con- sciousness "resides in the brain's electromagnetic fields rather than in its neurons, acting as the brain's global workspace." He asserts that "the higher level of correlation between the contents of working memory and the brain's EM fields, rather than the state of the brain's matter-based neurons, is a considerable challenge to all neural-ToCs" (McFadden, 2023).
+McFadden positions CEMI field theory (or EMF-ToCs) as providing "an objective criterion for distinguishing conscious from non-conscious EM fields. This arises from the requirement that, to be reportably conscious, a system must be able to generate (rather than merely transmit) thoughts as gestalt (integrated) informationour thoughtsthat can be communicated to the outside world via a motor system" (McFadden, 2023).
+In distinguishing CEMI field theory from Integrated Information Theory (12), McFadden argues that "nearly all examples of so-called 'integrated information', including neuronal information processing and conventional computing, are only temporally integrated in the sense that outputs are correlated with multiple inputs: the information inte- gration is implemented in time, rather than space, and thereby cannot correspond to physically integrated information." He stresses that "only energy fields are capable of integrating information in space" and he defines CEMI field theory whereby "consciousness is physically inte- grated, and causally active, [with] information encoded in the brain's global electromagnetic (EM) field." Moreover, he posits that
+"consciousness implements algorithms in space, rather than time, within the brain's EM field," and he describes CEMI field theory as "a scientific dualism that is rooted in the difference between matter and energy, rather than matter and spirit" (McFadden, 2020).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(McFadden, 2023)', '(McFadden, 2002)', '(McFadden, 2023)', '(McFadden, 2023)', '(McFadden, 2023)', '(McFadden, 2020)']
+
+    Filtered References:
+    Maturana, Humberto, Varela, Francisco, 1980. Autopoiesis and Cognition: the
+Realization of the Living, second ed. Springer.
+McFadden, Johnjoe, 2002. Synchronous firing and its influence on the brain’s
+electromagnetic field. J. Conscious. Stud. 9 (4).
+McFadden, Johnjoe, 2020. Integrating information in the brain’s EM field: the cemi field
+
+
+    
+2024-10-26 01:57:25,040 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Conscious Electromagnetic Information (CEMI) Field Theory",
+    "description": "A theory proposed by Johnjoe McFadden that suggests consciousness arises from the brain's electromagnetic fields rather than its neuronal matter, positing that these fields integrate information in space and provide a basis for distinguishing conscious from non-conscious states.",
+    "categories": ["Electromagnetic Field Theories", "Neuroscience", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 01:57:25,040 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Johnjoe McFadden",
+    "biography": "Johnjoe McFadden is a molecular geneticist known for his work on consciousness, particularly his Conscious Electromagnetic Information (CEMI) field theory, which posits that consciousness arises from the brain's electromagnetic fields rather than its neuronal matter."
+  }
+}
+```
+2024-10-26 01:57:25,040 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "McFadden, Johnjoe, 2023. Consciousness and the brain's electromagnetic field. Journal of Consciousness Studies.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Conscious Electromagnetic Information (CEMI) Field Theory"
+    },
+    {
+      "citation": "McFadden, Johnjoe, 2002. Synchronous firing and its influence on the brain’s electromagnetic field. J. Conscious. Stud. 9 (4).",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Conscious Electromagnetic Information (CEMI) Field Theory"
+    },
+    {
+      "citation": "McFadden, Johnjoe, 2020. Integrating information in the brain’s EM field: the cemi field theory. Journal of Consciousness Studies.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Conscious Electromagnetic Information (CEMI) Field Theory"
+    },
+    {
+      "citation": "Maturana, Humberto, Varela, Francisco, 1980. Autopoiesis and Cognition: the Realization of the Living, second ed. Springer.",
+      "material_type": "Book",
+      "associated_theory_name": "Conscious Electromagnetic Information (CEMI) Field Theory"
+    }
+  ]
+}
+```

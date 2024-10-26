@@ -1,0 +1,53 @@
+2024-10-26 01:58:08,778 - DEBUG - Processing Section 59
+2024-10-26 01:58:13,055 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Embodied Cognition is the concept that what makes thought mean- ingful are the ways neural circuits are connected to the body and characterize embodied experience, and that abstract ideas and language are embodied in this way as well. While cognition and consciousness are not the same, cognitive linguist George Lakoff argues that the mind is embodied, in that even pure mentality depends on the body's sensori- motor systems and emotions and cannot be comprehended without engaging them (Lakoff, 2007, 2012).
+In their classic book on the embodied mind, Philosophy in the Flesh, Lakoff and Mark Johnson stress three points: "The mind is inherently embodied. Thought is mostly unconscious. Abstract concepts are largely metaphorical. Much of the subject matter of philosophy, they claim, such as the nature of time, morality, causation, the mind, and the self, relies heavily on basic metaphors derived from bodily experience.
+Thought requires a body, they assert, "not in the trivial sense that you need a physical brain with which to think, but in the profound sense that the very structure of our thoughts comes from the nature of the body" (Lakoff and Johnson, 1999).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:58:13,055 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Embodied Cognition",
+    "description": "A theory that posits that cognition and consciousness are deeply rooted in the body's sensory and motor systems, suggesting that abstract ideas and language are shaped by embodied experiences.",
+    "categories": ["Cognitive Science", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:58:13,055 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "George Lakoff",
+    "biography": "George Lakoff is a cognitive linguist and philosopher known for his work on the relationship between language and thought, particularly in the context of embodied cognition."
+  }
+}
+```
+2024-10-26 01:58:13,055 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Lakoff, G. (2007). The neural theory of language. In M. H. Christiansen & C. Holbrook (Eds.), Language and the brain (pp. 1-20). Cambridge University Press.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Embodied Cognition"
+    },
+    {
+      "citation": "Lakoff, G., & Johnson, M. (1999). Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought. Basic Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Embodied Cognition"
+    },
+    {
+      "citation": "Lakoff, G. (2012). The Political Mind: A Cognitive Scientist's Guide to Your Brain and Its Politics. Penguin Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Embodied Cognition"
+    }
+  ]
+}
+```

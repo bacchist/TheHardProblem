@@ -1,0 +1,48 @@
+2024-10-26 01:57:54,792 - DEBUG - Processing Section 55
+2024-10-26 01:57:58,853 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Clinical psychologist Warren Mansell proposes Perceptual Control Theory (PCT) in which "reorganization is the process required for the adaptive modification of control systems in order to reduce the error in intrinsic systems that control essential, largely physiological, variables." It is from this system, he says, that primary [phenomenal] consciousness emerges and "is sustained as secondary [access] consciousness through a number of processes including the control of the integration rate of novel information via exploratory behavior, attention, imagination, and by altering the mutation rate of reorganization." Tertiary [self- awareness] consciousness arises when "internally sustained perceptual information is associated with specific symbols that form a parallel, propositional system for the use of language, logic, and other symbolic systems" (Mansell, 2022).
+Mansell's objective is to give an "integrative account of conscious- ness," which "should build upon a framework of nonconscious behavior in order to explain how and why consciousness contributes to, and ad- dresses the limitations of, nonconscious processes." Such a theory, as noted, "should also encompass the primary (phenomenal), secondary (access), and tertiary (self-awareness) aspects of consciousness," and "address how organisms deal with multiple, unpredictable disturbances to maintain control." Such categories of consciousness come about, ac- cording to PCT, because of "purposiveness," which is "the control of hierarchically organized perceptual variables via changes in output that counteract disturbances which would otherwise increase error between the current value and the reference value (goal state) of each perceptual variable" (Mansell, 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Mansell, 2022)', '(Mansell, 2022)']
+
+    Filtered References:
+    panpsychism. In: Godehard, Brüntrup, Benedikt Paul, G¨ocke, Ludwig, Jaskolla
+(Eds.), Brill Mentis.
+Mansell, Warren, 2022. An Integrative Control Theory Perspective on Consciousness.
+Psychological Review. Advance online publication. https://doi.org/10.1037/
+rev0000384 (Thanks to Alex Gomez-Marin for suggesting Mansell).
+
+
+    
+2024-10-26 01:57:58,853 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Perceptual Control Theory",
+    "description": "A theory proposed by Warren Mansell that suggests consciousness emerges from the adaptive modification of control systems to reduce error in intrinsic systems controlling essential physiological variables. It encompasses primary (phenomenal), secondary (access), and tertiary (self-awareness) aspects of consciousness, addressing how organisms maintain control amidst disturbances.",
+    "categories": ["Psychology", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 01:57:58,853 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Warren Mansell",
+    "biography": "Warren Mansell is a clinical psychologist known for his work on Perceptual Control Theory (PCT), which explores the relationship between consciousness and the adaptive modification of control systems in response to physiological variables."
+  }
+}
+```
+2024-10-26 01:57:58,853 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Mansell, Warren, 2022. An Integrative Control Theory Perspective on Consciousness. Psychological Review. Advance online publication. https://doi.org/10.1037/rev0000384",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Perceptual Control Theory"
+    }
+  ]
+}
+```

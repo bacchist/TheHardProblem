@@ -1,0 +1,66 @@
+2024-10-26 01:58:34,281 - DEBUG - Processing Section 64
+2024-10-26 01:58:39,268 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher of science and phenomenologist Michel Bitbol promotes a "radical neurophenomenology" in which a "tangled dialectic of body and consciousness" is the "metaphysical counterpart" and whose goal is to advance Varela's neurophenomenology project (9.6.3) of criticizing and dissolving the "hard problem" of consciousness (Bitbol, 2021a). Bitbol claims that the neurophenomenological approach to the "hard problem" is underrated and often misunderstood; indeed, "in its original version, neurophenomenology implies nothing less than a change in our own being to dispel the mere sense that there is a problem to be theo- retically solved or dissolved. Neurophenomenology thus turns out to be much more radical than the enactivist kinds of dissolution" (9.6.2)
+Did Varela himself have a theory to solve the hard problem? No, Varela declared (in Bitbol's report) "only a 'remedy"the point being that "there exists a stance (let's call it the Varelian stance) in which the problem of the physical origin of primary consciousness, or pure expe- rience, does not even arise." The implications, according to Bitbol, are that "the nature of the 'hard problem' of consciousness is changed from an intellectual puzzle to an existential option." The "constructivist content," he says, is that "The role of ontological prejudice about what the world is made of (a prejudice that determines the very form of the 'hard problem' as the issue of the origin of consciousness out of a pre- existing material organization) is downplayed" (Bitbol, 2012).
+Bitbol blames "the standard (physicalist) formulation of this prob- lem" for both generating it and turning it into "a fake mystery." But he recognizes that dissolving the hard problem is very demanding for re- searchers, because "it invites them to leave their position of neutral observers/thinkers, and to seek self-transformation instead." Bitbol's approach "leaves no room for the 'hard problem' in the field of discourse, and rather deflects it onto the plane of attitudes." This runs the risk, he says, of "being either ignored or considered as a dodge" (Bitbol, 2021a).
+Bitbol's method is "a metaphysical compensation for the anti- metaphysical premise of the neurophenomenological dissolution of the 'hard problem.'" This can be achieved, he says, by designing this alter- native metaphysics "to keep the benefit of a shift from discourse to ways of being, which is "the latent message of neurophenomenology" (Bitbol, 2021a). In its most radical version, "neurophenomenology asks re- searchers to suspend the quest of an objective solution to the problem of the origin of subjectivity, and clarify instead how objectification can be obtained out of the coordination of subjective experiences. It therefore invites researchers to develop their inquiry about subjective experience with the same determination as their objective inquiry." Bitbol proposes
+a methodology to explore lived experience faithfully (via micro- phenomenological interviews retrieving or "evoking past experiences") and thereby "addresses a set of traditional objections against intro- spection" (Bitbol and Petitmengin, 2017).
+Bitbol gives neuroscience no privilege, priority or pride of place. "The effective primacy of lived experience should be given such prom- inence that every other aspect, content, achievement, distortion, and physicalist account of consciousness, is made conditional upon it." From a (radical) phenomenological standpoint, he says, "one must not mistake objectivity for reality. Reality is what is given and manifest, whereas objectivity is what is constituted by extracting structural invariants from the given experience. Along with this phenomenological approach, an objective science is not supposed to disclose reality as it is beyond ap- pearances, but only to circumscribe some intersubjectively recognized features of the appearing reality." Having said that, Bitbol stresses that "neuroscientific data should not be granted a higher ontological status than phenomenological descriptions; they should not be given the power to render a compelling verdict about what is real and what is deceptive in our experience." Thus, he sums up: "from a phenomenological standpoint, the neuro-phenomenological correlation is plainly perceived as an extension of the lived sense of embodiment, not as a sign that some naturalistic one-directional 'fundamental dependence' of consciousness on the bodily brain is taking place" (Bitbol, 2015).
+Bitbol's affirmative solution is to formulate a "dynamical and participatory conception of the relation between body and conscious- ness ... with no concession to standard positions such as physicalist monism and property dualism." Bitbol's conception is based on Varela's formalism of "cybernetic dialectic," "a geometrical model of self-pro- duction," and it is "in close agreement with Merleau-Ponty's 'intra- ontology': an engaged ontological approach of what it is like to be, rather than a discipline of the contemplation of beings" (Bitbol, 2021a).
+Bitbol's approach to quantum physics complements his "radical phenomenology," such that quantum mechanics becomes more a "symbolism of atomic measurements," rather than "a description of atomic objects." He supports the notion that "quantum laws do not ex- press the nature of physical objects, but only the bounds of experimental information." Similarly, Bitbol supports QBism, where the wave func- tion's probabilities are said to be, shockingly (to me), Bayesian proba- bilities, which means they relate to prior subjective degrees of belief about the system, paralleling some ideas in phenomenology (Bitbol, 2023).
+Bitbol calls out "three features of such non-interpretational, non- committal approaches to quantum physics" that "strongly evoke the phenomenological epistemology." These are: "their deliberately first- person stance; their suspension of judgment about a presumably external domain of objects, and subsequent redirection of attention to- wards the activity of constituting these objects; their perception-like conception of quantum knowledge." Moreover, Bitbol claims that these new approaches of quantum physics go beyond phenomenological epistemology and "also make implicit use of a phenomenological ontology." He cites Chris Fuch's "participatory realism" that "formulates a non-external variety of realism for one who is deeply immersed in reality," adding, "but participatory realism strongly resembles Merleau- Ponty's endo-ontology, which is a phenomenological ontology for one who deeply participates in Being" (Bitbol, 2020; Gefter, 2015).
+QBist theorists assert that "quantum states are 'expectations about experiences of pointer readings,'" rather than expectations about pointer positions. Their focus on lived experience, not just on macro- scopic variables, is tantamount to performing the transcendental reduction instead of stopping at the relatively superficial layer of the life-world reduction." Bitbol believes that "quantum physics indeed gives us several reasons to go the whole way down to the deepest variety of phenomenological reduction ... not only reduction to experience, or to 'pure consciousness,' but also reduction to the 'living present'" (Bit- bol, 2021b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Bitbol, 2012)', '(Bitbol, 2015)', '(Bitbol, 2023)']
+
+    Filtered References:
+    Blog. https://philosophyofbrains.com/2023/09/11/consciousness-and-the-overton-
+window-of-science-part-1.aspx.
+Bitbol, Michel, 2012. Neurophenomenology, an ongoing practice of/in consciousness.
+Construct. Foundations 7 (3), 165–173.
+Bitbol, Michel, 2015. Review of waking, dreaming, being: Self and Consciousness in
+
+
+    
+2024-10-26 01:58:39,268 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Radical Neurophenomenology",
+    "description": "A philosophical approach that emphasizes the intertwined nature of body and consciousness, aiming to dissolve the 'hard problem' of consciousness by shifting focus from objective solutions to subjective experiences and self-transformation.",
+    "categories": ["Phenomenology", "Neuroscience", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:58:39,268 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Michel Bitbol",
+    "biography": "Michel Bitbol is a French philosopher of science and phenomenologist known for his work on neurophenomenology, which explores the relationship between consciousness and the body. He advocates for a radical approach that emphasizes subjective experience and self-transformation in addressing the 'hard problem' of consciousness."
+  }
+}
+```
+2024-10-26 01:58:39,268 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Bitbol, Michel. (2012). Neurophenomenology, an ongoing practice of/in consciousness. Construct. Foundations, 7(3), 165–173.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Radical Neurophenomenology"
+    },
+    {
+      "citation": "Bitbol, Michel. (2015). Review of waking, dreaming, being: Self and Consciousness in the Philosophy of Mind. Construct. Foundations.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Radical Neurophenomenology"
+    },
+    {
+      "citation": "Bitbol, Michel. (2023). Consciousness and the Overton Window of Science. Blog. Retrieved from https://philosophyofbrains.com/2023/09/11/consciousness-and-the-overton-window-of-science-part-1.aspx.",
+      "material_type": "Blog",
+      "associated_theory_name": "Radical Neurophenomenology"
+    }
+  ]
+}
+```

@@ -1,0 +1,63 @@
+2024-10-26 01:57:24,257 - DEBUG - Processing Section 2
+2024-10-26 01:57:24,284 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: In epiphenomenalism, consciousness is entirely physical, solely the product of biological brains, but mental states cannot be entirely reduced to physical states (brains or otherwise), and mental states have no causal powers. Constrained by the "causal closure of the physical," the mind, whatever else it might be, is entirely inert: our awareness of consciousness is real, but our sense of mental causation is not. Con- sciousness is still a kind of illusion or trick in that there is no "top-down causation"; our sense that our thoughts can cause things is mistaken. In this manner, epiphenomenalism is a weaker form of non-reductive physicalism (10). All conscious mental events, including conscious perceptions, involve unconscious processing. The classic analogy for
+consciousness as an epiphenomenon is "foam on an ocean wave:" always there, apparently active, but never really doing anything.
+More formally, epiphenomenalism holds that phenomenal properties are ontologically distinct from physical properties, and that the phenomenal has no effect on the physical. Physical states cause phenomenal states, but not vice versa. The arrow of psychophysical causation points in only one direction, from physical to phenomenal (Chalmers, 2003). This makes epiphenomenalism a weak form of Dualism (15), but by affirming the complete causal closure of the physical, it well deserves its spot in Materialism Theories.
+Apparent support for consciousness epiphenomenalism comes from the famous Libet experiment, which demonstrated that brain activity associated with a voluntary movement ("readiness potential") precedes conscious experience of the intention to make that movement by several hundred milliseconds (Frith and Haggard, 2018). The implication is that the brain, rather than conscious "free will", initiates voluntary acts. Studied extensively, the Libet readiness potential data are reproducible and robust under diverse experiment designs. However, its theoretical and methodological foundations have been challenged (Gholipour, 2019), particularly with respect to stochastic noise in brain, the spon- taneous fluctuations in neuronal activity (Schurger et al., 2012).
+Epiphenomenalism highlights the need to recognize that the search for a metaphysical theory of consciousness must integrate a theory of mental causation, which in turn must deal with the epistemic problem of self-knowledge. In epiphenomenalism, the integration is obvious because the lack of mental causation is its primary feature. In other theories of consciousness, mental causation will be less obvious but perhaps no less important.
+Daniel Stoljar notes that if phenomenal consciousness would be "merely an epiphenomenon with no causal force," perhaps "this will end up being the best option for dualism 2.0 (15.10), despite its being counterintuitiveafter all, it certainly seems to us that our phenome- nally conscious states causally matter. But any view on the problem of consciousness is likely going to have to embrace some counterintuitive result at some point" (Kind and Stoljar, 2023, p. 55).
+Parallelism, a similar but less popular theory than epiphenome- nalism, holds that physical events entirely cause physical events and mental events entirely cause mental events, but there is no causal connection between physical and mental worlds in either direction. But if no connection, what would maintain such perfect correspondences? It is no challenge to discern why parallelism is less popular.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Chalmers, 2003)', '(Gholipour, 2019)']
+
+    Filtered References:
+    consciousness. Minds Mach. 16, 185–200. https://doi.org/10.1007/s11023-006-
+9036-0.
+Bourget, David; Chalmers, David, general eds. PhilPapers. https://philpapers.org/browse
+/theories-of-consciousness.
+Bourget, David, Chalmers, David, 2014. What do philosophers believe? Phil. Stud. 170
+
+consciousness. J.Conscious Evolut.: Iss. 3, 1. https://digitalcommons.ciis.edu/cejo
+urnal/vol3/iss3/1.
+Gholipour, Bahar, 2019. A famous argument against free will has been debunked.
+Atlantic. (Accessed 10 September 2019).
+Gibson, James J., 2014. The Ecological Approach to Visual Perception. Routledge.
+
+    
+2024-10-26 01:57:24,284 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Epiphenomenalism",
+    "description": "A theory that posits consciousness is a byproduct of physical processes in the brain, with mental states having no causal powers over physical states. It suggests that while consciousness is real, it does not influence actions or events, and all conscious experiences arise from unconscious processing.",
+    "categories": ["Non-reductive Physicalism", "Materialism", "Dualism"]
+  }
+}
+```
+2024-10-26 01:57:24,284 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "David Chalmers",
+    "biography": "David Chalmers is a philosopher and cognitive scientist known for his work on the philosophy of mind and consciousness, particularly for formulating the 'hard problem of consciousness' which addresses why and how physical processes in the brain give rise to subjective experience."
+  }
+}
+2024-10-26 01:57:24,285 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Chalmers, D. (2003). The content and epistemology of phenomenal consciousness. Minds Mach. 16, 185–200. https://doi.org/10.1007/s11023-006-9036-0.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Epiphenomenalism"
+    },
+    {
+      "citation": "Gholipour, B. (2019). A famous argument against free will has been debunked. Atlantic. (Accessed 10 September 2019).",
+      "material_type": "Online Article",
+      "associated_theory_name": "Epiphenomenalism"
+    }
+  ]
+}
+```
+2024-10-26 01:57:24,285 - ERROR - No JSON found in author output.

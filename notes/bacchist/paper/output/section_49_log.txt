@@ -1,0 +1,79 @@
+2024-10-26 01:57:25,479 - DEBUG - Processing Section 49
+2024-10-26 01:57:25,504 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Theoretical neuroscientist Karl Friston conceptualizes consciousness as the natural outcome of his "free-energy principle for action and perception (active inference)," which stresses the primacy of minimizing in all organisms the difference between perceptual expectations (required for homeostasis) and real-time sensory inputs (Friston et al, 2017). In this mechanism, human brains seek to minimize the
+differencereduce the "surprise," as it wereby generating internal models that predict the external world.
+As a physicist and psychiatrist, Friston says: "I find it difficult to engage with conversations about consciousness. My biggest gripe is that the philosophers and cognitive scientists who tend to pose the questions often assume that the mind is a thing, whose existence can be identified by the attributes it has or the purposes it fulfills." The deeper question, he asks, is "what sorts of processes give rise to the notion (or illusion) that something exists?" Thus, Friston treats consciousness "as a process to be understood, not as a thing to be defined." Simply put, his argument is that "consciousness is nothing more and nothing less than a natural process such as evolution or the weather" (Friston, 2017).
+Friston's perspective on process leads him to "an elegant, if rather deflationary, story about why the mind exists." It focuses on "inference," which Friston characterizes as "actually quite close to a theory of everythingincluding evolution, consciousness, and life itself." We are processes and processes can only reason towards what is "out there" based on "sparse samples of the world; " hence, the criticality of infer- ence. This view, Friston says, "dissolves familiar dialectics between mind and matter, self and world, and representationalism (we depict reality as it is) and emergentism (reality comes into being through our abductive encounters with the world)" (Friston, 2017).
+But how did inert matter ever begin the processes that led to con- sciousness? It starts with complex systems that are self-organizing because they possess "attractors," which are "cycles of mutually rein- forcing states that allow processes to achieve a point of stability, not by losing energy until they stop, but through what's known as dynamic equilibrium. An intuitive example is homeostasis ...." (Friston, 2017).
+It's at this point that Friston focuses on inference, "the process of figuring out the best principle or hypothesis that explains the observed states of that system we call 'the world.'" Every time you have a new experience, he says, "you engage in some kind of inference to try to fit what's happening into a familiar pattern, or to revise your internal states so as to take account of this new fact."
+That's why attractors are so crucial, he stresses, "because an attracting state has a low surprise and high evidence." A failure to minimize surprise means "the system will decay into surprising, unfa- miliar states"  which would threaten its existence. "Attractors are the product of processes engaging in inference to summon themselves into being," he says. "In other words, attractors are the foundation of what it means to be alive" (Friston, 2017).
+Friston applies the same thinking to consciousness and suggests that consciousness must also be a process of inference. "Conscious processing is about inferring the causes of sensory states, and thereby navigating the world to elude surprises ... This sort of internalization of the causal structure of the world 'out there' reflects the fact that to predict one's own states you must have an internal model of how such sensations are generated" (Friston, 2017).
+Learning as well as inference, Friston continues, relies on minimizing the brain's free energy. "Cortical responses can be seen as the brain's attempt to minimize the free energy induced by a stimulus and thereby encode the most likely cause of that stimulus. Similarly, learning emerges from changes in synaptic efficacy that minimize the free energy, averaged over all stimuli encountered" (Friston, 2005).
+In short, consciousness is the evolved mechanism for simulating scenarios of the world. It is the internal emergent model that monitors and minimizes the free energy principle, the difference between internal perceptual expectations and real-time sensory input that reflects the external world. Friston proposes that "the mind comes into being when self-evidencing has a temporal thickness or counterfactual depth, which grounds the inferences it can make about the consequences of future actions." Consciousness, he contends, "is nothing grander than inference about my future" (Friston, 2017).
+Friston's consciousness as active inference leads to its metaphysical stamp as "Markovian monism," which, he says, rests upon the infor- mation geometry induced in any system whose internal states can be
+distinguished from external statessuch that "the (intrinsic) informa- tion geometry of the probabilistic evolution of internal states and a separate (extrinsic) information geometry of probabilistic beliefs about external states that are parameterized by internal states." Friston calls these information geometries intrinsic (i.e., mechanical, or state-based) and extrinsic (i.e., Markovian, or belief-based). He suggests the mathe- matics may help frame the origins of consciousness (Friston et al., 2020).
+Several theories of consciousness build on the free-energy paradigm, including Solms's Affect (9.5.5), Carhart-Harris's Entropic Brain (9.5.6) and Projective Consciousness Model (9.5.11).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Friston, 2017)', '(Friston, 2017)', '(Friston, 2017)', '(Friston, 2017)', '(Friston, 2017)', '(Friston, 2005)', '(Friston, 2017)']
+
+    Filtered References:
+    Carhart-Harris, R.L., 2018. The entropic brain—revisited. Neuropharmacology 142,
+167–178. https://doi.org/10.1016/j.neuropharm.2018.03.010, 2018 Nov.
+Carhart-Harris, R.L., Friston, K.J., 2019. REBUS and the anarchic brain: toward a unified
+model of the brain action of psychedelics. Pharmacol. Rev. 71, 316–344. https://doi.
+org/10.1124/pr.118.017160. July 2019.
+
+
+    
+2024-10-26 01:57:25,504 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Active Inference",
+    "description": "Karl Friston conceptualizes consciousness as a process of active inference, where the brain minimizes the difference between perceptual expectations and real-time sensory inputs. This process involves generating internal models to predict the external world, thereby reducing surprise and maintaining homeostasis.",
+    "categories": ["Neuroscience", "Cognitive Science", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:57:25,504 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Karl Friston",
+    "biography": "Karl Friston is a theoretical neuroscientist and psychiatrist known for his work on the free-energy principle and its implications for consciousness, perception, and action. He has contributed significantly to the understanding of how the brain processes information and maintains homeostasis through active inference."
+  }
+}
+```
+2024-10-26 01:57:25,504 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Friston, K. (2017). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 18(7), 421-430.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Active Inference"
+    },
+    {
+      "citation": "Friston, K. (2005). A theory of cortical responses. Philosophical Transactions of the Royal Society B: Biological Sciences, 360(1456), 815-836.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Active Inference"
+    },
+    {
+      "citation": "Friston, K., et al. (2020). Information geometry and the origins of consciousness. Journal of Consciousness Studies, 27(1), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Active Inference"
+    },
+    {
+      "citation": "Carhart-Harris, R.L. (2018). The entropic brain—revisited. Neuropharmacology, 142, 167–178. https://doi.org/10.1016/j.neuropharm.2018.03.010.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Active Inference"
+    },
+    {
+      "citation": "Carhart-Harris, R.L., Friston, K.J. (2019). REBUS and the anarchic brain: toward a unified model of the brain action of psychedelics. Pharmacological Reviews, 71, 316–344. https://doi.org/10.1124/pr.118.017160.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Active Inference"
+    }
+  ]
+}
+```

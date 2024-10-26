@@ -1,0 +1,78 @@
+2024-10-26 02:00:24,807 - DEBUG - Processing Section 86
+2024-10-26 02:00:31,077 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Michael Tye proposes a theory of consciousness he calls "contingentism," which is a kind of identity theory (i.e., phenomenal states and physical/brain states are literally the same) but with a novel twist: while the identity is indeed true in our world, it is not meta- physically true in all possible worlds. "Scenarios in which the relevant physical processing is present and consciousness is missing are easily imaginable (and thus metaphysically possible), but this is irrelevant if it is only a contingent fact that consciousness is a physical phenomenon" (Tye, 2023).32
+Contingentism, Tye states, "finds its origins in the views of Feigl, Place and Smart in the 1950s and 1960s. These philosophers held that sensations are contingently identical with brain processes, where sen- sations are understood to be conscious states such as pain or the visual experience of red." The identity here was taken to be contingent, in part, because "it was taken to be clear that scientific type-type identities generally are contingent." Smart's example was that he could imagine that lightning is not an electrical discharge. (These claims are mistaken, Tye says; "If in actual fact lightning is an electrical discharge, it could not have been otherwise.") (Tye, 2023).
+Tye says, "the contingentist about consciousness agrees with the above remarks concerning lightning and is happy to extend them to many other scientific identity statements. But the contingentist holds that the case of conscious mental statesstates such that there is something it is like to undergo themis different. Here the claim is not that such states are contingently identical with brain processes, but that such states are contingently identical with physical states of some sort or other, where the notion of a physical state is to be understood broadly to include not only neurophysiological states but also other states that are grounded in microphysical states, including functional states or states of the sort posited by representationalism, for example. For conscious states, the identities are contingent since we can easily imagine their having not obtained. For example, we can easily imagine a zombie un- dergoing the physical state with which the experience of fear is to be identified and yet not experiencing fear at all. Similarly, we can easily imagine someone experiencing fear without undergoing the given physical state" (Tye, 2023).
+The solution, Tye suggests, "lies with the realization that it is a mistake to model the consciousness case on that of physical-physical relationships. Qualitative character Q is identical with physical prop- erty R, if physicalism is true. But this is a contingent identity (even though the designators 'Q' and 'R' are rigid). So, we can imagine Q without R (and R without Q), but the fact that we can do so is not an indicator of an explanatory gap. A creature could indeed have been in a state having Q without being in a state having R and vice-versa" (Tye, 2023).
+Might things have been different in the actual world? Indeed, they might, Tye says. "The physical processing might have gone on just as it
+does, the information processing might have been just the same, the cognitive machinery might have functioned as it does, and yet along with all of this, Q might not have been present in experience. That is certainly intelligible to us. But it creates no explanatory puzzle; for that is only a metaphysically possible world. It is not the actual world. As far as the actual world goes, there is nothing puzzling or problematic, nothing left to explain ... No mystery remains" (Tye, 2023).
+This is because "in the actual world," consciousness is physical, ac- cording to the physicalist, "since it is only on the hypothesis of physi- calism with respect to the actual world that problems of emergence and causal efficacy can be handled satisfactorily, or so the physicalist believes."
+Thus, Tye concludes, "once we become contingentists, the hard problem has a straightforward and satisfying solution."
+In support of his views, Tye turns to "vagueness" in assessing con- sciousness in the hierarchical taxonomy of life and in the process of evolution (Tye, 2021). According to Tye, "The two dominant theories of consciousness argue it appeared in living beings either suddenly, or gradually. Both theories face problems. The solution is the realization that a foundational consciousness was always here, yet varying conscious states were not, and appeared gradually." Given that it is hardly obvious how to discern which organisms are conscious, and, if so, their kind or level of consciousness, borderline cases of consciousness can make no sense. As David Papineau reviews Tye, "But this isn't because a sharp line is found somewhere as we move from non-conscious physical systems to conscious ones. Rather [according to Tye] it's because no such line exists at all. Even the most basic constit- uents of physical reality are already endowed with consciousness" (Papineau, 2022). Thus, Tye transitions from his traditional physicalism to a form of panpsychism, though differing from those of mainstream panpsychists (13).33
+In admirable full disclosure, Tye states that his contingentism "is written from the perspective of the reductive physicalist (understood broadly to include functionalists and representationalists)," and that he believes contingentism presents "the best hope for a defense of reductive physicalism." However, he adds, "I myself am no longer a thorough- going reductive physicalist. I now believe that there is an element in our consciousness that cannot be captured via higher level reductions" (Tye, 2023).
+In addition, Tye suggests that, from the representationalist perspec- tive and supporting its views, "history matters crucially to phenome- nology. What it is like for an individual at a given time is fixed not just by what is going on in the individual at that time but also by what was going on in the individual in the past. Two individuals can be exactly alike intrinsically at a time and yet differ in the phenomenal character of their mental life at that time" (Tye, 2019).
+Tye concludes that "once we think of experiences in a representa- tionalist and broadly reductionist way," we can better appreciate phe- nomenology, including its presence or absence, such as in thought experiments where "a person slowly acquires a silicon chip brain" (see Virtual Immortality, 25).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Tye, 2023)', '(Tye, 2023)', '(Tye, 2023)', '(Tye, 2023)', '(Tye, 2023)', '(Tye, 2021)', '(Papineau, 2022)', '(Tye, 2023)', '(Tye, 2019)']
+
+    Filtered References:
+    https://iai.tv/articles/we-must-shed-our-metaphysical-assumptions-auid-1367.
+Papineau, David, 2022. Review of Vagueness and the Evolution of consciousness: Through
+the looking glass by Michael Tye. Notre Dame Philosophic. Rev. July 7, 2022
+https://ndpr.nd.edu/reviews/vagueness-and-the-evolution-of-consciousness-th
+rough-the-looking-glass/.
+
+Palmer, Thomas, 2023. Quantum computing is the key to consciousness. IAI News.
+/articles/tim-palmer-quantum-computing-is-the-key-to-consciousness-auid-2410.
+Papineau, David, 2003. Could there be a science of consciousness? Phil. Issues 13
+(Philosophy of Mind).
+Papineau, David, 2019. Response to Chalmers’ ‘the meta-problem of consciousness’.
+
+    
+2024-10-26 02:00:31,077 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Contingentism",
+    "description": "A theory proposed by Michael Tye that posits consciousness is contingently identical to physical states, meaning while this identity holds in our world, it is not necessarily true in all possible worlds. Tye argues that we can imagine scenarios where physical processing occurs without consciousness, indicating that the relationship between conscious states and physical states is not absolute but contingent.",
+    "categories": ["Identity Theory", "Physicalism", "Panpsychism"]
+  }
+}
+```
+2024-10-26 02:00:31,077 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Michael Tye",
+    "biography": "Michael Tye is a philosopher known for his work in the philosophy of mind, particularly concerning consciousness and perception. He is recognized for proposing the theory of contingentism, which suggests that while consciousness is identical to physical states in our world, this identity is not necessarily true in all possible worlds."
+  }
+}
+```
+2024-10-26 02:00:31,077 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Tye, M. (2023). Contingentism and the nature of consciousness. Journal of Consciousness Studies.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Contingentism"
+    },
+    {
+      "citation": "Tye, M. (2021). Vagueness and the evolution of consciousness: Through the looking glass. Notre Dame Philosophical Reviews.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Contingentism"
+    },
+    {
+      "citation": "Papineau, D. (2022). Review of Vagueness and the Evolution of consciousness: Through the looking glass by Michael Tye. Notre Dame Philosophical Reviews, July 7, 2022.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Contingentism"
+    },
+    {
+      "citation": "Tye, M. (2019). Representationalism and phenomenology. Philosophical Studies.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Contingentism"
+    }
+  ]
+}
+```

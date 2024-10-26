@@ -1,0 +1,67 @@
+2024-10-26 01:57:24,535 - DEBUG - Processing Section 12
+2024-10-26 01:57:24,560 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Daniel Stoljar has long focused on physicalism, its interpretation, truth and philosophical significance; his views are nuanced and largely deflationary (Stoljar, 2010). He defines physicalism as the thesis that "every instantiated property is either physical or is necessitated by some physical property," where physical property is described by "all and only the following elements: it is a) a distinctive property of intuitively physical objects, b) expressed by a predicate of physics, c) objective, d) knowable through scientific investigation, and e) not a distinctive property of souls, ectoplasm, etc." (Montero, 2012). According to Stoljar, "Physicalism has no formulations on which it is both true and deserving of the name"but this "does not entail that philosophical problems stated in terms of it [physicalism] have no reasonable formulation" (Stoljar, 2010; Montero, 2012).
+As everyone knows, the philosophical problem of phenomenal con- sciousness is the poster-child test case for physicalism, the standard physicalist framework being that "consciousness can be explained by contemporary physics, biology, neuroscience, and cognitive science" (Kind and Stoljar, 2023, p. i). To Stoljar, the problem (or problems) of consciousness is "whether two big ideas can both be true together. The first is the existence of consciousness. The second is a worldview (a picture of everything that exists) that many people think you must believe if you hold a vaguely scientific or rational approach to the world, namely, physicalism." Stoljar calls it the "compatibility problem" "i.e., the problem of whether physicalism and claim that consciousness exists can both be correct"and he says that the solution is "right under our nose." The solution to the compatibility problem, Stoljar tells us, "is that we are missing something"and the depth and implications of this simple statement are surprisingly profound (Kind and Stoljar, 2023, pp. 6465).
+What we are missing, according to Stoljar, "is a type of physical fact or property relevant to consciousness. More than this, we are profoundly ignorant of the nature of the physical world, and ignoring this ignorance is what generates the problem." He calls "the idea that we are ignorant of a type of fact or property that is relevant to consciousness the ignorance hypothesis" and he calls "the idea that the ignorance hypothesis solves the compatibility problem the epistemic view." Stoljar contends that all arguments for the opposing viewi.e., that physicalism and con- sciousness are incompatible"fail, and for a single reason." These ar- guments, he says, "all presuppose that we have complete knowledge of the physical facts relevant to consciousness. According to the epistemic view, that presupposition is false, so the arguments [against physicalism-consciousness compatibility] don't work." That physicalism cannot be shown affirmatively to be true does not bother Stoljar, because, he says, physicalism is an empirical truth, not an a priori argument. "What the epistemic view says is that ... there is no persuasive 'here and now' argument for incompatibility." Thus, Stoljar argues, the epistemic view helps us think about the problems of consciousness in a clearer way, disentangling them from the compatibility problem (Kind and Stoljar, 2023, pp. 6466).
+Stoljar is no traditional physicalist. He critiques "standard physi- calism," by which he means "versions of physicalism that make no theoretical use of the ignorance hypothesis." He conjectures that there are properties of the physical world that go beyond the capacity of the
+physical sciences to access and measure through its devices and in- struments. Is this incapacity in practice, as per current science, or in principle, such that ultimate truth is forever out of reach? Who knows? Either way, he says, would support his ignorance hypothesis defense of physicalism (Kind and Stoljar, 2023, p. 67). More subtly, Stolar contends that the epistemic view does provide an "explanation of consciousness," at least in an abstract sense. "It tells us, for example, that conscious states are not fundamental and so depend on other things, even if it leaves open what exactly they depend on" (Kind and Stoljar, 2023, p. 112).
+Yet Stoljar believes it is possible to construct "a science of con- sciousness"to study "empirical laws between each conscious state and some physical system" but he is skeptical of "the attempt to provide systematic knowledge of such laws" which he rejects as "implausible on its own terms." Preferring "to understand the science in a more modest way," Stoljar is ready to accept "that we do not and may never have a complete theory of the world" (Kind and Stoljar, 2023, pp. 6768).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Stoljar, 2010)', '(Montero, 2012)']
+
+    Filtered References:
+    In: Alter, Torin, Walter, Sven (Eds.), Phenomenal Concepts and Phenomenal
+Knowledge. Oxford University Press.
+Jackson, Frank, 2023. Forward. In: Kind, Amy, Stoljar, Daniel (Eds.), What Is
+Consciousness? (Little Debates about Big Questions). Taylor and Francis, Kindle
+Edition, p. xv.
+
+Development of the Chemical and Physical Sciences, vol. 1. Royal Dublin Society,
+p. 1628.
+Montero, Barbara, 2012. Physicalism. Review of physicalism by Daniel stoljar. Notre dame
+philosophical review. https://ndpr.nd.edu/reviews/physicalism/.
+Moreland, J.P., 2014. The Soul: How We Know It’s Real and Why it Matters. Moody
+
+    
+2024-10-26 01:57:24,560 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Epistemic View of Physicalism",
+    "description": "Stoljar's epistemic view posits that the compatibility problem between physicalism and consciousness arises from our ignorance of certain physical facts or properties relevant to consciousness. He argues that this ignorance hypothesis provides a solution to the compatibility problem, suggesting that arguments against the compatibility of physicalism and consciousness fail because they presuppose complete knowledge of the relevant physical facts, which is false.",
+    "categories": ["Physicalism", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:57:24,560 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Daniel Stoljar",
+    "biography": "Daniel Stoljar is a philosopher known for his work on physicalism and the philosophy of mind. He has critically examined the relationship between consciousness and physicalism, proposing the epistemic view which suggests that our ignorance of certain physical facts is central to understanding the compatibility of physicalism with consciousness."
+  }
+}
+```
+2024-10-26 01:57:24,560 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Stoljar, D. (2010). Physicalism. In T. Alter & S. Walter (Eds.), Phenomenal Concepts and Phenomenal Knowledge. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Epistemic View of Physicalism"
+    },
+    {
+      "citation": "Montero, B. (2012). Physicalism. Review of physicalism by Daniel Stoljar. Notre Dame Philosophical Review. https://ndpr.nd.edu/reviews/physicalism/.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Epistemic View of Physicalism"
+    },
+    {
+      "citation": "Kind, A., & Stoljar, D. (Eds.). (2023). What Is Consciousness? (Little Debates about Big Questions). Taylor and Francis, Kindle Edition.",
+      "material_type": "Book",
+      "associated_theory_name": "Epistemic View of Physicalism"
+    }
+  ]
+}
+```

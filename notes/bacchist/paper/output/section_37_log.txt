@@ -1,0 +1,84 @@
+2024-10-26 01:57:25,162 - DEBUG - Processing Section 37
+2024-10-26 01:57:25,187 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Computational theories of mind developed organically as the pro- cessing power of computers expanded exponentially to enable the emulation of mind-like capabilities such as memory, knowledge struc- ture, perception, decision-making, problem solving, reasoning and lin- guistic comprehension (especially with the advent of human-like large language models like ChatGPT). The growing field of cognitive science owes its development to computational theories (Rescorla, 2020).
+There is a reciprocal, recursive, positive-feedback relationship as computational theories of mind seek both to enhance the power and scope of computing and to advance understanding of how the human mind actually works. Classical computational theories of mind, which exemplify functionalism (9.1.3), are based on algorithms, which are routines of systematic, step-by-step instructions, and on Turing ma- chines, which are abstract models of idealized computers with unlimited memory and time that process one operation at a time (with super-fast but not unlimited speed).
+Artificial intelligence adds logic, seeking to automate reason- ingdeductive at first, then inductive and higher-order forms. Neural networks, with a connectionism construct, were a step-function advance. For example, chess computers have reigned supreme since 1997 when Deep Blue defeated the world chess champion, Gary Kas- parov. But whereas the process has been literally massive brute-force calculationshundreds of millions of "nodes" per second (a "node" is a chess position with its evaluation and history)recent advances in algorithmic theory are dramatically improving capabilities. The impli- cations go way beyond chess and are apparent.
+Philosopher-futurist Nick Bostrom espouses a computational theory of consciousness, which is consistent with his view that there is a distinct possibility that our world and universe, our total state of affairs, is a
+computer simulation (Bostrom, 2003, 2006). The logic is almost a tau- tology: A computer simulation would require, by definition, that our consciousness, and the consciousnesses of all sentient creatures, would be, ipso facto, computational consciousness. Of course, Bostrom does not argue that we are living in a simulation, so his computationalism as a theory of consciousness is motivated by other factors, including computational neuroscience. In fact, one could make the case that the arrow of causal explanation points in the reverse direction: Conscious- ness as computational would need to be a condition precedent, neces- sary but not sufficient, for the simulation argument to be coherent.
+Computer/AI scientist James Reggia explains that efforts to create computational models of consciousness have been driven by two main motivations: "to develop a better scientific understanding of the nature of human/animal consciousness and to produce machines that genu- inely exhibit conscious awareness." He offers three conclusions: "(1) computational modeling has become an effective and accepted meth- odology for the scientific study of consciousness; (2) existing computa- tional models have successfully captured a number of neurobiological, cognitive, and behavioral correlates of conscious information processing as machine simulations; and (3) no existing approach to artificial con- sciousness has presented a compelling demonstration of phenomenal machine consciousness, or even clear evidence that artificial phenom- enal consciousness will eventually be possible" (Reggia, 2013).
+Computer scientist Kenneth Steiglitz argues that all available the- ories of consciousness "aren't up to the job" in that "they don't tell me how I can know whether a particular candidate is or is not phenomenally conscious." Moreover, he says, we will never be able to answer the question of AI consciousnessbecause "it is simply not possible to test for consciousness." This presents, Steiglitz worries, dangers of two kinds: (1) damaging or even destroying our own consciousness, and (2) bringing about new consciousness that will not be treated with proper respect and quite possible suffer (Steiglitz, 2024).
+Steiglitz states three principles of what we think we know about consciousnessthe dual nature of mind and body, the dependence of mind on body, and the dependence of mind on computationand he calls them all absurd, because "these do not follow from physics, biology, or logic." He muses, "I wish I had a theory to account for conscious- nessbut I don't see how any theory could" (Steiglitz, 2024).
+Philosophy-savvy attorney Andrew Hartford proposes an EP (Eternal Past) Conjecture such that "If there ever is something there always was something, because no-thing comes from Nothing," and that "the always existor exists before all time, process or computation." What follows, he says, is that while "it remains to be seen whether artificial consciousness is in the domain of all possibilities, we should not presume that we will necessarily build computational consciousness" (Hartford, 2014).
+The mildly dismissive critique is that the computational theory of mind follows the historical trend of analogizing the mind to "the science of the day,".24
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Rescorla, 2020)', '(Reggia, 2013)', '(Steiglitz, 2024)', '(Steiglitz, 2024)', '(Hartford, 2014)']
+
+    Filtered References:
+    computational models. Neural Network. 44, 112–131. https://doi.org/10.1016/j.
+neunet.2013.03.011.
+Rescorla, Michael, 2020. The computational theory of mind. In: Zalta, Edward N. (Ed.),
+The Stanford Encyclopedia of Philosophy (Fall 2020 Edition). https://plato.stanford.
+edu/archives/fall2020/entries/computational-mind/.
+
+Rees, Martin, 2007. Could our Universe.be a fake. Closer To Truth. https://closertotruth.
+com/video/brida-002/?referrer=8133.
+Reggia, James, 2013. The rise of machine consciousness: studying consciousness with
+Stapp, Henry, 2023. Wikipedia, the free Encyclopedia. Date of last revision: 19 April
+2023. https://en.wikipedia.org/wiki/Henry_Stapp.
+Steiglitz, Kenneth, 2024. The Absurd Book of Consciousness: How to Enjoy the Mystery
+and Raise Happy Robots. Carduelis Books. Personal communication.
+Steiner, Rudolph, 1909. The Wisdom of the Soul, Consciousness and the Soul Life. The
+Hart, David Bentley, 2024. Wikipedia, the free Encyclopedia. Date of last revision: 1
+February 2024. https://en.wikipedia.org/wiki/David_Bentley_Hart.
+Hartford, Andrew, 2014. Personal communication. The EP conjecture. https://www.
+hartfordlab.com/uploads/2/0/5/0/20500914/the_ep_conjecture_argument_by_adh.
+pdf.
+
+    
+2024-10-26 01:57:25,187 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Computational Theory of Consciousness",
+    "description": "A theory that posits consciousness as a computational process, suggesting that our consciousness and that of all sentient beings is inherently computational, potentially aligning with the idea that our universe could be a computer simulation.",
+    "categories": ["Computational Theories", "Cognitive Science", "Artificial Intelligence"]
+  }
+}
+```
+2024-10-26 01:57:25,187 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Nick Bostrom",
+    "biography": "Nick Bostrom is a philosopher and futurist known for his work on the implications of future technologies, particularly artificial intelligence and the concept of simulation theory, which posits that our reality could be a computer simulation."
+  }
+}
+```
+2024-10-26 01:57:25,187 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Rescorla, Michael, 2020. The computational theory of mind. In: Zalta, Edward N. (Ed.), The Stanford Encyclopedia of Philosophy (Fall 2020 Edition). https://plato.stanford.edu/archives/fall2020/entries/computational-mind/",
+      "material_type": "Encyclopedia Entry",
+      "associated_theory_name": "Computational Theory of Consciousness"
+    },
+    {
+      "citation": "Reggia, James, 2013. The rise of machine consciousness: studying consciousness with computational models. Neural Network. 44, 112–131. https://doi.org/10.1016/j.neunet.2013.03.011.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Computational Theory of Consciousness"
+    },
+    {
+      "citation": "Steiglitz, Kenneth, 2024. The Absurd Book of Consciousness: How to Enjoy the Mystery and Raise Happy Robots. Carduelis Books. Personal communication.",
+      "material_type": "Book",
+      "associated_theory_name": "Computational Theory of Consciousness"
+    },
+    {
+      "citation": "Hartford, Andrew, 2014. Personal communication. The EP conjecture. https://www.hartfordlab.com/uploads/2/0/5/0/20500914/the_ep_conjecture_argument_by_adh.pdf.",
+      "material_type": "Personal Communication",
+      "associated_theory_name": "Computational Theory of Consciousness"
+    }
+  ]
+}
+```

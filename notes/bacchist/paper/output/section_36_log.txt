@@ -1,0 +1,35 @@
+2024-10-26 01:57:25,139 - DEBUG - Processing Section 36
+2024-10-26 01:57:25,162 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Computation and Information Theories feature advanced computa- tional structures, resonance systems, complex adaptive systems, information-theory models, and mathematical models, all of which are held, in whole or in part, as theories of consciousness.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:25,162 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Computation and Information Theories",
+    "description": "Theories that explore consciousness through advanced computational structures, resonance systems, complex adaptive systems, and information-theory models, emphasizing the role of mathematical models in understanding consciousness.",
+    "categories": ["Computation", "Information Theory", "Systems Theory"]
+  }
+}
+```
+2024-10-26 01:57:25,162 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "No specific author identified",
+    "biography": "This section discusses various theories related to computation and information without attributing them to a specific theorist."
+  }
+}
+```
+2024-10-26 01:57:25,162 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```

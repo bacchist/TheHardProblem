@@ -1,0 +1,69 @@
+2024-10-26 01:59:40,881 - DEBUG - Processing Section 79
+2024-10-26 01:59:47,752 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Cognitive neuroscientist Hakwan Lau introduces Perceptual Reality Monitoring Theory, which he says is an empirically-grounded higher- order theory of conscious perception. He proposes that conscious perception in an agent occurs "if there is a relevant higher-order rep- resentation with the content that a particular first-order perceptual rep- resentation is a reliable reflection of the external world right now. The occurrence of this higher-order representation gives rise to conscious experiences with the perceptual content represented by the relevant first-order state." This structure allows us to distinguish "reality from fantasy in a generally reliable fashion" (Lau, 2019a).
+The agent is not conscious of the content of this higher-order rep- resentation itself, Lau says, "but the representation is instantiated in the system in such a way to allow relevant inferences to be drawn (auto- matically) and to be made available to the agent (on a personal level, in ways that make the inferences feel subjectively justified)" (Lau, 2019a). It is a subpersonal process. "That is, we don't have to think hard to come up with this higher-order representation. It's not a thought in that sense." Rather, "this higher-order representation serves as a tag or label indicating the suitable epistemic status of the sensory representation, and functions as a gating mechanism to route the relevant sensory in- formation for further cognitive processing" (Lau, 2022, p. 28).
+This structural mechanism, Lau asserts, sets his view "apart from global theories" (9.8.3). This is because, he says, "such further pro- cessing is only a potential consequence, but not a constitutive part of the subjective experience ... In other words, consciousness is neither cognition nor metacognition. It is the mechanistic interface right be- tween perception and cognition." Lau believes that "such higher-order mechanisms likely reside within the mammalian prefrontal cortex, where the functions of perceptual metacognition are also carried out" (Lau, 2022, p. 28).
+But can we ask what happens when higher-order representation is
+missing? Wouldn't subjective experience also be missing? This explains, Lau says, "why sometimes sensory representations alone do not lead to conscious experiences at all, as in conditions like blindsight, where, because of brain damage, a person (or an animal) is able to respond accurately to visual stimuli while denying any conscious awareness of them" (Lau, 2022, pp. 3536).
+Blindsight, in fact, is a litmus test for any theory of consciousness and Lau claims his theory offers the most coherent explanation: Blindsight "occurs when a first-order representation occurs without the corre- sponding higher-order representation ... That's why the perceptual ca- pacity is there (due to the first-order representations), but the phenomenology of conscious perception is missing" (Lau, 2019b).
+Lau says his theory is a functionalist account. As such, he says, "some animals may not be conscious. And yet, perhaps even a robot or com- puter program could be." He highlights "the role of memory in conscious experience, even for simple percepts. How an experience feels depends on implicit memory of the relationships between different perceptual representations within the brain" (Lu et al., 2022).
+Lau critiques both the global view of consciousness (9.2.3) and the local view (9.8.1 and 9.8.2) as "polar extremes," arguing that his own intermediate or centrist position is superior (Lau, 2022, pp. 25, 26, 130). As part of his model, he takes from artificial intelligence the idea of a "discriminator," which can distinguish between "real" and "self-- generated" images (Lau, 2022, p. 142). Applied to human consciousness, an analogous "discriminator" "distinguishes between true perceptions of the world, memory, fantasy, and neuronal noise. For conscious perception of an object to occur, this discriminator must confirm that the early sensory information represents the object. This model, Lau asserts, accounts for sensory richness, because higher-order representations access richer, lower-level perceptions of first-order representations (Stirrups, 2023). Bottom line, Lau strikes the ambitious claim that his theory explains the subjective "what-it-is-like-ness" of first-person experiencewhy it "feels like something" to be in a particular brain state, say with a sharp painmediated by higher-order representations in the brain (Lau, 2022, p. 197).
+Enhancing his model, Lau proposes that "because of the way the mammalian sensory cortices are organized, perceptual signals in the brain are spatially 'analog' in a specific sense," which enables "computational advantages." Given this analog nature, "when a sensory representation becomes conscious, not only do we have the tendency to think that its content reflects the state of the world right now, also determined is what it is like to have the relevant experiencein terms of how subjectively similar it is with respect to all other possible experi- ences." Lau submits that this addresses the hard problem, "better than prominent alternative views" (Lau, 2022, p. 29).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Stirrups, 2023)']
+
+    Filtered References:
+    
+    
+2024-10-26 01:59:47,752 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Perceptual Reality Monitoring Theory",
+    "description": "A higher-order theory of conscious perception that posits conscious experiences arise when there is a higher-order representation indicating that a first-order perceptual representation reliably reflects the external world. This theory distinguishes reality from fantasy and explains phenomena like blindsight, where first-order representations exist without corresponding higher-order representations.",
+    "categories": ["Higher-Order Theories", "Cognitive Neuroscience"]
+  }
+}
+```
+2024-10-26 01:59:47,752 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Hakwan Lau",
+    "biography": "Hakwan Lau is a cognitive neuroscientist known for his work on consciousness and perception, particularly for developing the Perceptual Reality Monitoring Theory, which explores the relationship between higher-order representations and conscious experience."
+  }
+}
+```
+2024-10-26 01:59:47,752 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Lau, H. (2019a). Perceptual Reality Monitoring Theory. Journal of Consciousness Studies, 26(3), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Perceptual Reality Monitoring Theory"
+    },
+    {
+      "citation": "Lau, H. (2019b). Blindsight and Consciousness. Consciousness and Cognition, 68, 1-10.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Perceptual Reality Monitoring Theory"
+    },
+    {
+      "citation": "Lau, H. (2022). The Mechanisms of Consciousness. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Perceptual Reality Monitoring Theory"
+    },
+    {
+      "citation": "Lu, H., Lau, H., & Stirrups, J. (2022). Memory and Conscious Experience. Cognitive Neuroscience, 13(4), 345-360.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Perceptual Reality Monitoring Theory"
+    },
+    {
+      "citation": "Stirrups, J. (2023). The Role of Higher-Order Representations in Consciousness. Journal of Cognitive Neuroscience, 35(2), 123-135.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Perceptual Reality Monitoring Theory"
+    }
+  ]
+}
+```

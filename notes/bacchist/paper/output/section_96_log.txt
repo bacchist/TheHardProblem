@@ -1,0 +1,63 @@
+2024-10-26 02:01:26,216 - DEBUG - Processing Section 96
+2024-10-26 02:01:30,474 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Biologist John Parrington proposes that a qualitative leap in con- sciousness"human self-conscious awareness"occurred during human evolution as "our capacity for language and our ability to continually transform the world around us by designing and using tools" transformed our brains. His challenge is to distinguish human language and use of tools from analogous activities of animals, particularly other primates, as contemporary research uncovers more complex animal capacities (Parrington, 2023).
+Regarding language, Parrington stresses the "highly distinctive feature of human language" as "an interconnected system of abstract symbols, linked together by grammar." This is why, he says, "only human beings are able to use language to convey complex ideas like past, present and future, individual versus society, location in space and even more abstract concepts." (Parrington, 2023, p. 22). He defends his view of human consciousness as language-dependent by stressing our capacity for "inner speech, or more generally inner symbols, as central to human thought" (Parrington, 2023, p. 55).
+Regarding use of tools, Parrington argues that "tool use by other species tends to be both occasional and also very limited in the type of tools that are created. In contrast, a unique feature of our species is that practically all of our interactions with the world are through tools that we have created." Moreover, "we are continually in a process of inventing new types of tools and technologies" (Parrington, 2023, p. 19).
+Parrington's theory focuses on human brains, which are "not just much bigger than those of other primates, but radically different in structure and function" (a claim that hangs on "radically") (Parrington, 2023, p. 20). He references different brain regions, highlighting the
+cerebellum, long thought limited to coordinating repetitive movements but now shown to play a role in human creativity and imagination (Parrington, 2023, p. 47), and the prefrontal cortex, greatly expanded in humans, the locus of reasoning, planning, decision making, control of social behavior and some aspects of language, all of which relate to human uniqueness (Parrington, 2023, p. 126). He has brain waves of different frequencies conveying specific sensory signals and combining together into a unified conscious whole, thus explaining how we bind together different aspects of experience into a seamless experience (Parrington, 2023, p. 19).
+Parrington argues that "the effect of language and other cultural tools" have transformed human consciousness, which "provides another level of binding." This surely means, he says, that "our sense of self is not an illusion, but rather a very real phenomenon based on the binding role of brain waves and the extra element of unity based on conceptual thought" (Parrington, 2023, p. 147). Rejecting what he calls "outdated models of the brain as a hard-wired circuit diagram," he argues that meaning is created within our heads through a dynamic interaction of oscillating brain waves.
+Parrington believes that "in some ways" he has addressed the hard problem and "hopefully demonstrated that there is nothing magical about human consciousness" (Parrington, 2023, p. 196). He frames his theory, as he must, within an evolutionary context, seeking to explain inner speech, thought, and self-conscious awareness in terms of the evolved neural circuitry that undergirds these uniquely human capac- ities, especially as manifest in language and tools. While Parrington's goal, as Susan Blackmore puts it, is to develop "a material explanation of human consciousness"and "he has done a great job of exploring ma- terial explanations of thought, perception, self-representation and behavioral control"but none of this, Blackmore concludes, "gets at the deeper questions about subjective experience" (Blackmore, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Parrington, 2023)', '(Blackmore, 2023)']
+
+    Filtered References:
+    experiences of death—a multidisciplinary consensus statement and proposed future
+directions. Ann. N. Y. Acad. Sci. 1511 (1), 2022 May.
+Parrington, John, 2023. Consciousness: How Our Brains Turn Matter into Meaning. Icon
+Books.
+Pascal, Andre, 2023. Bergson Vocabulary (Unpublished paper).
+
+videos and 7 CTT TV episodes—https://closertotruth.com/contributor/simon-b
+lackburn/.
+Blackmore, Susan, 2002. Why I have given up. In: Kurtz, P. (Ed.), Skeptical Odysseys:
+Personal Accounts by the World’s Leading Paranormal Inquirers. Prometheus Books,
+pp. 85–94, 2001. https://www.susanblackmore.uk/chapters/why-i-have-given-up/.
+
+    
+2024-10-26 02:01:30,474 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Language-Dependent Consciousness",
+    "description": "John Parrington proposes that human consciousness, particularly self-conscious awareness, evolved through our unique capacity for language and tool use, which transformed our brains and allowed for complex thought and inner speech.",
+    "categories": ["Evolutionary Psychology", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 02:01:30,474 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Parrington",
+    "biography": "John Parrington is a biologist and author known for his work on the evolution of consciousness, particularly focusing on the role of language and tool use in shaping human self-awareness and cognitive abilities."
+  }
+}
+```
+2024-10-26 02:01:30,474 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Parrington, John, 2023. Consciousness: How Our Brains Turn Matter into Meaning. Icon Books.",
+      "material_type": "Book",
+      "associated_theory_name": "Language-Dependent Consciousness"
+    },
+    {
+      "citation": "Blackmore, Susan, 2002. Why I have given up. In: Kurtz, P. (Ed.), Skeptical Odysseys: Personal Accounts by the World’s Leading Paranormal Inquirers. Prometheus Books, pp. 85–94, 2001. https://www.susanblackmore.uk/chapters/why-i-have-given-up/.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Language-Dependent Consciousness"
+    }
+  ]
+}
+```

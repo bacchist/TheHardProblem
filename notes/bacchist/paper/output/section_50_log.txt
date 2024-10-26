@@ -1,0 +1,67 @@
+2024-10-26 01:57:25,505 - DEBUG - Processing Section 50
+2024-10-26 01:57:33,563 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroscientist and psychoanalyst Mark Solms applies Friston's free energy principle to the hard problem of consciousness. He identifies the elemental form of consciousness as affect and locates its physiological mechanism (an extended form of homeostasis) in the upper brainstem. Free energy minimization (in unpredicted contexts) is operationalized "where decreases and increases in expected uncertainty are felt as pleasure and unpleasure, respectively." He offers reasons "why such existential imperatives feel like something to and for an organism"
+A physicalist, Solms argues that the brain does not "produce" or "cause" consciousness. "Formulating the relationship between the brain and the mind in causal terms," he says, "makes the hard problem harder than it needs to be. The brain does not produce consciousness in the sense that the liver produces bile, and physiological processes do not causeor become or turn intomental experiences through some curious metaphysical transformation" (Solms, 2019).
+Objectivity and subjectivity are observational perspectives, he says, not causes and effects. "Neurophysiological events can no more produce psychological events than lightning can produce thunder. They are dual manifestations of a single underlying process. The cause of both light- ning and thunder is electrical discharge, the lawful action of which ex- plains them both. Physiological and psychological phenomena must likewise be reduced to unitary causes, not to one another. This is merely a restatement of a well-known position on the mindbody problem: that of dual-aspect monism"26 (Solms, 2021b). (6.)
+Given the centrality of affect in Solms' theory of consciousness, he must argue that emotion is the most efficient mechanism, perhaps the only effective mechanism, to optimize survival. His reasoning applies the free energy principle (9.5.4) in neurobiology such that feelings would uniquely enable humans to monitor interactions with unpre- dictable environments and modify their behaviors accordingly.
+Solms explains that "complex organisms have multiple needs, each of which must be met in its own right, and, indeed, on a context-dependent basis, they cannot be reduced to a common denominator. For example ... fear trumps sleepiness in some contexts but not in others." So, he says, the needs of complex organisms like ourselves must be coded as cate- gorical variables, which are distinguished qualitatively, not quantita- tively. Thirst feels different from sleepiness feels different from separation distress feels different from fear, etc., such that their com- bined optimized resolution must be computed in a context-dependent fashion, which would lead to "excessively complex calculations," a "combinatorial explosion." In terms of time spent and energy expended, the invention of affect, emotion, feeling is a much more efficient algo- rithm. Moreover, Solms adds, since "the needs of complex organisms which can act differentially, in flexible ways, in variable contexts, are 'color-coded' or 'flavored,' this provides at least one mechanistic
+imperative for qualia" (Solms, 2021a, 2021b).
+Solms seeks to demystify consciousness by showing that "cortical functioning is accompanied by consciousness if and only if it is 'enabled' by the reticular activating system of the upper brainstem. Damage to just two cubic millimeters of this primitive tissue reliably obliterates con- sciousness as a whole." He rejects arguments that the reticular activating system generates only the quantitative "level" of consciousness (con- sciousness in a waking/comatose sense) and not its qualitative "con- tents" (consciousness as experience). This is affect, Solms says, and it is supported by "overwhelming" evidence. Therefore, since cortical con- sciousness is contingent upon brainstem consciousness, and since brainstem consciousness is affective, Solms concludes that "affect is the foundational form of consciousness. Sentient subjectivity (in its elemen- tary form) is literally constituted by affect" (Solms, 2021a).27
+Solms distinguishes between information processing models in cognitive science, which seem to lack question-askers, and self- organizing systems, which are obliged to ask questions"their very survival depends upon it. They must chronically ask: 'What will happen to my free energy if I do that?' The answers they receive determine their confidence in the current prediction." This is why Solms states "not all information processing ('integrated' or otherwise) is conscious; sentience appears to be a property of only some information processing systems with very specific properties, namely those systems that must ask questions of their surrounding world in relation to their existential needs" (Solms, 2021a)
+In summary, Solms claims that the functional mechanism of con- sciousness can be reduced to physical laws, such as Friston's free-energy law, among others. These laws, he says, "are no less capable of explaining how and why proactively resisting entropy (i.e., avoiding oblivion) feels like something to the organism, for the organism, than other scientific laws are capable of explaining other natural things. Consciousness is part of nature, and is mathematically tractable."
+As a corollary, with respect to Crick's research program on the neural correlates of consciousness, Solms declares that there can be no objects of consciousness (e.g. visual ones) in the absence of a subject of con- sciousness. To Solms, the subject of consciousness is literally constituted by affect (Solms, 2021a).
+Regarding AI consciousness, Solms posits that if his theory is correct, "then, in principle, an artificially conscious self-organizing system can be engineered." The creation of an artificial consciousness would be, he says, "the ultimate test of any claim to have solved the hard problem." But, he warns, "we must proceed with extreme caution."
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Solms, 2019)']
+
+    Filtered References:
+    Progress in Biophysics and Molecular Biology 190 (2024) 28–169
+168
+Solms, Mark, 2019. The hard problem of consciousness and the free energy principle, 30
+January 2019. Sec. Psychoanalysis and Neuropsychoanalysis Front. Psychol. 9. https://
+doi.org/10.3389/fpsyg.2018.02714, 2018.
+
+
+    
+2024-10-26 01:57:33,563 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Affect as the Foundational Form of Consciousness",
+    "description": "Mark Solms argues that consciousness is fundamentally constituted by affect, which is linked to the physiological mechanism of homeostasis in the upper brainstem. He posits that consciousness does not arise from causal relationships between brain and mind but is a dual manifestation of a single underlying process. Affect serves as an efficient mechanism for survival, allowing complex organisms to navigate unpredictable environments by monitoring their needs and emotions.",
+    "categories": ["Neuroscience", "Psychology", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:57:33,563 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Mark Solms",
+    "biography": "Mark Solms is a neuroscientist and psychoanalyst known for his work on the intersection of neuroscience and psychoanalysis, particularly in relation to consciousness. He applies the free energy principle to understand consciousness, emphasizing the role of affect and the physiological mechanisms underlying it."
+  }
+}
+```
+2024-10-26 01:57:33,563 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Solms, Mark, 2019. The hard problem of consciousness and the free energy principle, 30 January 2019. Sec. Psychoanalysis and Neuropsychoanalysis Front. Psychol. 9. https://doi.org/10.3389/fpsyg.2018.02714, 2018.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Affect as the Foundational Form of Consciousness"
+    },
+    {
+      "citation": "Solms, Mark. (2021a). Title of the work. Journal Name, Volume(Issue), Page range.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Affect as the Foundational Form of Consciousness"
+    },
+    {
+      "citation": "Solms, Mark. (2021b). Title of the work. Journal Name, Volume(Issue), Page range.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Affect as the Foundational Form of Consciousness"
+    }
+  ]
+}
+```

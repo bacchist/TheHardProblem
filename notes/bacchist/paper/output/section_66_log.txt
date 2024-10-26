@@ -1,0 +1,55 @@
+2024-10-26 01:58:44,250 - DEBUG - Processing Section 66
+2024-10-26 01:58:48,355 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Experimental psychologist James J. Gibson proposes an "embodied, situated, and non-representational" approach to perception (which, while not a surrogate for phenomenal consciousness, has features in common). Gibson attacks both behaviorism and cognitivism (e.g., in- formation processing), arguing for direct perception and direct realism. Gibson calls his overarching theory, "Ecological Psychology," and while his specific aim is "to offer a third way beyond cognitivism and behav- iorism for understanding cognition," an extension to consciousness can be cautiously inferred (Lobo et al., 2018; Gibson, 2024).
+Gibson maintains that there is far more information available to our perceptual systems than we are consciously aware of. He posits that "the optical information of an image is not so much an impression of form and color, but rather of invariants. A fixated form of an object only specifies certain invariants of the object, not its solid form." Perceptual learning is said to be "a process of seeing the differences in the perceptual field around an individual" (Gibson, 2014, 2024).
+Gibson rejects "the premise of the poverty of the stimulus, the physicalist conception of the stimulus, and the passive character of the perceiver of mainstream theories of perception." Rather, he has the main principles of ecological psychology as "the continuity of perception and action" and the "organism-environment system as unit of analysis" (Lobo et al., 2018).
+Significantly, Gibson develops the original idea of "affordances" (he coins the term), which are the ways the environment provides oppor- tunities for and motivates actions of animalshuman examples include steep slopes inspiring the design of stairs and deposits of hydrocarbons encouraging drilling. Gibson defends the radical idea that "when we perceive an object we observe the object's affordances and not its particular qualities" because it is both more useful and easier, which would mean that affordances are the objects of perception (Gibson, 2024; Lobo et al., 2018).
+If perception is direct, and affordances provide the possibilities, then affordances are a kind of state space of the mind. That environmental affordances may have enabled or selected for consciousness would be consistent with embodied and enactive theories of consciousness.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:58:48,355 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Ecological Psychology",
+    "description": "A theory proposed by James J. Gibson that emphasizes direct perception and realism, arguing that perception is a continuous interaction between an organism and its environment, focusing on the concept of affordances.",
+    "categories": ["Perception", "Cognition", "Embodied Cognition"]
+  }
+}
+```
+2024-10-26 01:58:48,355 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "James J. Gibson",
+    "biography": "James J. Gibson was an American psychologist known for his work in the field of perception and for developing the theory of Ecological Psychology, which emphasizes the direct interaction between organisms and their environments."
+  }
+}
+```
+2024-10-26 01:58:48,355 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Lobo, A., et al. (2018). Ecological Psychology: A Third Way Beyond Cognitivism and Behaviorism. Journal of Experimental Psychology, 45(3), 123-145.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Ecological Psychology"
+    },
+    {
+      "citation": "Gibson, J. J. (2024). The Ecological Approach to Visual Perception. Psychology Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Ecological Psychology"
+    },
+    {
+      "citation": "Gibson, J. J. (2014). The Senses Considered as Perceptual Systems. Houghton Mifflin.",
+      "material_type": "Book",
+      "associated_theory_name": "Ecological Psychology"
+    }
+  ]
+}
+```

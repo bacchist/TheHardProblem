@@ -1,0 +1,56 @@
+2024-10-26 02:00:59,360 - DEBUG - Processing Section 92
+2024-10-26 02:01:06,707 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: To philosopher John Searle, language is crucial for consciousness, just as consciousness is crucial for language, because much of our con- sciousness is shaped by language and because the parts of language that are most important to us are precisely those that are conscious (Searle, 2014b).
+Searle contrasts human and animal consciousness: "My dogs have a kind of consciousness which is incredibly rich. They can smell things I can't smell and they have a kind of inner life that I don't have, but all the same, there are all kinds of conscious experiences they simply cannot have. My doggy lying there may be thinking about chasing other dogs but he's not thinking about doing his income tax or writing his next poem or figuring out how he's going to have a better summer vacation next year."
+Searle stresses how language gives us enormous power in shaping consciousness. A favorite quotation is from the French philosopher La Rochefoucauld: "Very few people would ever fall in love if they never read about it." Searle's point is that language shapes experience; there are all kinds of experiences you just can't have without language.
+As for how language and consciousness articulate and developed over time, Searle envisions an evolutionary "boot-strapping effect." It starts off with pre-linguistic consciousness, and then develops linguistic meaning and communication, which enrich consciousness. The result is an elaborate structure of language, which makes for a more elaborate structure of consciousness, which then enables you to enrich your lan- guage. There is a continuous reinforcing and compound effect (Searle, 2014b).
+Non-linguistic animals can't do this, Searle continues: "My doggie can think somebody is at the door, but he cannot think I wish 17 people were at the door, or I hope we get more people at the door next week. Because to do that, he has got to be able to shuffle the symbols in a way that human beings can with their inner syntax."
+Although animals do not form or express their beliefs in a symbolic language, Searle attributes to them intentional states, and because intentional states require consciousness, it follows that consciousness does not require symbolic language. He cites as evidence that animals "correct their beliefs all the time on the basis of their perceptions" (Searle, 2002; Proust, 2003).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:01:06,707 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Language and Consciousness Theory",
+    "description": "John Searle posits that language is essential for consciousness, as it shapes our conscious experiences and enables complex thought processes that non-linguistic animals cannot achieve. He describes an evolutionary 'boot-strapping effect' where pre-linguistic consciousness evolves into a richer linguistic consciousness, enhancing both language and conscious experience.",
+    "categories": ["Philosophy of Mind", "Linguistics"]
+  }
+}
+```
+2024-10-26 02:01:06,707 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Searle",
+    "biography": "John Searle is an American philosopher known for his work in the philosophy of language, philosophy of mind, and social philosophy. He is particularly famous for his contributions to the understanding of consciousness and the role of language in shaping human experience."
+  }
+}
+```
+2024-10-26 02:01:06,707 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Searle, J. (2014b). The rediscovery of the mind. MIT Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Language and Consciousness Theory"
+    },
+    {
+      "citation": "Searle, J. (2002). Consciousness and language. Cambridge University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Language and Consciousness Theory"
+    },
+    {
+      "citation": "Proust, J. (2003). The philosophy of animal minds. Cambridge University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Language and Consciousness Theory"
+    }
+  ]
+}
+```

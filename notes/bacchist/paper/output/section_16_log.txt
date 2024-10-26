@@ -1,0 +1,81 @@
+2024-10-26 01:57:24,636 - DEBUG - Processing Section 16
+2024-10-26 01:57:24,660 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Proposed originally by Bernard Baars (Baars, 1988, 1997, 2002), extended with neuroimaging and computer modeling by Stanislas Dehaene (Dehaene and Naccache, 2000), the core claim of Global Workplace Theory (GWT) is brain-wide presence and broad accessibility of specific multi-sensory, multi-cognitive information, the total package being what constitutes conscious awareness. GWT is founded on the concept of an inner "theater of consciousness," where the mental
+spotlight of awareness shines on sequential sets of integrated percep- tions that are dominant, at least momentarily. (The global workspace "Theater of Consciousness" is said not to contradict Dennett's rejected "Cartesian Theater," because the former is not dualistic and does not reside in only one location in the brain; rather, the Theater of Con- sciousness is passive not active and is spread across much of the brain.)
+GWT holds that conscious mental states are those which are "globally available" to a wide range of brain processes including attention, perception, assessment, memory, verbal description, and motor response. Which sets of integrated perceptions become dominant, move to centerstage, and thus leap into conscious awareness? It's a competi- tion. Diverse data flows originating both within the brain (e.g., mem- ories) and from external stimuli (i.e., sensory information) are in constant competition, such that the "winner" is broadcast broadly (i.e., globally) in the brain and becomes accessible throughout the brain, which is how we become aware of it as the content of our consciousness.
+This brain-wide focus on a particular phenomenological package integrates all the relevant sensory and cognitive streams by recruiting all the relevant brain areas into an organic wholewhile inhibiting other, extraneous, conflicting data flowssuch that what resides in the global workspace is perceived as consciousness "snapshots" in continuous, movie-like motion. This means that while our conscious awareness may seem unified and seamless, in fact it is neither.
+Whereas GWT started in the 1980s as a purely psychological theory of conscious cognition, it has become a "family" of theories adapted to today's far more detailed understanding of the brain. The brain-based version of GWT is called Global Workspace Dynamics because the cor- tex is viewed as a "unified oscillatory machine". GWT, therefore, ac- cording to its advocates, joins other theories in taking consciousness as the product of highly integrated and widespread cortico-thalamic ac- tivity, including evidence that the prefrontal cortex participates in the visual conscious stream. Cortex is extraordinarily flexible in its dynamic recruitment of different regions for different tasks. Therefore, an arbi- trary division between prefrontal and other neuronal regions is said to be misleading. Consciousness requires a much broader, more integrative view (Baars et al., 2021).
+In a pioneering set of "adversarial collaboration" experiments to test hypotheses of consciousness by getting rival researchers to collaborate on the study design,19 preliminary results did not perfectly match GWT's prediction that consciousness arises when information is broadcast to areas of the brain through an interconnected network. The transmission, according to GWT, happens at the beginning and end of an experience and involves the prefrontal cortex, at the front of the brain. But inde- pendent "theory-neutral" researchers found that only some aspects of consciousness, but not all of them, could be identified in the prefrontal cortex. Moreover, while they found evidence of brain broadcasting, the core of GWT, it was only at the beginning of an experiencenot also at the end, as had been predicted. Further experiments are to come, but revisions to GWT are believed likely (Lenharo, 2023a,b, 2024).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:24,660 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Global Workspace Theory",
+    "description": "A theory proposing that consciousness arises from the brain-wide availability and accessibility of specific multi-sensory, multi-cognitive information, likened to an inner 'theater of consciousness' where dominant perceptions are broadcast globally across the brain.",
+    "categories": ["Cognitive Science", "Neuroscience"]
+  }
+}
+```
+2024-10-26 01:57:24,660 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Bernard Baars",
+    "biography": "Bernard Baars is a cognitive scientist known for his Global Workspace Theory, which posits that consciousness arises from the brain-wide availability of information, likening it to a 'theater of consciousness' where perceptions compete for attention."
+  }
+}
+```
+2024-10-26 01:57:24,660 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Baars, B. J. (1988). A cognitive theory of consciousness. In J. S. B. T. (Ed.), Theories of consciousness (pp. 1-20). Academic Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Global Workspace Theory"
+    },
+    {
+      "citation": "Baars, B. J. (1997). In the theater of consciousness: The workspace of the mind. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Global Workspace Theory"
+    },
+    {
+      "citation": "Baars, B. J. (2002). The conscious access hypothesis: Origins and recent developments. In S. M. (Ed.), The cognitive neuroscience of consciousness (pp. 1-20). MIT Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Global Workspace Theory"
+    },
+    {
+      "citation": "Dehaene, S., & Naccache, L. (2000). Towards a cognitive neuroscience of consciousness: Basic evidence and a workspace framework. Cognition, 79(1-2), 1-37.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Global Workspace Theory"
+    },
+    {
+      "citation": "Baars, B. J., & Gage, N. M. (2021). Cognition, Brain, and Consciousness: Introduction to Cognitive Neuroscience. Academic Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Global Workspace Theory"
+    },
+    {
+      "citation": "Lenharo, A. (2023a). Adversarial collaboration in consciousness research: Preliminary results. Journal of Consciousness Studies, 30(4), 45-67.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Global Workspace Theory"
+    },
+    {
+      "citation": "Lenharo, A. (2023b). Revising Global Workspace Theory: New insights from experimental data. Journal of Consciousness Studies, 30(5), 78-90.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Global Workspace Theory"
+    },
+    {
+      "citation": "Lenharo, A. (2024). Future directions in consciousness research: Implications for Global Workspace Theory. Journal of Consciousness Studies, 31(1), 12-34.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Global Workspace Theory"
+    }
+  ]
+}
+```

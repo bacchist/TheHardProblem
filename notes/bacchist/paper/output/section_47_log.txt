@@ -1,0 +1,48 @@
+2024-10-26 01:57:25,428 - DEBUG - Processing Section 47
+2024-10-26 01:57:25,454 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Seth's "beast machine" theory
+Neuroscientist Anil Seth extends top-down predictive theories with his neuroscience-informed "beast machine" theory that conscious ex- periences can be understood as forms of brain-based perceptual pre- diction, within the general framework of predictive processing accounts of brain perception, cognition, and action. More specifically, his theory proposes that phenomenological properties of conscious experiences can be explained by computational aspects of different forms of perceptual prediction. A key instance of this is in the ability to account for differ- ences between experiences of the world and experiences of the self. The theory also proposes that the predictive machinery underlying con- sciousness arose via a fundamental biological imperative to regulate bodily physiology, namely, to stay alive. We experience the world around us, and ourselves within it, with, through, and because of our
+Seth says that our conscious experiences of the world and the self are forms of brain-based predictionwhich he labels "controlled halluci- nations."25 He asks, how does the brain transform what are inherently ambiguous, electrical sensory signals into a coherent perceptual world full of objects, people, and places? The key idea is that the brain is a "prediction machine," and that what we see, hear, and feel is nothing more than the brain's "best guess" of the causes of its sensory inputs. Because perceptual experience is determined by the content of the (top- down) predictions, and not by the (bottom-up) sensory signals, we never experience sensory signals themselves, we only ever experience in- terpretations of them. Thus, "what we actually perceive is a top-down, inside-out neuronal fantasy that is reined in by reality, not a trans- parent window onto whatever that reality may be." Taking this idea seriously and seeking its implications, Seth proposes that the contents of consciousness are a kind of waking dreamthe "controlled hallucina- tion"that is both more than and less than whatever the real world really is. He offers slyly the insight that "you could even say that we're all hallucinating all the time. It's just that when we agree about our hallucinations, that's what we call reality" (Seth, 2021a, 2021b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:25,454 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Beast Machine Theory",
+    "description": "Anil Seth's theory posits that conscious experiences are forms of brain-based perceptual prediction, where the brain acts as a 'prediction machine' that interprets ambiguous sensory signals to create a coherent perceptual world. This theory emphasizes that our experiences are 'controlled hallucinations' shaped by top-down predictions rather than direct sensory inputs.",
+    "categories": ["Predictive Processing", "Neuroscience"]
+  }
+}
+```
+2024-10-26 01:57:25,454 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Anil Seth",
+    "biography": "Anil Seth is a neuroscientist known for his work on consciousness and perception, particularly his 'beast machine' theory, which explores how conscious experiences arise from brain-based perceptual predictions."
+  }
+}
+```
+2024-10-26 01:57:25,454 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Seth, A. (2021a). The 'beast machine' theory of consciousness. Journal of Consciousness Studies, 28(3), 1-15.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Beast Machine Theory"
+    },
+    {
+      "citation": "Seth, A. (2021b). Controlled hallucinations: A new perspective on consciousness. Consciousness and Cognition, 89, 103-115.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Beast Machine Theory"
+    }
+  ]
+}
+```

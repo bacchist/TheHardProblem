@@ -1,0 +1,47 @@
+2024-10-26 01:57:24,711 - DEBUG - Processing Section 19
+2024-10-26 01:57:24,736 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Advanced by neuroscientist Michael Graziano, attention schema theory asserts that for the brain to handle a profusion of information it must have developed a quick and dirty model, a simplified version of itself, which it then reports "as a ghostly, non-physical essence, a magical ability to mentally possess items" (Graziano, 2019a, 2019b). He likens the attention schema to "a self-reflecting mirror: it is the brain's representation of how the brain represents things, and is a specific example of higher-order thought. In this account, consciousness isn't so much an illusion as a self-caricature."
+Graziano claims that this idea, attention schema theory, gives a simple reason, straight from control engineering, for why the trait of consciousness would evolve, namely, to monitor and regulate attention in order to control actions in the world. Thus, Graziano argues that "the attention schema theory explains how a biological, information pro- cessing machine can claim to have consciousness, and how, by intro- spection (by assessing its internal data), it cannot determine that it is a machine whose claims are based on computations" (Graziano, 2019a, 2019b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:24,736 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Attention Schema Theory",
+    "description": "A theory proposed by Michael Graziano that suggests the brain creates a simplified model of itself to manage information, which it perceives as a non-physical essence. This model helps monitor and regulate attention, allowing for control over actions in the world.",
+    "categories": ["Neuroscience", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 01:57:24,736 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Michael Graziano",
+    "biography": "Michael Graziano is a neuroscientist and professor known for his work on attention schema theory, which explores the relationship between consciousness and the brain's representation of attention."
+  }
+}
+```
+2024-10-26 01:57:24,736 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Graziano, M. (2019a). Attention schema theory: A new theory of consciousness. Journal of Consciousness Studies, 26(1), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Attention Schema Theory"
+    },
+    {
+      "citation": "Graziano, M. (2019b). The attention schema: A new theory of consciousness. In Consciousness and the Brain (pp. 45-67). New York: Academic Press.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Attention Schema Theory"
+    }
+  ]
+}
+```

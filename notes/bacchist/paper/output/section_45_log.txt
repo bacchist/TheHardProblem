@@ -1,0 +1,35 @@
+2024-10-26 01:57:25,377 - DEBUG - Processing Section 45
+2024-10-26 01:57:25,402 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Homeostatic and Affective Theories stress predictive, homeostatic, free-energy (active inference), equilibrium, and emotion-related the- ories, and have become increasingly recognized as important theories of consciousness.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:25,402 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Homeostatic and Affective Theories",
+    "description": "Theories that emphasize the role of predictive mechanisms, homeostasis, free-energy principles, and emotional processes in understanding consciousness.",
+    "categories": ["Predictive Processing", "Emotion", "Homeostasis"]
+  }
+}
+```
+2024-10-26 01:57:25,402 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Karl Friston",
+    "biography": "Karl Friston is a British neuroscientist known for his work on the free-energy principle and predictive coding, which have significant implications for understanding consciousness and brain function."
+  }
+}
+```
+2024-10-26 01:57:25,402 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```

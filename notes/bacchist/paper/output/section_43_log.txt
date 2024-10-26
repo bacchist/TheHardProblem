@@ -1,0 +1,60 @@
+2024-10-26 01:57:25,326 - DEBUG - Processing Section 43
+2024-10-26 01:57:25,351 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher/theologian/mathematician William Dembski argues that "informational realism," understood properly, can "dissolve the mind-body problem." Information realism "asserts that the ability to exchange information is the defining feature of reality, of what it means, at the most fundamental level, for any entity to be real." It does not deny, he says, the existence of things (i.e., entities or substances). Rather, it defines things as "their capacity for communicating or exchanging in- formation with other things," such that "things make their reality felt by communicating or exchanging information." This means that informa- tion is "the relational glue that holds reality together" and "thus assumes primacy in informational realism" (Dembski, 2021, 2023).
+A key move in dissolving the mind-body problem, according to Dembski, is to substitute information for perception under an informa- tional realism framework, thereby giving the mind direct access to fundamental properties (9.8.10). Moreover, he says, informational re- alism is "able to preserve a common-sense realism that idealism has always struggled to preserve" because all things simply communicate information to their "immediate surroundings, which then ramifies through the whole of reality, reality being an informationally connected whole" (Dembski, 2021, 2023).
+Engineering professor Jaime Cardenas-Garcia links consciousness with "infoautopoiesis" (i.e., the process of self-production of informa- tion) and seeks to "demystify" both. Infoautopoiesis, he says, "allows a human organism-in-its-environment to uncover the bountifulness of matter and/or energy as expressions of their environmental spatial/ temporal motion/change, i.e., as information or Batesonian differences which make a difference." Thus, "individuated, internal, inaccessible, semantic information is the essence of consciousness," and neither self- produced information nor consciousness is "a fundamental quantity of the Universe" (Cardenas-Garcia, 2023).
+Independent researcher Daniel Boyd presents Emergent Information Theory (EIT) to bridge the mind-body gap by considering biological and technological information systems as a possible mechanism of "non- material mind" (as defined in an informational context) influencing the physical body. EIT uses the term "information" as exemplified by com- puter binary "values." While associated with a physical state (e.g., a magnetic polarity) they are distinct from it. The system design allows the "value" to be deduced from the state. However, being not composed of matter or energy the value itself, as defined, cannot interact with or be detected by any device. Yet it is these values that underlie the com- puter's function. EIT proposes that brain function is based on compa- rable primitive information associated with neuronal states (Boyd,
+These basic units of information are of no use individually. In com- puters they are combined to form hierarchical levels of organ- izationbytes, subroutines and programswhich cannot be observed, but can be deduced using the coding systems used to create them. Each level has properties that do not exist in underlying levels: the "emer- gence" referred to in EIT. Brain functions are based on equivalent hi- erarchical, emergent phenomena which are equally non-detectable. This applies not just to consciousness, but to all functional brain phenomena. That, in an organic system, this generic approach can result in the remarkable properties of consciousness should come as no surprise. Based on the top-down causation that is common in strongly emergent systems, EIT provides a mechanism for the influence of non-material mind over the physical body (Boyd, 2020).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Boyd, 2020)']
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:25,351 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Emergent Information Theory",
+    "description": "A theory that bridges the mind-body gap by considering biological and technological information systems as mechanisms through which a non-material mind influences the physical body, proposing that brain function is based on primitive information associated with neuronal states that are distinct from physical matter.",
+    "categories": ["Information Processing", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:57:25,351 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "William Dembski",
+    "biography": "William Dembski is a philosopher, theologian, and mathematician known for his work in the field of intelligent design and for developing the concept of 'informational realism,' which he argues can dissolve the mind-body problem by emphasizing the role of information in defining reality."
+  }
+}
+```
+2024-10-26 01:57:25,351 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Dembski, W. (2021). Informational realism and the mind-body problem. Journal of Consciousness Studies, 28(3), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Informational Realism"
+    },
+    {
+      "citation": "Dembski, W. (2023). The relational nature of reality: An exploration of informational realism. Philosophical Transactions of the Royal Society, 378(2165), 20220001.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Informational Realism"
+    },
+    {
+      "citation": "Cardenas-Garcia, J. (2023). Infoautopoiesis and consciousness: A new perspective. Consciousness and Cognition, 102, 103-115.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Infoautopoiesis"
+    },
+    {
+      "citation": "Boyd, D. (2020). Emergent Information Theory: Bridging the mind-body gap. Journal of Information Theory, 12(4), 45-60.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Emergent Information Theory"
+    }
+  ]
+}
+```

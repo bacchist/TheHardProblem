@@ -1,0 +1,54 @@
+2024-10-26 01:57:24,837 - DEBUG - Processing Section 24
+2024-10-26 01:57:24,861 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Brain circuits and cycles as mechanisms of consciousness are older explanations, no longer considered sufficient in themselves, having evolved into more sophisticated theories. Brain circuits cover the following kinds of large-scale brain structures: lateral pathways across the cerebral cortex linking diverse cortical areas (e.g., especially in the prefrontal, cingulate and parietal regions of the cortex, which are involved in higher-level activities such as planning and reasoning); the reticular activating system focusing attention, shaping behaviors, and stimulating motivation; and vertical thalamocortical radiations medi- ating sensory and motor systems.22 Brain cycles cover electroencepha- logram (EEG) waves over broad regions of the cerebral cortex, the product of massive numbers of neurons firing synchronously (e.g., gamma waves at 40 Hz).
+A contemporary explanation recruits bidirectional information transfer between the cortex and the thalamusrecurrent cortico- thalamic and thalamocortical pathwayswhich are said to regulate consciousnesss. Evidence suggests "a highly preserved spectral channel of cortical-thalamic communication that is present during conscious states, but which is diminished during the loss of consciousness and enhanced during psychchedlic states" (Toker et al., 2024).
+Dendritic Integration Theory (DIT), linking neurobiology and phe- nomenology, relates cellular-level mechanisms to conscioius experience by leveraging "the intricate complexities of dendritic processing" in brain circuits. Jaan Aru et al. propose that "consciousness is heavily influenced by, or possibly even synonymous with, the functional inte- gration of two streams of cortical and subcortical information that impinge on different compartments of cortical layer 5 pyramidal (L5p) cells" (Aru, 2023). The biophysical properties of pyramidal cells "allow them to act as gates that control the evolution of global actiatation patterns," such that "In conscious states, this cellular mechanism enables complex sustained dynamics withn the thalamocortical system, whereas during unconscious states, such signal propagation is prohibiited," Aru et al. suggest that the DIT "hallmark of conscious processing is the flexible integration of bottom-up and top-down data streams at the cellular level" (Aru, 2023, 2020).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Aru, 2023)']
+
+    Filtered References:
+    Aranyosi, Istv´an. Mind-Brain Identity Theory. PhilPapers. https://philpapers.org/brow
+se/mind-brain-identity-theory.
+Aru, J., et al., 2020. Cellular mechanisms of conscious processing. Trends Cognit. Sci. 24
+(10). October 2020. https://doi.org/10.1016/j.tics.2020.07.006.
+Aru, J., et al., 2023. Primer on the Dendritic Integration Theory of Consciousness.
+
+
+    
+2024-10-26 01:57:24,861 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Dendritic Integration Theory",
+    "description": "A theory that links neurobiology and phenomenology, suggesting that consciousness is influenced by the functional integration of cortical and subcortical information at the cellular level, particularly in layer 5 pyramidal cells, which act as gates for global activation patterns.",
+    "categories": ["Neuroscience", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 01:57:24,861 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Jaan Aru",
+    "biography": "Jaan Aru is a neuroscientist known for his work on consciousness and the Dendritic Integration Theory, which explores the cellular mechanisms underlying conscious experience and the integration of information in the brain."
+  }
+}
+```
+2024-10-26 01:57:24,862 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Aru, J., et al., 2020. Cellular mechanisms of conscious processing. Trends Cognit. Sci. 24 (10). October 2020. https://doi.org/10.1016/j.tics.2020.07.006.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Dendritic Integration Theory"
+    },
+    {
+      "citation": "Aru, J., et al., 2023. Primer on the Dendritic Integration Theory of Consciousness.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Dendritic Integration Theory"
+    }
+  ]
+}
+```

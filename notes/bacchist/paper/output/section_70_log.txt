@@ -1,0 +1,75 @@
+2024-10-26 01:58:58,467 - DEBUG - Processing Section 70
+2024-10-26 01:59:04,897 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Loorits's structural realism
+Philosopher Kristjan Loorits's Structural Realism posits that "conscious experiences are fully structural phenomena that reside in our brains in the form of complex higher-order patterns in neural activity." He claims that the structural view of consciousness solves both the hard problem and the problem of privacy (Loorits, 2019).
+On the hard problem, according to Loorits, while some properties of our conscious experiences seem to be qualitative and non- structuralqualia"these apparently nonstructural properties are, in fact, fully structural." He conjectures that qualia are "compositional with internal structures that fully determine their qualitative nature" (Loorits, 2019), that "qualia are the structures of vast networks of un- conscious associations, and that those associational structures can be found in our neural processes." He makes the ambitious prediction that "with the proper brain-stimulating technology, it should be possible to reveal the structural nature of qualia to the experiencing subject directly" (Loorits, 2019). Loorits concludes that "consciousness as a whole can be seen as a complex neural pattern that misperceives some of its own highly complex structural properties as monadic and qualitative. Such neural pattern is analyzable in fully structural terms and thereby the hard problem is solved (Loorits, 2014). (As for "the notion of structure," Loorits's Structural Realism has some structures existing in the world in an objective sense and has conscious experiences among such structures [Loorits, 2019].)
+On the privacy problem, according to Loorits, while our "powerful intuition" is that "the content of my consciousness is directly accessible only to me"a brain-bound internalist approach to consciousness, which comports well with neurobiological theoriessome argue that "we can only talk about phenomena whose defining properties are known to us from the public realm." According to this externalist approach, "if our conscious experiences were entirely private, we could not talk or theorize about them"a way of thinking that suggests "conscious experiences should be understood in terms of an organism's relationship to its socio-physical environment" (Loorits, 2019).
+In defending internalism as the "location" of consciousness, Loorits argues that "structural phenomena are describable and analyzable in public terms even if those phenomena themselves are private." More- over, "the structure of our consciousness is always present in our neural processes and only sometimes (additionally) in an extended system that includes elements of the environment" (Loorits, 2018).
+Loorits offers modest support to illusionists who propose that "the apparently non-structural features of consciousness are in fact fully structural and merely seem to be non-structural." He argues that "such a position is tenable, but only if the non-structural 'seemings' are inter- preted as perspectival phenomena and not as theorists' fictions or
+absolute nothingness" (Loorits, 2022).
+When George Musser was musing that qualia might be relational (9.7), he met with Loorits, and to Musser's surprise, Loorits "had gone off the idea." The disjunction is between third and first-person per- spectives, where the former is how qualia is explained relationally and the latter is precisely the hard problem. According to Musser, Loorits's current thinking was that "qualia may well be relational behind the scenes, but as long as they feel intrinsic to us, they still elude scientific description." Loorits concluded, "There is still a hard problem in a sense that we seem to be able to experience qualia without being aware of their relational components" (Musser, 2023a,b). (I tip my hat when a philosopher changes their mind.)
+Lahav's relativistic theory
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Loorits, 2019)', '(Loorits, 2019)', '(Loorits, 2019)', '(Loorits, 2014)', '(Loorits, 2019)', '(Loorits, 2018)', '(Loorits, 2022)']
+
+    Filtered References:
+    fpsyg.2018.02228.
+Loke, Andrew Ter Ern, 2022. The Origin of Humanity and Evolution. T&T Clark.
+Loorits, Kristjan, 2014. Structural qualia: a solution to the hard problem of
+consciousness, 2014 Front. Psychol. 5, 237. https://doi.org/10.3389/
+fpsyg.2014.00237. I learned about Loortis via George Musser, 2023.
+
+
+    
+2024-10-26 01:59:04,897 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Structural Realism",
+    "description": "A theory proposed by Kristjan Loorits that posits conscious experiences are structural phenomena represented as complex patterns of neural activity. It addresses the hard problem of consciousness by suggesting that qualia, often perceived as non-structural, are actually compositional and determined by internal structures within neural processes. Loorits argues that consciousness can be analyzed in structural terms, thus solving the hard problem, and that conscious experiences, while private, can be described in public terms.",
+    "categories": ["Philosophy of Mind", "Neuroscience"]
+  }
+}
+```
+2024-10-26 01:59:04,897 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Kristjan Loorits",
+    "biography": "Kristjan Loorits is a philosopher known for his work on Structural Realism, which explores the nature of consciousness and qualia as structural phenomena in the brain. His theories aim to address the hard problem of consciousness and the issue of privacy in conscious experiences, proposing that qualia are compositional and can be analyzed in structural terms."
+  }
+}
+```
+2024-10-26 01:59:04,897 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Loorits, Kristjan, 2014. Structural qualia: a solution to the hard problem of consciousness, 2014 Front. Psychol. 5, 237. https://doi.org/10.3389/fpsyg.2014.00237.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Structural Realism"
+    },
+    {
+      "citation": "Loorits, Kristjan, 2018. [Title not provided]. [Journal not provided]. fpsyg.2018.02228.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Structural Realism"
+    },
+    {
+      "citation": "Loorits, Kristjan, 2019. [Title not provided]. [Journal not provided].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Structural Realism"
+    },
+    {
+      "citation": "Loorits, Kristjan, 2022. [Title not provided]. [Journal not provided].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Structural Realism"
+    },
+    {
+      "citation": "Loke, Andrew Ter Ern, 2022. The Origin of Humanity and Evolution. T&T Clark.",
+      "material_type": "Book",
+      "associated_theory_name": "Structural Realism"
+    }
+  ]
+}
+```

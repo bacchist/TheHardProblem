@@ -1,0 +1,81 @@
+2024-10-26 02:01:19,841 - DEBUG - Processing Section 95
+2024-10-26 02:01:26,215 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Jaynes's breakdown of the bicameral mind
+Psychohistorian Julian Jaynes's 1976 book, The Origin of Conscious- ness in the Breakdown of the Bicameral Mind, proposes that consciousness, particularly "the ability to introspect," is a learned behavior rooted in language and culture and arises from metaphor; consciousness is neither innate nor fundamental. To Jaynes, language plays a central role in consciousness; language is "an organ of perception, not simply a means of communication" (Jaynes, 1976; Bicameral Mind, 2024).
+Jaynes defines consciousness idiosyncratically by distinguishing it from sensory awareness and cognition; as such it more closely resembles "introspective consciousness," as he calls it, than it does phenomenal consciousness, which is the target of this Landscape. Nonetheless, it is helpful to work through Jaynes's definitions and arguments, clarifying how to avoid what could be confounding or muddled thinking about consciousness. While Jaynes's consciousness is not phenomenal con- sciousness, his careful parsing of his definition gives insight into the subtleties of the parsing process. Moreover, appreciating the flow of Jaynes's arguments as well as the substance of his claims sharpens our
+view of the entire Landscape.
+In Jaynes's words, "Consciousness is not a simple matter and it should not be spoken of as if it were." He starts with what his con- sciousness is not. (i) Not the "many things that the nervous system does automatically for us. All the variety of perceptual constancies ... all done without any help from introspective consciousness." (ii) Not what he calls "preoptive" activities, such as how we sit, walk, move. "All these are done without consciousness, unless we decide to be conscious of them." (iii) Not even speaking, where "the role of consciousness is more interpolative than any constant companion to my words." Conscious- ness, he stresses, is not sense perception; it does not copy experience; it is not necessary for learning; it is not even necessary for thinking or reasoning; and it has only an arbitrary and functional location (Jaynes, 1987).
+To Jaynes, consciousness, or what he refines as "subjective conscious mind," is an analog of the real world. "It is built up with a vocabulary or lexical field whose terms are all metaphors or analogs of behavior in the physical world ... It allows us to short-cut behavioral processes and arrive at more adequate decisions. Like mathematics, it is an operator rather than a thing or a repository. And it is intimately bound with volition and decision ... Every word we use to refer to mental events is a metaphor or analog of something in the behavioral world" (Jaynes, 1987).
+Jaynes says that the primary feature of his consciousness is an "associated spatial quality that, as a result of the language used to describe such psychological events, becomes, with constant repetition, this spatial quality of our consciousness or mind-space .... It is the space which you preoptively are introspecting on at this very moment."
+The second most important feature of Jaynes' consciousness is the subject of the introspecting, the introspective "I". Here Jaynes uses analogy, which differs from metaphor in that the similarity is between relationships rather than between things or actions. "As the body with its sense organs (referred to as I) is to physical seeing," he says, "so there develops automatically an analog 'I' to relate to this mental kind of 'seeing' in mind-space."
+A third feature of Jaynes' consciousness is narratization, "the analogic simulation of actual behavior." Consciousness, he says, "is constantly fitting things into a story, putting a before and an after around any event." Other features of Jaynes' consciousness include: "concentration, the 'inner' analog of external perceptual attention; sup- pression, by which we stop being conscious of annoying thoughts, the analog of turning away from annoyances in the physical world; excerp- tion, the analog of how we sense only one aspect of a thing at a time; and consilience, the analog of perceptual assimilation." Jaynes "essential rule" is that "no operation goes on in consciousness that was not in behavior first. All of these are learned analogs of external behavior" (Jaynes, 1987).
+Definition in hand, Jaynes asks, "When did all this 'inner' world begin?", which he calls "the most important watershed in our
+Jaynes famously introduces the hypothesis of the "bicameral mind", a non-conscious mentality supposedly prevalent in early humans that featured a kind of auditory hallucinations. He argued that relatively recent human ancestors as late as the ancient Greeks did not consider emotions and desires as stemming from their own minds but rather as the actions of external gods (Bicameral mentality, 2024).
+Jaynes takes the oldest parts of the Iliad and asks, "Is there evidence of consciousness?" The answer, he thinks, is no. "People are not sitting down and making decisions. No one is. No one is introspecting. No one is even reminiscing. It is a very different kind of world" (Jaynes, 1987).
+Who, then, makes the decisions? Whenever a significant choice is to be made, Jaynes suggests that "a voice comes in telling people what to do. These voices are always and immediately obeyed. These voices are called gods." To Jaynes, this is the origin of gods. He regards them as "auditory hallucinations" similar to, although not the same as, "the voices heard by Joan of Arc or William Blake. Or similar to the voices
+that modern schizophrenics hear."
+Jaynes coins the "bicameral mind" using the metaphor of a bicameral legislature. It simply means that human mentality at this time was in two parts, a decision-making part and a follower part, and neither part was conscious in the sense in which Jaynes has described it (above) (Jaynes, 1987).
+The theory posits that the human mind once operated in a state in which cognitive functions were divided between one part of the brain which appears to be "speaking", and a second part which listens and obeysthe bicameral mindand that the breakdown of this division gave rise to consciousness in humans.
+Jaynes supports his theory with historical texts and archaeological evidence. He places the origin of consciousness around the 2nd mil- lennium BCE and suggests that the transition from the bicameral mind to consciousness was triggered by the breakdown of the bicameral system of society (Bicameral mentality, 2024).
+Jaynes describes bicameral societies as "strict and stable hierar- chies," including bicameral theocracies, where "everything went like clockwork providing there was no real catastrophe or problem." But such a system is precarious, especially as society grows in population and complexity, such that "given a time of social and political instability, bicamerality can break down like a house of cards." Whereas all sig- nificant decisions previously had been based on the bicameral mind, after its breakdown, after the hallucinated voices no longer told people what to do, a new way of making decisions had to develop, which was a kind of proto-consciousness (Jaynes, 1987).
+There is an obvious, perhaps tempting, neurobiological correlate: the two cerebral hemispheres, especially based on the pioneering split-brain research of Michael Gazzaniga and Roger Sperry, which explained functional brain lateralization and how the cerebral hemispheres communicate with each another. Jaynes puts it simply: "the right hemisphere was 'talking' to the left, and this was the bicameral mind"
+Although Jaynes's physicalist, deflationary theory of consciousness continues to intrigue, it is not accepted by consciousness experts. Nevertheless, Jaynes's ideas and arguments can inform our view of the Landscape.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Jaynes, 1987)', '(Jaynes, 1987)', '(Jaynes, 1987)', '(Jaynes, 1987)', '(Jaynes, 1987)', '(Jaynes, 1987)']
+
+    Filtered References:
+    Jaworski, William, 2020. Hylomorphism and the construct of consciousness. Topoi 39
+(5), 1125–1139.
+Jaynes, Julian, 1976. The Origin of Consciousness in the Breakdown of the Bicameral
+Mind. Houghton Mifflin Company.
+Jaynes, Julian, 1987. Consciousness and the voices of the mind. Can. Psychol. 27 (2).
+
+
+    
+2024-10-26 02:01:26,215 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Bicameral Mind Theory",
+    "description": "Julian Jaynes's theory posits that early humans operated under a non-conscious mentality characterized by auditory hallucinations, where decisions were made by a 'speaking' part of the brain while another part listened and obeyed. This bicameral system broke down, leading to the development of consciousness as we understand it today.",
+    "categories": ["Historical Psychology", "Cognitive Science", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:01:26,215 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Julian Jaynes",
+    "biography": "Julian Jaynes was an American psychologist and author best known for his controversial theory of the bicameral mind, which suggests that consciousness is a learned behavior that emerged in humans relatively recently in history. His influential work, 'The Origin of Consciousness in the Breakdown of the Bicameral Mind,' published in 1976, argues that early humans experienced auditory hallucinations and made decisions based on these external voices, which he equated to gods."
+  }
+}
+```
+2024-10-26 02:01:26,215 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Jaynes, Julian, 1976. The Origin of Consciousness in the Breakdown of the Bicameral Mind. Houghton Mifflin Company.",
+      "material_type": "Book",
+      "associated_theory_name": "Bicameral Mind Theory"
+    },
+    {
+      "citation": "Jaynes, Julian, 1987. Consciousness and the voices of the mind. Can. Psychol. 27 (2).",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Bicameral Mind Theory"
+    },
+    {
+      "citation": "Jaworski, William, 2020. Hylomorphism and the construct of consciousness. Topoi 39 (5), 1125–1139.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Bicameral Mind Theory"
+    },
+    {
+      "citation": "Bicameral Mind, 2024.",
+      "material_type": "Web Article",
+      "associated_theory_name": "Bicameral Mind Theory"
+    }
+  ]
+}
+```

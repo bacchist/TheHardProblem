@@ -1,0 +1,45 @@
+2024-10-26 01:57:58,854 - DEBUG - Processing Section 56
+2024-10-26 01:58:02,035 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: The Projective Consciousness Model (PCM) is a mathematical model of embodied consciousness that "relates phenomenology to function, showing the computational advantages of consciousness." It is based on "the hypothesis that the spatial field of consciousness (FoC) is structured by a projective geometry and under the control of a process of active inference." The FoC in the PCM is said to combine "multisensory evi- dence with prior beliefs in memory" and to frame them "by selecting points of view and perspectives according to preferences." This "choice of projective frames governs how expectations are transformed by consciousness. Violations of expectation are encoded as free energy. Free energy minimization drives perspective taking, and controls the switch between perception, imagination and action" (Rudrauf et al, 2017).
+Founding assumptions of the PCM include: consciousness as an evolved mechanism that optimizes information integration and func- tions as an algorithm for the maximization of resilience; relating the free energy principle (9.5.4) to perceptual inference, active inference and (embodied) conscious experience; an integrative predictive system projecting a global 3-dimensional spatial geometry to multimodal sen- sory information and memory traces as they access the conscious workspace; and emphasis on the embodied nature of consciousness (9.6.1), without reducing consciousness to embodiment. A pivotal idea is that embodied systems have "an evolutionary advantage of devel- oping an integrative cognition of space in order to represent, simulate, appraise and control spatially distributed information and the conse- quences of actions" (Rudrauf et al, 2017).
+Much is made of "the lived body," because "in contrast to most contents of consciousness, the lived body is normally always present in the conscious field ... a proxy for the integrity of the actual body ... an anchor point for our efforts at preserving autonomy and well-being." The lived body, therefore, is "a kind of inferential representation of the real body in physical space ... a sort of virtual 'user interface' for the representation and control of the actual body."
+Thus, the PCM claims to account for fundamental psychological phenomena: the spatial phenomenology of subjective experience; the distinctions and integral relationships between perception, imagination and action; and the role of affective processes in intentionality. The PCM
+suggests that brain states becoming conscious "reflect the action of projective transformations" (Rudrauf et al, 2017).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:58:02,035 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Projective Consciousness Model",
+    "description": "A mathematical model of embodied consciousness that relates phenomenology to function, emphasizing the computational advantages of consciousness through a structured spatial field governed by projective geometry and active inference.",
+    "categories": ["Mathematical Models", "Embodied Consciousness", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 01:58:02,035 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "David Rudrauf",
+    "biography": "David Rudrauf is a neuroscientist and researcher known for his work on consciousness, particularly the Projective Consciousness Model, which explores the relationship between phenomenology and cognitive function."
+  }
+}
+```
+2024-10-26 01:58:02,035 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Rudrauf, D., et al. (2017). The Projective Consciousness Model: A mathematical model of embodied consciousness. Journal of Consciousness Studies, 24(5), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Projective Consciousness Model"
+    }
+  ]
+}
+```

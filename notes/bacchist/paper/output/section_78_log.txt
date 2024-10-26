@@ -1,0 +1,58 @@
+2024-10-26 01:59:37,487 - DEBUG - Processing Section 78
+2024-10-26 01:59:40,880 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: According to Higher-Order Theories of consciousness, what makes a perception conscious is the presence of an accompanying cognitive state about the perception. This means that phenomenal consciousness is not immediate awareness of sensations. Rather, it is the higher-level sensing of those sensations, a product of second-order thoughts about first-order perceptions or mental statesa two-level process. Higher-Order The- ories are distinguished from other cognitive accounts of phenomenal consciousness which assume that first-order perceptions or mental states can themselves be directly consciousa one-level process (9.8.1, 9.8.2)
+According to Peter Carruthers, "humans not only have first-order non-conceptual and/or analog perceptions of states of their environ- ments and bodies, they also have second-order non-conceptual and/or analog perceptions of their first-order states of perception." This higher- order perception theory holds that "humans (and perhaps other animals) not only have sense-organs that scan the environment/body to produce fine-grained representations, but they also have inner senses which scan the first-order senses (i.e. perceptual experiences) to produce equally fine-grained, but higher-order, representations of those outputs." Hence, Higher-Order Theories are also called "inner-sense theory." Notably, "the higher-order approach does not attempt to reduce consciousness directly to neurophysiology but rather its reduction is in mentalistic terms, that is, by using such notions as thoughts and awareness" (Car-
+The main motivation driving higher-order theories of consciousness, according to Carruthers, "derives from the belief that all (or at least most) mental-state types admit of both conscious and unconscious va- rieties ... And then if we ask what makes the difference between a conscious and an unconscious mental state, one natural answer is that conscious states are states that we are aware of." This translates into the view that conscious states are states "that are the objects of some sort of higher-order representationwhether a higher-order perception or experience, or a higher-order thought" (Cardenas-Garcia, 2023).
+Various flavors of higher-order theories can be distinguished, including the following (Cardenas-Garcia, 2023):
+Actualist Higher-Order Thought Theory (championed by David Rosenthal): A phenomenally conscious mental state is a state that is the object of a higher-order thought, and which causes that thought non-inferentially.
+Dispositionalist Higher-Order Thought Theory: A phenomenally conscious mental state is a state that is available to cause (non- inferentially) higher-order thoughts about itself (or perhaps about any of the contents of a special-purpose, short-term memory store).
+Self-Representational Theory: A phenomenally conscious mental state is a state that, at the same time, possesses an intentional con- tent, thereby in some sense representing itself to the person who is the subject of that state.
+According to Ned Block, there are two approaches to higher-order thought (HOT) theories of consciousness. The "double representation" approach says that the HOT involves a distinct coding of the perceptual content, such that a conscious perception will be "accompanied" by a thought of that experience, giving two representations of the conscious experience, one perceptual, one cognitive and conceptual. He considers it "mysterious" how a perception can be conscious. The second version of HOT has a thought or at least a cognitive state that makes a perception
+conscious but that thought does not itself have any perceptual content. Block refers to Hakwan Lau, who sometimes describes the higher-order state as a "pointer" to a first-order state. The pointer theory is cognitive in that the pointer is a thought, but it is not conceptualist since it in- volves no concept of a conscious experience involved in the thought that is supposed to make a perception conscious (Block, 2023, pp. 425426).
+Lau himself argues that the key to characterizing consciousness lies in its connections to belief formation and epistemic justification on a subjective level (Lau, 2019a); he describes consciousness as "a battle between your beliefs and perceptions" (Lau, 2019b). A clue, he sug- gestsat least at the level of functional anatomyis that the neural mechanisms for conscious perception and sensory metacognition are similar, sensory metacognition meaning the monitoring of the quality or reliability of internal perceptual signals. Both mechanisms involve neural activity in the prefrontal and parietal cortices, outside of primary sensory regions (9.8.4).
+Reflexive theories, which link consciousness and self-awareness, are either a sister or a cousin of Higher-Order Theories. They differ in that reflexive theories situate self-awareness within the conscious state itself rather than in an independent meta-state focusing on it. The same conscious state is both intentionally outer-directed awareness of external perceptions and intentionally inner-directed awareness of self- sense. A strong claim is that this makes reflexive awareness a central feature of conscious mental states and thereby qualifies as a theory of consciousness. Whether reflexive theories are variants of Higher-Order Theory ("sister") or a "same-order" account of consciousness as self- awareness ("cousin") is in dispute (Van Gulick, 2019).
+Social psychologist Alexander Durig claims that our two brain hemispheres, operating as two brains, aware of each other and inter- acting with each other, exist in a system of "interactive reflexivity," and it is this reflexivity, while being perpetually aware of the world and each other's perception of the world, that is the foundation of consciousness (Durig, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Durig, 2023)']
+
+    Filtered References:
+    depth exploration from Yucong Duan’s BUG theory. World Artificial Consciousness
+Conference Popular Science Series. https://doi.org/10.13140/RG.2.2.20085.96484.
+Durig, Alexander, 2023. Closer to Consciousness: the First Strong Theory of
+Consciousness. AuthorHouse.
+D’Ariano, G.M., Faggin, Federico, 2022. Hard problem and free will: an information-
+
+
+    
+2024-10-26 01:59:40,880 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Higher-Order Theory",
+    "description": "Higher-Order Theories of consciousness propose that a perception becomes conscious when there is a higher-level cognitive state that represents that perception. This involves a two-level process where first-order perceptions are accompanied by second-order thoughts, distinguishing it from one-level processes that consider first-order perceptions as directly conscious.",
+    "categories": ["Cognitive Science", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:59:40,880 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Alexander Durig",
+    "biography": "Alexander Durig is a social psychologist known for his work on consciousness and the interaction between the brain's hemispheres, proposing that their interactive reflexivity forms the foundation of consciousness."
+  }
+}
+```
+2024-10-26 01:59:40,880 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Durig, Alexander, 2023. Closer to Consciousness: the First Strong Theory of Consciousness. AuthorHouse.",
+      "material_type": "Book",
+      "associated_theory_name": "Higher-Order Theory"
+    }
+  ]
+}
+```

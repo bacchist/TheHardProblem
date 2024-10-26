@@ -1,0 +1,63 @@
+2024-10-26 01:59:53,698 - DEBUG - Processing Section 81
+2024-10-26 02:00:00,003 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuropsychologist Nicholas Humphrey employs an evolutionary framework, combining mental representations with what he calls "attractor states in the brain," to develop a novel materialistic theory of phenomenal consciousness, which he sees as a late and not ubiquitous evolutionary development. His multi-discipline argument follows (Sec- tion: Humphrey, 2023a,b, 2022, 2024; Humphrey, 2023a,b).
+Sensations, he says, are ideas we generate: mental representations of stimuli arriving at our sense organs and how they affect us. Their properties are to be explained, therefore, not literally as the properties of brain-states, but rather as the properties of mind-states dreamed up by the brain. Remarkably, we (and presumably other sentient creatures) represent what's happening as having "phenomenal properties", or "qualia", that fill the "thick time" of the subjective present. The result is we come to have a psychologically impressive sense of selfa "phenomenal self" that is semi-independent of our physical bodies. This idea of "what it's like to be me" may be in some respects "fake news"; but Humphrey's point is that, to us as the subjects, it's big news!
+When it comes to how sensations are generated in the brain, Hum- phrey points out this has to be a two-stage process: first the gathering of sensory information, which is the sensory text, then the interpretation of this information, which is the conscious reading. This two-stage process generates our subjective take on what this is like for us. Phenomenal properties arise only at the interpretative stage. This, Humphrey stresses, is "a point often lost on researchers looking for the neural correlates of consciousness, who assume the properties of the brain ac- tivity must map onto the phenomenal properties of conscious experi- ence." He calls the hard problem "the wrong problem" (Humphrey, 2022).
+Humphrey believes that our best approach to explaining sentience (which is how he labels phenomenal consciousness) will be "forward engineering"reconstructing the steps by which natural selection could have invented it. He proposes that sensations originated in primitive animals as evaluative responses to stimulation at the body surface. Thus, sensations started out as something the animal did about the stimulation rather than something it felt about it. Early on, however, animals hit on the trick of monitoring these responsesby means of an "efference
+copy" of the command signalsto yield a simple representation of what the stimulation is about. In short, a feeling (Humphrey, 2023a,b).
+Humphrey's story quickens, as that feeling became privatised, resulting in activity in neural feedback loops, which became recursive and stretched out in time, taking on complex higher-order properties. It was then refined and stabilised to generate mathematically complex attractor states, which would give rise"out of the blue"to the apparently unaccountable qualities of sensory qualia. Quite possibly, he says, phenomenal experience involves the brain generating something like an internal text, which it interprets as being about phenomenal properties. The driving force behind these later developments was the adaptive benefits to the animal of the emergence of the phenomenal self.
+This is why Humphrey takes phenomenal consciousness as a rela- tively late evolutionary invention, having evolved only in animal species that (a) have brains capable of entertaining and enjoying these fancy mental representations, and (b) lead lives in which having this bold sense of self can give them an edge in the fitness game. Thus, Humphrey challenges conventional wisdom that phenomenal consciousness in the animal kingdom is a gradient; his "hunch" is that only mammals and birds make the cut. Chimpanzees, dogs, parrots have it. Lobsters, lizards, frogs do not (Humphrey, 2023a,b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Humphrey, 2022)']
+
+    Filtered References:
+    academia.edu/74504302/The_Five_Aggregates_and_Awareness_of_Awareness_an_Ori
+ginal_Interpretation_of_Non_self.
+Humphrey, Nicholas, 2019. Easy does it—a soft landing for consciousness. J. Conscious.
+Stud. 26 (No), 9–10.
+Humphrey, Nicholas, 2022. Seeing and somethingness. Aeon. https://aeon.co/essays
+
+
+    
+2024-10-26 02:00:00,003 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Materialistic Theory of Phenomenal Consciousness",
+    "description": "Nicholas Humphrey's theory posits that phenomenal consciousness is a late evolutionary development characterized by mental representations and attractor states in the brain. It involves a two-stage process of sensation gathering and interpretation, leading to the emergence of a 'phenomenal self' that is semi-independent of the physical body. This theory emphasizes the adaptive benefits of having a complex sense of self in certain animal species.",
+    "categories": ["Evolutionary Psychology", "Phenomenal Consciousness"]
+  }
+}
+```
+2024-10-26 02:00:00,003 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Nicholas Humphrey",
+    "biography": "Nicholas Humphrey is a British neuropsychologist and author known for his work on consciousness and the evolution of the mind. He proposes a materialistic theory of phenomenal consciousness, emphasizing the role of mental representations and attractor states in the brain, and argues that consciousness is a relatively late evolutionary development."
+  }
+}
+```
+2024-10-26 02:00:00,003 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Humphrey, Nicholas, 2022. Seeing and somethingness. Aeon. https://aeon.co/essays",
+      "material_type": "Online Article",
+      "associated_theory_name": "Materialistic Theory of Phenomenal Consciousness"
+    },
+    {
+      "citation": "Humphrey, Nicholas, 2019. Easy does it—a soft landing for consciousness. J. Conscious. Stud. 26 (No), 9–10.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Materialistic Theory of Phenomenal Consciousness"
+    },
+    {
+      "citation": "Humphrey, 2023a,b, 2022, 2024; Humphrey, 2023a,b.",
+      "material_type": "Cited Works",
+      "associated_theory_name": "Materialistic Theory of Phenomenal Consciousness"
+    }
+  ]
+}
+```

@@ -1,0 +1,35 @@
+2024-10-26 01:57:24,560 - DEBUG - Processing Section 13
+2024-10-26 01:57:24,584 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neurobiological theories are based primarily on known mechanisms of the brain, such as neuronal transmission, brain circuits and con- nectome pathways, electric fields, and, of course, neural correlates of consciousness.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:24,584 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Neurobiological Theories of Consciousness",
+    "description": "Theories that focus on the mechanisms of the brain, including neuronal transmission, brain circuits, connectome pathways, electric fields, and neural correlates of consciousness.",
+    "categories": ["Neuroscience", "Biological Basis of Consciousness"]
+  }
+}
+```
+2024-10-26 01:57:24,584 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "No specific author identified",
+    "biography": "This section discusses neurobiological theories of consciousness without attributing the ideas to a specific theorist."
+  }
+}
+```
+2024-10-26 01:57:24,584 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```

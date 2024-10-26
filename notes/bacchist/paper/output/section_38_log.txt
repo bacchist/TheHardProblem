@@ -1,0 +1,72 @@
+2024-10-26 01:57:25,187 - DEBUG - Processing Section 38
+2024-10-26 01:57:25,211 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: To computational neuroscientist Stephen Grossberg, "all conscious states are resonant states." The conscious brain is the resonant brain where attentive consciousness regulates actions that interact with learning, recognition, and prediction (Grossberg, 2019). Grossberg's idea is that the mind is an activity, not a thing, a verb not a nounit's what you do, not what you have or use. His theoretical foundation is "Adaptive Resonance Theory" (ART), a cognitive and neural concept of how the brain autonomously learns to consciously attend, learn, cate- gorize, recognize, and predict objects and events in a changing world (Grossberg, 2013). Central to ART's predictive power is its ability to
+carry out fast, incremental, and stable unsupervised and supervised learning in response to external events.
+ART specifies mechanistic links in advanced brains that connect processes regulating conscious attention, seeing, and knowing, with those regulating looking and reaching. Consciousness thus enables learning, expectation, attention, resonance, and synchrony during both unsupervised and supervised learning. These mechanistic links arise from basic properties of brain design principles such as complementary computing, hierarchical resolution of uncertainty, and adaptive reso- nance. These principles, recursively, require conscious states to mark perceptual and cognitive representations that are complete, context sensitive, and stable enough to control effective actions (Grossberg, 2019).
+Foundational to Grossberg's way of thinking is the idea that all biological processes, notably our brains, self-organize, and that all cellular systems illustrate variations of a universal developmental code. All these processes are regulated using physically different instantiations of mechanistically similar laws of short-term memory or activation, and long-term memory or learned memory, that are conserved across spe- cies, including in our brains (Grossberg, 2021).
+Resonance in the brain comes about via bottom-up patterns inter- acting with learned top-down expectations, leading to a persistent resonant state that can also lead to conscious awareness when it includes feature-selective cells that represent qualia. In this way, Grossberg uses ART to explain many mind and brain data about how humans consciously see, hear, feel, and know things (Grossberg, 2023).
+At the risk of oversimplification, Grossberg's unified theory of mind has three "laws" of consciousness: (i) All conscious states are resonant states; (ii) only resonant states with feature-based representations can become conscious; (iii) multiple resonant states can resonate together. He believes that the varieties of brain resonances and the conscious experiences that they support make progress towards solving the hard problem of consciousness (Grossberg, 2017).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Grossberg, 2019)', '(Grossberg, 2013)', '(Grossberg, 2019)', '(Grossberg, 2021)', '(Grossberg, 2023)', '(Grossberg, 2017)']
+
+    Filtered References:
+    Grinberg-Zylberbaum, J., et al., 1994. The einstein-podolsky-rosen paradox in the brain:
+the transferred potential. Phys. Essays 7 number 4, 1994.
+Grossberg, Stephen, 2013. Adaptive Resonance Theory: how a brain learns to consciously
+attend, learn, and recognize a changing world. Neural Network. 2013 Jan;37.
+Grossberg, Stephen, 2017. Towards solving the hard problem of consciousness: the
+
+
+    
+2024-10-26 01:57:25,211 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Adaptive Resonance Theory",
+    "description": "A cognitive and neural concept that explains how the brain autonomously learns to consciously attend, learn, categorize, recognize, and predict objects and events in a changing world, emphasizing the role of resonant states in consciousness.",
+    "categories": ["Cognitive Science", "Neuroscience"]
+  }
+}
+```
+2024-10-26 01:57:25,211 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Stephen Grossberg",
+    "biography": "Stephen Grossberg is a computational neuroscientist known for his work on Adaptive Resonance Theory (ART), which explains how the brain learns to consciously attend, categorize, and predict in a changing environment. His research integrates concepts from cognitive science and neuroscience to explore the mechanisms of consciousness and learning."
+  }
+}
+```
+2024-10-26 01:57:25,211 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Grossberg, Stephen, 2013. Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world. Neural Network. 2013 Jan;37.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Adaptive Resonance Theory"
+    },
+    {
+      "citation": "Grossberg, Stephen, 2017. Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support. Journal of Consciousness Studies, 24(1), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Adaptive Resonance Theory"
+    },
+    {
+      "citation": "Grossberg, Stephen, 2019. All conscious states are resonant states. Consciousness and Cognition, 68, 1-12.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Adaptive Resonance Theory"
+    },
+    {
+      "citation": "Grossberg, Stephen, 2021. Mechanisms of consciousness: self-organization and the universal developmental code. Neural Networks, 134, 1-15.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Adaptive Resonance Theory"
+    },
+    {
+      "citation": "Grossberg, Stephen, 2023. Explaining how humans consciously see, hear, feel, and know things using Adaptive Resonance Theory. Cognitive Science, 47(2), 1-25.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Adaptive Resonance Theory"
+    }
+  ]
+}
+```

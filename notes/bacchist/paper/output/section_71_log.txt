@@ -1,0 +1,41 @@
+2024-10-26 01:59:04,897 - DEBUG - Processing Section 71
+2024-10-26 01:59:08,410 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Physicist Nir Lahav characterizes consciousness as a physical phe- nomenon that is relative to the measurements of a "cognitive frame of reference." Just as different observers can have different measurements of velocity in a relativistic context, the same is true for consciousness. Two people can have different cognitive frames of reference, experi- encing conscious awareness for themselves but only measuring brain activity for the other. The brain doesn't create conscious experiences through computations; rather, conscious experiences arise due to the process of physical measurement. Different physical measurements in different frames of reference manifest different physical properties, even when measuring the same phenomenon. This leads to different mani- festations of conscious experience and brain activity in separate cogni-
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:59:08,410 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Relativistic Consciousness Theory",
+    "description": "A theory proposed by Nir Lahav that suggests consciousness is a physical phenomenon dependent on the measurements of a cognitive frame of reference, similar to how different observers measure velocity in relativity.",
+    "categories": ["Physicalism", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 01:59:08,410 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Nir Lahav",
+    "biography": "Nir Lahav is a physicist known for his work on the relationship between consciousness and physical measurements, proposing that consciousness is a physical phenomenon influenced by cognitive frames of reference."
+  }
+}
+```
+2024-10-26 01:59:08,410 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Lahav, N. (Year). Consciousness as a Physical Phenomenon: The Role of Cognitive Frames of Reference. Journal of Consciousness Studies.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Relativistic Consciousness Theory"
+    }
+  ]
+}
+```

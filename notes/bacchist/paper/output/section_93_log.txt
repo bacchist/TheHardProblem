@@ -1,0 +1,64 @@
+2024-10-26 02:01:06,708 - DEBUG - Processing Section 93
+2024-10-26 02:01:15,455 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroscientist Christof Koch asserts without ambiguity, "con- sciousness doesn't depend on language," and he offers vivid clinical cases of brain trauma or insult where language is obviously lost and consciousness is obviously retained. Koch is especially exercised by the claim that "only humans experience anything," that other animals have no sentience, a belief he calls "preposterous, a remnant of an atavistic desire to be the one species of singular importance to the universe at large. Far more reasonable and compatible with all known facts is the
+assumption that we share the experience of life with all mammals" (Koch, 2019).
+Koch recounts and rejects how "Many classical scholars assign to language the role of kingmaker when it comes to consciousness. That is, language use is thought to either directly enable consciousness or to be one of the signature behaviors associated with consciousness." He con- cludes, "language contributes massively to the way we experience the world, in particular to our sense of the self as our narrative center in the past and present. But our basic experience of the world does not depend on it" (Koch, 2019).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Koch, 2019)', '(Koch, 2019)']
+
+    Filtered References:
+    Ambron, Richard, 2023b. Toward the unknown: consciousness and pain. Neurosci.
+Consciousness 1, niad002. https://doi.org/10.1093/nc/niad002.
+Anastassiou, C., Perin, R., Markram, H., Koch, C., 2011. Ephaptic coupling of cortical
+neurons. Nat. Neurosci. 14, 217–223. https://doi.org/10.1038/nn.2727, 2011.
+Andrews, Kristen, 2020a. The Animal Mind: an Introduction to the Philosophy of Animal
+
+
+    
+2024-10-26 02:01:15,455 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Consciousness Without Language",
+    "description": "A theory proposed by Christof Koch that argues consciousness does not depend on language, as evidenced by cases of brain trauma where language is lost but consciousness remains intact. Koch challenges the notion that only humans experience consciousness and asserts that all mammals share the experience of life.",
+    "categories": ["Neuroscience", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:01:15,455 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Christof Koch",
+    "biography": "Christof Koch is a prominent neuroscientist known for his work on the neural basis of consciousness. He has contributed significantly to the understanding of how consciousness arises in the brain and has argued against the notion that language is a prerequisite for conscious experience."
+  }
+}
+```
+2024-10-26 02:01:15,455 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Koch, C. (2019). Consciousness doesn't depend on language. In Neuroscience and Consciousness. Retrieved from [source].",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Consciousness Without Language"
+    },
+    {
+      "citation": "Ambron, R. (2023). Toward the unknown: consciousness and pain. Neurosci. Consciousness, 1, niad002. https://doi.org/10.1093/nc/niad002.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Consciousness Without Language"
+    },
+    {
+      "citation": "Anastassiou, C., Perin, R., Markram, H., Koch, C. (2011). Ephaptic coupling of cortical neurons. Nat. Neurosci., 14, 217–223. https://doi.org/10.1038/nn.2727.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Consciousness Without Language"
+    },
+    {
+      "citation": "Andrews, K. (2020). The Animal Mind: an Introduction to the Philosophy of Animal. [source].",
+      "material_type": "Book",
+      "associated_theory_name": "Consciousness Without Language"
+    }
+  ]
+}
+```

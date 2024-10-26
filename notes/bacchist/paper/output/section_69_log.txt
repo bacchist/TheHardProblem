@@ -1,0 +1,61 @@
+2024-10-26 01:58:54,493 - DEBUG - Processing Section 69
+2024-10-26 01:58:58,467 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Alva No e argues that only externalism about the mind and mental content, which requires active and continuous engagement between the brain and its environment, body and beyond, can succeed as a theory of consciousness (No e, 2010). He uses his attention-alerting phrase "Out of Our Heads" as descriptor, not as metaphor, and he ap- plies it literally. His hypothesis is that expanding the locus of where consciousness occurs may help explain its essence and mechanism. What does this actually mean?
+No e takes issue with both dualism and materialism; attacking the weaknesses of each is not hard going. "We have no better idea how the actions of cells in the head give rise to consciousness than we do how consciousness arises out of immaterial spiritual processes." So, brain science, he says, while it has the imprimatur of the scientific worldview, is not really going anywhere. It's like trying to understand what makes a dance "a dance" by studying the movement of muscles (No e, 2007).
+He challenges the assumption that an event in the brain is alone sufficient for consciousness. "We spend all our lives, not as free-floating brains; we're embodied, we're environmentally embedded; we're so- cially nurtured from the very beginnings of our lives." His idea is that "The world shows up for us," with "multiple layers of meaning."
+No e offers an alternative framework, a novel way of thinking. "There are lots of discrete processes going on inside the head. But that's not where we should look for consciousness. We occupy a place in the worldall sorts of things are going on around usand consciousness is that activity of keeping tabs, keeping touch, paying attention to, inter- acting with the world."
+But what does it mean to say consciousness "is" that activity? "Is" as ... "part of the process?" Or "enabling," "bringing about" or "causing"? Or, in the strong sense of "is" as identity theory?
+No e distinguishes the meaning and purposes of consciousness, which take place "out of our heads," from the mechanical locus of conscious- ness, the substrate on which its symbols are physically encoded and manipulated.
+No e uses dreams as corroborating evidence that consciousness occurs outside of the brain. He distinguishes dreams from real-life experiences, in that the latter has greater density, detail and robustness. "You can't experience in a dream everything that you can experience outside of a
+dream" (No e, 2007).
+Consciousness to No e means "How the world shows up for us de- pends not only on our brains and nervous systems but also on our bodies, our skills, our environment, and the way we are placed in and at home in the world." This does not happen automatically, passively, done to the organism, but it is what the organism must do deliberately, proactively. "We achieve access to the world. We enact it by enabling it to show up for us.... If I don't have the relevant skills of literacy, for example, the words written on the wall do not show up for me" (No e, 2012).
+He stresses that consciousness isn't just a matter of events triggered inside us by things outside us because things are triggered inside us all the time by all sorts of things outside of us and they don't rise to con- sciousness. Much depends on context, interest, knowledge and understanding.
+Thus, consciousness is what happens when sentient creatures interact with their environment via their brains; consciousness is not what their brains are doing to them. A science of consciousness, No e says, must explain the role the brain is playing in a dynamic active involvement. It's not just that consciousness happens in the brain; it's not like that. "We are not our brains" (No e, 2012).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:58:58,467 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Externalism about the Mind",
+    "description": "Alva Noë argues that consciousness arises from the active and continuous engagement between the brain and its environment, emphasizing that consciousness is not solely a product of brain activity but involves interaction with the world.",
+    "categories": ["Philosophy of Mind", "Embodied Cognition"]
+  }
+}
+```
+2024-10-26 01:58:58,467 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Alva Noë",
+    "biography": "Alva Noë is a philosopher known for his work in the philosophy of mind and cognitive science, particularly for his theories on consciousness and embodied cognition. He argues that consciousness arises from our interactions with the environment rather than being solely a product of brain activity."
+  }
+}
+```
+2024-10-26 01:58:58,467 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Noë, A. (2010). Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness. Hill and Wang.",
+      "material_type": "Book",
+      "associated_theory_name": "Externalism about the Mind"
+    },
+    {
+      "citation": "Noë, A. (2007). Action in Perception. MIT Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Externalism about the Mind"
+    },
+    {
+      "citation": "Noë, A. (2012). Varieties of Presence. Harvard University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Externalism about the Mind"
+    }
+  ]
+}
+```

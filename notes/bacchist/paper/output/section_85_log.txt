@@ -1,0 +1,97 @@
+2024-10-26 02:00:17,625 - DEBUG - Processing Section 85
+2024-10-26 02:00:24,807 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Transparency theory makes the argument that because sensory (e.g., visual) experience represents external objects and their apparent prop- erties, experience has no other properties that pose problems for mate- rialism. We "see right through" perceptual states to external objects and take no notice that we are actually in perceptual states; the properties we perceive in perception are attributed to the objects themselves, not to the perception (Lycan, 2019). If we look at a tree and try to turn our attention to the intrinsic features of our visual experience, the only features there to turn our attention to are features of the actual tree it- self, including relational features of the tree from the perspective of the perceiver (Harman, 1990).
+To make the argument, at a minimum, an additional premise is needed: If a perceptual state has mental properties over and above its representational properties, they must be "introspectible." But "not even the most determined introspection ever reveals any such additional properties." This is the transparency thesis proper (Lycan, 2019).
+Philosopher Amy Kind cites experiential transparency as a major motivation driving representational theories of consciousness, which view phenomenal character as being reduced to intentional content. Assuming experience is transparent in that we "look right through" experience to the objects of that experience, "this is supposed to support the representationalist claim that there are no intrinsic aspects of our experience" (Kind, 2010).
+Philosopher Michael Tye states that one important motivation for the theory that "phenomenal character is one and the same as representa- tional content" is "the so-called 'transparency of experience.'" He ad- dresses introspective awareness of experience and one problem case for transparency, that of blurry vision (Tye, 2002). A similar theory is "intentionalism," the view that the phenomenal character of experience supervenes on intentional content (Pace, 2007).
+Philosopher Dirk Franken characterizes "the transparency of appearing" as follows: "The phenomenal quality of a particular state of appearing is fully exhausted by the sensible properties present to the subject of the state and their distribution over the respective field of appearance." Starting "from the assumption that the transparency of appearing is a purely phenomenological feature," Franken describes his "Transparency Thesis" with several propositions: "There are no other properties, next to the sensible properties, that have any bearing on the phenomenal quality of a state of appearing. The presentation of sensible properties is just all there is to the phenomenal quality of a state of
+appearing. No properties of the subject (insofar as it is the subject of this state) or of the state itself contribute to this phenomenal quality." He defends "surprising consequences" of the Transparency Thesis. First, "one has to give up the idea of the first-person-perspective as a kind of inner seeming or appearing directed onto mental states (at least, if the relevant states are states of appearing)." Next, two assumptions entailed in numerous popular accounts of phenomenal consciousness are negated: (i) "phenomenal qualities are properties of states of appearing that are independent or partly independent of the (sensible) properties presented in these states; " and (ii) "there can be phenomenally conscious states of appearing even though there is nothing that is pre- sented to their subjects" (Franken, n.d.).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Lycan, 2019)', '(Harman, 1990)', '(Lycan, 2019)', '(Kind, 2010)', '(Tye, 2002)', '(Pace, 2007)']
+
+    Filtered References:
+    (Eds.), Contemporary Materialism. Routledge, London.
+Jackson, Frank, 1997. Three questions about consciousness review of consciousness and
+experience by William G. Lycan. Psyche 3 (5) (review).
+Jackson, Frank, 1998. Postscript on qualia. In: Jackson, Frank (Ed.), Mind, Methods and
+Conditionals. Routledge.
+
+Gennaro, Rocco (Ed.), The Routledge Handbook of Consciousness. Routledge,
+pp. 235–247.
+Harman, G., 1990. ‘The intrinsic quality of experience’, in tomberlin; reprinted in lycan
+& Prinz. (2008. Mind and Cognition, third ed. Basil Blackwell.
+Harp, Dennis, 2022. Lumignosis. https://lumignosis.org.
+myths in frank Jackson’s philosophy of mind. In: Dowe, P., Nicholls, M., Shotton, L.
+(Eds.), Australian Philosophers. Hobart. Pyrrho Press.
+Garfield, Jay L., 2015. Engaging Buddhism. Oxford University Press, Kindle Edition,
+pp. 135–136.
+Garfield, Jay, 2016. Illusionism and givenness. J. Conscious. Stud. 23 (11–12).
+https://iai.tv/articles/we-must-shed-our-metaphysical-assumptions-auid-1367.
+Papineau, David, 2022. Review of Vagueness and the Evolution of consciousness: Through
+the looking glass by Michael Tye. Notre Dame Philosophic. Rev. July 7, 2022
+https://ndpr.nd.edu/reviews/vagueness-and-the-evolution-of-consciousness-th
+rough-the-looking-glass/.
+June 14, 2018. https://www.quantamagazine.org/brains-may-teeter-near-their-tipp
+ing-point-20180614.
+Pace, Michael, 2007. Blurred vision and the transparency of experience. Pac. Phil. Q.
+August 2007.
+Paddock, Silvia, Buervenich, Thomas, 2023. Plato’s Prisoners. TaleTekk.
+
+    
+2024-10-26 02:00:24,807 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Transparency Theory",
+    "description": "Transparency theory posits that sensory experiences represent external objects and their properties, leading us to perceive these objects directly without recognizing the perceptual states themselves. It argues that if perceptual states had additional mental properties beyond their representational properties, these would be introspectible, but introspection reveals no such properties. This supports the idea that phenomenal character is reduced to intentional content.",
+    "categories": ["Philosophy of Mind", "Representational Theories"]
+  }
+}
+```
+2024-10-26 02:00:24,807 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "William G. Lycan",
+    "biography": "William G. Lycan is an American philosopher known for his work in the philosophy of mind, particularly in consciousness and materialism. He has contributed significantly to discussions on transparency theory and the nature of perceptual experience."
+  }
+}
+```
+2024-10-26 02:00:24,807 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Lycan, W. G. (2019). Three questions about consciousness review of consciousness and experience by William G. Lycan. Psyche, 3(5).",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Transparency Theory"
+    },
+    {
+      "citation": "Harman, G. (1990). The intrinsic quality of experience. In: Tomberlin, J. (Ed.), Philosophical Perspectives, 4, 31-52. Reprinted in Lycan & Prinz (2008). Mind and Cognition, third ed. Basil Blackwell.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Transparency Theory"
+    },
+    {
+      "citation": "Kind, A. (2010). Experiential transparency and representational theories of consciousness. In: Gennaro, R. (Ed.), The Routledge Handbook of Consciousness. Routledge, pp. 235–247.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Transparency Theory"
+    },
+    {
+      "citation": "Tye, M. (2002). The transparency of experience. In: Gennaro, R. (Ed.), The Routledge Handbook of Consciousness. Routledge.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Transparency Theory"
+    },
+    {
+      "citation": "Pace, M. (2007). Blurred vision and the transparency of experience. Pacific Philosophical Quarterly, August 2007.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Transparency Theory"
+    },
+    {
+      "citation": "Franken, D. (n.d.). The transparency thesis. In: Dowe, P., Nicholls, M., & Shotton, L. (Eds.), Australian Philosophers. Hobart: Pyrrho Press.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Transparency Theory"
+    }
+  ]
+}
+```

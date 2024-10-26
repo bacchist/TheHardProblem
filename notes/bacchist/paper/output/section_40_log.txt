@@ -1,0 +1,62 @@
+2024-10-26 01:57:25,238 - DEBUG - Processing Section 40
+2024-10-26 01:57:25,265 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: According to biophysicist John Beggs, the Critical Brain Hypothesis "suggests that neural networks do their best work when connections are not too weak or too strong." This intermediate "critical" case avoids "the pitfalls of being excessively damped or amplified." In criticality, the brain capacity for transmitting more bits of information is enhanced (Beggs, 2023).
+The hypothesis posits that the brain operates optimally near the critical point of phase transitions, oscillating between subcritical, crit- ical, and modestly supercritical conditions. "The brain is always tee- tering between two phases, or modes, of activity," Beggs explains; "a random phase, where it is mostly inactive, and an ordered phase, where it is overactive and on the verge of a seizure." The hypothesis predicts, he says, that "between these phases, at a sweet spot known as the critical point, the brain has a perfect balance of variety and structure and can produce the most complex and information-rich activity patterns. This state allows the brain to optimize multiple information processing tasks, from carrying out computations to transmitting and storing information, all at the same time" (Beggs, 2023).
+The Critical Brain Hypothesis traces its origin to physicist Per Bak, who suggests that "the brain exhibits 'self-organized criticality,' tuning to its critical point automatically. Its exquisitely ordered complexity and thinking ability arise spontaneously ... from the disordered electrical activity of neurons." Founding his ideas on statistical mechanics, Bak hypothesizes that, "like a sandpile, the network balances at its critical point, with electrical activity following a power law. So when a neuron fires, this can trigger an 'avalanche' of firing by connected neurons, and smaller avalanches occur more frequently than larger ones" (Ouellette, 2018).
+The same sense of a critical brain being "just right," Beggs says, also explains why information storage, which is driven by the activation of groups of neurons called assemblies, can be optimized. "In a subcritical network, the connections are so weak that very few neurons are coupled together, so only a few small assemblies can form. In a supercritical network, the connections are so strong that almost all neurons are coupled together, which allows only one large assembly. In a critical network, the connections are strong enough for many moderately sized groups of neurons to couple, yet weak enough to prevent them from all coalescing into one giant assembly. This balance leads to the largest number of stable assemblies, maximizing information storage" (Beggs, 2023).
+Beggs claims that "experiments both on isolated networks of neurons and in intact brains have upheld many of these predictions" derived from networks operating near the critical point, especially in the cortex of different species, including humans. For example, it is possible to disrupt the critical point. "When humans are sleep deprived, their brains become supercritical, although a good night's sleep can move them back toward the critical point." It thus appears, he suggests, that "brains naturally incline themselves to operate near the critical point, perhaps just as the body keeps blood pressure, temperature and heart rate in a healthy range despite changes to the environment" (Beggs, 2023).
+Two challenges are identified: (i) how is criticality maintained or "fine-tuned" in a biological environment (Ouellette, 2018), and (ii) "distinguishing between the apparent criticality of random noise and the true criticality of collective interactions among neurons" (Beggs, 2023).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Beggs, 2023)', '(Beggs, 2023)', '(Ouellette, 2018)', '(Beggs, 2023)', '(Beggs, 2023)', '(Ouellette, 2018)', '(Beggs, 2023)']
+
+    Filtered References:
+    Beck, Friedrich, Eccles, John, 1998. Quantum processes in the brain: a scientific basis of
+consciousness. Cognit. Stud. 5 (2), 95–109.
+Beggs, John, 2023. When does the brain operate at peak performance? Quanta Magazine.
+https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-
+best-20230131/. (Accessed 31 January 2023).
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003588.
+Olson, Eric, Segal, Aaron, 2023. Do We Have a Soul? A Debate. Routledge.
+Ouellette, Jennifer, 2016. A new spin on the quantum brain. Quanta Magazine. htt
+ps://www.quantamagazine.org/a-new-spin-on-the-quantum-brain-20161102/.
+Ouellette, Jennifer, 2018. Brains may teeter near their tipping point. Quanta Magazine.
+
+    
+2024-10-26 01:57:25,265 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Critical Brain Hypothesis",
+    "description": "The hypothesis suggests that the brain operates optimally near a critical point of phase transitions, balancing between subcritical and supercritical states. This critical state enhances the brain's capacity for information processing, allowing for complex and information-rich activity patterns. It posits that the brain's neural networks function best when connections are neither too weak nor too strong, maximizing the number of stable assemblies for information storage.",
+    "categories": ["Neuroscience", "Information Processing"]
+  }
+}
+```
+2024-10-26 01:57:25,265 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Beggs",
+    "biography": "John Beggs is a biophysicist known for his work on the Critical Brain Hypothesis, which explores how neural networks in the brain operate optimally near a critical point of phase transitions, enhancing information processing and storage."
+  }
+}
+```
+2024-10-26 01:57:25,265 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Beggs, John, 2023. When does the brain operate at peak performance? Quanta Magazine. https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/. (Accessed 31 January 2023).",
+      "material_type": "Online Article",
+      "associated_theory_name": "Critical Brain Hypothesis"
+    },
+    {
+      "citation": "Ouellette, Jennifer, 2018. Brains may teeter near their tipping point. Quanta Magazine.",
+      "material_type": "Online Article",
+      "associated_theory_name": "Critical Brain Hypothesis"
+    }
+  ]
+}
+```

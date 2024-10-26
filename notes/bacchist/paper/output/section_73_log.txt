@@ -1,0 +1,55 @@
+2024-10-26 01:59:11,740 - DEBUG - Processing Section 73
+2024-10-26 01:59:16,118 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher William Jaworski argues that the hard problem of con- sciousness arises only if hylomorphism is false. Hylomorphism is the claim that structure is a basic ontological and explanatory principle, and is responsible for individuals being the kinds of things they are, and having the powers or capacities they have. As Jaworski explains, "A human is not a random collection of physical materials, but an indi- vidual composed of physical materials with a structure that accounts for what it is and what it can dothe powers it has. What is true of humans is true of their activities as well." Structured activities, he says, include perceptual experiences, which means that everything about a perceptual experience, including its phenomenal character, can be explained by describing the perceiver's structure: perceptual subsystems, the powers of those subsystems, and the coordination that unifies their activities into the activity of the perceiver as a whole. Conscious experiences, Jaworski concludes, "thus fit unproblematically into the natural worldjust as unproblematically as the phenomenon of life" (Jaworski,
+According to Jaworski, from a hylomorphic perspective, "mind-body problems are byproducts of a worldview that rejects structure, and
+which lacks a basic principle which distinguishes the parts of the physical universe that can think, feel, and perceive from those that can't. Without such a principle, the existence of those powers in the physical world can start to look inexplicable and mysterious." But if mental phenomena are structural phenomena, he says, then they are part of the physical world and thus "hylomorphism provides an elegant way of solving mind-body problems" (Jaworski, 2016).
+While hylomorphism exemplifies a suite of arguments purporting to undermine the hard problem, its own challenge seems two-fold: (i) by defining structure as primitive and fundamental, it almost embeds the desired conclusion in the definitional premise; and (ii) by not dis- tinguishing kinds of structure, all structure holds the same level of ul- timate explanation, which may not fit consciousness.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Jaworski, 2016)']
+
+    Filtered References:
+    Happiness of being. n.d. https://www.happinessofbeing.com/index.html.
+James, Michael, 2024. Personal Communication.
+Jaworski, William, 2016. Structure and the Metaphysics of Mind: How Hylomorphism
+Solves the Mind-Body Problem. Oxford University Press.
+Jaworski, William, 2020. Hylomorphism and the construct of consciousness. Topoi 39
+
+
+    
+2024-10-26 01:59:16,118 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Hylomorphism",
+    "description": "A philosophical theory positing that structure is a fundamental ontological principle that explains the nature of individuals and their capacities, suggesting that mental phenomena are structural and thus part of the physical world, which helps address the mind-body problem.",
+    "categories": ["Philosophy of Mind", "Metaphysics"]
+  }
+}
+```
+2024-10-26 01:59:16,118 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "William Jaworski",
+    "biography": "William Jaworski is a philosopher known for his work on hylomorphism and the philosophy of mind, particularly in relation to consciousness and the mind-body problem. His research explores how structural properties can explain mental phenomena."
+  }
+}
+```
+2024-10-26 01:59:16,118 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Jaworski, William, 2016. Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind-Body Problem. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Hylomorphism"
+    },
+    {
+      "citation": "Jaworski, William, 2020. Hylomorphism and the construct of consciousness. Topoi 39.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Hylomorphism"
+    }
+  ]
+}
+```

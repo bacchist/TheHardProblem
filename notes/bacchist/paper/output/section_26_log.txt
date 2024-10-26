@@ -1,0 +1,58 @@
+2024-10-26 01:57:24,887 - DEBUG - Processing Section 26
+2024-10-26 01:57:24,911 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher and physicist Mario Bunge rejects any "separate mental entity," calling it "a stumbling block to progress." It is "unwarranted by the available data and the existing psychological models," he says, and it collides "head-on with the most fundamental ideas of all modern sci- ence." Rather, Bunge argues that the mind-body problem requires a psychobiological approach, based on the assumption that behavior is an external manifestation of neural processesan approach that also abandons ordinary language in favor of a "state space language, which is mathematically precise and is shared by science and scientific philoso- phy" (Bunge, 1980; 2014). More broadly, he presents a systematic model of mankind as a "biopsychosocial entity" and he favors "the multilevel approach" over "the holistic, the analytic, and the synthetic approaches" (Bunge, 1989).
+Upfront, Bunge defines his idiosyncratic position: ''I am an un- abashed monist''his objective is "to reunite matter and mind"and ''I am a materialist but not a physicalist.'' By the latter distinction, Bunge means that while the material world is all there is (i.e., there are no nonmaterial substances), the laws of physics cannot explain all phe- nomena (i.e., "physics can explain neither life nor mind nor society") (Bunge, 2011; Slezak, 2011).
+Bunge calls his theory, or more precisely, his "programmatic hy- pothesis," about the mind-body problem "emergent materialism"his core concept being that "mental states form a subset (albeit a very distinguished one) of brain states (which in turn are a subset of the state space of the whole animal)." The hypothesis is unambiguously materi- alist, even though "biosystems, including their mental states, have properties that are not reducible to their physical and chemical prop- erties." Mind, according to Bunge, "is just a collection of functions (ac- tivities, events) of an extremely complex central nervous system." Mental states are distinguished from brain states broadly in that mental states reflect only those brain states that exhibit neural plasticity, especially learning, in contrast to brain states that are more phyloge- netically fixed (Bunge, 1980; 2014).
+Approaching the mind-body problem as a general systems theorist, Bunge shows, in particular, "how the concept of a state space can be used to represent the states and changes of state of a concrete thing such as the central nervous system." He stresses the concept of emergencehe defines an emergent property as "a property possessed by a system but not by its components." He then focuses on the level where such emergence occurs, arguing that "the mental cannot be regarded as a level on a par with the physical or the social." The upshot, he says, is "a rationalist and naturalist pluralism." While he rejects Dualism (15) as both untestable and contradictory to science, he also rejects Eliminative Materialism (9.1.1) and reductive materialism (9.1.7) "for ignoring the peculiar (emergent) properties of the central nervous system." He opts for "emergentist materialism" as a variety of "psychoneural monism," but cautions that it needs detailed mechanisms, especially mathematical ones (Bunge, 1977).
+Bunge trains his delightfully acerbic guns on choice theories: com- putationalism ("a sophisticated version of behaviorism," "brainless cognitive science"); studying higher level mental phenomena rather than neuroscience and ''objective brain facts'' ("Cartesian mind-body dualism," "psychoneural dualism"); philosophical zombies (''respon- sible people do not mistake conceptual possibility, or conceivability, for factual possibility or lawfulness; and they do not regard the ability to invent fantasy worlds as evidence for their real existence''); and pan- psychism (''illustrates the cynical principle that, given an arbitrary extravagance, there is at least one philosopher capable of inventing an even more outrageous one'') (Slezak, 2011; Bunge, 2011).
+Bunge also criticizes that "the division of scientific labor has reached such a ridiculous extreme that many workers in neuroscience and psy- chology tend to pay only lip service to the importance of studies in development and evolution for the understanding of their subject." Such neglect of development and evolution, he says, has had at least three undesirable consequences: 1) overlooking the biological maturation of the central nervous system (e.g., the corpus callosum takes up to a decade to develop); 2) exaggerating leaps at the expense of graduality (particularly of the information-processing variety); and conversely, 3) exaggerating continuity at the expense of quantitative novelty (animal psychologists who claim that human mental abilities differ only in de- gree from prehuman ones) (Bunge, 1989).
+In sum, to explain behavior and mentation in scientific terms, Bunge calls for a synthesis or merger of neuroscience and social science, rather than for a reduction, "even though the behavioral and mental processes are neurophysiological." Put philosophically, "this is a case of ontolog- ical reduction without full epistemological reduction" (Bunge, 1989).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Bunge, 1989)', '(Bunge, 1977)', '(Bunge, 1989)', '(Bunge, 1989)']
+
+    Filtered References:
+    Buller, David, Hardcastle, Valarie, 2000. Evolutionary psychology, meet developmental
+neurobiology: against promiscuous modularity. Brain Mind 1 (3), 307–325.
+Bunge, Mario, 1977. Emergence and the mind. Neuroscience 2 (4), 501–509. https://doi.
+org/10.1016/0306-4522(77)90047-1.
+Bunge, Mario, 1989. From neuron to mind. News Physiol. Sci. 4, 206–209.
+
+
+    
+2024-10-26 01:57:24,911 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Emergent Materialism",
+    "description": "A programmatic hypothesis proposed by Mario Bunge that posits mental states as a distinguished subset of brain states, emphasizing that while all phenomena are material, mental states possess emergent properties that are not reducible to physical and chemical properties.",
+    "categories": ["Philosophy of Mind", "Neuroscience", "Materialism"]
+  }
+}
+```
+2024-10-26 01:57:24,911 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Mario Bunge",
+    "biography": "Mario Bunge was an Argentine philosopher and physicist known for his work in the philosophy of science, particularly in the areas of emergent materialism and the mind-body problem. He advocated for a psychobiological approach to understanding behavior and mental states, emphasizing the importance of a systematic model that integrates neuroscience and social science."
+  }
+}
+```
+2024-10-26 01:57:24,911 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Bunge, Mario, 1977. Emergence and the mind. Neuroscience 2 (4), 501–509. https://doi.org/10.1016/0306-4522(77)90047-1.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Emergent Materialism"
+    },
+    {
+      "citation": "Bunge, Mario, 1989. From neuron to mind. News Physiol. Sci. 4, 206–209.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Emergent Materialism"
+    }
+  ]
+}
+```

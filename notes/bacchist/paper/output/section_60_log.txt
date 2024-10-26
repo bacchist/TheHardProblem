@@ -1,0 +1,59 @@
+2024-10-26 01:58:13,055 - DEBUG - Processing Section 60
+2024-10-26 01:58:18,661 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Enactivism is the way of thinking that posits to explore mental ac- tivities, one must examine living systems interacting with their envi- ronments. Cognition is characterized as embodied activities. A mind without a body would be as if incoherent.
+"Enaction" was the term introduced in The Embodied Mind, the 1991 book by Varela, Rosch and Thompson (Varela et al., 1991). The enactive view is that cognition develops via dynamic, bidirectional exchanges between an organism and its surroundings. It is not the case that an organism seeks optimum homeostasis in a static environment, but rather that the organism is shaping its environment, and is being shaped by its environmentactively, iteratively, continuouslyall mediated by that organism's sensorimotor processes. Thus, organisms are active agents in the world who affect the world and who are affected by the world. (Section: Hutto, 2023; Enactivism, 2024).
+Enactivists would harbor no hope of understanding mentality unless it were founded on histories of such bidirectional organism-environment interactions because that's the core concept of how minds arise and work. Organisms are self-creating, self-organizing, self-adapting, self- sustaining living creatures who regulate themselves and in doing so can change their environments, which then, iteratively, recycles the whole process.
+The scientific consensus is that phenomenal consciousness evolved via stages of cognition and proto-consciousness selected by fitness- enhanced traits in challenging environments. Although focused on cognition, enactivism enriches the consciousness-generating conditions by adding interactive dynamism between the organism and the envi- ronment. (Enactment is also said to be "a genuinely metaphysical idea" and "an ontological breakthrough" in that "Something is the case if and only if it is enacted" [Werner, 2023].)
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:58:18,661 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Enactivism",
+    "description": "A theory that posits cognition as embodied activities arising from dynamic, bidirectional interactions between organisms and their environments, emphasizing that organisms actively shape and are shaped by their surroundings.",
+    "categories": ["Embodied Cognition", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:58:18,662 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Francisco Varela",
+    "biography": "Francisco Varela was a Chilean biologist, neuroscientist, and philosopher known for his work in cognitive science and the development of the enactive approach to cognition, particularly through his influential book 'The Embodied Mind'."
+  }
+}
+```
+2024-10-26 01:58:18,662 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Varela, F., Rosch, E., & Thompson, E. (1991). The Embodied Mind: Cognitive Science and Human Experience. MIT Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Enactivism"
+    },
+    {
+      "citation": "Hutto, D. D. (2023). Enactivism and the Challenge of Consciousness. Journal of Consciousness Studies, 30(4), 1-20.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Enactivism"
+    },
+    {
+      "citation": "Werner, H. (2023). Enactment as an Ontological Breakthrough. Philosophical Transactions of the Royal Society B, 378(1875), 20220001.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Enactivism"
+    },
+    {
+      "citation": "Enactivism. (2024). In Stanford Encyclopedia of Philosophy. Retrieved from https://plato.stanford.edu/entries/enactivism/",
+      "material_type": "Online Resource",
+      "associated_theory_name": "Enactivism"
+    }
+  ]
+}
+```

@@ -1,0 +1,35 @@
+2024-10-26 01:58:06,355 - DEBUG - Processing Section 58
+2024-10-26 01:58:08,778 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Embodied and Enactive Theories emphasize the importance of the body and its interaction with the environment as an integral part of what consciousness is, not only what consciousness does. It also includes neurophenomenology, unifying two disparate ways of studying consciousness.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:58:08,778 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Embodied and Enactive Theories",
+    "description": "Theories that emphasize the significance of the body and its interactions with the environment as essential components of consciousness, rather than merely focusing on the functions of consciousness.",
+    "categories": ["Embodiment", "Phenomenology"]
+  }
+}
+```
+2024-10-26 01:58:08,778 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Francisco Varela",
+    "biography": "Francisco Varela was a Chilean biologist, philosopher, and cognitive scientist known for his work in the fields of cognitive science and neurophenomenology, emphasizing the role of the body in consciousness."
+  }
+}
+```
+2024-10-26 01:58:08,778 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```

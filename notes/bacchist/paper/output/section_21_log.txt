@@ -1,0 +1,57 @@
+2024-10-26 01:57:24,761 - DEBUG - Processing Section 21
+2024-10-26 01:57:24,786 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroendocrinologist and biological anthropologist Robert Sapolsky counts himself as a "hard incompatibilist," affirming the truth of determinism (i.e., all events and actions are the product of prior events and actions) and denying the existence of free will. There is no possi- bility, he says, "of reconciling our being biological organisms built on the physical rules of the universe with there being free will, a soul, a 'Me' inside there which is somehow free of biology. You have to choose one or the other and, philosophically, I am completely in the direction of us being nothing more or less than our biology (and its interactions with the environment)" (Sapolsky, 2023b).
+Sapolsky's target is free will, not consciousness, but to deal with free will, he must deal with consciousnessafter all, free will, if it exists, would be a product of consciousness, not the reverse.
+But Sapolsky is a reluctant consciousness warrior. Introducing a section of his book labeled "What Is Consciousness?", he enjoys some self-deprecation. "Giving this section this ridiculous heading," he says, seemingly smiling, "reflects how unenthused I am about having to write this next stretch. I don't understand what consciousness is, can't define it. I can't understand philosophers' writing about it. Or neuroscientists', for that matter, unless it's 'consciousness' in the boring neurological sense, like not experiencing consciousness because you're in a coma" (Sapolsky, 2023a).
+Referencing the Libet experiments (9.1.2), which purport to disso- ciate conscious awareness from brain decision-making, Sapolsky argues that "three different techniques, monitoring the activity of hundreds of millions of neurons down to single neurons, all show that at the moment when we believe that we are consciously and freely choosing to do something, the neurobiological die has already been cast. That sense of conscious intent is an irrelevant afterthought." In another context with another metaphor, he calls consciousness "an irrelevant hiccup" (Sap- olsky, 2023a).
+Yet Sapolsky is not prepared to dismiss consciousness as "just an epiphenomenon, an illusory, reconstructive sense of control irrelevant to our actual behavior." This strikes me, he says, "as an overly dogmatic way of representing just one of many styles of neuroscientific thought on the subject" (Sapolsky, 2023a).
+Pushed to state what he believes consciousness is, Sapolsky demurs. "Consciousness is beyond me to understandevery few years I read a review from the people trying to understand it on a neurobiological level, and I cannot understand a word of what they are saying. For me, consciousness arises as a 'complex emergent property'which explains
+everything and nothing" (Sapolsky, 2023b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:24,786 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Complex Emergent Property Theory",
+    "description": "A perspective suggesting that consciousness arises as a complex emergent property, which is difficult to define and understand, encompassing both biological and environmental interactions.",
+    "categories": ["Philosophy of Mind", "Neuroscience"]
+  }
+}
+```
+2024-10-26 01:57:24,786 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Robert Sapolsky",
+    "biography": "Robert Sapolsky is a neuroendocrinologist and biological anthropologist known for his research on stress and behavior, as well as his views on determinism and free will. He is a professor at Stanford University and has authored several books, including 'Behave' and 'A Primate's Memoir'."
+  }
+}
+```
+2024-10-26 01:57:24,786 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Sapolsky, R. (2023a). What Is Consciousness? In [Book Title]. Publisher.",
+      "material_type": "Book",
+      "associated_theory_name": "Complex Emergent Property Theory"
+    },
+    {
+      "citation": "Sapolsky, R. (2023b). Consciousness as a Complex Emergent Property. In [Book Title]. Publisher.",
+      "material_type": "Book",
+      "associated_theory_name": "Complex Emergent Property Theory"
+    },
+    {
+      "citation": "Libet, B. (1983). Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential). Brain, 106(3), 623-642.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Complex Emergent Property Theory"
+    }
+  ]
+}
+```

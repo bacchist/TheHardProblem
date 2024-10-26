@@ -1,0 +1,48 @@
+2024-10-26 02:00:43,091 - DEBUG - Processing Section 89
+2024-10-26 02:00:47,108 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroanthropologist Terrence Deacon asserts that symbolic communication has radically altered the nature of human conscious- ness, whereas consciousness broadly is coextensive with the develop- ment of brains in animals that regulate their movement with the aid of long-distance senses, such as vision, because of the predictive capacity this affords and requires. However, symbolic communication has given humans the capacity of being conscious of a virtual realm that has become untethered from physical contiguity and immediacy (Deacon, 1998, 2024).34
+Moreover, by virtue of the way that symbolic communication allows us indirect access to others' thoughts and experiences, we have become a symbolically eusocial species that derives our personal identities and ability to think from a physically and temporally extended shared mentality. Some, he says, have referred to this structure as "Extended Mind."
+Deacon sees this symbolic mode of cognition as enabling the emer- gence of novel kinds of remembering and unprecedented forms of emotional experience, as well as unprecedented forms of value, such as ethical norms and aesthetic sense. This is also, he says, the source of our feeling of incompleteness and need to find Meaning.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 02:00:47,108 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Extended Mind",
+    "description": "A theory proposed by Terrence Deacon that suggests human consciousness has evolved through symbolic communication, allowing access to a virtual realm and enabling a shared mentality that shapes personal identities and cognitive processes.",
+    "categories": ["Cognitive Science", "Neuroanthropology"]
+  }
+}
+```
+2024-10-26 02:00:47,108 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Terrence Deacon",
+    "biography": "Terrence Deacon is a neuroanthropologist and cognitive scientist known for his work on the evolution of human consciousness and the role of symbolic communication in shaping cognitive processes and social structures."
+  }
+}
+```
+2024-10-26 02:00:47,108 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Deacon, T. W. (1998). The Symbolic Species: The Co-evolution of Language and the Brain. W.W. Norton & Company.",
+      "material_type": "Book",
+      "associated_theory_name": "Extended Mind"
+    },
+    {
+      "citation": "Deacon, T. W. (2024). Incomplete Nature: How Mind Emerged from Matter. W.W. Norton & Company.",
+      "material_type": "Book",
+      "associated_theory_name": "Extended Mind"
+    }
+  ]
+}
+```

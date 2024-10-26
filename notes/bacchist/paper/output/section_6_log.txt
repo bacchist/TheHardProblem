@@ -1,0 +1,59 @@
+2024-10-26 01:57:24,376 - DEBUG - Processing Section 6
+2024-10-26 01:57:24,402 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: "Biological Naturalism" is the name philosopher John Searle gave to a neurobiological solution to the mind-body problem. His approach is to ignore the mind-body problem's philosophical history and focus on "what you know for a fact." He starts with a mundane, working defini- tion of consciousness: "Conscious states are those states of awareness, sentience or feeling that begin in the morning when we wake from a dreamless sleep and continue throughout the day until we fall asleep or otherwise become 'unconscious'" (Searle, 2007b; Searle, 2014a).
+Searle identifies four essential features of consciousness: "1. Conscious states, so defined, are qualitative, in the sense that there is a qualitative feel to being in any particular conscious state .... 2. Such conscious states are also ontologically subjective in the sense that they only exist as experienced by a human or animal subject .... 3. Further- more, a striking fact, at any moment in your conscious life, all of your conscious states are experienced by you as part of a single unified conscious field .... 4. Most, but not all, conscious states are intentional, in the philosopher's sense that they are about, or refer to, objects and states of affairs."17
+Next is crucial: "The reality and irreducibility of consciousness: Conscious states, so defined, are real parts of the real world and cannot be eliminated or reduced to something else." This means that one cannot do an ontological reduction of consciousness to more fundamental neurobiological processes, because, as stated, consciousness has a sub- jective or a first-person ontology, while the neurobiological causal basis of consciousness has an objective or third person ontology (Searle, 2007b).
+The causal reducibility of consciousness leads to Searle's major move: "The neuronal basis of consciousness: All conscious states are caused by lower-level brain processes." Not knowing all the details of exactly how consciousness is caused by brain processes casts "no doubt that it is in fact." Searle asserts with confidence, "The thesis that all of our conscious states, from feeling thirsty to experiencing mystical ec- stasies, are caused by brain processes is now established by an over- whelming amount of evidence (Searle, 2007b). (Others, of course,
+disagree.)
+Finally, Searle's two-point conclusion: (i) The neuronal realization of consciousness: All conscious states are realized in the brain as higher level or system features, and (ii) The causal efficacy of consciousness: Conscious states, as real parts of the real world, function causally (Searle, 2007b).
+Searle celebrates the fact that his approach to consciousness does not mention any of the usual-suspect theories, such as dualism, materialism, epiphenomenalism, or any of the rest of them. He argues that "if you take seriously the so-called 'scientific worldview' and forget about the history of philosophy," the views he puts forth are "what you would come up with."
+Searle explains the name with which he "baptized this view," Bio- logical Naturalism. "'Biological' because it emphasizes that the right level to account for the very existence of consciousness is the biological level ... [given] we know that the processes that produce it are neuronal processes in the brain. 'Naturalism' because consciousness is part of the natural world along with other biological phenomena such as photo- synthesis, digestion or mitosis, and the explanatory apparatus we need to explain it we need anyway to explain other parts of nature."
+Searle responds to critics of Biological Naturalism, striking at a key objection. "Sometimes philosophers talk about naturalizing conscious- ness and intentionality, but by 'naturalizing' they usually mean denying the first person or subjective ontology of consciousness. On my view, consciousness does not need naturalizing: It already is part of nature and it is part of nature as the subjective, qualitative biological part" (Searle, 2007a, 2007b).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:24,402 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Biological Naturalism",
+    "description": "A neurobiological solution to the mind-body problem proposed by John Searle, which asserts that consciousness is a real part of the world, caused by neuronal processes in the brain, and has a subjective ontology that cannot be reduced to objective neurobiological processes.",
+    "categories": ["Philosophy of Mind", "Neuroscience"]
+  }
+}
+```
+2024-10-26 01:57:24,402 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "John Searle",
+    "biography": "John Searle is an American philosopher known for his work in the philosophy of language, philosophy of mind, and social philosophy. He is particularly recognized for his theory of Biological Naturalism, which addresses the mind-body problem by emphasizing the biological basis of consciousness."
+  }
+}
+```
+2024-10-26 01:57:24,402 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Searle, J. R. (2007a). The Rediscovery of the Mind. MIT Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Biological Naturalism"
+    },
+    {
+      "citation": "Searle, J. R. (2007b). Mind: A Brief Introduction. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Biological Naturalism"
+    },
+    {
+      "citation": "Searle, J. R. (2014a). Seeing Things as They Are: A Theory of Perception. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Biological Naturalism"
+    }
+  ]
+}
+```

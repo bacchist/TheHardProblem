@@ -1,0 +1,59 @@
+2024-10-26 01:57:24,402 - DEBUG - Processing Section 7
+2024-10-26 01:57:24,431 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher Ned Block represents a majority of philosophers (and a large majority of scientists) who hold that "phenomenal consciousness is reducible to its physical basis." (Block, 2023, p. 445; Block, 2007a). The best candidates for this reduction, he says, involve neurobiology. "For example, in the creatures that seem to have consciousness (e.g., pri- mates, octopi), neurons operate via electrical signals triggering the release of neurotransmitters, and the neurotransmitters in turn engender further electrical signals. Neurons operate in a chemical soup, with direct effects from one neuron to another mediated by chemicals. The release of chemicals is not confined to the synapse but can also happen in dendrites" (Block, 2023, p. 446).
+These propagating neurophysiological sparks and diffusing neuro- chemical transmitters compose a magnificently complex and integrated system that carries and conveys meaning. Block appeals to "this elec- trochemical nature of known cases of consciousness as an example of a candidate for neurobiological reduction of consciousness."
+To Block, "the border between seeing and thinking" provides insight into consciousness and helps adjudicate best theories (Block, 2023). He highlights this "joint in nature" between perception and cognition and advocates its study for demystifying the mind. He argues against the- ories of consciousness that focus on prefrontal cortex, arguing that perceptual consciousness does not require cognitive processing.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Block, 2023)']
+
+    Filtered References:
+    Blakemore, Colin, 2012b. Are brains and minds the same thing? Closer To Truth. http
+s://closertotruth.com/video/blaco-001/?referrer=8492.
+Block, Ned, 1980. What is functionalism? Block, Ned, ed.. In: Readings in the Philosophy
+of Psychology. Harvard University Press.
+Block, Ned, 2007a. What is the essence of consciousness? Closer to truth. Ned Block on
+
+
+    
+2024-10-26 01:57:24,431 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Neurobiological Reduction of Consciousness",
+    "description": "A theory proposed by Ned Block that suggests phenomenal consciousness can be reduced to its physical basis, particularly through neurobiological processes involving neurons and neurotransmitters.",
+    "categories": ["Neuroscience", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:57:24,431 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Ned Block",
+    "biography": "Ned Block is a prominent philosopher known for his work in the philosophy of mind and consciousness. He is particularly recognized for his arguments regarding the reducibility of phenomenal consciousness to its physical basis, emphasizing the role of neurobiology in understanding consciousness."
+  }
+}
+```
+2024-10-26 01:57:24,431 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Block, Ned. (2023). Phenomenal consciousness is reducible to its physical basis. In: Readings in the Philosophy of Psychology. Harvard University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Neurobiological Reduction of Consciousness"
+    },
+    {
+      "citation": "Block, Ned. (2007a). What is the essence of consciousness? Closer to truth. Ned Block on consciousness.",
+      "material_type": "Web Article",
+      "associated_theory_name": "Neurobiological Reduction of Consciousness"
+    },
+    {
+      "citation": "Blakemore, Colin. (2012b). Are brains and minds the same thing? Closer To Truth. https://closertotruth.com/video/blaco-001/?referrer=8492.",
+      "material_type": "Web Video",
+      "associated_theory_name": "Neurobiological Reduction of Consciousness"
+    }
+  ]
+}
+```

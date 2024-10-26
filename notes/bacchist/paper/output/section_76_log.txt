@@ -1,0 +1,99 @@
+2024-10-26 01:59:26,239 - DEBUG - Processing Section 76
+2024-10-26 01:59:32,960 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: First-order representationalism (FOR) seeks to account for con- sciousness in terms of, or by reducing to, external, world-directed (or first-order) intentional states (Gennaro, n.d.). In other words, con- sciousness can be explained, primarily, by understanding how the directedness of our mental states at objects and states of affairs in the world is generated directly by those objects and states of affairs (Searle, 1979).
+Fred Dretske asserts that "the phenomenal aspects of perceptual experiences are one and the same as external, real-world properties that experience represents objects as having." He argues that "when a brain state acquires, through natural selection, the function of carrying in- formation, then it is a mental representation suited (with certain pro- visos) to being a state of consciousness." (In contrast, "representations that get their functions through being recruited by operant conditioning, on the other hand, are beliefs.") (Dretske, 1997).
+As philosopher Peter Carruthers explains, "the goal [of FOR] is to characterize all of the phenomenal'felt'properties of experience in terms of the representational contents of experience (widely individu- ated). On this view, the difference between an experience of red and an experience of green will be explained as a difference in the properties representedreflective properties of surfaces, sayin each case. And the difference between a pain and a tickle is similarly explained in representational termsthe difference is said to reside in the different properties (different kinds of disturbance) represented as located in particular regions of the subject's own body" (Carruthers, 2000).
+Carruthers recounts his unusual transition from higher-order theory to first-order theory.31 He originally explained phenomenal conscious- ness in terms of "dispositionalist higher-order thought theory," which he
+characterized as "a certain sort of intentional content ('analog', or fine- grained), held in a special-purpose short-term memory store in such a way as to be available to higher-order thoughts ... all of those contents are at the same time higher-order ones, acquiring a dimension of seeming or subjectivity" (Carruthers, 2000). (One of his goals, he says, is "to critique mysterian [10.2] and property-dualist accounts of phenomenal consciousness ... [by] defending the view that consciousness can be reductively explained in terms of active non-conceptual representa- tions." He sought to "disarm (and explain away the appeal of) the various 'hard problem' thought experiments (zombies, explanatory gaps, and the rest)" (Carruthers, 2017).
+The later Carruthers concludes that the earlier Carruthers had "rejected first-order representational theories of consciousness on inadequate grounds." As a result, "since there is extensive evidence that conscious experience co-occurs with the global broadcasting of first- order non-conceptual contents in the brain [9.2.3], and since this evi- dence is most easily accommodated by first-order representationalism, the latter is preferable to any form of higher-order account" (Carruthers, 2017).
+Philosopher Neil Mehta and anesthesiologist George Mashour describe FOR as consisting of "sensory representations directly available to the subject for action selection, belief formation, planning, etc." They posit a neuroscientific framework, according to which neural correlates of general consciousness include prefrontal cortex, posterior parietal cortex, and non-specific thalamic nuclei, while neural correlates of specific consciousness include sensory cortex and specific thalamic nuclei" (Mehta and Mashour, 2013).
+FOR's core philosophical idea, Mehta and Mashour state, is that "any conscious state is a representation, and what it's like to be in a conscious state is wholly determined by the content of that representation. By definition, a representation is about something, and the content of a representation is what the representation is about. For instance, the word 'dolphins' (representation) is about dolphins (content)." But, they clarify, "a representation is not identical to its content." The English word "dolphins" has eight letters, but dolphins themselves do not have any letters. "Conversely, dolphins swim, but the word 'dolphins' does not swim."
+This distinction leads to the strong view that neural states seem to have very different properties than conscious perceptions. "For instance, when someone consciously perceives the color orange, normally there is nothing orange in that person's brain. First-order representationalists explain this by holding that a conscious perception of orange is a rep- resentation of orange, and (as the 'dolphin' example shows) the prop- erties of a representation can be very different from the properties of its content" (Mehta and Mashour, 2013).
+FOR's core neurobiological idea is that "each specific type of conscious state corresponds to a specific type of neural state." Ned Block seeks to "disentangle the neural basis of phenomenal consciousness from the neural machinery of the cognitive access that underlies reports of phenomenal consciousness." He argues that, in a certain sense, "phenomenal consciousness overflows cognitive accessibility." He posits that "we can find a neural realizer of this overflow if we assume that the neural basis of phenomenal consciousness does not include the neural basis of cognitive accessibility and that this assumption is justified (other things being equal) by the explanations it allows" (Block, 2007c).
+Block hypothesizes that the conscious experience of motion is a certain kind of activation of visual area V5, which suggests that sensory systems are the neural correlates of sensory consciousness. He further speculates that what's required for consciousness in general are con- nections between these cortical regions and the thalamus, "which sug- gests that sensory and perhaps post-sensory systems ... are the neural correlates of general consciousness, as well" (Block, 2007c).
+Block says he favors the first-order point of view, and if it is right, he says, "It may be conscious phenomenology that promotes global broadcasting, something like the reverse of what the global workspace theory of consciousness supposes. First-order phenomenology may be a
+causal factor in promoting global broadcasting; but according to the global workspace theory, global broadcasting constitutes consciousness rather than being caused by it" (Block, 2023, pp. 89).
+With a pungent example, Block compares first-order representa- tionalism with higher-order representationalism (9.8.3), higher-order theories (HOT). "We have two perceptions that equally satisfy the descriptive content of the HOT, but one and not the other causes the HOT. But that gives rise to the problem of how a thought to the effect that I am smelling vomit could make a perception of crimson a conscious perception. The perception of crimson could cause the HOT while a simultaneous first-order smell-representation of vomit does not cause any higher-order state. The consequence would be that the perception of crimson is a conscious perception and the perception of vomit is not, even though the subject experiences the perception of crimson as if it were the perception of vomit." Block concludes that "a descriptivist view based on content is inadequate," and that "the difficulty for the HOT theory is that it is unclear what relation has to obtain between a HOT and a perception for the perception to be conscious" (Block, 2023, pp. 425426).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Searle, 1979)', '(Dretske, 1997)', '(Carruthers, 2000)', '(Carruthers, 2000)', '(Carruthers, 2017)', '(Carruthers, 2017)']
+
+    Filtered References:
+    function in (Gao, Shan. In: Consciousness and Quantum Mechanics. Oxford
+University Press.
+Chalmers, David, Searle, John, 2014. Can Brain Alone Explain Consciousness (Chalmers
+and Searle in 1999, 2007, 2014). Closer To Truth. https://closertotruth.com/video/
+can-brain-alone-explain-consciousness/?referrer=8630.
+
+Philosopher. https://www.informationphilosopher.com/knowledge/ERR/.
+Retrieved: 15 March 2024.
+Dretske, Fred, 1997. Naturalizing the Mind. The MIT Press.
+Dretske, Fred, 2023. Wikipedia, the free Encyclopedia. Date of last revision: 30 August
+2023. https://en.wikipedia.org/w/index.php?title=Fred_Dretske&oldid=11
+-carroll/.
+Carroll, Sean, 2021. Consciousness and the laws of physics. J. Conscious. Stud. 28 (9–10).
+Carruthers, Peter, 2000. Phenomenal Consciousness: A Naturalistic Theory. Cambridge
+Carruthers, Peter, 2017. In defence of first-order representationalism. J. Conscious. Stud.
+
+    
+2024-10-26 01:59:32,960 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "First-order Representationalism",
+    "description": "First-order representationalism (FOR) posits that consciousness can be explained by understanding external, world-directed intentional states. It asserts that conscious states are representations that are directly available for action selection and belief formation, with the content of these representations determining the nature of the conscious experience.",
+    "categories": ["Philosophy of Mind", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 01:59:32,960 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Peter Carruthers",
+    "biography": "Peter Carruthers is a philosopher known for his work in the philosophy of mind, particularly in theories of consciousness and representationalism. He has contributed significantly to the debate on first-order representationalism and has critiqued higher-order theories of consciousness."
+  }
+}
+```
+2024-10-26 01:59:32,960 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Searle, J. R. (1979). Mind, Language and Society: Philosophy in the Real World. Basic Books.",
+      "material_type": "Book",
+      "associated_theory_name": "First-order Representationalism"
+    },
+    {
+      "citation": "Dretske, F. (1997). Naturalizing the Mind. The MIT Press.",
+      "material_type": "Book",
+      "associated_theory_name": "First-order Representationalism"
+    },
+    {
+      "citation": "Carruthers, P. (2000). Phenomenal Consciousness: A Naturalistic Theory. Cambridge University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "First-order Representationalism"
+    },
+    {
+      "citation": "Carruthers, P. (2017). In defence of first-order representationalism. J. Conscious. Stud.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "First-order Representationalism"
+    },
+    {
+      "citation": "Mehta, N., & Mashour, G. A. (2013). First-order representationalism and the neural correlates of consciousness. J. Conscious. Stud.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "First-order Representationalism"
+    },
+    {
+      "citation": "Block, N. (2007). Two neural correlates of consciousness. In: The Blackwell Companion to Consciousness. Blackwell Publishing.",
+      "material_type": "Book",
+      "associated_theory_name": "First-order Representationalism"
+    },
+    {
+      "citation": "Block, N. (2023). The nature of consciousness. In: The Oxford Handbook of Philosophy of Mind. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "First-order Representationalism"
+    }
+  ]
+}
+```

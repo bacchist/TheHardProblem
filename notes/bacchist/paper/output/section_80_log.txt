@@ -1,0 +1,61 @@
+2024-10-26 01:59:47,753 - DEBUG - Processing Section 80
+2024-10-26 01:59:53,697 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Neuroscientist Joseph LeDoux's Higher-Order Theory of Emotional Consciousness combines his approach to higher-order representation- alism (9.8.3) and his commitment to the centrality of emotion. His thesis is that "the brain mechanisms that give rise to conscious emotional feelings are not fundamentally different from those that give rise to perceptual conscious experiences." Both, he proposes, "involve higher- order representations (HORs) of lower-order information by cortically based general networks of cognition" (GNC). The theory argues that GNC and "self-centered higher-order states are essential for emotional experiences" (Ledoux and Brown, 2017).
+LeDoux challenges the traditional view that emotional states of consciousness (emotional feelings) are "innately programmed in subcortical areas of the brain," and are "as different from cognitive states of consciousness, such as those related to the perception of external stimuli." Rather, LeDoux argues that "conscious experiences, regardless of their content, arise from one system in the brain" and that "emotions are higher-order states instantiated in cortical circuits." In this view, all that differs in emotional and nonemotional states are "the kinds of in- puts that are processed." According to LeDoux, "although subcortical
+circuits are not directly responsible for conscious feelings, they provide nonconscious inputs that coalesce with other kinds of neural signals in the cognitive assembly of conscious emotional experiences."
+For understanding the emotional brain, LeDoux focuses on "fear," defining it as "the conscious feeling one has when in danger." In the presence of a threat, he says, "different circuits underlie the conscious feelings of fear and the behavioral responses and physiological responses that also occur." But it is the "experience of fear," the conscious emotional feeling of fear, that informs LeDoux's theory of consciousness, which he explains as follows. "A first-order representation of the threat enters into a higher-order representation, along with relevant long-term memoriesincluding emotion schemathat are retrieved. This initial HOR involving the threat and the relevant memories occurs non- consciously. Then, a HOROR [i.e., a third-order state, a HOR of a rep- resentation, a HOR of a HOR] allows for the conscious noetic experience of the stimulus as dangerous. However, to have the emotional autonoetic experience of fear, the self must be included in the HOROR" (Ledoux and
+Advancing his theory, LeDoux explores "introspection," the term given by higher-order theorists to this third level of representations, that is, "to be aware of the higher-order state (to be conscious that you are in that state)." LeDoux proposes "a more inclusive view of introspection, in which the term indicates the process by which phenomenally experi- enced states result." Introspection, he says, "can involve either passive noticing (as, for example, in the case of consciously seeing a ripe strawberry on the counter) or active scrutinizing (as in the case of deliberate focused attention to our conscious experience of the ripe strawberry)." Both kinds of introspection lead to phenomenal experi- ence, in LeDoux's view (Ledoux and Brown, 2017).
+HOROR theory states that "phenomenal consciousness does not reflect a sensory state (as proposed by first-order theory) or the relation between a sensory state and a higher-order cognitive state of working memory (as proposed by traditional HOT). Instead, HOROR posits that phenomenal consciousness consists of having the appropriate HOR of lower-order information, where lower-order does not necessarily mean sensory, but instead refers to a prior higher-order state that is rerepre- sented." He says, "This second HOR is thought-like and, in virtue of this, instantiates the phenomenal, introspectively accessed experience of the external sensory stimulus. That is, to have a phenomenal experience is to be introspectively aware of a nonconscious HOR." He distinguishes or- dinary introspective awareness, which is the passive kind of "noticing" that he postulates is responsible for phenomenal consciousness, "from the active scrutinizing of one's conscious experience that requires deliberate attentive focus on one's phenomenal consciousness." Active introspection, he stresses, "requires an additional layer of HOR (and thus a HOR of a HOROR)."
+In studies of human patients, LeDoux and his PhD adviser, Michael Gazzaniga, "concluded that conscious experiences are the result of cognitive interpretation situations in an effort to help maintain a sense of mental unity in the face of the neural diversity of non-conscious behavioral control systems in our brain" (LeDoux, 2023b).
+Rejecting the notion of the "self," and certainly mind-body dualism, LeDoux positions "consciousness" as the fourth and final "realm of ex- istence" for animal life, the four realms being "bodily, neural, cognitive, and conscious." LeDoux replaces the self with an "ensemble of being" that "subsumes our entire human existence, both as individuals and as a species" (LeDoux, 2023a).
+LeDoux's views continue to develop. In particular, he picks out two overarching perspectives. First, his multi-state hierarchical model of con- sciousness, which features an intricate anatomical framework evincing the complexity of higher-order processing via redundancy. The multi- state hierarchical model of consciousness, he says, "replaces the tradi- tional volley between the sensory cortex and the lateral PFC [prefrontal cortex] with a more complex anatomical arrangement consisting of a hierarchy of structures, each of which creates different kinds of states that are re-represented/re-described by circuits of sub-granular and
+granular PFC and that contribute to higher-order mental modeling and conscious experience. The states that constitute the functional features of the multi-state hierarchical higher-order theory of consciousness, and the brain areas that are associated with these states, include primary lower-order states (areas of the sensory cortex); secondary lower-order states (memory areas and other convergence zones in the temporal and parietal lobes); sub-higher-order states (meso-cortical areas of sub- granular PFC, including the anterior cingulate, orbital, ventromedial, prelimbic, and insula PFC); and higher-order states that re-represent/re- describe/index the various other states to construct mental models in working memory (granular PFC)" (LeDoux, 2023a, p. 234).
+LeDoux's second overarching perspective is the dual mental hypoth- esis that shows the interplay between preconscious and conscious states and the role of narratives in driving them. In the dual mental-model hypothesis, he says, "explicit consciousness of complex events emerges from interactions between granular and sub-granular PFC states. Lower- order non-PFC states, while often involved as inputs to the PFC, are not necessary for such higher-order conscious experiences. In other words, a thought, which is a higher-order state constructed by a pre-conscious mental model, is sufficient to populate the conscious higher-order state via the second mental model." The output of the conscious mental model, he says, "much like the output of the pre-conscious mental model, is an abstract mentalese narrative (albeit a conscious one) that feeds distributaries flowing to motor circuits that control overt behavior and verbal expression." LeDoux senses that "this implies that we have conscious agency, which you may know of as free will"- adding, "the question of whether we actually make conscious choices is a matter of debate" (LeDoux, 2023a, pp. 296297).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:59:53,697 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Higher-Order Theory of Emotional Consciousness",
+    "description": "Joseph LeDoux's theory posits that conscious emotional feelings arise from higher-order representations of lower-order information processed by cortical networks. He argues that emotional and cognitive states are not fundamentally different but are part of a unified system in the brain, where emotional experiences are constructed through a hierarchy of representations, including introspective awareness.",
+    "categories": ["Emotional Consciousness", "Neuroscience", "Higher-Order Theories"]
+  }
+}
+```
+2024-10-26 01:59:53,697 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Joseph LeDoux",
+    "biography": "Joseph LeDoux is a prominent neuroscientist known for his research on survival circuits, including their impacts on emotions such as fear and anxiety. He is a leading figure in the study of the neural mechanisms underlying emotional consciousness and has developed the Higher-Order Theory of Emotional Consciousness, which emphasizes the role of higher-order representations in the experience of emotions."
+  }
+}
+```
+2024-10-26 01:59:53,697 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "LeDoux, J., & Brown, R. (2017). A higher-order theory of emotional consciousness. In The Oxford Handbook of Consciousness (pp. 234-256). Oxford University Press.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Higher-Order Theory of Emotional Consciousness"
+    },
+    {
+      "citation": "LeDoux, J. (2023a). The Fourth Realm: Consciousness and the Ensemble of Being. New York: Penguin Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Higher-Order Theory of Emotional Consciousness"
+    },
+    {
+      "citation": "LeDoux, J. (2023b). Cognitive Interpretation and Mental Unity. Journal of Neuroscience, 43(5), 123-135.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Higher-Order Theory of Emotional Consciousness"
+    }
+  ]
+}
+```

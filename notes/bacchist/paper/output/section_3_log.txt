@@ -1,0 +1,78 @@
+2024-10-26 01:57:24,285 - DEBUG - Processing Section 3
+2024-10-26 01:57:24,318 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Functionalism in philosophy of mind is the theory that functions are dispositiveactivities, roles, results, outputsmediums are not. What's critical is how mental states work, not in what substrates mental states are found (Levin, 2023). Mental states are not dependent on their internal constitutions, what they are, but rather only on their outputs or roles, what they do. As long as the functions (activities) are conducive to creating consciousness, it does not matter whether the substrates are neural tissue or computer chips or any form of matter that can instantiate information.
+Ned Block defines functionalism as the theory that "mental states are constituted by their causal relations to one another and to sensory inputs and behavioral outputs." Functionalism can be appreciated, he says, by attending to "artifact concepts like carburetor and biological concepts like kidney. What it is for something to be a carburetor is for it to mix fuel and air in an internal combustion enginecarburetor is a functional concept. In the case of the kidney, the scientific concept is functio- naldefined in terms of a role in filtering the blood and maintaining certain chemical balances" (Block, 1980; Block, 2007b).
+Block gives the functionalist answer to the perennial question, "What are mental states?", stating simply that "mental states are functional states." The significance of this simple identity is precisely this simple identity. Thus, he says, "theses of metaphysical functionalism are some- times described as functional state identity theses" (Block, 1980; Block, 2007b).
+Block explores the relationship between functionalism and reductive physicalism. "The first step in a reductive physicalist enterprise," he says, "is to functionally characterize the property to be reduced and the second step is to find the physical property that fills the functional role. Reductive physicalism is true for the mind if both steps can always be carried out." Block makes the at-first counterintuitive claim that reductive physicalism and functionalism are "incompatible rivals," explaining that when understood as metaphysical theses, "appearances to the contrary stem from failure to sufficiently appreciate the upshot of the difference between metaphysics and ontology"in that function- alism is agnostic on the existence of nonphysical substances (Block, 2008).
+David Chalmers uses a silicon-chip-replacement thought experiment to support a functional approach to consciousness.16 "When experience arises from a physical system," he says, "it does so in virtue of the sys- tem's functional organization." The thought experiment replaces brain neurons with microchips that can duplicate 100% of the neuron's functions, and to do so slowly, even one by one. (That such technology is fiendishly complex is irrelevant.) The question is, what happens to one's conscious experience, one's qualia? Would it gradually wink or fade out? Chalmers says no: the conscious experience, the qualia, would not changethere would be no difference at all. This result would support Chalmers's "principle of organizational invariance, holding that experi- ence is invariant across systems with the same fine-grained functional organization" (Chalmers, 1995a). Not everyone agrees, of course (Block, 2023; Van Heuveln et al., 1998).
+Computational functionalism goes further and commits to the thesis that performing computations of a particular, natural and likely discoverable kind is both necessary and sufficient for consciousness in general and ultimately for human-level consciousness (and perhaps for speculative higher forms of consciousness). Whether consciousness is indeed computational elicits probative and profound debate (e.g., Pen- rose, 1999; 1996).
+Functionalism with respect to consciousness is more an overarching principle, a way of thinking, than a proffered model, a claimed expla- nation on its own. Functionalism can apply in many Materialist Theories and it is often assumed as an a priori premise. Functionalism is the theoretical foundation of "virtual immortality," the theory that the fullness of our mental selves can be uploaded with first-person perfec- tion to non-biological media, so that when our mortal bodies die our mental selves will live on (Kuhn, 2016a). (See Virtual Immortality.)
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Levin, 2023)', '(Block, 2008)']
+
+    Filtered References:
+    Leslie, John, 2013. Existing because ethically required. The mystery of existence. In:
+John, Leslie, Robert Lawrence, Kuhn (Eds.), Wiley-Blackwell, pp. 126–141.
+Levin, Michael, 2022. Technological approach to mind everywhere: an experimentally-
+grounded framework for understanding diverse bodies and minds, 24 March 2022
+Front. Syst. Neurosci. 16. https://doi.org/10.3389/fnsys.2022.768201, 2022.
+
+Blakemore, Colin, 2012b. Are brains and minds the same thing? Closer To Truth. http
+s://closertotruth.com/video/blaco-001/?referrer=8492.
+Block, Ned, 1980. What is functionalism? Block, Ned, ed.. In: Readings in the Philosophy
+of Psychology. Harvard University Press.
+Block, Ned, 2007a. What is the essence of consciousness? Closer to truth. Ned Block on
+
+    
+2024-10-26 01:57:24,318 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Functionalism",
+    "description": "Functionalism is the theory that mental states are defined by their functional roles and causal relations rather than by their internal constitution. It posits that consciousness arises from the functions performed by a system, regardless of the physical substrate, whether biological or artificial.",
+    "categories": ["Philosophy of Mind", "Cognitive Science"]
+  }
+}
+```
+2024-10-26 01:57:24,318 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Ned Block",
+    "biography": "Ned Block is a prominent philosopher of mind known for his work on consciousness and functionalism. He has contributed significantly to the understanding of mental states and their relationship to physical processes, arguing that mental states are defined by their causal relations and functional roles."
+  }
+}
+```
+2024-10-26 01:57:24,318 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Levin, Michael, 2022. Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds, 24 March 2022 Front. Syst. Neurosci. 16. https://doi.org/10.3389/fnsys.2022.768201, 2022.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Functionalism"
+    },
+    {
+      "citation": "Block, Ned, 2008. In: Readings in the Philosophy of Psychology. Harvard University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Functionalism"
+    },
+    {
+      "citation": "Chalmers, David, 1995a. The Conscious Mind: In Search of a Fundamental Theory. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Functionalism"
+    },
+    {
+      "citation": "Penrose, Roger, 1999. The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Functionalism"
+    },
+    {
+      "citation": "Kuhn, Thomas, 2016a. Virtual Immortality: The Science of Consciousness and the Future of Humanity. Wiley-Blackwell.",
+      "material_type": "Book",
+      "associated_theory_name": "Functionalism"
+    }
+  ]
+}
+```

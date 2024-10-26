@@ -1,0 +1,40 @@
+2024-10-26 01:58:48,355 - DEBUG - Processing Section 67
+2024-10-26 01:58:50,825 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: A. Clark's Extended Mind
+Noe's "Out of Our Heads" Theory
+Loorits's Structural Realism
+s . Tsuchiya's Relational Approach to Consciousness
+Jaworski's Hylomorphism
+Process Theory
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:58:50,825 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Extended Mind",
+    "description": "A theory proposed by A. Clark suggesting that the mind extends beyond the brain and body into the environment, incorporating external tools and resources as part of cognitive processes.",
+    "categories": ["Cognitive Science", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 01:58:50,826 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Andy Clark",
+    "biography": "Andy Clark is a philosopher and cognitive scientist known for his work on the Extended Mind theory, which posits that cognitive processes extend into the environment through the use of external tools and resources."
+  }
+}
+```
+2024-10-26 01:58:50,826 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```
