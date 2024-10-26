@@ -1,0 +1,69 @@
+2024-10-26 02:12:17,201 - DEBUG - Processing Section 213
+2024-10-26 02:12:23,122 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosopher, author, and neuroscientist Sam Harris, who is not known for timidity in offering opinions, does not offer his own theory of consciousness. Instead, he offers a mystery. The problem, he says, "is that no evidence for consciousness exists in the physical world." By this
+he means that "physical events are simply mute as to whether it is 'like something' to be what they are. The only thing in this universe that attests to the existence of consciousness is consciousness itself; the only clue to subjectivity, as such, is subjectivity." To Harris, it is not an "explanatory gap; " it's an unbridgeable gap (Section: Harris, 2011).
+While Harris of course appreciates high correlations between mental states and brain states, "absolutely nothing about a brain, when sur- veyed as a physical system," he says, "suggests that it is a locus of experience." Consciousness seems the obvious fact about our world, but, "were we not already brimming with consciousness ourselves, we would find no evidence of it in the physical universenor would we have any notion of the many experiential states that it gives rise to."
+"While we know many things about ourselves in anatomical, physi- ological, and evolutionary terms," Harris continues, "we do not know why it is 'like something' to be what we are. The fact that the universe is illuminated where you standthat your thoughts and moods and sen- sations have a qualitative characteris a mystery, exceeded only by the mystery that there should be something rather than nothing in this universe. How is it that unconscious events can give rise to conscious- ness? Not only do we have no idea, but it seems impossible to imagine what sort of idea could fit in the space provided" (Harris, 2011).
+Harris targets emergence as a false friend in the pursuit of con- sciousness. He recognizes that "most scientists are confident that con- sciousness emerges from unconscious complexity." Nevertheless, "this notion of emergence" strikes Harris "as nothing more than a restatement of a miracle. To say that consciousness emerged at some point in the evolution of life doesn't give us an inkling of how it could emerge from unconscious processes, even in principle." He stresses, "This notion of emergence is incomprehensible," then he doubles down: "The idea that consciousness is identical to (or emerged from) unconscious physical events is, I would argue, impossible to properly conceivewhich is to say that we can think we are thinking it, but we are mistaken. We can say the right words, of course'consciousness emerges from unconscious information processing.' We can also say 'Some squares are as round as circles' and '2 plus 2 equals 7.' But are we really thinking these things all the way through? I don't think so."
+Harris asserts that "Consciousnessthe sheer fact that this universe is illuminated by sentienceis precisely what unconsciousness is not. And I believe that no description of unconscious complexity will fully account for it ... an analysis of purely physical processes will never yield a picture of consciousness." Does Harris then hedge? However, he says, "this is not to say that some other thesis about consciousness must be true. Consciousness may very well be the lawful product of unconscious information processing." But his apparent hedge is a feint. "But I don't know what that sentence means," he declares, "and I don't think anyone else does either."
+Continuing, Harris asks, "Couldn't a mature neuroscience never- theless offer a proper explanation of human consciousness in terms of its underlying brain processes?" It's the common consensus among most neuroscientists, which Harris unambiguously rejects. "Reductions of this sort are neither possible nor conceptually coherent," he says. "Nothing about a brain, studied at any scale (spatial or temporal), even suggests that it might harbor consciousness. Nothing about human behavior, or language, or culture, demonstrates that these products are mediated by subjectivity. We simply know that they area fact that we appreciate in ourselves directly and in others by analogy."
+While Harris is hardly optimistic about science's long-future pros- pects "to dispel the fundamental mystery of our mental life," and he has little time for conventional religious doctrines, he does see a role for introspection. "Many truths about ourselves will be discovered in con- sciousness directly," he says, "or not discovered at all" (Harris, 2011).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Harris, 2011)', '(Harris, 2011)']
+
+    Filtered References:
+    Cardenas-Garcia, Jaime, 2023. Infoautopoiesis and consciousness. J.Multiscale Neurosci.
+2 (2), 326–340. https://doi.org/10.56280/1580236468.
+Carhart-Harris, R.L., 2018. The entropic brain—revisited. Neuropharmacology 142,
+167–178. https://doi.org/10.1016/j.neuropharm.2018.03.010, 2018 Nov.
+Carhart-Harris, R.L., Friston, K.J., 2019. REBUS and the anarchic brain: toward a unified
+
+
+    
+2024-10-26 02:12:23,122 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Mystery of Consciousness",
+    "description": "Sam Harris posits that consciousness cannot be explained through physical processes or brain states, asserting that the only evidence of consciousness is subjective experience itself. He argues that the idea of consciousness emerging from unconscious complexity is incomprehensible and that no physical analysis can account for consciousness.",
+    "categories": ["Philosophy of Mind", "Neuroscience"]
+  }
+}
+```
+2024-10-26 02:12:23,122 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Sam Harris",
+    "biography": "Sam Harris is a philosopher, neuroscientist, and author known for his writings on consciousness, morality, and religion. He is a prominent critic of religious dogma and advocates for a scientific understanding of the mind and consciousness."
+  }
+}
+```
+2024-10-26 02:12:23,122 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Harris, S. (2011). The mystery of consciousness. In *The Moral Landscape: How Science Can Determine Human Values*. Free Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Mystery of Consciousness"
+    },
+    {
+      "citation": "Cardenas-Garcia, Jaime. (2023). Infoautopoiesis and consciousness. J. Multiscale Neurosci. 2 (2), 326–340. https://doi.org/10.56280/1580236468.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Mystery of Consciousness"
+    },
+    {
+      "citation": "Carhart-Harris, R.L. (2018). The entropic brain—revisited. Neuropharmacology 142, 167–178. https://doi.org/10.1016/j.neuropharm.2018.03.010.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Mystery of Consciousness"
+    },
+    {
+      "citation": "Carhart-Harris, R.L., Friston, K.J. (2019). REBUS and the anarchic brain: toward a unified understanding of consciousness.",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Mystery of Consciousness"
+    }
+  ]
+}
+```

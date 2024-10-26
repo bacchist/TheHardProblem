@@ -1,0 +1,57 @@
+2024-10-26 02:11:52,257 - DEBUG - Processing Section 208
+2024-10-26 02:11:56,738 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Independent thinker, autodidact Christopher Langan claims that
+what he calls the "Cognitive-Theoretic Model of the Universe" (CTMU) provides the logical framework of a true "Theory of Everything." It ex- plains "the connection between mind and reality" (note "cognition" and "universe" in the same phrase); and "proves the existence of God [as defined], the soul, and an afterlife" (Langan, 2024).
+CTMU posits information as the most fundamental constituents of reality. The universe is a vast arrangement of digital information and the mathematical relationships between them. At the same time, "it is only through consciousness that we can perceive or know anything at all. Thus, our reality can just as well be conceived as a vast network of conscious experiences: perceptions and the laws which govern them." Because there is nothing outside reality, reality must contain all of the conditions necessary for its own existence, and given sufficient time, "even mere possibility is enough to ensure that it generates itself" (Section: CTMU Wiki, n.d.).
+Although this kind of mind, which Langan calls God's mind, "sits in knowledge of itself in an unchanging, eternal way, it contains within it all of the processes required for it to refine itself into existence out of nothingness." It is here, according to CTMU, that "consciousness is stratified: the bottom stratum is the all-knowing mind of God," within which "all of the more superficial strata of consciousness" are contained. From God's perspective, God "is aware of all the steps in its own crea- tion." However, from the perspective of these more superficial strataof which our human minds are piecesthe universe appears as a physical entity unfolding in physical space. But because "our conscious minds are contained within God's consciousness ... we retain the creative power and freedom of God on a scale that is localized in time and space."
+CTMU describes reality as "a Self-Configuring Self-Processing Lan- guage, a reflexive intrinsic language characterized not only by self- reference and recursive self-definition, but by full self-configuration and self-execution" (Langan, 2002). Embedding issues of absolute morality and karma, "if we choose to act in a way that is in line with the telos, those parts of our minds that match the mind of God get preserved and we basically move closer to the all-knowing substratum, or the con- sciousness of God. If we act against the telos, what happens may be that those elements of our minds that do not match the mind of God get recycled endlessly until they properly refine themselves."
+In short, CTMU's reality "is a self-refining informational system which, due to its form, cannot NOT exist. Even if there is nothingness, this system will exist and know itself and all of the localized conscious minds within its creation process will experience its informational structure as real, physical, etc. It is thus self-creating, as it requires nothing outside of itself to exist" (CTMU Wiki, n.d.).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Langan, 2024)', '(Langan, 2002)']
+
+    Filtered References:
+    Lamme, Victor, 2010. How neuroscience will change our view on consciousness. Cognit.
+Neurosci. 1 (3), 204–220. https://doi.org/10.1080/17588921003731586, 2010 Sep.
+Langan, Christopher, 2002. The Cognitive-Theoretic Model of the Universe: A New Kind
+of Reality Theory. Mega Foundation Press.
+Langan, Christopher, 2024. Wikipedia, the free Encyclopedia. Date of last revision: 27
+
+
+    
+2024-10-26 02:11:56,738 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Cognitive-Theoretic Model of the Universe (CTMU)",
+    "description": "A theory proposed by Christopher Langan that posits information as the fundamental constituent of reality, explaining the connection between mind and reality. It asserts that consciousness is necessary for perceiving reality, which is a self-refining informational system that contains all conditions for its own existence.",
+    "categories": ["Metaphysics", "Information Theory", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:11:56,738 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Christopher Langan",
+    "biography": "Christopher Langan is an American horse rancher and self-taught philosopher known for his Cognitive-Theoretic Model of the Universe (CTMU), which he claims provides a logical framework for a 'Theory of Everything' that connects mind and reality."
+  }
+}
+```
+2024-10-26 02:11:56,738 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Langan, Christopher, 2002. The Cognitive-Theoretic Model of the Universe: A New Kind of Reality Theory. Mega Foundation Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Cognitive-Theoretic Model of the Universe (CTMU)"
+    },
+    {
+      "citation": "Langan, Christopher, 2024. Wikipedia, the free Encyclopedia. Date of last revision: 27.",
+      "material_type": "Online Resource",
+      "associated_theory_name": "Cognitive-Theoretic Model of the Universe (CTMU)"
+    }
+  ]
+}
+```

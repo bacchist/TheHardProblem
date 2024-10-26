@@ -1,0 +1,53 @@
+2024-10-26 02:11:48,236 - DEBUG - Processing Section 207
+2024-10-26 02:11:52,257 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Mathematician and integral studies professor Brian Swimme pre- sents the cosmology of a creative universecosmogenesisin which human consciousness plays an essential role. He views the evolution of the universe toward greater complexity and consciousness as "the ulti- mate aim of the universe." It is a creative universe that develops through time from plasma to galaxies to living planets to human consciousness, "a universe that can intend something even before human consciousness emerges" (Swimme, 2022).
+Swimme bases his ideas on the teachings of Thomas Berry, a Catholic priest, cultural historian, and world religion scholar, who spoke of "the spirituality of the universe," using "the word 'spirituality' to correct a deformation in modern consciousness, that imagined the existence of a 'physical universe.'" Such a conception no longer made sense, Berry said, because in the 20th century, "we discovered that the matter of this universethe only matter we know ofconstructs life. There is no such thing, then, as 'lifeless matter.' Matter, in its very structure and dyna- mism, generates life." Consciousness, then, is built into the fundamental fabric of the universe. What will happen, Swimme asks, "when we turn our consciousness around and realize that our awareness of cosmo- genesis is also the work of the universe? How will we change when we face the universe and find the universe facing us?" (Swimme, 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Swimme, 2022)', '(Swimme, 2022)']
+
+    Filtered References:
+    bramaniam.com/about.
+Sutherland, Stuart, 1989. The International Dictionary of Psychology. Crossroads Classic.
+Swimme, Brian, 2022. Cosmogenesis: An Unveiling of the Expanding Universe.
+Counterpoint.
+Swinburne, Richard, 2006. Interview with science and religion news on mind-body
+
+
+    
+2024-10-26 02:11:52,257 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Cosmogenesis",
+    "description": "A theory proposed by Brian Swimme that posits the evolution of the universe towards greater complexity and consciousness as the ultimate aim of the universe, suggesting that consciousness is an integral part of the universe's fabric.",
+    "categories": ["Cosmology", "Philosophy of Consciousness"]
+  }
+}
+```
+2024-10-26 02:11:52,257 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Brian Swimme",
+    "biography": "Brian Swimme is a mathematician and integral studies professor known for his work in cosmology, particularly his theory of cosmogenesis, which explores the evolution of the universe and the role of human consciousness within it."
+  }
+}
+```
+2024-10-26 02:11:52,257 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Swimme, Brian, 2022. Cosmogenesis: An Unveiling of the Expanding Universe. Counterpoint.",
+      "material_type": "Book",
+      "associated_theory_name": "Cosmogenesis"
+    },
+    {
+      "citation": "Berry, Thomas. The spirituality of the universe.",
+      "material_type": "Teaching",
+      "associated_theory_name": "Cosmogenesis"
+    }
+  ]
+}
+```

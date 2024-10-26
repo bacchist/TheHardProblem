@@ -1,0 +1,92 @@
+2024-10-26 02:11:17,696 - DEBUG - Processing Section 202
+2024-10-26 02:11:24,378 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: The Division of Perceptual Studies (DOPS), a research unit within the Department of Psychiatry and Neurobehavioral Sciences at the Univer- sity of Virginia, has contributed both empirically and conceptually to emerging nonphysical theories of consciousness, which picture mind as irreducible and grounded in some sort of highest consciousness which forms the ontological foundation of reality as a whole. DOPS cognitive scientist/parapsychologist Ed Kelly contends that "the limitations of contemporary mainstream consciousness theorizing derive from the systematic unwillingness of the physicalist camp to take difficult empirical phenomena such as psi and mystical experience into account" (DOPS, n.d.; Kelly, 2024).
+DOPS was founded in 1967 by psychiatrist Ian Stevenson and has been dedicated to research related to the possibility of postmortem survival. According to Kelly, "Survival is a watershed issue theoretically, in that demonstration of its occurrence as an empirical reality would immediately rule out most if not quite all of the materialism theories. Clearly, if the prevailing physicalist 'production' model of mind-brain relations is correct in claiming that mind and consciousness are manu- factured entirely by neurophysiological processes occurring in brains, then it follows logically and inescapably that postmortem survival is impossible, period" (DOPS, n.d.; Kelly, 2024).
+DOPS staff have published hundreds of research papers in refereed journals, plus over a score of books, on reincarnation, near-death ex- periences (NDEs) and other survival-related topics such as crisis appa- ritions, mediumship, and after-death communications (DOPS, website). Stevenson himself was the primary architect of a major project involving small children who begin at a very early age to speak and act as though they are remembering, or expressing behaviorally, potentially verifiable events that took place in the life of a recently deceased person. Most interestingly are the relatively few cases in which the child's statements and behaviors were well documented before the previous personality (PP) was identified. Stevenson found "cases of the reincarnation type" (CORT) everywhere he looked, primarily but not exclusively in socio- cultural settings where their occurrence is not unexpected. He and various colleagues have so far investigated over 2500 cases, around 2000 of which have been deemed of sufficient quality to merit laborious encoding of associated variables for inclusion in a cumulative database. Systematic properties include a very high proportion of violent or pre- mature death in the PPs, which, DOPS researchers speculate, might relate to why some children remember but others do not. Other findings include confusions surrounding gender in children who report memories of a life as a person of the opposite sex. Stevenson paid special attention to a subset of over 200 cases in which the child displays birthmarks or birth defects, often extremely unusual in form, corresponding to fatal injuries suffered by the PP (Stevenson, 1997).
+Another major line of research, spearheaded by psychiatrist Bruce Greyson, has focused on NDEs. Greyson and colleagues have investi- gated a large number of such cases and created a second DOPS database containing over a thousand what they consider good cases. Of special interest are the hundreds of cases in which NDEs have occurred under extreme physiological conditions such as deep general anesthesia and/ or cardiac arrest, conditions in which almost all contemporary neuro- scientists would expect that patients should report no conscious expe- rience whatsoever, let alone the most meaningful and transformative experiences of their livesin effect, mystical experiences occurring under life-threatening conditions. Numerous physiological explanations have been offered for NDEs, but none, DOPS argues, can withstand scrutiny (Greyson et al., 2009).
+Of particular interest here is the DOPS theoretical work opposing physicalism, led by Ed Kelly and involving fifty or so scholars from diverse academic disciplines (over a period of more than two decades).
+Motivated by DOPS's empirical studies, DOPS's theorizing in regard to the mind/brain relationship and consciousness are presented in three books. The first is Irreducible Mind, which describes various psycho- physical phenomena that appear difficult or impossible to explain in conventional physicalist terms. These include psi and survival data, along with other non-standard empirical phenomena such as stigmata and hypnotically induced blisters; prodigious forms of memory and calculation; psychological automatisms and hidden or secondary centers of consciousness; near-death and out-of-body experiences, emphasizing experiences occurring under extreme physiological conditions; genius- level creativity such as that of the Indian mathematician Ramanujan; and mystical experiences, whether spontaneous, pharmacologically induced, or occurring in conjunction with transformative practices such as an intense meditative discipline of some sort (Kelly et al., 2007).
+The main import of Irreducible Mind, apart from its systematic empirical attack on physicalism, Kelly says, is to marshal support for a model of the human psyche advanced by F. W.H. Myers and developed philosophically by William James. Contrary to today's prevailing conception, which views everyday consciousness as the only con- sciousness, generated entirely by physiological processes in the nervous system, the Myers/James picture includes at least one level of normally hidden and more comprehensive consciousness that exists indepen- dently of the organism and is equipped with "adits and operations" of its own which provide access to wider and deeper parts of the reality in which we find ourselves embedded (Myers, 1903).
+According to Kelly, this sort of "permission" or "transmission" or "filter" model of the psyche (James, 1900), in which everyday con- sciousness takes forms dependent on interactions between a more in- clusive and capacious consciousness and an organism that serves mainly as a sensorimotor interface, may initially sound strange to our modern ears, but, Kelly argues, "there is now a lot of evidence to support it." It also has strong affinities to views advanced by Bergson (17.1), Jung (17.2), and the Indian philosophical tradition with its "subtle" mental and physical worlds interposed between everyday experience and an ultimate consciousness of some sort (16.1, 16.7, 16.9, 16.10, 16.13). Ongoing research seeks to identify conditions in the mind and body that encourage what Myers termed "subliminal uprush", or expression in everyday consciousness of information and capacities normally confined to James's hidden "More"for example, using functional neuroimaging techniques for research on meditation and psychedelics.
+The second book, Beyond Physicalism, is more explicitly theoretical, seeking to identify alternative conceptual frameworks, or worldviews, or metaphysical systems, that could permit the psi or paranormal empirical phenomena catalogued in the first book to occur. These include a range of theories: a modernized form of interactive dualism (15.8); process philosophy (13.12); quantum theories of Henry Stapp (11.2), Harald Atmanspacher (14.7), Bernard Carr (11.10); mystically- informed philosophies such as those of the Neoplatonists, Samkhya/ Yoga, and Kashmiri Shaivism, and Western philosophical figures including Leibniz, Peirce, and Whitehead (Kelly et al., 2015).
+Kelly argues that the central tendency is toward some sort of Idealism (16), most likely of the type known as (evolutionary) panentheism (Hartshorne and Reese, 2000). Kelly stresses that "The precise form that an adequate theory will take is powerfully constrained by the need for it to incorporate or at least respect the discoveries of modern physics, making it an objective or realist idealism as opposed to a subjective idealism of the sort advocated by Bishop Berkeley." Several of Kelly's collaboratorsFederico Faggin (11.12), Bernard Carr (11.10), and Bernardo Kastrup (16.4)are explicitly working in this direction, as is Mira Albahari (16.13) from the perspective of Indian idealisms. All such theories, Kelly points out, can potentially make room not only for "rogue" phenomena such as psi and survival, genius, and mystical experience, but also for experiences of value, meaning and purpose so vital to real human life. Conversely, Kelly believes that these meta- physical frameworks imply "poor prospects for artificial general intelli- gence and virtual immortality" (Kelly, 2024).
+The third book, Consciousness Unbound (Kelly and Marshall, 2021), has three parts. The first part is empirical, summarizing the state-- of-the-science for precognition, NDEs, and CORT. The second part pre- sents additional non-physicalist conceptual frameworks, including those of Max Velmans (14.3), Bernardo Kastrup and Federico Faggin. The third part explores implications of the emerging theoretical picture for consciousness research, the humanities, and the current landscape of mind/brain metaphysics.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Stevenson, 1997)', '(Myers, 1903)', '(James, 1900)', '(Kelly, 2024)']
+
+    Filtered References:
+    of the mind-brain. Science 236, 990. May 22, 1987. https://www.science.org/doi/
+10.1126/science.236.4804.990.
+Stevenson, Ian, 1997. Reincarnation and Biology: A Contribution to the Etiology of
+Birthmarks and Birth Defects. Praeger, Westport, CT.
+Stoljar, Daniel, 2010. Physicalism. Routledge.
+
+Must the Universe Contain Consciousness. (n.d.) Closer To Truth. https://closertotruth.
+com/video/davpa-015/?referrer=8143.
+Myers, F.W.H., 1903. Human Personality and its Survival of Bodily Death (2 vols.).
+Longmans, London (Green).
+Nader, Tony (n.d.) Website. https://www.drtonynader.com.
+Gholipour, Bahar, 2019. A famous argument against free will has been debunked.
+Atlantic. (Accessed 10 September 2019).
+Gibson, James J., 2014. The Ecological Approach to Visual Perception. Routledge.
+Gibson, James J., 2024. Wikipedia, the free Encyclopedia. Date of last revision: 14 January
+2024. https://en.wikipedia.org/w/index.php?title=James_J._Gibson&oldid=11
+2023. https://en.wikipedia.org/w/index.php?title=Richard_Gregory&oldid=11
+55870372 (Thanks to Uziel Awret for suggesting Richard Gregory).
+Greyson, B., Kelly, E.W., Kelly, E.F., 2009. Explanatory models for near-death
+experiences. In: Holden, J.M., Greyson, B., James, D. (Eds.), The Handbook of Near-
+Death Experiences. Praeger/ABC-CLIO, pp. 213–234.
+
+    
+2024-10-26 02:11:24,378 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Irreducible Mind",
+    "description": "A theory that posits consciousness as irreducible and not solely a product of neurophysiological processes, suggesting the existence of a higher consciousness that underlies reality and can account for phenomena like psi and near-death experiences.",
+    "categories": ["Nonphysical Theories", "Parapsychology", "Philosophy of Mind"]
+  }
+}
+```
+2024-10-26 02:11:24,378 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Ed Kelly",
+    "biography": "Ed Kelly is a cognitive scientist and parapsychologist known for his work on consciousness, particularly in relation to nonphysical theories and phenomena such as psi and near-death experiences. He is a prominent figure at the Division of Perceptual Studies at the University of Virginia."
+  }
+}
+```
+2024-10-26 02:11:24,378 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Stevenson, Ian, 1997. Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects. Praeger, Westport, CT.",
+      "material_type": "Book",
+      "associated_theory_name": "Irreducible Mind"
+    },
+    {
+      "citation": "Myers, F.W.H., 1903. Human Personality and its Survival of Bodily Death (2 vols.). Longmans, London (Green).",
+      "material_type": "Book",
+      "associated_theory_name": "Irreducible Mind"
+    },
+    {
+      "citation": "James, W., 1900. The Principles of Psychology. Henry Holt and Company.",
+      "material_type": "Book",
+      "associated_theory_name": "Irreducible Mind"
+    },
+    {
+      "citation": "Kelly, E., 2024. Must the Universe Contain Consciousness. Closer To Truth. https://closertotruth.com/video/davpa-015/?referrer=8143.",
+      "material_type": "Website",
+      "associated_theory_name": "Irreducible Mind"
+    },
+    {
+      "citation": "Greyson, B., Kelly, E.W., Kelly, E.F., 2009. Explanatory models for near-death experiences. In: Holden, J.M., Greyson, B., James, D. (Eds.), The Handbook of Near-Death Experiences. Praeger/ABC-CLIO, pp. 213–234.",
+      "material_type": "Book Chapter",
+      "associated_theory_name": "Irreducible Mind"
+    }
+  ]
+}
+```

@@ -1,0 +1,64 @@
+2024-10-26 02:11:38,327 - DEBUG - Processing Section 205
+2024-10-26 02:11:43,192 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Maverick physicist Jack Hiller posits an "eternal discarnate con- sciousness" or, as he says, in common parlance, the "soul"which, "when freed from its hard attachment to the body, functions in a Uni- versal Field of Consciousness (UFC) which may also be characterized as the mind of God." The soul brings to the body the moral values that exist in the UFC and these values may often conflict with, in Hiller's Freudian terms, "the Id and the Ego's pleasure-seeking functions." (Hiller, 2021). The theory hypothesizes that the individual consciousness (spirit and soul) functions in this UFC, both in life and in eternity, before and after an Earth life (Hiller, 2019).
+Hiller bases his theory on what he says are many thousands of out-of- body experiences (OBEs) associated with near-death experiences, including many documented cases in which researchers were able to verify accurate reporting about the activities observed during the OBE that could not be accounted for by normal sense-perception (Rivas et al., 2023). He stresses OBEs' peculiar, nonphysical characteristics: time no
+longer has meaning, does not flow, and the past and present, even some future events, are available to see and experience; visits may be made to Earth locations distant from the body, or out to the cosmos; perception is radically enhanced, e.g., visual perception is 360  , with an ability to focus down to atomic particles or up to the cosmos; everything appears to be made of light; thinking and movement by thinking are instanta- neous; all entities, inanimate as well as diverse animate, exude con- sciousness; individual consciousness, souls, connect telepathically; the world experienced is multidimensional, more than space-time; by existing in the universal field of consciousness, all knowledge is felt as available, and one feels part of God and God's love for all (Hiller, 2020). Hiller speculates that if quantum entanglement can be conceptualized as some kind of signaling at infinite speed across any distances, there could be a deep relationship between quantum mechanics and reported in- stances of discarnate consciousness.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Hiller, 2021)', '(Hiller, 2019)', '(Hiller, 2020)']
+
+    Filtered References:
+    consciousness? In: Gao, Shan (Ed.), Consciousness and Quantum Mechanics. Oxford
+University Press.
+Hiller, Jack H., 2019. Near Death Experience of Space, Time, and Consciousness: How
+the World Was Created and Functions.
+Hiller, Jack H., 2020. Space, time, and consciousness. J. Conscious. Explorat. Res. 10 (7),
+
+
+    
+2024-10-26 02:11:43,192 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Eternal Discarnate Consciousness",
+    "description": "A theory proposed by Jack Hiller that suggests the soul, when detached from the body, exists in a Universal Field of Consciousness (UFC), which is akin to the mind of God. This consciousness is characterized by enhanced perception, non-linear time, and a connection to all entities, allowing for telepathic communication and access to universal knowledge.",
+    "categories": ["Spirituality", "Metaphysics", "Consciousness Studies"]
+  }
+}
+```
+2024-10-26 02:11:43,192 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Jack Hiller",
+    "biography": "Jack Hiller is a physicist known for his theories on consciousness, particularly the concept of 'eternal discarnate consciousness,' which posits that the soul exists in a Universal Field of Consciousness when detached from the body. His work explores the intersections of consciousness, spirituality, and quantum mechanics."
+  }
+}
+```
+2024-10-26 02:11:43,192 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Hiller, Jack H., 2019. Near Death Experience of Space, Time, and Consciousness: How the World Was Created and Functions.",
+      "material_type": "Book",
+      "associated_theory_name": "Eternal Discarnate Consciousness"
+    },
+    {
+      "citation": "Hiller, Jack H., 2020. Space, time, and consciousness. J. Conscious. Explorat. Res. 10 (7).",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Eternal Discarnate Consciousness"
+    },
+    {
+      "citation": "Gao, Shan (Ed.), Consciousness and Quantum Mechanics. Oxford University Press.",
+      "material_type": "Book",
+      "associated_theory_name": "Eternal Discarnate Consciousness"
+    },
+    {
+      "citation": "Rivas et al., 2023. [Details not provided in the text].",
+      "material_type": "Journal Article",
+      "associated_theory_name": "Eternal Discarnate Consciousness"
+    }
+  ]
+}
+```

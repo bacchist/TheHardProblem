@@ -1,0 +1,48 @@
+2024-10-26 02:11:43,192 - DEBUG - Processing Section 206
+2024-10-26 02:11:48,235 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Physicist and "spiritual scholar" Dennis Harp, who seeks to unify theoretical physics and spiritual teachings, claims that "each of us exists as consciousness attached to a mind and body, making sense of the universe by experiencing individual states in a causal sequence." Moti- vated by a personal NDE as well as NDE research, Harp asserts that with contemplative practices, we can learn (eventually) "to detach from the body and explore the universe in a non-physical manner. Finally, we detach from the mind as well, and experience the entire universe at once in the shared view called Universal, or God Consciousness. Thus, what we call consciousness is somehow the union of this Universal or God Consciousness with our mind and body (Harp, 2022).
+To Harp, theoretical physics "is comfortable with the possibility of the infinite complexity of infinite universes, along with universal waveform collapse and reinflation every instant in order to explain causality." However, he says, "causality is only necessary as long as the mind is interpreting, or 'making sense' of the universe. Since con- sciousness can experience the universe independent of the mind, beyond the realm of space and time, it experiences all quantum mechanical states simultaneously, and no interactions occur at all. This static uni- verse unifies theoretical physics and mystical teachings" (Harp, 2022).
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: ['(Harp, 2022)', '(Harp, 2022)']
+
+    Filtered References:
+    Harman, G., 1990. ‘The intrinsic quality of experience’, in tomberlin; reprinted in lycan
+& Prinz. (2008. Mind and Cognition, third ed. Basil Blackwell.
+Harp, Dennis, 2022. Lumignosis. https://lumignosis.org.
+Harrell, Stevan, 1979. The concept of soul in Chinese folk religion. J. Asian Stud. https://
+www.jstor.org/stable/2053785.
+
+
+    
+2024-10-26 02:11:48,235 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Universal or God Consciousness",
+    "description": "A theory proposed by Dennis Harp that suggests consciousness is a union of a universal or divine consciousness with individual minds and bodies. It posits that through contemplative practices, individuals can detach from their physical and mental states to experience the universe in a non-physical manner, ultimately accessing a shared consciousness that transcends space and time.",
+    "categories": ["Spirituality", "Consciousness Studies", "Theoretical Physics"]
+  }
+}
+```
+2024-10-26 02:11:48,235 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Dennis Harp",
+    "biography": "Dennis Harp is a physicist and spiritual scholar known for his work in unifying theoretical physics with spiritual teachings. He explores the nature of consciousness and its relationship with the mind and body, advocating for contemplative practices that allow individuals to experience a shared universal consciousness."
+  }
+}
+```
+2024-10-26 02:11:48,235 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": [
+    {
+      "citation": "Harp, Dennis, 2022. Lumignosis. https://lumignosis.org.",
+      "material_type": "Website",
+      "associated_theory_name": "Universal or God Consciousness"
+    }
+  ]
+}
+```
