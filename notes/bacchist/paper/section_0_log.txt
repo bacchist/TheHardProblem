@@ -1,0 +1,35 @@
+2024-10-26 01:57:24,192 - DEBUG - Processing Section 0
+2024-10-26 01:57:24,226 - DEBUG - chat_manager: 
+    Process the following section according to your roles and responsibilities.
+
+    Section Text: Philosophical theories combine relevant fundamental principles for theories of consciousness with framing of the mind-body problem and philosophical defenses of Materialism.
+
+    The SupportingMaterialExtractor will need the following:
+
+    Citations: []
+
+    Filtered References:
+    
+    
+2024-10-26 01:57:24,226 - DEBUG - TheorySummarizer: ```json
+{
+  "theory": {
+    "name": "Materialism",
+    "description": "A philosophical theory that posits that everything that exists is either made of matter or is dependent on matter for its existence, often used to address the mind-body problem in the context of consciousness.",
+    "categories": ["Philosophy", "Mind-Body Problem"]
+  }
+}
+```
+2024-10-26 01:57:24,226 - DEBUG - AuthorCurator: ```json
+{
+  "author": {
+    "name": "Materialism",
+    "biography": "Materialism is a philosophical theory that asserts that everything that exists is either made of matter or is dependent on matter for its existence, often addressing the mind-body problem in the context of consciousness."
+  }
+}
+```
+2024-10-26 01:57:24,226 - DEBUG - SupportingMaterialExtractor: ```json
+{
+  "supporting_materials": []
+}
+```
